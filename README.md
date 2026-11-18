@@ -15,9 +15,9 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 310 notebook** — DSA/Easy: 59 · DSA/Medium: 137 · DSA/Hard: 101 · SQL: 11 · Shell: 2
+**Tổng: 330 notebook** — DSA/Easy: 79 · DSA/Medium: 137 · DSA/Hard: 101 · SQL: 11 · Shell: 2
 
-## DSA — Easy — 59 bài
+## DSA — Easy — 79 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -80,6 +80,26 @@ Shell/                            bài Shell (Bash)
 | 0249 | [Group Shifted Strings](https://leetcode.com/problems/group-shifted-strings/) | [0249_group_shifted_strings.ipynb](DSA/Easy/0249_group_shifted_strings.ipynb) |
 | 0252 | [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) | [0252_meeting_rooms.ipynb](DSA/Easy/0252_meeting_rooms.ipynb) |
 | 0257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [0257_binary_tree_paths.ipynb](DSA/Easy/0257_binary_tree_paths.ipynb) |
+| 0258 | [Add Digits](https://leetcode.com/problems/add-digits/) | [0258_add_digits.ipynb](DSA/Easy/0258_add_digits.ipynb) |
+| 0263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | [0263_ugly_number.ipynb](DSA/Easy/0263_ugly_number.ipynb) |
+| 0266 | [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/) | [0266_palindrome_permutation.ipynb](DSA/Easy/0266_palindrome_permutation.ipynb) |
+| 0268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [0268_missing_number.ipynb](DSA/Easy/0268_missing_number.ipynb) |
+| 0270 | [Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/) | [0270_closest_binary_search_tree_value.ipynb](DSA/Easy/0270_closest_binary_search_tree_value.ipynb) |
+| 0276 | [Paint Fence](https://leetcode.com/problems/paint-fence/) | [0276_paint_fence.ipynb](DSA/Easy/0276_paint_fence.ipynb) |
+| 0278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [0278_first_bad_version.ipynb](DSA/Easy/0278_first_bad_version.ipynb) |
+| 0283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [0283_move_zeroes.ipynb](DSA/Easy/0283_move_zeroes.ipynb) |
+| 0288 | [Unique Word Abbreviation](https://leetcode.com/problems/unique-word-abbreviation/) | [0288_unique_word_abbreviation.ipynb](DSA/Easy/0288_unique_word_abbreviation.ipynb) |
+| 0290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | [0290_word_pattern.ipynb](DSA/Easy/0290_word_pattern.ipynb) |
+| 0292 | [Nim Game](https://leetcode.com/problems/nim-game/) | [0292_nim_game.ipynb](DSA/Easy/0292_nim_game.ipynb) |
+| 0293 | [Flip Game](https://leetcode.com/problems/flip-game/) | [0293_flip_game.ipynb](DSA/Easy/0293_flip_game.ipynb) |
+| 0303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | [0303_range_sum_query_immutable.ipynb](DSA/Easy/0303_range_sum_query_immutable.ipynb) |
+| 0326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | [0326_power_of_three.ipynb](DSA/Easy/0326_power_of_three.ipynb) |
+| 0338 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | [0338_counting_bits.ipynb](DSA/Easy/0338_counting_bits.ipynb) |
+| 0339 | [Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/) | [0339_nested_list_weight_sum.ipynb](DSA/Easy/0339_nested_list_weight_sum.ipynb) |
+| 0342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | [0342_power_of_four.ipynb](DSA/Easy/0342_power_of_four.ipynb) |
+| 0344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [0344_reverse_string.ipynb](DSA/Easy/0344_reverse_string.ipynb) |
+| 0345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [0345_reverse_vowels_of_a_string.ipynb](DSA/Easy/0345_reverse_vowels_of_a_string.ipynb) |
+| 0346 | [Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/) | [0346_moving_average_from_data_stream.ipynb](DSA/Easy/0346_moving_average_from_data_stream.ipynb) |
 
 ## DSA — Medium — 137 bài
 

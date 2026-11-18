@@ -7,9 +7,9 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 ## Trạng thái hiện tại
 
 <!--STATUS-->
-- Cập nhật: 18/11/2026, sau đợt 1
-- ID tiếp theo: 258 (Easy)
-- Số bài DSA còn lại: 3414
+- Cập nhật: 18/11/2026, sau đợt 2
+- ID tiếp theo: 349 (Easy)
+- Số bài DSA còn lại: 3394
 <!--/STATUS-->
 
 ## Nhật ký các đợt
@@ -22,3 +22,14 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 - Ghi chú: 249 Group Shifted Strings: danh mục ghi Easy, LeetCode hiện ghi Medium — lưu ở DSA/Easy theo danh mục.
 - Ghi chú: Bài Premium (đề viết theo hiểu biết): 157, 243, 246, 249, 252.
 - ID tiếp theo: 258
+
+### Đợt 2 — 18/11/2026
+
+- Đã xong: 258, 263, 266, 268, 270, 276, 278, 283, 288, 290, 292, 293, 303, 326, 338, 339, 342, 344, 345, 346
+- Lỗi: không có
+- Bỏ qua: không có
+- Ghi chú: 276: danh mục ghi Easy, LeetCode hiện ghi Medium — lưu theo danh mục.
+- Ghi chú: 288: danh mục ghi Easy, LeetCode hiện ghi Medium — lưu theo danh mục.
+- Ghi chú: 339: danh mục ghi Easy, LeetCode hiện ghi Medium — lưu theo danh mục.
+- Ghi chú: Bài Premium (đề viết theo hiểu biết): 266, 270, 276, 288, 293, 339, 346.
+- ID tiếp theo: 349
