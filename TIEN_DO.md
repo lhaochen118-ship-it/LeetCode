@@ -7,9 +7,9 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 ## Trạng thái hiện tại
 
 <!--STATUS-->
-- Cập nhật: 18/11/2026, sau đợt 4
-- ID tiếp theo: 541 (Easy)
-- Số bài DSA còn lại: 3354
+- Cập nhật: 18/11/2026, sau đợt 5
+- ID tiếp theo: 643 (Easy)
+- Số bài DSA còn lại: 3334
 <!--/STATUS-->
 
 ## Nhật ký các đợt
@@ -48,3 +48,11 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 - Lỗi: không có
 - Bỏ qua: không có
 - ID tiếp theo: 541
+
+### Đợt 5 — 18/11/2026
+
+- Đã xong: 541, 543, 551, 557, 559, 561, 563, 566, 572, 575, 589, 590, 594, 598, 599, 604, 605, 617, 628, 637
+- Lỗi: không có
+- Bỏ qua: không có
+- Ghi chú: Bài Premium (đề viết theo hiểu biết): 604.
+- ID tiếp theo: 643

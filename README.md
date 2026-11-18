@@ -15,9 +15,9 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 370 notebook** — DSA/Easy: 119 · DSA/Medium: 137 · DSA/Hard: 101 · SQL: 11 · Shell: 2
+**Tổng: 390 notebook** — DSA/Easy: 139 · DSA/Medium: 137 · DSA/Hard: 101 · SQL: 11 · Shell: 2
 
-## DSA — Easy — 119 bài
+## DSA — Easy — 139 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -140,6 +140,26 @@ Shell/                            bài Shell (Bash)
 | 0520 | [Detect Capital](https://leetcode.com/problems/detect-capital/) | [0520_detect_capital.ipynb](DSA/Easy/0520_detect_capital.ipynb) |
 | 0521 | [Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/) | [0521_longest_uncommon_subsequence_i.ipynb](DSA/Easy/0521_longest_uncommon_subsequence_i.ipynb) |
 | 0530 | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [0530_minimum_absolute_difference_in_bst.ipynb](DSA/Easy/0530_minimum_absolute_difference_in_bst.ipynb) |
+| 0541 | [Reverse String II](https://leetcode.com/problems/reverse-string-ii/) | [0541_reverse_string_ii.ipynb](DSA/Easy/0541_reverse_string_ii.ipynb) |
+| 0543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [0543_diameter_of_binary_tree.ipynb](DSA/Easy/0543_diameter_of_binary_tree.ipynb) |
+| 0551 | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) | [0551_student_attendance_record_i.ipynb](DSA/Easy/0551_student_attendance_record_i.ipynb) |
+| 0557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [0557_reverse_words_in_a_string_iii.ipynb](DSA/Easy/0557_reverse_words_in_a_string_iii.ipynb) |
+| 0559 | [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) | [0559_maximum_depth_of_n_ary_tree.ipynb](DSA/Easy/0559_maximum_depth_of_n_ary_tree.ipynb) |
+| 0561 | [Array Partition](https://leetcode.com/problems/array-partition/) | [0561_array_partition.ipynb](DSA/Easy/0561_array_partition.ipynb) |
+| 0563 | [Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/) | [0563_binary_tree_tilt.ipynb](DSA/Easy/0563_binary_tree_tilt.ipynb) |
+| 0566 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) | [0566_reshape_the_matrix.ipynb](DSA/Easy/0566_reshape_the_matrix.ipynb) |
+| 0572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | [0572_subtree_of_another_tree.ipynb](DSA/Easy/0572_subtree_of_another_tree.ipynb) |
+| 0575 | [Distribute Candies](https://leetcode.com/problems/distribute-candies/) | [0575_distribute_candies.ipynb](DSA/Easy/0575_distribute_candies.ipynb) |
+| 0589 | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | [0589_n_ary_tree_preorder_traversal.ipynb](DSA/Easy/0589_n_ary_tree_preorder_traversal.ipynb) |
+| 0590 | [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) | [0590_n_ary_tree_postorder_traversal.ipynb](DSA/Easy/0590_n_ary_tree_postorder_traversal.ipynb) |
+| 0594 | [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/) | [0594_longest_harmonious_subsequence.ipynb](DSA/Easy/0594_longest_harmonious_subsequence.ipynb) |
+| 0598 | [Range Addition II](https://leetcode.com/problems/range-addition-ii/) | [0598_range_addition_ii.ipynb](DSA/Easy/0598_range_addition_ii.ipynb) |
+| 0599 | [Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/) | [0599_minimum_index_sum_of_two_lists.ipynb](DSA/Easy/0599_minimum_index_sum_of_two_lists.ipynb) |
+| 0604 | [Design Compressed String Iterator](https://leetcode.com/problems/design-compressed-string-iterator/) | [0604_design_compressed_string_iterator.ipynb](DSA/Easy/0604_design_compressed_string_iterator.ipynb) |
+| 0605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [0605_can_place_flowers.ipynb](DSA/Easy/0605_can_place_flowers.ipynb) |
+| 0617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [0617_merge_two_binary_trees.ipynb](DSA/Easy/0617_merge_two_binary_trees.ipynb) |
+| 0628 | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [0628_maximum_product_of_three_numbers.ipynb](DSA/Easy/0628_maximum_product_of_three_numbers.ipynb) |
+| 0637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | [0637_average_of_levels_in_binary_tree.ipynb](DSA/Easy/0637_average_of_levels_in_binary_tree.ipynb) |
 
 ## DSA — Medium — 137 bài
 
