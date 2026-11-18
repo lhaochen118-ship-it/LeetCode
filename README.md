@@ -15,9 +15,9 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 590 notebook** — DSA/Easy: 339 · DSA/Medium: 137 · DSA/Hard: 101 · SQL: 11 · Shell: 2
+**Tổng: 610 notebook** — DSA/Easy: 359 · DSA/Medium: 137 · DSA/Hard: 101 · SQL: 11 · Shell: 2
 
-## DSA — Easy — 339 bài
+## DSA — Easy — 359 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -360,6 +360,26 @@ Shell/                            bài Shell (Bash)
 | 1566 | [Detect Pattern of Length M Repeated K or More Times](https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times/) | [1566_detect_pattern_of_length_m_repeated_k_or_more_times.ipynb](DSA/Easy/1566_detect_pattern_of_length_m_repeated_k_or_more_times.ipynb) |
 | 1572 | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) | [1572_matrix_diagonal_sum.ipynb](DSA/Easy/1572_matrix_diagonal_sum.ipynb) |
 | 1576 | [Replace All ?'s to Avoid Consecutive Repeating Characters](https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/) | [1576_replace_all_s_to_avoid_consecutive_repeating_characters.ipynb](DSA/Easy/1576_replace_all_s_to_avoid_consecutive_repeating_characters.ipynb) |
+| 1582 | [Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix/) | [1582_special_positions_in_a_binary_matrix.ipynb](DSA/Easy/1582_special_positions_in_a_binary_matrix.ipynb) |
+| 1588 | [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) | [1588_sum_of_all_odd_length_subarrays.ipynb](DSA/Easy/1588_sum_of_all_odd_length_subarrays.ipynb) |
+| 1592 | [Rearrange Spaces Between Words](https://leetcode.com/problems/rearrange-spaces-between-words/) | [1592_rearrange_spaces_between_words.ipynb](DSA/Easy/1592_rearrange_spaces_between_words.ipynb) |
+| 1598 | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/) | [1598_crawler_log_folder.ipynb](DSA/Easy/1598_crawler_log_folder.ipynb) |
+| 1603 | [Design Parking System](https://leetcode.com/problems/design-parking-system/) | [1603_design_parking_system.ipynb](DSA/Easy/1603_design_parking_system.ipynb) |
+| 1608 | [Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/) | [1608_special_array_with_x_elements_greater_than_or_equal_x.ipynb](DSA/Easy/1608_special_array_with_x_elements_greater_than_or_equal_x.ipynb) |
+| 1614 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | [1614_maximum_nesting_depth_of_the_parentheses.ipynb](DSA/Easy/1614_maximum_nesting_depth_of_the_parentheses.ipynb) |
+| 1619 | [Mean of Array After Removing Some Elements](https://leetcode.com/problems/mean-of-array-after-removing-some-elements/) | [1619_mean_of_array_after_removing_some_elements.ipynb](DSA/Easy/1619_mean_of_array_after_removing_some_elements.ipynb) |
+| 1624 | [Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters/) | [1624_largest_substring_between_two_equal_characters.ipynb](DSA/Easy/1624_largest_substring_between_two_equal_characters.ipynb) |
+| 1629 | [Slowest Key](https://leetcode.com/problems/slowest-key/) | [1629_slowest_key.ipynb](DSA/Easy/1629_slowest_key.ipynb) |
+| 1636 | [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/) | [1636_sort_array_by_increasing_frequency.ipynb](DSA/Easy/1636_sort_array_by_increasing_frequency.ipynb) |
+| 1637 | [Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/) | [1637_widest_vertical_area_between_two_points_containing_no_points.ipynb](DSA/Easy/1637_widest_vertical_area_between_two_points_containing_no_points.ipynb) |
+| 1640 | [Check Array Formation Through Concatenation](https://leetcode.com/problems/check-array-formation-through-concatenation/) | [1640_check_array_formation_through_concatenation.ipynb](DSA/Easy/1640_check_array_formation_through_concatenation.ipynb) |
+| 1646 | [Get Maximum in Generated Array](https://leetcode.com/problems/get-maximum-in-generated-array/) | [1646_get_maximum_in_generated_array.ipynb](DSA/Easy/1646_get_maximum_in_generated_array.ipynb) |
+| 1652 | [Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/) | [1652_defuse_the_bomb.ipynb](DSA/Easy/1652_defuse_the_bomb.ipynb) |
+| 1656 | [Design an Ordered Stream](https://leetcode.com/problems/design-an-ordered-stream/) | [1656_design_an_ordered_stream.ipynb](DSA/Easy/1656_design_an_ordered_stream.ipynb) |
+| 1662 | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | [1662_check_if_two_string_arrays_are_equivalent.ipynb](DSA/Easy/1662_check_if_two_string_arrays_are_equivalent.ipynb) |
+| 1668 | [Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring/) | [1668_maximum_repeating_substring.ipynb](DSA/Easy/1668_maximum_repeating_substring.ipynb) |
+| 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | [1672_richest_customer_wealth.ipynb](DSA/Easy/1672_richest_customer_wealth.ipynb) |
+| 1678 | [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/) | [1678_goal_parser_interpretation.ipynb](DSA/Easy/1678_goal_parser_interpretation.ipynb) |
 
 ## DSA — Medium — 137 bài
 
