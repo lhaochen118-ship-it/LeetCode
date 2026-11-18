@@ -15,9 +15,9 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 410 notebook** — DSA/Easy: 159 · DSA/Medium: 137 · DSA/Hard: 101 · SQL: 11 · Shell: 2
+**Tổng: 430 notebook** — DSA/Easy: 179 · DSA/Medium: 137 · DSA/Hard: 101 · SQL: 11 · Shell: 2
 
-## DSA — Easy — 159 bài
+## DSA — Easy — 179 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -180,6 +180,26 @@ Shell/                            bài Shell (Bash)
 | 0709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | [0709_to_lower_case.ipynb](DSA/Easy/0709_to_lower_case.ipynb) |
 | 0716 | [Max Stack](https://leetcode.com/problems/max-stack/) | [0716_max_stack.ipynb](DSA/Easy/0716_max_stack.ipynb) |
 | 0717 | [1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/) | [0717_1_bit_and_2_bit_characters.ipynb](DSA/Easy/0717_1_bit_and_2_bit_characters.ipynb) |
+| 0724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [0724_find_pivot_index.ipynb](DSA/Easy/0724_find_pivot_index.ipynb) |
+| 0728 | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/) | [0728_self_dividing_numbers.ipynb](DSA/Easy/0728_self_dividing_numbers.ipynb) |
+| 0733 | [Flood Fill](https://leetcode.com/problems/flood-fill/) | [0733_flood_fill.ipynb](DSA/Easy/0733_flood_fill.ipynb) |
+| 0734 | [Sentence Similarity](https://leetcode.com/problems/sentence-similarity/) | [0734_sentence_similarity.ipynb](DSA/Easy/0734_sentence_similarity.ipynb) |
+| 0744 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | [0744_find_smallest_letter_greater_than_target.ipynb](DSA/Easy/0744_find_smallest_letter_greater_than_target.ipynb) |
+| 0746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [0746_min_cost_climbing_stairs.ipynb](DSA/Easy/0746_min_cost_climbing_stairs.ipynb) |
+| 0747 | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | [0747_largest_number_at_least_twice_of_others.ipynb](DSA/Easy/0747_largest_number_at_least_twice_of_others.ipynb) |
+| 0748 | [Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/) | [0748_shortest_completing_word.ipynb](DSA/Easy/0748_shortest_completing_word.ipynb) |
+| 0758 | [Bold Words in String](https://leetcode.com/problems/bold-words-in-string/) | [0758_bold_words_in_string.ipynb](DSA/Easy/0758_bold_words_in_string.ipynb) |
+| 0760 | [Find Anagram Mappings](https://leetcode.com/problems/find-anagram-mappings/) | [0760_find_anagram_mappings.ipynb](DSA/Easy/0760_find_anagram_mappings.ipynb) |
+| 0762 | [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) | [0762_prime_number_of_set_bits_in_binary_representation.ipynb](DSA/Easy/0762_prime_number_of_set_bits_in_binary_representation.ipynb) |
+| 0766 | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/) | [0766_toeplitz_matrix.ipynb](DSA/Easy/0766_toeplitz_matrix.ipynb) |
+| 0771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [0771_jewels_and_stones.ipynb](DSA/Easy/0771_jewels_and_stones.ipynb) |
+| 0783 | [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/) | [0783_minimum_distance_between_bst_nodes.ipynb](DSA/Easy/0783_minimum_distance_between_bst_nodes.ipynb) |
+| 0796 | [Rotate String](https://leetcode.com/problems/rotate-string/) | [0796_rotate_string.ipynb](DSA/Easy/0796_rotate_string.ipynb) |
+| 0800 | [Similar RGB Color](https://leetcode.com/problems/similar-rgb-color/) | [0800_similar_rgb_color.ipynb](DSA/Easy/0800_similar_rgb_color.ipynb) |
+| 0804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) | [0804_unique_morse_code_words.ipynb](DSA/Easy/0804_unique_morse_code_words.ipynb) |
+| 0806 | [Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/) | [0806_number_of_lines_to_write_string.ipynb](DSA/Easy/0806_number_of_lines_to_write_string.ipynb) |
+| 0812 | [Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/) | [0812_largest_triangle_area.ipynb](DSA/Easy/0812_largest_triangle_area.ipynb) |
+| 0819 | [Most Common Word](https://leetcode.com/problems/most-common-word/) | [0819_most_common_word.ipynb](DSA/Easy/0819_most_common_word.ipynb) |
 
 ## DSA — Medium — 137 bài
 
