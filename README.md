@@ -15,9 +15,9 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 530 notebook** — DSA/Easy: 279 · DSA/Medium: 137 · DSA/Hard: 101 · SQL: 11 · Shell: 2
+**Tổng: 550 notebook** — DSA/Easy: 299 · DSA/Medium: 137 · DSA/Hard: 101 · SQL: 11 · Shell: 2
 
-## DSA — Easy — 279 bài
+## DSA — Easy — 299 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -300,6 +300,26 @@ Shell/                            bài Shell (Bash)
 | 1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [1290_convert_binary_number_in_a_linked_list_to_integer.ipynb](DSA/Easy/1290_convert_binary_number_in_a_linked_list_to_integer.ipynb) |
 | 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | [1295_find_numbers_with_even_number_of_digits.ipynb](DSA/Easy/1295_find_numbers_with_even_number_of_digits.ipynb) |
 | 1299 | [Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) | [1299_replace_elements_with_greatest_element_on_right_side.ipynb](DSA/Easy/1299_replace_elements_with_greatest_element_on_right_side.ipynb) |
+| 1304 | [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/) | [1304_find_n_unique_integers_sum_up_to_zero.ipynb](DSA/Easy/1304_find_n_unique_integers_sum_up_to_zero.ipynb) |
+| 1309 | [Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/) | [1309_decrypt_string_from_alphabet_to_integer_mapping.ipynb](DSA/Easy/1309_decrypt_string_from_alphabet_to_integer_mapping.ipynb) |
+| 1313 | [Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/) | [1313_decompress_run_length_encoded_list.ipynb](DSA/Easy/1313_decompress_run_length_encoded_list.ipynb) |
+| 1317 | [Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/) | [1317_convert_integer_to_the_sum_of_two_no_zero_integers.ipynb](DSA/Easy/1317_convert_integer_to_the_sum_of_two_no_zero_integers.ipynb) |
+| 1323 | [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/) | [1323_maximum_69_number.ipynb](DSA/Easy/1323_maximum_69_number.ipynb) |
+| 1331 | [Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/) | [1331_rank_transform_of_an_array.ipynb](DSA/Easy/1331_rank_transform_of_an_array.ipynb) |
+| 1332 | [Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/) | [1332_remove_palindromic_subsequences.ipynb](DSA/Easy/1332_remove_palindromic_subsequences.ipynb) |
+| 1337 | [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) | [1337_the_k_weakest_rows_in_a_matrix.ipynb](DSA/Easy/1337_the_k_weakest_rows_in_a_matrix.ipynb) |
+| 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [1342_number_of_steps_to_reduce_a_number_to_zero.ipynb](DSA/Easy/1342_number_of_steps_to_reduce_a_number_to_zero.ipynb) |
+| 1346 | [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | [1346_check_if_n_and_its_double_exist.ipynb](DSA/Easy/1346_check_if_n_and_its_double_exist.ipynb) |
+| 1351 | [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | [1351_count_negative_numbers_in_a_sorted_matrix.ipynb](DSA/Easy/1351_count_negative_numbers_in_a_sorted_matrix.ipynb) |
+| 1356 | [Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/) | [1356_sort_integers_by_the_number_of_1_bits.ipynb](DSA/Easy/1356_sort_integers_by_the_number_of_1_bits.ipynb) |
+| 1360 | [Number of Days Between Two Dates](https://leetcode.com/problems/number-of-days-between-two-dates/) | [1360_number_of_days_between_two_dates.ipynb](DSA/Easy/1360_number_of_days_between_two_dates.ipynb) |
+| 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [1365_how_many_numbers_are_smaller_than_the_current_number.ipynb](DSA/Easy/1365_how_many_numbers_are_smaller_than_the_current_number.ipynb) |
+| 1370 | [Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string/) | [1370_increasing_decreasing_string.ipynb](DSA/Easy/1370_increasing_decreasing_string.ipynb) |
+| 1374 | [Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/) | [1374_generate_a_string_with_characters_that_have_odd_counts.ipynb](DSA/Easy/1374_generate_a_string_with_characters_that_have_odd_counts.ipynb) |
+| 1379 | [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | [1379_find_a_corresponding_node_of_a_binary_tree_in_a_clone_of_that_tree.ipynb](DSA/Easy/1379_find_a_corresponding_node_of_a_binary_tree_in_a_clone_of_that_tree.ipynb) |
+| 1380 | [Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/) | [1380_lucky_numbers_in_a_matrix.ipynb](DSA/Easy/1380_lucky_numbers_in_a_matrix.ipynb) |
+| 1385 | [Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) | [1385_find_the_distance_value_between_two_arrays.ipynb](DSA/Easy/1385_find_the_distance_value_between_two_arrays.ipynb) |
+| 1389 | [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/) | [1389_create_target_array_in_the_given_order.ipynb](DSA/Easy/1389_create_target_array_in_the_given_order.ipynb) |
 
 ## DSA — Medium — 137 bài
 
