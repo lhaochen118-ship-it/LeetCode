@@ -15,9 +15,9 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 430 notebook** — DSA/Easy: 179 · DSA/Medium: 137 · DSA/Hard: 101 · SQL: 11 · Shell: 2
+**Tổng: 450 notebook** — DSA/Easy: 199 · DSA/Medium: 137 · DSA/Hard: 101 · SQL: 11 · Shell: 2
 
-## DSA — Easy — 179 bài
+## DSA — Easy — 199 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -200,6 +200,26 @@ Shell/                            bài Shell (Bash)
 | 0806 | [Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/) | [0806_number_of_lines_to_write_string.ipynb](DSA/Easy/0806_number_of_lines_to_write_string.ipynb) |
 | 0812 | [Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/) | [0812_largest_triangle_area.ipynb](DSA/Easy/0812_largest_triangle_area.ipynb) |
 | 0819 | [Most Common Word](https://leetcode.com/problems/most-common-word/) | [0819_most_common_word.ipynb](DSA/Easy/0819_most_common_word.ipynb) |
+| 0821 | [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/) | [0821_shortest_distance_to_a_character.ipynb](DSA/Easy/0821_shortest_distance_to_a_character.ipynb) |
+| 0824 | [Goat Latin](https://leetcode.com/problems/goat-latin/) | [0824_goat_latin.ipynb](DSA/Easy/0824_goat_latin.ipynb) |
+| 0830 | [Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/) | [0830_positions_of_large_groups.ipynb](DSA/Easy/0830_positions_of_large_groups.ipynb) |
+| 0832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | [0832_flipping_an_image.ipynb](DSA/Easy/0832_flipping_an_image.ipynb) |
+| 0836 | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/) | [0836_rectangle_overlap.ipynb](DSA/Easy/0836_rectangle_overlap.ipynb) |
+| 0844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | [0844_backspace_string_compare.ipynb](DSA/Easy/0844_backspace_string_compare.ipynb) |
+| 0859 | [Buddy Strings](https://leetcode.com/problems/buddy-strings/) | [0859_buddy_strings.ipynb](DSA/Easy/0859_buddy_strings.ipynb) |
+| 0860 | [Lemonade Change](https://leetcode.com/problems/lemonade-change/) | [0860_lemonade_change.ipynb](DSA/Easy/0860_lemonade_change.ipynb) |
+| 0867 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | [0867_transpose_matrix.ipynb](DSA/Easy/0867_transpose_matrix.ipynb) |
+| 0868 | [Binary Gap](https://leetcode.com/problems/binary-gap/) | [0868_binary_gap.ipynb](DSA/Easy/0868_binary_gap.ipynb) |
+| 0872 | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | [0872_leaf_similar_trees.ipynb](DSA/Easy/0872_leaf_similar_trees.ipynb) |
+| 0876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [0876_middle_of_the_linked_list.ipynb](DSA/Easy/0876_middle_of_the_linked_list.ipynb) |
+| 0883 | [Projection Area of 3D Shapes](https://leetcode.com/problems/projection-area-of-3d-shapes/) | [0883_projection_area_of_3d_shapes.ipynb](DSA/Easy/0883_projection_area_of_3d_shapes.ipynb) |
+| 0884 | [Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/) | [0884_uncommon_words_from_two_sentences.ipynb](DSA/Easy/0884_uncommon_words_from_two_sentences.ipynb) |
+| 0888 | [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/) | [0888_fair_candy_swap.ipynb](DSA/Easy/0888_fair_candy_swap.ipynb) |
+| 0892 | [Surface Area of 3D Shapes](https://leetcode.com/problems/surface-area-of-3d-shapes/) | [0892_surface_area_of_3d_shapes.ipynb](DSA/Easy/0892_surface_area_of_3d_shapes.ipynb) |
+| 0896 | [Monotonic Array](https://leetcode.com/problems/monotonic-array/) | [0896_monotonic_array.ipynb](DSA/Easy/0896_monotonic_array.ipynb) |
+| 0897 | [Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/) | [0897_increasing_order_search_tree.ipynb](DSA/Easy/0897_increasing_order_search_tree.ipynb) |
+| 0905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [0905_sort_array_by_parity.ipynb](DSA/Easy/0905_sort_array_by_parity.ipynb) |
+| 0908 | [Smallest Range I](https://leetcode.com/problems/smallest-range-i/) | [0908_smallest_range_i.ipynb](DSA/Easy/0908_smallest_range_i.ipynb) |
 
 ## DSA — Medium — 137 bài
 

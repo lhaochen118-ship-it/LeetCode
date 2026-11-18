@@ -7,9 +7,9 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 ## Trạng thái hiện tại
 
 <!--STATUS-->
-- Cập nhật: 18/11/2026, sau đợt 7
-- ID tiếp theo: 821 (Easy)
-- Số bài DSA còn lại: 3294
+- Cập nhật: 18/11/2026, sau đợt 8
+- ID tiếp theo: 914 (Easy)
+- Số bài DSA còn lại: 3274
 <!--/STATUS-->
 
 ## Nhật ký các đợt
@@ -74,3 +74,10 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 - Ghi chú: 758: danh mục ghi Easy, LeetCode hiện ghi Medium — lưu theo danh mục.
 - Ghi chú: Bài Premium (đề viết theo hiểu biết): 734, 758, 760, 800.
 - ID tiếp theo: 821
+
+### Đợt 8 — 18/11/2026
+
+- Đã xong: 821, 824, 830, 832, 836, 844, 859, 860, 867, 868, 872, 876, 883, 884, 888, 892, 896, 897, 905, 908
+- Lỗi: không có
+- Bỏ qua: không có
+- ID tiếp theo: 914
