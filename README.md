@@ -20,7 +20,7 @@ Bài SQL: dạy bằng `sqlite3`, lời giải cuối viết theo cú pháp MySQ
 | 9 | Palindrome Number | [palindrome_number_python_intro_vietnamese.ipynb](palindrome_number_python_intro_vietnamese.ipynb) |
 | 13 | Roman to Integer | [roman_to_integer_intro_vietnamese(1).ipynb](roman_to_integer_intro_vietnamese(1).ipynb) |
 
-## Hard (thư mục `hard/`) — 89 bài
+## Hard (thư mục `hard/`) — 90 bài
 
 | # | Bài | Ghi chú | Notebook |
 |---|-----|---------|----------|
@@ -88,6 +88,7 @@ Bài SQL: dạy bằng `sqlite3`, lời giải cuối viết theo cú pháp MySQ
 | 329 | Longest Increasing Path in a Matrix |  | [0329](hard/0329_longest_increasing_path_in_a_matrix_intro_vietnamese.ipynb) |
 | 330 | Patching Array |  | [0330](hard/0330_patching_array_intro_vietnamese.ipynb) |
 | 332 | Reconstruct Itinerary |  | [0332](hard/0332_reconstruct_itinerary_intro_vietnamese.ipynb) |
+| 335 | Self Crossing |  | [0335](hard/0335_self_crossing_intro_vietnamese.ipynb) |
 | 336 | Palindrome Pairs |  | [0336](hard/0336_palindrome_pairs_intro_vietnamese.ipynb) |
 | 340 | Longest Substring with At Most K Distinct Characters | Premium | [0340](hard/0340_longest_substring_with_at_most_k_distinct_characters_intro_vietnamese.ipynb) |
 | 352 | Data Stream as Disjoint Intervals |  | [0352](hard/0352_data_stream_as_disjoint_intervals_intro_vietnamese.ipynb) |
