@@ -15,9 +15,9 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 350 notebook** — DSA/Easy: 99 · DSA/Medium: 137 · DSA/Hard: 101 · SQL: 11 · Shell: 2
+**Tổng: 370 notebook** — DSA/Easy: 119 · DSA/Medium: 137 · DSA/Hard: 101 · SQL: 11 · Shell: 2
 
-## DSA — Easy — 99 bài
+## DSA — Easy — 119 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -120,6 +120,26 @@ Shell/                            bài Shell (Bash)
 | 0422 | [Valid Word Square](https://leetcode.com/problems/valid-word-square/) | [0422_valid_word_square.ipynb](DSA/Easy/0422_valid_word_square.ipynb) |
 | 0434 | [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/) | [0434_number_of_segments_in_a_string.ipynb](DSA/Easy/0434_number_of_segments_in_a_string.ipynb) |
 | 0441 | [Arranging Coins](https://leetcode.com/problems/arranging-coins/) | [0441_arranging_coins.ipynb](DSA/Easy/0441_arranging_coins.ipynb) |
+| 0448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [0448_find_all_numbers_disappeared_in_an_array.ipynb](DSA/Easy/0448_find_all_numbers_disappeared_in_an_array.ipynb) |
+| 0455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [0455_assign_cookies.ipynb](DSA/Easy/0455_assign_cookies.ipynb) |
+| 0459 | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) | [0459_repeated_substring_pattern.ipynb](DSA/Easy/0459_repeated_substring_pattern.ipynb) |
+| 0461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [0461_hamming_distance.ipynb](DSA/Easy/0461_hamming_distance.ipynb) |
+| 0463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/) | [0463_island_perimeter.ipynb](DSA/Easy/0463_island_perimeter.ipynb) |
+| 0476 | [Number Complement](https://leetcode.com/problems/number-complement/) | [0476_number_complement.ipynb](DSA/Easy/0476_number_complement.ipynb) |
+| 0482 | [License Key Formatting](https://leetcode.com/problems/license-key-formatting/) | [0482_license_key_formatting.ipynb](DSA/Easy/0482_license_key_formatting.ipynb) |
+| 0485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [0485_max_consecutive_ones.ipynb](DSA/Easy/0485_max_consecutive_ones.ipynb) |
+| 0492 | [Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/) | [0492_construct_the_rectangle.ipynb](DSA/Easy/0492_construct_the_rectangle.ipynb) |
+| 0495 | [Teemo Attacking](https://leetcode.com/problems/teemo-attacking/) | [0495_teemo_attacking.ipynb](DSA/Easy/0495_teemo_attacking.ipynb) |
+| 0496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [0496_next_greater_element_i.ipynb](DSA/Easy/0496_next_greater_element_i.ipynb) |
+| 0500 | [Keyboard Row](https://leetcode.com/problems/keyboard-row/) | [0500_keyboard_row.ipynb](DSA/Easy/0500_keyboard_row.ipynb) |
+| 0501 | [Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | [0501_find_mode_in_binary_search_tree.ipynb](DSA/Easy/0501_find_mode_in_binary_search_tree.ipynb) |
+| 0504 | [Base 7](https://leetcode.com/problems/base-7/) | [0504_base_7.ipynb](DSA/Easy/0504_base_7.ipynb) |
+| 0506 | [Relative Ranks](https://leetcode.com/problems/relative-ranks/) | [0506_relative_ranks.ipynb](DSA/Easy/0506_relative_ranks.ipynb) |
+| 0507 | [Perfect Number](https://leetcode.com/problems/perfect-number/) | [0507_perfect_number.ipynb](DSA/Easy/0507_perfect_number.ipynb) |
+| 0509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [0509_fibonacci_number.ipynb](DSA/Easy/0509_fibonacci_number.ipynb) |
+| 0520 | [Detect Capital](https://leetcode.com/problems/detect-capital/) | [0520_detect_capital.ipynb](DSA/Easy/0520_detect_capital.ipynb) |
+| 0521 | [Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/) | [0521_longest_uncommon_subsequence_i.ipynb](DSA/Easy/0521_longest_uncommon_subsequence_i.ipynb) |
+| 0530 | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [0530_minimum_absolute_difference_in_bst.ipynb](DSA/Easy/0530_minimum_absolute_difference_in_bst.ipynb) |
 
 ## DSA — Medium — 137 bài
 
