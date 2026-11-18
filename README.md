@@ -15,9 +15,9 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 570 notebook** — DSA/Easy: 319 · DSA/Medium: 137 · DSA/Hard: 101 · SQL: 11 · Shell: 2
+**Tổng: 590 notebook** — DSA/Easy: 339 · DSA/Medium: 137 · DSA/Hard: 101 · SQL: 11 · Shell: 2
 
-## DSA — Easy — 319 bài
+## DSA — Easy — 339 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -340,6 +340,26 @@ Shell/                            bài Shell (Bash)
 | 1469 | [Find All The Lonely Nodes](https://leetcode.com/problems/find-all-the-lonely-nodes/) | [1469_find_all_the_lonely_nodes.ipynb](DSA/Easy/1469_find_all_the_lonely_nodes.ipynb) |
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | [1470_shuffle_the_array.ipynb](DSA/Easy/1470_shuffle_the_array.ipynb) |
 | 1474 | [Delete N Nodes After M Nodes of a Linked List](https://leetcode.com/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/) | [1474_delete_n_nodes_after_m_nodes_of_a_linked_list.ipynb](DSA/Easy/1474_delete_n_nodes_after_m_nodes_of_a_linked_list.ipynb) |
+| 1475 | [Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) | [1475_final_prices_with_a_special_discount_in_a_shop.ipynb](DSA/Easy/1475_final_prices_with_a_special_discount_in_a_shop.ipynb) |
+| 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [1480_running_sum_of_1d_array.ipynb](DSA/Easy/1480_running_sum_of_1d_array.ipynb) |
+| 1486 | [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/) | [1486_xor_operation_in_an_array.ipynb](DSA/Easy/1486_xor_operation_in_an_array.ipynb) |
+| 1491 | [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/) | [1491_average_salary_excluding_the_minimum_and_maximum_salary.ipynb](DSA/Easy/1491_average_salary_excluding_the_minimum_and_maximum_salary.ipynb) |
+| 1496 | [Path Crossing](https://leetcode.com/problems/path-crossing/) | [1496_path_crossing.ipynb](DSA/Easy/1496_path_crossing.ipynb) |
+| 1502 | [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/) | [1502_can_make_arithmetic_progression_from_sequence.ipynb](DSA/Easy/1502_can_make_arithmetic_progression_from_sequence.ipynb) |
+| 1507 | [Reformat Date](https://leetcode.com/problems/reformat-date/) | [1507_reformat_date.ipynb](DSA/Easy/1507_reformat_date.ipynb) |
+| 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | [1512_number_of_good_pairs.ipynb](DSA/Easy/1512_number_of_good_pairs.ipynb) |
+| 1518 | [Water Bottles](https://leetcode.com/problems/water-bottles/) | [1518_water_bottles.ipynb](DSA/Easy/1518_water_bottles.ipynb) |
+| 1523 | [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) | [1523_count_odd_numbers_in_an_interval_range.ipynb](DSA/Easy/1523_count_odd_numbers_in_an_interval_range.ipynb) |
+| 1528 | [Shuffle String](https://leetcode.com/problems/shuffle-string/) | [1528_shuffle_string.ipynb](DSA/Easy/1528_shuffle_string.ipynb) |
+| 1534 | [Count Good Triplets](https://leetcode.com/problems/count-good-triplets/) | [1534_count_good_triplets.ipynb](DSA/Easy/1534_count_good_triplets.ipynb) |
+| 1539 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | [1539_kth_missing_positive_number.ipynb](DSA/Easy/1539_kth_missing_positive_number.ipynb) |
+| 1544 | [Make The String Great](https://leetcode.com/problems/make-the-string-great/) | [1544_make_the_string_great.ipynb](DSA/Easy/1544_make_the_string_great.ipynb) |
+| 1550 | [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/) | [1550_three_consecutive_odds.ipynb](DSA/Easy/1550_three_consecutive_odds.ipynb) |
+| 1556 | [Thousand Separator](https://leetcode.com/problems/thousand-separator/) | [1556_thousand_separator.ipynb](DSA/Easy/1556_thousand_separator.ipynb) |
+| 1560 | [Most Visited Sector in  a Circular Track](https://leetcode.com/problems/most-visited-sector-in-a-circular-track/) | [1560_most_visited_sector_in_a_circular_track.ipynb](DSA/Easy/1560_most_visited_sector_in_a_circular_track.ipynb) |
+| 1566 | [Detect Pattern of Length M Repeated K or More Times](https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times/) | [1566_detect_pattern_of_length_m_repeated_k_or_more_times.ipynb](DSA/Easy/1566_detect_pattern_of_length_m_repeated_k_or_more_times.ipynb) |
+| 1572 | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/) | [1572_matrix_diagonal_sum.ipynb](DSA/Easy/1572_matrix_diagonal_sum.ipynb) |
+| 1576 | [Replace All ?'s to Avoid Consecutive Repeating Characters](https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/) | [1576_replace_all_s_to_avoid_consecutive_repeating_characters.ipynb](DSA/Easy/1576_replace_all_s_to_avoid_consecutive_repeating_characters.ipynb) |
 
 ## DSA — Medium — 137 bài
 

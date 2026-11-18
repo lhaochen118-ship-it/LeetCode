@@ -7,9 +7,9 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 ## Trạng thái hiện tại
 
 <!--STATUS-->
-- Cập nhật: 18/11/2026, sau đợt 14
-- ID tiếp theo: 1475 (Easy)
-- Số bài DSA còn lại: 3154
+- Cập nhật: 18/11/2026, sau đợt 15
+- ID tiếp theo: 1582 (Easy)
+- Số bài DSA còn lại: 3134
 <!--/STATUS-->
 
 ## Nhật ký các đợt
@@ -128,3 +128,10 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 - Bỏ qua: không có
 - Ghi chú: Bài Premium (đề viết theo hiểu biết): 1426, 1427, 1469, 1474.
 - ID tiếp theo: 1475
+
+### Đợt 15 — 18/11/2026
+
+- Đã xong: 1475, 1480, 1486, 1491, 1496, 1502, 1507, 1512, 1518, 1523, 1528, 1534, 1539, 1544, 1550, 1556, 1560, 1566, 1572, 1576
+- Lỗi: không có
+- Bỏ qua: không có
+- ID tiếp theo: 1582
