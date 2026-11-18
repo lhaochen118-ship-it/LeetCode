@@ -15,9 +15,9 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 290 notebook** — DSA/Easy: 39 · DSA/Medium: 137 · DSA/Hard: 101 · SQL: 11 · Shell: 2
+**Tổng: 310 notebook** — DSA/Easy: 59 · DSA/Medium: 137 · DSA/Hard: 101 · SQL: 11 · Shell: 2
 
-## DSA — Easy — 39 bài
+## DSA — Easy — 59 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -54,12 +54,32 @@ Shell/                            bài Shell (Bash)
 | 0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [0141_linked_list_cycle.ipynb](DSA/Easy/0141_linked_list_cycle.ipynb) |
 | 0144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [0144_binary_tree_preorder_traversal.ipynb](DSA/Easy/0144_binary_tree_preorder_traversal.ipynb) |
 | 0145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [0145_binary_tree_postorder_traversal.ipynb](DSA/Easy/0145_binary_tree_postorder_traversal.ipynb) |
+| 0157 | [Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4/) | [0157_read_n_characters_given_read4.ipynb](DSA/Easy/0157_read_n_characters_given_read4.ipynb) |
 | 0160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [0160_intersection_of_two_linked_lists.ipynb](DSA/Easy/0160_intersection_of_two_linked_lists.ipynb) |
 | 0168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | [0168_excel_sheet_column_title.ipynb](DSA/Easy/0168_excel_sheet_column_title.ipynb) |
 | 0169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [0169_majority_element.ipynb](DSA/Easy/0169_majority_element.ipynb) |
 | 0170 | [Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/) | [0170_two_sum_iii_data_structure_design.ipynb](DSA/Easy/0170_two_sum_iii_data_structure_design.ipynb) |
 | 0171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [0171_excel_sheet_column_number.ipynb](DSA/Easy/0171_excel_sheet_column_number.ipynb) |
 | 0190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [0190_reverse_bits.ipynb](DSA/Easy/0190_reverse_bits.ipynb) |
+| 0191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [0191_number_of_1_bits.ipynb](DSA/Easy/0191_number_of_1_bits.ipynb) |
+| 0202 | [Happy Number](https://leetcode.com/problems/happy-number/) | [0202_happy_number.ipynb](DSA/Easy/0202_happy_number.ipynb) |
+| 0203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [0203_remove_linked_list_elements.ipynb](DSA/Easy/0203_remove_linked_list_elements.ipynb) |
+| 0205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [0205_isomorphic_strings.ipynb](DSA/Easy/0205_isomorphic_strings.ipynb) |
+| 0206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [0206_reverse_linked_list.ipynb](DSA/Easy/0206_reverse_linked_list.ipynb) |
+| 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [0217_contains_duplicate.ipynb](DSA/Easy/0217_contains_duplicate.ipynb) |
+| 0219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [0219_contains_duplicate_ii.ipynb](DSA/Easy/0219_contains_duplicate_ii.ipynb) |
+| 0225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [0225_implement_stack_using_queues.ipynb](DSA/Easy/0225_implement_stack_using_queues.ipynb) |
+| 0226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [0226_invert_binary_tree.ipynb](DSA/Easy/0226_invert_binary_tree.ipynb) |
+| 0228 | [Summary Ranges](https://leetcode.com/problems/summary-ranges/) | [0228_summary_ranges.ipynb](DSA/Easy/0228_summary_ranges.ipynb) |
+| 0231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | [0231_power_of_two.ipynb](DSA/Easy/0231_power_of_two.ipynb) |
+| 0232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [0232_implement_queue_using_stacks.ipynb](DSA/Easy/0232_implement_queue_using_stacks.ipynb) |
+| 0234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [0234_palindrome_linked_list.ipynb](DSA/Easy/0234_palindrome_linked_list.ipynb) |
+| 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [0242_valid_anagram.ipynb](DSA/Easy/0242_valid_anagram.ipynb) |
+| 0243 | [Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/) | [0243_shortest_word_distance.ipynb](DSA/Easy/0243_shortest_word_distance.ipynb) |
+| 0246 | [Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number/) | [0246_strobogrammatic_number.ipynb](DSA/Easy/0246_strobogrammatic_number.ipynb) |
+| 0249 | [Group Shifted Strings](https://leetcode.com/problems/group-shifted-strings/) | [0249_group_shifted_strings.ipynb](DSA/Easy/0249_group_shifted_strings.ipynb) |
+| 0252 | [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) | [0252_meeting_rooms.ipynb](DSA/Easy/0252_meeting_rooms.ipynb) |
+| 0257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [0257_binary_tree_paths.ipynb](DSA/Easy/0257_binary_tree_paths.ipynb) |
 
 ## DSA — Medium — 137 bài
 
