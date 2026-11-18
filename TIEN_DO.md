@@ -7,9 +7,9 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 ## Trạng thái hiện tại
 
 <!--STATUS-->
-- Cập nhật: 18/11/2026, sau đợt 5
-- ID tiếp theo: 643 (Easy)
-- Số bài DSA còn lại: 3334
+- Cập nhật: 18/11/2026, sau đợt 6
+- ID tiếp theo: 724 (Easy)
+- Số bài DSA còn lại: 3314
 <!--/STATUS-->
 
 ## Nhật ký các đợt
@@ -56,3 +56,12 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 - Bỏ qua: không có
 - Ghi chú: Bài Premium (đề viết theo hiểu biết): 604.
 - ID tiếp theo: 643
+
+### Đợt 6 — 18/11/2026
+
+- Đã xong: 643, 645, 653, 657, 661, 671, 674, 680, 682, 693, 696, 697, 700, 703, 704, 705, 706, 709, 716, 717
+- Lỗi: không có
+- Bỏ qua: không có
+- Ghi chú: 716: danh mục ghi Easy, LeetCode hiện ghi Hard — lưu theo danh mục.
+- Ghi chú: Bài Premium (đề viết theo hiểu biết): 716.
+- ID tiếp theo: 724

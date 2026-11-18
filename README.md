@@ -15,9 +15,9 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 390 notebook** — DSA/Easy: 139 · DSA/Medium: 137 · DSA/Hard: 101 · SQL: 11 · Shell: 2
+**Tổng: 410 notebook** — DSA/Easy: 159 · DSA/Medium: 137 · DSA/Hard: 101 · SQL: 11 · Shell: 2
 
-## DSA — Easy — 139 bài
+## DSA — Easy — 159 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -160,6 +160,26 @@ Shell/                            bài Shell (Bash)
 | 0617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [0617_merge_two_binary_trees.ipynb](DSA/Easy/0617_merge_two_binary_trees.ipynb) |
 | 0628 | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [0628_maximum_product_of_three_numbers.ipynb](DSA/Easy/0628_maximum_product_of_three_numbers.ipynb) |
 | 0637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | [0637_average_of_levels_in_binary_tree.ipynb](DSA/Easy/0637_average_of_levels_in_binary_tree.ipynb) |
+| 0643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [0643_maximum_average_subarray_i.ipynb](DSA/Easy/0643_maximum_average_subarray_i.ipynb) |
+| 0645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch/) | [0645_set_mismatch.ipynb](DSA/Easy/0645_set_mismatch.ipynb) |
+| 0653 | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | [0653_two_sum_iv_input_is_a_bst.ipynb](DSA/Easy/0653_two_sum_iv_input_is_a_bst.ipynb) |
+| 0657 | [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) | [0657_robot_return_to_origin.ipynb](DSA/Easy/0657_robot_return_to_origin.ipynb) |
+| 0661 | [Image Smoother](https://leetcode.com/problems/image-smoother/) | [0661_image_smoother.ipynb](DSA/Easy/0661_image_smoother.ipynb) |
+| 0671 | [Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/) | [0671_second_minimum_node_in_a_binary_tree.ipynb](DSA/Easy/0671_second_minimum_node_in_a_binary_tree.ipynb) |
+| 0674 | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/) | [0674_longest_continuous_increasing_subsequence.ipynb](DSA/Easy/0674_longest_continuous_increasing_subsequence.ipynb) |
+| 0680 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | [0680_valid_palindrome_ii.ipynb](DSA/Easy/0680_valid_palindrome_ii.ipynb) |
+| 0682 | [Baseball Game](https://leetcode.com/problems/baseball-game/) | [0682_baseball_game.ipynb](DSA/Easy/0682_baseball_game.ipynb) |
+| 0693 | [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/) | [0693_binary_number_with_alternating_bits.ipynb](DSA/Easy/0693_binary_number_with_alternating_bits.ipynb) |
+| 0696 | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/) | [0696_count_binary_substrings.ipynb](DSA/Easy/0696_count_binary_substrings.ipynb) |
+| 0697 | [Degree of an Array](https://leetcode.com/problems/degree-of-an-array/) | [0697_degree_of_an_array.ipynb](DSA/Easy/0697_degree_of_an_array.ipynb) |
+| 0700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [0700_search_in_a_binary_search_tree.ipynb](DSA/Easy/0700_search_in_a_binary_search_tree.ipynb) |
+| 0703 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | [0703_kth_largest_element_in_a_stream.ipynb](DSA/Easy/0703_kth_largest_element_in_a_stream.ipynb) |
+| 0704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [0704_binary_search.ipynb](DSA/Easy/0704_binary_search.ipynb) |
+| 0705 | [Design HashSet](https://leetcode.com/problems/design-hashset/) | [0705_design_hashset.ipynb](DSA/Easy/0705_design_hashset.ipynb) |
+| 0706 | [Design HashMap](https://leetcode.com/problems/design-hashmap/) | [0706_design_hashmap.ipynb](DSA/Easy/0706_design_hashmap.ipynb) |
+| 0709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | [0709_to_lower_case.ipynb](DSA/Easy/0709_to_lower_case.ipynb) |
+| 0716 | [Max Stack](https://leetcode.com/problems/max-stack/) | [0716_max_stack.ipynb](DSA/Easy/0716_max_stack.ipynb) |
+| 0717 | [1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/) | [0717_1_bit_and_2_bit_characters.ipynb](DSA/Easy/0717_1_bit_and_2_bit_characters.ipynb) |
 
 ## DSA — Medium — 137 bài
 
