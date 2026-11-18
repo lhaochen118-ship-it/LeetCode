@@ -7,9 +7,9 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 ## Trạng thái hiện tại
 
 <!--STATUS-->
-- Cập nhật: 18/11/2026, sau đợt 11
-- ID tiếp theo: 1189 (Easy)
-- Số bài DSA còn lại: 3214
+- Cập nhật: 18/11/2026, sau đợt 12
+- ID tiếp theo: 1304 (Easy)
+- Số bài DSA còn lại: 3194
 <!--/STATUS-->
 
 ## Nhật ký các đợt
@@ -105,3 +105,11 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 - Ghi chú: 1120: danh mục ghi Easy, LeetCode hiện ghi Medium — lưu theo danh mục.
 - Ghi chú: Bài Premium (đề viết theo hiểu biết): 1099, 1118, 1119, 1120, 1133, 1134, 1150, 1165, 1176, 1180.
 - ID tiếp theo: 1189
+
+### Đợt 12 — 18/11/2026
+
+- Đã xong: 1189, 1196, 1200, 1207, 1213, 1217, 1221, 1228, 1232, 1243, 1252, 1260, 1266, 1271, 1275, 1281, 1287, 1290, 1295, 1299
+- Lỗi: không có
+- Bỏ qua: không có
+- Ghi chú: Bài Premium (đề viết theo hiểu biết): 1196, 1213, 1228, 1243, 1271.
+- ID tiếp theo: 1304

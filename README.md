@@ -15,9 +15,9 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 510 notebook** — DSA/Easy: 259 · DSA/Medium: 137 · DSA/Hard: 101 · SQL: 11 · Shell: 2
+**Tổng: 530 notebook** — DSA/Easy: 279 · DSA/Medium: 137 · DSA/Hard: 101 · SQL: 11 · Shell: 2
 
-## DSA — Easy — 259 bài
+## DSA — Easy — 279 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -280,6 +280,26 @@ Shell/                            bài Shell (Bash)
 | 1180 | [Count Substrings with Only One Distinct Letter](https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter/) | [1180_count_substrings_with_only_one_distinct_letter.ipynb](DSA/Easy/1180_count_substrings_with_only_one_distinct_letter.ipynb) |
 | 1184 | [Distance Between Bus Stops](https://leetcode.com/problems/distance-between-bus-stops/) | [1184_distance_between_bus_stops.ipynb](DSA/Easy/1184_distance_between_bus_stops.ipynb) |
 | 1185 | [Day of the Week](https://leetcode.com/problems/day-of-the-week/) | [1185_day_of_the_week.ipynb](DSA/Easy/1185_day_of_the_week.ipynb) |
+| 1189 | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) | [1189_maximum_number_of_balloons.ipynb](DSA/Easy/1189_maximum_number_of_balloons.ipynb) |
+| 1196 | [How Many Apples Can You Put into the Basket](https://leetcode.com/problems/how-many-apples-can-you-put-into-the-basket/) | [1196_how_many_apples_can_you_put_into_the_basket.ipynb](DSA/Easy/1196_how_many_apples_can_you_put_into_the_basket.ipynb) |
+| 1200 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) | [1200_minimum_absolute_difference.ipynb](DSA/Easy/1200_minimum_absolute_difference.ipynb) |
+| 1207 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | [1207_unique_number_of_occurrences.ipynb](DSA/Easy/1207_unique_number_of_occurrences.ipynb) |
+| 1213 | [Intersection of Three Sorted Arrays](https://leetcode.com/problems/intersection-of-three-sorted-arrays/) | [1213_intersection_of_three_sorted_arrays.ipynb](DSA/Easy/1213_intersection_of_three_sorted_arrays.ipynb) |
+| 1217 | [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/) | [1217_minimum_cost_to_move_chips_to_the_same_position.ipynb](DSA/Easy/1217_minimum_cost_to_move_chips_to_the_same_position.ipynb) |
+| 1221 | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/) | [1221_split_a_string_in_balanced_strings.ipynb](DSA/Easy/1221_split_a_string_in_balanced_strings.ipynb) |
+| 1228 | [Missing Number In Arithmetic Progression](https://leetcode.com/problems/missing-number-in-arithmetic-progression/) | [1228_missing_number_in_arithmetic_progression.ipynb](DSA/Easy/1228_missing_number_in_arithmetic_progression.ipynb) |
+| 1232 | [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/) | [1232_check_if_it_is_a_straight_line.ipynb](DSA/Easy/1232_check_if_it_is_a_straight_line.ipynb) |
+| 1243 | [Array Transformation](https://leetcode.com/problems/array-transformation/) | [1243_array_transformation.ipynb](DSA/Easy/1243_array_transformation.ipynb) |
+| 1252 | [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/) | [1252_cells_with_odd_values_in_a_matrix.ipynb](DSA/Easy/1252_cells_with_odd_values_in_a_matrix.ipynb) |
+| 1260 | [Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/) | [1260_shift_2d_grid.ipynb](DSA/Easy/1260_shift_2d_grid.ipynb) |
+| 1266 | [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/) | [1266_minimum_time_visiting_all_points.ipynb](DSA/Easy/1266_minimum_time_visiting_all_points.ipynb) |
+| 1271 | [Hexspeak](https://leetcode.com/problems/hexspeak/) | [1271_hexspeak.ipynb](DSA/Easy/1271_hexspeak.ipynb) |
+| 1275 | [Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/) | [1275_find_winner_on_a_tic_tac_toe_game.ipynb](DSA/Easy/1275_find_winner_on_a_tic_tac_toe_game.ipynb) |
+| 1281 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | [1281_subtract_the_product_and_sum_of_digits_of_an_integer.ipynb](DSA/Easy/1281_subtract_the_product_and_sum_of_digits_of_an_integer.ipynb) |
+| 1287 | [Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/) | [1287_element_appearing_more_than_25_in_sorted_array.ipynb](DSA/Easy/1287_element_appearing_more_than_25_in_sorted_array.ipynb) |
+| 1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [1290_convert_binary_number_in_a_linked_list_to_integer.ipynb](DSA/Easy/1290_convert_binary_number_in_a_linked_list_to_integer.ipynb) |
+| 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | [1295_find_numbers_with_even_number_of_digits.ipynb](DSA/Easy/1295_find_numbers_with_even_number_of_digits.ipynb) |
+| 1299 | [Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) | [1299_replace_elements_with_greatest_element_on_right_side.ipynb](DSA/Easy/1299_replace_elements_with_greatest_element_on_right_side.ipynb) |
 
 ## DSA — Medium — 137 bài
 
