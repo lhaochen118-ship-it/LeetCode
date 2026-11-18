@@ -15,9 +15,9 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 550 notebook** — DSA/Easy: 299 · DSA/Medium: 137 · DSA/Hard: 101 · SQL: 11 · Shell: 2
+**Tổng: 570 notebook** — DSA/Easy: 319 · DSA/Medium: 137 · DSA/Hard: 101 · SQL: 11 · Shell: 2
 
-## DSA — Easy — 299 bài
+## DSA — Easy — 319 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -320,6 +320,26 @@ Shell/                            bài Shell (Bash)
 | 1380 | [Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/) | [1380_lucky_numbers_in_a_matrix.ipynb](DSA/Easy/1380_lucky_numbers_in_a_matrix.ipynb) |
 | 1385 | [Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) | [1385_find_the_distance_value_between_two_arrays.ipynb](DSA/Easy/1385_find_the_distance_value_between_two_arrays.ipynb) |
 | 1389 | [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/) | [1389_create_target_array_in_the_given_order.ipynb](DSA/Easy/1389_create_target_array_in_the_given_order.ipynb) |
+| 1394 | [Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/) | [1394_find_lucky_integer_in_an_array.ipynb](DSA/Easy/1394_find_lucky_integer_in_an_array.ipynb) |
+| 1399 | [Count Largest Group](https://leetcode.com/problems/count-largest-group/) | [1399_count_largest_group.ipynb](DSA/Easy/1399_count_largest_group.ipynb) |
+| 1403 | [Minimum Subsequence in Non-Increasing Order](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/) | [1403_minimum_subsequence_in_non_increasing_order.ipynb](DSA/Easy/1403_minimum_subsequence_in_non_increasing_order.ipynb) |
+| 1408 | [String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/) | [1408_string_matching_in_an_array.ipynb](DSA/Easy/1408_string_matching_in_an_array.ipynb) |
+| 1413 | [Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/) | [1413_minimum_value_to_get_positive_step_by_step_sum.ipynb](DSA/Easy/1413_minimum_value_to_get_positive_step_by_step_sum.ipynb) |
+| 1417 | [Reformat The String](https://leetcode.com/problems/reformat-the-string/) | [1417_reformat_the_string.ipynb](DSA/Easy/1417_reformat_the_string.ipynb) |
+| 1422 | [Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/) | [1422_maximum_score_after_splitting_a_string.ipynb](DSA/Easy/1422_maximum_score_after_splitting_a_string.ipynb) |
+| 1426 | [Counting Elements](https://leetcode.com/problems/counting-elements/) | [1426_counting_elements.ipynb](DSA/Easy/1426_counting_elements.ipynb) |
+| 1427 | [Perform String Shifts](https://leetcode.com/problems/perform-string-shifts/) | [1427_perform_string_shifts.ipynb](DSA/Easy/1427_perform_string_shifts.ipynb) |
+| 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | [1431_kids_with_the_greatest_number_of_candies.ipynb](DSA/Easy/1431_kids_with_the_greatest_number_of_candies.ipynb) |
+| 1436 | [Destination City](https://leetcode.com/problems/destination-city/) | [1436_destination_city.ipynb](DSA/Easy/1436_destination_city.ipynb) |
+| 1437 | [Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/) | [1437_check_if_all_1s_are_at_least_length_k_places_away.ipynb](DSA/Easy/1437_check_if_all_1s_are_at_least_length_k_places_away.ipynb) |
+| 1446 | [Consecutive Characters](https://leetcode.com/problems/consecutive-characters/) | [1446_consecutive_characters.ipynb](DSA/Easy/1446_consecutive_characters.ipynb) |
+| 1450 | [Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/) | [1450_number_of_students_doing_homework_at_a_given_time.ipynb](DSA/Easy/1450_number_of_students_doing_homework_at_a_given_time.ipynb) |
+| 1455 | [Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | [1455_check_if_a_word_occurs_as_a_prefix_of_any_word_in_a_sentence.ipynb](DSA/Easy/1455_check_if_a_word_occurs_as_a_prefix_of_any_word_in_a_sentence.ipynb) |
+| 1460 | [Make Two Arrays Equal by Reversing Subarrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/) | [1460_make_two_arrays_equal_by_reversing_subarrays.ipynb](DSA/Easy/1460_make_two_arrays_equal_by_reversing_subarrays.ipynb) |
+| 1464 | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | [1464_maximum_product_of_two_elements_in_an_array.ipynb](DSA/Easy/1464_maximum_product_of_two_elements_in_an_array.ipynb) |
+| 1469 | [Find All The Lonely Nodes](https://leetcode.com/problems/find-all-the-lonely-nodes/) | [1469_find_all_the_lonely_nodes.ipynb](DSA/Easy/1469_find_all_the_lonely_nodes.ipynb) |
+| 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | [1470_shuffle_the_array.ipynb](DSA/Easy/1470_shuffle_the_array.ipynb) |
+| 1474 | [Delete N Nodes After M Nodes of a Linked List](https://leetcode.com/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/) | [1474_delete_n_nodes_after_m_nodes_of_a_linked_list.ipynb](DSA/Easy/1474_delete_n_nodes_after_m_nodes_of_a_linked_list.ipynb) |
 
 ## DSA — Medium — 137 bài
 
