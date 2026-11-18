@@ -7,9 +7,9 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 ## Trạng thái hiện tại
 
 <!--STATUS-->
-- Cập nhật: 18/11/2026, sau đợt 9
-- ID tiếp theo: 1005 (Easy)
-- Số bài DSA còn lại: 3254
+- Cập nhật: 18/11/2026, sau đợt 10
+- ID tiếp theo: 1099 (Easy)
+- Số bài DSA còn lại: 3234
 <!--/STATUS-->
 
 ## Nhật ký các đợt
@@ -88,3 +88,11 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 - Lỗi: không có
 - Bỏ qua: không có
 - ID tiếp theo: 1005
+
+### Đợt 10 — 18/11/2026
+
+- Đã xong: 1005, 1009, 1013, 1018, 1021, 1022, 1025, 1030, 1037, 1046, 1047, 1051, 1056, 1064, 1065, 1071, 1078, 1085, 1086, 1089
+- Lỗi: không có
+- Bỏ qua: không có
+- Ghi chú: Bài Premium (đề viết theo hiểu biết): 1056, 1064, 1065, 1085, 1086.
+- ID tiếp theo: 1099

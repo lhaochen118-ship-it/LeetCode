@@ -15,9 +15,9 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 470 notebook** — DSA/Easy: 219 · DSA/Medium: 137 · DSA/Hard: 101 · SQL: 11 · Shell: 2
+**Tổng: 490 notebook** — DSA/Easy: 239 · DSA/Medium: 137 · DSA/Hard: 101 · SQL: 11 · Shell: 2
 
-## DSA — Easy — 219 bài
+## DSA — Easy — 239 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -240,6 +240,26 @@ Shell/                            bài Shell (Bash)
 | 0997 | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | [0997_find_the_town_judge.ipynb](DSA/Easy/0997_find_the_town_judge.ipynb) |
 | 0999 | [Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/) | [0999_available_captures_for_rook.ipynb](DSA/Easy/0999_available_captures_for_rook.ipynb) |
 | 1002 | [Find Common Characters](https://leetcode.com/problems/find-common-characters/) | [1002_find_common_characters.ipynb](DSA/Easy/1002_find_common_characters.ipynb) |
+| 1005 | [Maximize Sum Of Array After K Negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/) | [1005_maximize_sum_of_array_after_k_negations.ipynb](DSA/Easy/1005_maximize_sum_of_array_after_k_negations.ipynb) |
+| 1009 | [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/) | [1009_complement_of_base_10_integer.ipynb](DSA/Easy/1009_complement_of_base_10_integer.ipynb) |
+| 1013 | [Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/) | [1013_partition_array_into_three_parts_with_equal_sum.ipynb](DSA/Easy/1013_partition_array_into_three_parts_with_equal_sum.ipynb) |
+| 1018 | [Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/) | [1018_binary_prefix_divisible_by_5.ipynb](DSA/Easy/1018_binary_prefix_divisible_by_5.ipynb) |
+| 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | [1021_remove_outermost_parentheses.ipynb](DSA/Easy/1021_remove_outermost_parentheses.ipynb) |
+| 1022 | [Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/) | [1022_sum_of_root_to_leaf_binary_numbers.ipynb](DSA/Easy/1022_sum_of_root_to_leaf_binary_numbers.ipynb) |
+| 1025 | [Divisor Game](https://leetcode.com/problems/divisor-game/) | [1025_divisor_game.ipynb](DSA/Easy/1025_divisor_game.ipynb) |
+| 1030 | [Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order/) | [1030_matrix_cells_in_distance_order.ipynb](DSA/Easy/1030_matrix_cells_in_distance_order.ipynb) |
+| 1037 | [Valid Boomerang](https://leetcode.com/problems/valid-boomerang/) | [1037_valid_boomerang.ipynb](DSA/Easy/1037_valid_boomerang.ipynb) |
+| 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | [1046_last_stone_weight.ipynb](DSA/Easy/1046_last_stone_weight.ipynb) |
+| 1047 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | [1047_remove_all_adjacent_duplicates_in_string.ipynb](DSA/Easy/1047_remove_all_adjacent_duplicates_in_string.ipynb) |
+| 1051 | [Height Checker](https://leetcode.com/problems/height-checker/) | [1051_height_checker.ipynb](DSA/Easy/1051_height_checker.ipynb) |
+| 1056 | [Confusing Number](https://leetcode.com/problems/confusing-number/) | [1056_confusing_number.ipynb](DSA/Easy/1056_confusing_number.ipynb) |
+| 1064 | [Fixed Point](https://leetcode.com/problems/fixed-point/) | [1064_fixed_point.ipynb](DSA/Easy/1064_fixed_point.ipynb) |
+| 1065 | [Index Pairs of a String](https://leetcode.com/problems/index-pairs-of-a-string/) | [1065_index_pairs_of_a_string.ipynb](DSA/Easy/1065_index_pairs_of_a_string.ipynb) |
+| 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | [1071_greatest_common_divisor_of_strings.ipynb](DSA/Easy/1071_greatest_common_divisor_of_strings.ipynb) |
+| 1078 | [Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram/) | [1078_occurrences_after_bigram.ipynb](DSA/Easy/1078_occurrences_after_bigram.ipynb) |
+| 1085 | [Sum of Digits in the Minimum Number](https://leetcode.com/problems/sum-of-digits-in-the-minimum-number/) | [1085_sum_of_digits_in_the_minimum_number.ipynb](DSA/Easy/1085_sum_of_digits_in_the_minimum_number.ipynb) |
+| 1086 | [High Five](https://leetcode.com/problems/high-five/) | [1086_high_five.ipynb](DSA/Easy/1086_high_five.ipynb) |
+| 1089 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) | [1089_duplicate_zeros.ipynb](DSA/Easy/1089_duplicate_zeros.ipynb) |
 
 ## DSA — Medium — 137 bài
 
