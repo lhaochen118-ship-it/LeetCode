@@ -15,9 +15,9 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 330 notebook** — DSA/Easy: 79 · DSA/Medium: 137 · DSA/Hard: 101 · SQL: 11 · Shell: 2
+**Tổng: 350 notebook** — DSA/Easy: 99 · DSA/Medium: 137 · DSA/Hard: 101 · SQL: 11 · Shell: 2
 
-## DSA — Easy — 79 bài
+## DSA — Easy — 99 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -100,6 +100,26 @@ Shell/                            bài Shell (Bash)
 | 0344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [0344_reverse_string.ipynb](DSA/Easy/0344_reverse_string.ipynb) |
 | 0345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [0345_reverse_vowels_of_a_string.ipynb](DSA/Easy/0345_reverse_vowels_of_a_string.ipynb) |
 | 0346 | [Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/) | [0346_moving_average_from_data_stream.ipynb](DSA/Easy/0346_moving_average_from_data_stream.ipynb) |
+| 0349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [0349_intersection_of_two_arrays.ipynb](DSA/Easy/0349_intersection_of_two_arrays.ipynb) |
+| 0350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [0350_intersection_of_two_arrays_ii.ipynb](DSA/Easy/0350_intersection_of_two_arrays_ii.ipynb) |
+| 0359 | [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/) | [0359_logger_rate_limiter.ipynb](DSA/Easy/0359_logger_rate_limiter.ipynb) |
+| 0367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [0367_valid_perfect_square.ipynb](DSA/Easy/0367_valid_perfect_square.ipynb) |
+| 0374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | [0374_guess_number_higher_or_lower.ipynb](DSA/Easy/0374_guess_number_higher_or_lower.ipynb) |
+| 0383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [0383_ransom_note.ipynb](DSA/Easy/0383_ransom_note.ipynb) |
+| 0387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [0387_first_unique_character_in_a_string.ipynb](DSA/Easy/0387_first_unique_character_in_a_string.ipynb) |
+| 0389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | [0389_find_the_difference.ipynb](DSA/Easy/0389_find_the_difference.ipynb) |
+| 0392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [0392_is_subsequence.ipynb](DSA/Easy/0392_is_subsequence.ipynb) |
+| 0401 | [Binary Watch](https://leetcode.com/problems/binary-watch/) | [0401_binary_watch.ipynb](DSA/Easy/0401_binary_watch.ipynb) |
+| 0404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [0404_sum_of_left_leaves.ipynb](DSA/Easy/0404_sum_of_left_leaves.ipynb) |
+| 0405 | [Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | [0405_convert_a_number_to_hexadecimal.ipynb](DSA/Easy/0405_convert_a_number_to_hexadecimal.ipynb) |
+| 0408 | [Valid Word Abbreviation](https://leetcode.com/problems/valid-word-abbreviation/) | [0408_valid_word_abbreviation.ipynb](DSA/Easy/0408_valid_word_abbreviation.ipynb) |
+| 0409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [0409_longest_palindrome.ipynb](DSA/Easy/0409_longest_palindrome.ipynb) |
+| 0412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [0412_fizz_buzz.ipynb](DSA/Easy/0412_fizz_buzz.ipynb) |
+| 0414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [0414_third_maximum_number.ipynb](DSA/Easy/0414_third_maximum_number.ipynb) |
+| 0415 | [Add Strings](https://leetcode.com/problems/add-strings/) | [0415_add_strings.ipynb](DSA/Easy/0415_add_strings.ipynb) |
+| 0422 | [Valid Word Square](https://leetcode.com/problems/valid-word-square/) | [0422_valid_word_square.ipynb](DSA/Easy/0422_valid_word_square.ipynb) |
+| 0434 | [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/) | [0434_number_of_segments_in_a_string.ipynb](DSA/Easy/0434_number_of_segments_in_a_string.ipynb) |
+| 0441 | [Arranging Coins](https://leetcode.com/problems/arranging-coins/) | [0441_arranging_coins.ipynb](DSA/Easy/0441_arranging_coins.ipynb) |
 
 ## DSA — Medium — 137 bài
 
