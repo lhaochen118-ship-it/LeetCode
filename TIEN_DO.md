@@ -7,9 +7,9 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 ## Trạng thái hiện tại
 
 <!--STATUS-->
-- Cập nhật: 18/11/2026, sau đợt 8
-- ID tiếp theo: 914 (Easy)
-- Số bài DSA còn lại: 3274
+- Cập nhật: 18/11/2026, sau đợt 9
+- ID tiếp theo: 1005 (Easy)
+- Số bài DSA còn lại: 3254
 <!--/STATUS-->
 
 ## Nhật ký các đợt
@@ -81,3 +81,10 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 - Lỗi: không có
 - Bỏ qua: không có
 - ID tiếp theo: 914
+
+### Đợt 9 — 18/11/2026
+
+- Đã xong: 914, 917, 922, 925, 929, 933, 938, 941, 942, 944, 953, 961, 965, 976, 977, 989, 993, 997, 999, 1002
+- Lỗi: không có
+- Bỏ qua: không có
+- ID tiếp theo: 1005

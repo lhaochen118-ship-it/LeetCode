@@ -15,9 +15,9 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 450 notebook** — DSA/Easy: 199 · DSA/Medium: 137 · DSA/Hard: 101 · SQL: 11 · Shell: 2
+**Tổng: 470 notebook** — DSA/Easy: 219 · DSA/Medium: 137 · DSA/Hard: 101 · SQL: 11 · Shell: 2
 
-## DSA — Easy — 199 bài
+## DSA — Easy — 219 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -220,6 +220,26 @@ Shell/                            bài Shell (Bash)
 | 0897 | [Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/) | [0897_increasing_order_search_tree.ipynb](DSA/Easy/0897_increasing_order_search_tree.ipynb) |
 | 0905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [0905_sort_array_by_parity.ipynb](DSA/Easy/0905_sort_array_by_parity.ipynb) |
 | 0908 | [Smallest Range I](https://leetcode.com/problems/smallest-range-i/) | [0908_smallest_range_i.ipynb](DSA/Easy/0908_smallest_range_i.ipynb) |
+| 0914 | [X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/) | [0914_x_of_a_kind_in_a_deck_of_cards.ipynb](DSA/Easy/0914_x_of_a_kind_in_a_deck_of_cards.ipynb) |
+| 0917 | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) | [0917_reverse_only_letters.ipynb](DSA/Easy/0917_reverse_only_letters.ipynb) |
+| 0922 | [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/) | [0922_sort_array_by_parity_ii.ipynb](DSA/Easy/0922_sort_array_by_parity_ii.ipynb) |
+| 0925 | [Long Pressed Name](https://leetcode.com/problems/long-pressed-name/) | [0925_long_pressed_name.ipynb](DSA/Easy/0925_long_pressed_name.ipynb) |
+| 0929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | [0929_unique_email_addresses.ipynb](DSA/Easy/0929_unique_email_addresses.ipynb) |
+| 0933 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | [0933_number_of_recent_calls.ipynb](DSA/Easy/0933_number_of_recent_calls.ipynb) |
+| 0938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [0938_range_sum_of_bst.ipynb](DSA/Easy/0938_range_sum_of_bst.ipynb) |
+| 0941 | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | [0941_valid_mountain_array.ipynb](DSA/Easy/0941_valid_mountain_array.ipynb) |
+| 0942 | [DI String Match](https://leetcode.com/problems/di-string-match/) | [0942_di_string_match.ipynb](DSA/Easy/0942_di_string_match.ipynb) |
+| 0944 | [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/) | [0944_delete_columns_to_make_sorted.ipynb](DSA/Easy/0944_delete_columns_to_make_sorted.ipynb) |
+| 0953 | [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/) | [0953_verifying_an_alien_dictionary.ipynb](DSA/Easy/0953_verifying_an_alien_dictionary.ipynb) |
+| 0961 | [N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | [0961_n_repeated_element_in_size_2n_array.ipynb](DSA/Easy/0961_n_repeated_element_in_size_2n_array.ipynb) |
+| 0965 | [Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/) | [0965_univalued_binary_tree.ipynb](DSA/Easy/0965_univalued_binary_tree.ipynb) |
+| 0976 | [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/) | [0976_largest_perimeter_triangle.ipynb](DSA/Easy/0976_largest_perimeter_triangle.ipynb) |
+| 0977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [0977_squares_of_a_sorted_array.ipynb](DSA/Easy/0977_squares_of_a_sorted_array.ipynb) |
+| 0989 | [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) | [0989_add_to_array_form_of_integer.ipynb](DSA/Easy/0989_add_to_array_form_of_integer.ipynb) |
+| 0993 | [Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/) | [0993_cousins_in_binary_tree.ipynb](DSA/Easy/0993_cousins_in_binary_tree.ipynb) |
+| 0997 | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | [0997_find_the_town_judge.ipynb](DSA/Easy/0997_find_the_town_judge.ipynb) |
+| 0999 | [Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/) | [0999_available_captures_for_rook.ipynb](DSA/Easy/0999_available_captures_for_rook.ipynb) |
+| 1002 | [Find Common Characters](https://leetcode.com/problems/find-common-characters/) | [1002_find_common_characters.ipynb](DSA/Easy/1002_find_common_characters.ipynb) |
 
 ## DSA — Medium — 137 bài
 
