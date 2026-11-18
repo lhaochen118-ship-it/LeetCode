@@ -15,9 +15,9 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 490 notebook** — DSA/Easy: 239 · DSA/Medium: 137 · DSA/Hard: 101 · SQL: 11 · Shell: 2
+**Tổng: 510 notebook** — DSA/Easy: 259 · DSA/Medium: 137 · DSA/Hard: 101 · SQL: 11 · Shell: 2
 
-## DSA — Easy — 239 bài
+## DSA — Easy — 259 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -260,6 +260,26 @@ Shell/                            bài Shell (Bash)
 | 1085 | [Sum of Digits in the Minimum Number](https://leetcode.com/problems/sum-of-digits-in-the-minimum-number/) | [1085_sum_of_digits_in_the_minimum_number.ipynb](DSA/Easy/1085_sum_of_digits_in_the_minimum_number.ipynb) |
 | 1086 | [High Five](https://leetcode.com/problems/high-five/) | [1086_high_five.ipynb](DSA/Easy/1086_high_five.ipynb) |
 | 1089 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) | [1089_duplicate_zeros.ipynb](DSA/Easy/1089_duplicate_zeros.ipynb) |
+| 1099 | [Two Sum Less Than K](https://leetcode.com/problems/two-sum-less-than-k/) | [1099_two_sum_less_than_k.ipynb](DSA/Easy/1099_two_sum_less_than_k.ipynb) |
+| 1103 | [Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/) | [1103_distribute_candies_to_people.ipynb](DSA/Easy/1103_distribute_candies_to_people.ipynb) |
+| 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [1108_defanging_an_ip_address.ipynb](DSA/Easy/1108_defanging_an_ip_address.ipynb) |
+| 1118 | [Number of Days in a Month](https://leetcode.com/problems/number-of-days-in-a-month/) | [1118_number_of_days_in_a_month.ipynb](DSA/Easy/1118_number_of_days_in_a_month.ipynb) |
+| 1119 | [Remove Vowels from a String](https://leetcode.com/problems/remove-vowels-from-a-string/) | [1119_remove_vowels_from_a_string.ipynb](DSA/Easy/1119_remove_vowels_from_a_string.ipynb) |
+| 1120 | [Maximum Average Subtree](https://leetcode.com/problems/maximum-average-subtree/) | [1120_maximum_average_subtree.ipynb](DSA/Easy/1120_maximum_average_subtree.ipynb) |
+| 1122 | [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/) | [1122_relative_sort_array.ipynb](DSA/Easy/1122_relative_sort_array.ipynb) |
+| 1128 | [Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/) | [1128_number_of_equivalent_domino_pairs.ipynb](DSA/Easy/1128_number_of_equivalent_domino_pairs.ipynb) |
+| 1133 | [Largest Unique Number](https://leetcode.com/problems/largest-unique-number/) | [1133_largest_unique_number.ipynb](DSA/Easy/1133_largest_unique_number.ipynb) |
+| 1134 | [Armstrong Number](https://leetcode.com/problems/armstrong-number/) | [1134_armstrong_number.ipynb](DSA/Easy/1134_armstrong_number.ipynb) |
+| 1137 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | [1137_n_th_tribonacci_number.ipynb](DSA/Easy/1137_n_th_tribonacci_number.ipynb) |
+| 1150 | [Check If a Number Is Majority Element in a Sorted Array](https://leetcode.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array/) | [1150_check_if_a_number_is_majority_element_in_a_sorted_array.ipynb](DSA/Easy/1150_check_if_a_number_is_majority_element_in_a_sorted_array.ipynb) |
+| 1154 | [Day of the Year](https://leetcode.com/problems/day-of-the-year/) | [1154_day_of_the_year.ipynb](DSA/Easy/1154_day_of_the_year.ipynb) |
+| 1160 | [Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/) | [1160_find_words_that_can_be_formed_by_characters.ipynb](DSA/Easy/1160_find_words_that_can_be_formed_by_characters.ipynb) |
+| 1165 | [Single-Row Keyboard](https://leetcode.com/problems/single-row-keyboard/) | [1165_single_row_keyboard.ipynb](DSA/Easy/1165_single_row_keyboard.ipynb) |
+| 1175 | [Prime Arrangements](https://leetcode.com/problems/prime-arrangements/) | [1175_prime_arrangements.ipynb](DSA/Easy/1175_prime_arrangements.ipynb) |
+| 1176 | [Diet Plan Performance](https://leetcode.com/problems/diet-plan-performance/) | [1176_diet_plan_performance.ipynb](DSA/Easy/1176_diet_plan_performance.ipynb) |
+| 1180 | [Count Substrings with Only One Distinct Letter](https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter/) | [1180_count_substrings_with_only_one_distinct_letter.ipynb](DSA/Easy/1180_count_substrings_with_only_one_distinct_letter.ipynb) |
+| 1184 | [Distance Between Bus Stops](https://leetcode.com/problems/distance-between-bus-stops/) | [1184_distance_between_bus_stops.ipynb](DSA/Easy/1184_distance_between_bus_stops.ipynb) |
+| 1185 | [Day of the Week](https://leetcode.com/problems/day-of-the-week/) | [1185_day_of_the_week.ipynb](DSA/Easy/1185_day_of_the_week.ipynb) |
 
 ## DSA — Medium — 137 bài
 
