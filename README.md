@@ -15,9 +15,9 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 917 notebook** — DSA/Easy: 653 · DSA/Medium: 143 · DSA/Hard: 108 · SQL: 11 · Shell: 2
+**Tổng: 937 notebook** — DSA/Easy: 673 · DSA/Medium: 143 · DSA/Hard: 108 · SQL: 11 · Shell: 2
 
-## DSA — Easy — 653 bài
+## DSA — Easy — 673 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -640,6 +640,26 @@ Shell/                            bài Shell (Bash)
 | 2928 | [Distribute Candies Among Children I](https://leetcode.com/problems/distribute-candies-among-children-i/) | [2928_distribute_candies_among_children_i.ipynb](DSA/Easy/2928_distribute_candies_among_children_i.ipynb) |
 | 2932 | [Maximum Strong Pair XOR I](https://leetcode.com/problems/maximum-strong-pair-xor-i/) | [2932_maximum_strong_pair_xor_i.ipynb](DSA/Easy/2932_maximum_strong_pair_xor_i.ipynb) |
 | 2937 | [Make Three Strings Equal](https://leetcode.com/problems/make-three-strings-equal/) | [2937_make_three_strings_equal.ipynb](DSA/Easy/2937_make_three_strings_equal.ipynb) |
+| 2942 | [Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/) | [2942_find_words_containing_character.ipynb](DSA/Easy/2942_find_words_containing_character.ipynb) |
+| 2946 | [Matrix Similarity After Cyclic Shifts](https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts/) | [2946_matrix_similarity_after_cyclic_shifts.ipynb](DSA/Easy/2946_matrix_similarity_after_cyclic_shifts.ipynb) |
+| 2951 | [Find the Peaks](https://leetcode.com/problems/find-the-peaks/) | [2951_find_the_peaks.ipynb](DSA/Easy/2951_find_the_peaks.ipynb) |
+| 2956 | [Find Common Elements Between Two Arrays](https://leetcode.com/problems/find-common-elements-between-two-arrays/) | [2956_find_common_elements_between_two_arrays.ipynb](DSA/Easy/2956_find_common_elements_between_two_arrays.ipynb) |
+| 2960 | [Count Tested Devices After Test Operations](https://leetcode.com/problems/count-tested-devices-after-test-operations/) | [2960_count_tested_devices_after_test_operations.ipynb](DSA/Easy/2960_count_tested_devices_after_test_operations.ipynb) |
+| 2965 | [Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/) | [2965_find_missing_and_repeated_values.ipynb](DSA/Easy/2965_find_missing_and_repeated_values.ipynb) |
+| 2970 | [Count the Number of Incremovable Subarrays I](https://leetcode.com/problems/count-the-number-of-incremovable-subarrays-i/) | [2970_count_the_number_of_incremovable_subarrays_i.ipynb](DSA/Easy/2970_count_the_number_of_incremovable_subarrays_i.ipynb) |
+| 2974 | [Minimum Number Game](https://leetcode.com/problems/minimum-number-game/) | [2974_minimum_number_game.ipynb](DSA/Easy/2974_minimum_number_game.ipynb) |
+| 2980 | [Check if Bitwise OR Has Trailing Zeros](https://leetcode.com/problems/check-if-bitwise-or-has-trailing-zeros/) | [2980_check_if_bitwise_or_has_trailing_zeros.ipynb](DSA/Easy/2980_check_if_bitwise_or_has_trailing_zeros.ipynb) |
+| 2996 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/) | [2996_smallest_missing_integer_greater_than_sequential_prefix_sum.ipynb](DSA/Easy/2996_smallest_missing_integer_greater_than_sequential_prefix_sum.ipynb) |
+| 3000 | [Maximum Area of Longest Diagonal Rectangle](https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle/) | [3000_maximum_area_of_longest_diagonal_rectangle.ipynb](DSA/Easy/3000_maximum_area_of_longest_diagonal_rectangle.ipynb) |
+| 3005 | [Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/) | [3005_count_elements_with_maximum_frequency.ipynb](DSA/Easy/3005_count_elements_with_maximum_frequency.ipynb) |
+| 3010 | [Divide an Array Into Subarrays With Minimum Cost I](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/) | [3010_divide_an_array_into_subarrays_with_minimum_cost_i.ipynb](DSA/Easy/3010_divide_an_array_into_subarrays_with_minimum_cost_i.ipynb) |
+| 3014 | [Minimum Number of Pushes to Type Word I](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/) | [3014_minimum_number_of_pushes_to_type_word_i.ipynb](DSA/Easy/3014_minimum_number_of_pushes_to_type_word_i.ipynb) |
+| 3019 | [Number of Changing Keys](https://leetcode.com/problems/number-of-changing-keys/) | [3019_number_of_changing_keys.ipynb](DSA/Easy/3019_number_of_changing_keys.ipynb) |
+| 3024 | [Type of Triangle](https://leetcode.com/problems/type-of-triangle/) | [3024_type_of_triangle.ipynb](DSA/Easy/3024_type_of_triangle.ipynb) |
+| 3028 | [Ant on the Boundary](https://leetcode.com/problems/ant-on-the-boundary/) | [3028_ant_on_the_boundary.ipynb](DSA/Easy/3028_ant_on_the_boundary.ipynb) |
+| 3032 | [Count Numbers With Unique Digits II](https://leetcode.com/problems/count-numbers-with-unique-digits-ii/) | [3032_count_numbers_with_unique_digits_ii.ipynb](DSA/Easy/3032_count_numbers_with_unique_digits_ii.ipynb) |
+| 3033 | [Modify the Matrix](https://leetcode.com/problems/modify-the-matrix/) | [3033_modify_the_matrix.ipynb](DSA/Easy/3033_modify_the_matrix.ipynb) |
+| 3038 | [Maximum Number of Operations With the Same Score I](https://leetcode.com/problems/maximum-number-of-operations-with-the-same-score-i/) | [3038_maximum_number_of_operations_with_the_same_score_i.ipynb](DSA/Easy/3038_maximum_number_of_operations_with_the_same_score_i.ipynb) |
 | 3467 | [Transform Array by Parity](https://leetcode.com/problems/transform-array-by-parity/) | [3467_transform_array_by_parity.ipynb](DSA/Easy/3467_transform_array_by_parity.ipynb) |
 | 3471 | [Find the Largest Almost Missing Integer](https://leetcode.com/problems/find-the-largest-almost-missing-integer/) | [3471_find_the_largest_almost_missing_integer.ipynb](DSA/Easy/3471_find_the_largest_almost_missing_integer.ipynb) |
 | 3477 | [Fruits Into Baskets II](https://leetcode.com/problems/fruits-into-baskets-ii/) | [3477_fruits_into_baskets_ii.ipynb](DSA/Easy/3477_fruits_into_baskets_ii.ipynb) |

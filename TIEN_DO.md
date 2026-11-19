@@ -271,3 +271,11 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 - Ghi chú: Đợt 40 tính theo lưới 20 bài/đợt từ đợt 29 (bắt đầu 2883); Easy chỉ còn 14 bài nên bù 6 bài Medium đầu danh sách. Đề lấy từ bản doocs/leetcode (đề, ví dụ, chữ ký hàm), mọi ví dụ được assert và đối chiếu brute force. 0215 có cell đo thời gian nên số ms đổi theo mỗi lần chạy. 4074 nhiều đáp án đúng (test kiểm tra tính hợp lệ + tích lớn nhất).
 - Các đợt 36–39 (Easy 3.6xx–4.0xx) do khung chat khác làm; kiểm tra Excel/README để biết ID còn thiếu của Easy.
 - ID Medium tiếp theo: 0229 (đợt 41 → 229–261, đợt 42 → 264–306, đợt 43 → 307–341).
+
+### Đợt 30 — 19/11/2026
+
+- Đã xong: 2942, 2946, 2951, 2956, 2960, 2965, 2970, 2974, 2980, 2996, 3000, 3005, 3010, 3014, 3019, 3024, 3028, 3032, 3033, 3038
+- Lỗi: không có
+- Bỏ qua: không có
+- Ghi chú: Bài Premium (đề viết theo hiểu biết): 3032. Ví dụ cần đối chiếu với đề gốc: 2946 (ví dụ 2), 3024 (ví dụ `[5,5,8]` và `[8,4,4]` tự dựng), 2960, 2965, 2970, 3000, 3010, 3038. Ví dụ phụ tự dựng (đã kiểm chứng bằng code): 2942, 2956, 2996, 3014. Đợt này chỉ chạy 1 agent theo yêu cầu. Các phiên khác đã làm đợt 35, 40 (Easy 4043–4111…) trên main; đã gộp main trước khi ghi.
+- ID tiếp theo (sau 3038): tra Excel (bài Easy chưa có, ID > 3038); đợt 25 (2475–2566) vẫn dở, xem mục Đợt 25 ở trên.
