@@ -7,9 +7,9 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 ## Trạng thái hiện tại
 
 <!--STATUS-->
-- Cập nhật: 19/11/2026, sau đợt 29 (đợt 25 còn dở)
-- ID tiếp theo: 2490 (Easy, hoàn tất đợt 25 dở), sau đó 2942 (Easy đợt 30)
-- Số bài DSA còn lại: 2874
+- Cập nhật: 19/11/2026, sau đợt 25 (đã làm bù) — các đợt 26–29 xong; đợt 30–34 do khung chat khác, đợt 35–37 do phiên này
+- ID tiếp theo: 2942 (Easy, đợt 30)
+- Số bài DSA còn lại: 2854
 <!--/STATUS-->
 
 ## Nhật ký các đợt
@@ -234,15 +234,9 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 - Lỗi: không có
 - Bỏ qua: không có
 - Ghi chú: 2883–2891 là bài pandas (pandas 3.x, chữ ký hàm và dữ liệu ví dụ viết theo trí nhớ — đối chiếu lại với đề gốc). Ví dụ cần đối chiếu: 2888 (ignore_index), 2889 (index/reset_index của pivot), 2887 (dtype quantity), 2891 (nhãn hàng), 2900 (nhiều đáp án đúng; test kiểm tra tính hợp lệ + độ dài tối ưu). Các bài còn lại đề/ví dụ viết theo trí nhớ, đáp án khớp brute force. Đợt này chỉ chạy 1 agent theo yêu cầu; theo yêu cầu người dùng, dừng sau đợt 29.
-- Còn thiếu: đợt 25 (Easy 2475–2566, 20 bài) vẫn chưa có trên repo — nên làm bù ở đợt kế tiếp.
+- Đợt 25 (2475–2566) đã làm bù xong, xem mục "Đợt 25" bên dưới.
 - ID tiếp theo (sau 2937): 2942 (và 2475 nếu làm bù đợt 25 trước)
 
-### Đợt 25 — đang dở (dừng do hết giới hạn sử dụng, reset 6:40 UTC 19/11/2026)
-
-- Đợt 25 gồm 20 bài: 2475, 2481, 2485, 2490, 2496, 2500, 2506, 2511, 2515, 2520, 2525, 2529, 2535, 2540, 2544, 2549, 2553, 2558, 2562, 2566.
-- Đã có file và đạt kiểm tra (chưa ghi Excel/README): 2475, 2481, 2485, 2496.
-- Còn phải viết: 2490, 2500, 2506, 2511, 2515, 2520, 2525, 2529, 2535, 2540, 2544, 2549, 2553, 2558, 2562, 2566 (có thể có file viết dở cho 2506–2566: kiểm tra bằng check_nb.py rồi làm lại nếu FAIL).
-- Khi đủ 20 bài: cập nhật Excel/README (README/Excel hiện CHƯA có 2475, 2481, 2485, 2496), ghi "Đợt 25" vào nhật ký, rồi làm tiếp đợt 30 từ Easy #2942 (tra Excel để lấy ID chính xác).
 
 ### Đợt 25 — 19/11/2026
 
