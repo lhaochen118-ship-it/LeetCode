@@ -279,3 +279,10 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 - Bỏ qua: không có
 - Ghi chú: Bài Premium (đề viết theo hiểu biết): 3032. Ví dụ cần đối chiếu với đề gốc: 2946 (ví dụ 2), 3024 (ví dụ `[5,5,8]` và `[8,4,4]` tự dựng), 2960, 2965, 2970, 3000, 3010, 3038. Ví dụ phụ tự dựng (đã kiểm chứng bằng code): 2942, 2956, 2996, 3014. Đợt này chỉ chạy 1 agent theo yêu cầu. Các phiên khác đã làm đợt 35, 40 (Easy 4043–4111…) trên main; đã gộp main trước khi ghi.
 - ID tiếp theo (sau 3038): tra Excel (bài Easy chưa có, ID > 3038); đợt 25 (2475–2566) vẫn dở, xem mục Đợt 25 ở trên.
+
+### Đợt 36 — 19/11/2026
+
+- Đã xong: 3591, 3602, 3606, 3622, 3633, 3637, 3643, 3658, 3662, 3663, 3667, 3668, 3674, 3678, 3683, 3684, 3687, 3688, 3692, 3696
+- Lỗi: không có
+- Bỏ qua: không có
+- Ghi chú: Bài Premium (đề viết theo hiểu biết): 3662, 3667, 3687, 3696. Cần đối chiếu đề: 3622 (constraint n ≤ 10^6), 3674 (điều kiện AND toàn mảng), 3696 (khoảng cách j-i+1).

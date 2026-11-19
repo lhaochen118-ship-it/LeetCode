@@ -15,9 +15,9 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 937 notebook** — DSA/Easy: 673 · DSA/Medium: 143 · DSA/Hard: 108 · SQL: 11 · Shell: 2
+**Tổng: 957 notebook** — DSA/Easy: 693 · DSA/Medium: 143 · DSA/Hard: 108 · SQL: 11 · Shell: 2
 
-## DSA — Easy — 673 bài
+## DSA — Easy — 693 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -680,6 +680,26 @@ Shell/                            bài Shell (Bash)
 | 3571 | [Find the Shortest Superstring II](https://leetcode.com/problems/find-the-shortest-superstring-ii/) | [3571_find_the_shortest_superstring_ii.ipynb](DSA/Easy/3571_find_the_shortest_superstring_ii.ipynb) |
 | 3581 | [Count Odd Letters from Number](https://leetcode.com/problems/count-odd-letters-from-number/) | [3581_count_odd_letters_from_number.ipynb](DSA/Easy/3581_count_odd_letters_from_number.ipynb) |
 | 3582 | [Generate Tag for Video Caption](https://leetcode.com/problems/generate-tag-for-video-caption/) | [3582_generate_tag_for_video_caption.ipynb](DSA/Easy/3582_generate_tag_for_video_caption.ipynb) |
+| 3591 | [Check if Any Element Has Prime Frequency](https://leetcode.com/problems/check-if-any-element-has-prime-frequency/) | [3591_check_if_any_element_has_prime_frequency.ipynb](DSA/Easy/3591_check_if_any_element_has_prime_frequency.ipynb) |
+| 3602 | [Hexadecimal and Hexatrigesimal Conversion](https://leetcode.com/problems/hexadecimal-and-hexatrigesimal-conversion/) | [3602_hexadecimal_and_hexatrigesimal_conversion.ipynb](DSA/Easy/3602_hexadecimal_and_hexatrigesimal_conversion.ipynb) |
+| 3606 | [Coupon Code Validator](https://leetcode.com/problems/coupon-code-validator/) | [3606_coupon_code_validator.ipynb](DSA/Easy/3606_coupon_code_validator.ipynb) |
+| 3622 | [Check Divisibility by Digit Sum and Product](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/) | [3622_check_divisibility_by_digit_sum_and_product.ipynb](DSA/Easy/3622_check_divisibility_by_digit_sum_and_product.ipynb) |
+| 3633 | [Earliest Finish Time for Land and Water Rides I](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/) | [3633_earliest_finish_time_for_land_and_water_rides_i.ipynb](DSA/Easy/3633_earliest_finish_time_for_land_and_water_rides_i.ipynb) |
+| 3637 | [Trionic Array I](https://leetcode.com/problems/trionic-array-i/) | [3637_trionic_array_i.ipynb](DSA/Easy/3637_trionic_array_i.ipynb) |
+| 3643 | [Flip Square Submatrix Vertically](https://leetcode.com/problems/flip-square-submatrix-vertically/) | [3643_flip_square_submatrix_vertically.ipynb](DSA/Easy/3643_flip_square_submatrix_vertically.ipynb) |
+| 3658 | [GCD of Odd and Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums/) | [3658_gcd_of_odd_and_even_sums.ipynb](DSA/Easy/3658_gcd_of_odd_and_even_sums.ipynb) |
+| 3662 | [Filter Characters by Frequency](https://leetcode.com/problems/filter-characters-by-frequency/) | [3662_filter_characters_by_frequency.ipynb](DSA/Easy/3662_filter_characters_by_frequency.ipynb) |
+| 3663 | [Find The Least Frequent Digit](https://leetcode.com/problems/find-the-least-frequent-digit/) | [3663_find_the_least_frequent_digit.ipynb](DSA/Easy/3663_find_the_least_frequent_digit.ipynb) |
+| 3667 | [Sort Array By Absolute Value](https://leetcode.com/problems/sort-array-by-absolute-value/) | [3667_sort_array_by_absolute_value.ipynb](DSA/Easy/3667_sort_array_by_absolute_value.ipynb) |
+| 3668 | [Restore Finishing Order](https://leetcode.com/problems/restore-finishing-order/) | [3668_restore_finishing_order.ipynb](DSA/Easy/3668_restore_finishing_order.ipynb) |
+| 3674 | [Minimum Operations to Equalize Array](https://leetcode.com/problems/minimum-operations-to-equalize-array/) | [3674_minimum_operations_to_equalize_array.ipynb](DSA/Easy/3674_minimum_operations_to_equalize_array.ipynb) |
+| 3678 | [Smallest Absent Positive Greater Than Average](https://leetcode.com/problems/smallest-absent-positive-greater-than-average/) | [3678_smallest_absent_positive_greater_than_average.ipynb](DSA/Easy/3678_smallest_absent_positive_greater_than_average.ipynb) |
+| 3683 | [Earliest Time to Finish One Task](https://leetcode.com/problems/earliest-time-to-finish-one-task/) | [3683_earliest_time_to_finish_one_task.ipynb](DSA/Easy/3683_earliest_time_to_finish_one_task.ipynb) |
+| 3684 | [Maximize Sum of At Most K Distinct Elements](https://leetcode.com/problems/maximize-sum-of-at-most-k-distinct-elements/) | [3684_maximize_sum_of_at_most_k_distinct_elements.ipynb](DSA/Easy/3684_maximize_sum_of_at_most_k_distinct_elements.ipynb) |
+| 3687 | [Library Late Fee Calculator](https://leetcode.com/problems/library-late-fee-calculator/) | [3687_library_late_fee_calculator.ipynb](DSA/Easy/3687_library_late_fee_calculator.ipynb) |
+| 3688 | [Bitwise OR of Even Numbers in an Array](https://leetcode.com/problems/bitwise-or-of-even-numbers-in-an-array/) | [3688_bitwise_or_of_even_numbers_in_an_array.ipynb](DSA/Easy/3688_bitwise_or_of_even_numbers_in_an_array.ipynb) |
+| 3692 | [Majority Frequency Characters](https://leetcode.com/problems/majority-frequency-characters/) | [3692_majority_frequency_characters.ipynb](DSA/Easy/3692_majority_frequency_characters.ipynb) |
+| 3696 | [Maximum Distance Between Unequal Words in Array I](https://leetcode.com/problems/maximum-distance-between-unequal-words-in-array-i/) | [3696_maximum_distance_between_unequal_words_in_array_i.ipynb](DSA/Easy/3696_maximum_distance_between_unequal_words_in_array_i.ipynb) |
 | 4043 | [Count Rotations With Exactly K Equal Adjacent Pairs](https://leetcode.com/problems/count-rotations-with-exactly-k-equal-adjacent-pairs/) | [4043_count_rotations_with_exactly_k_equal_adjacent_pairs.ipynb](DSA/Easy/4043_count_rotations_with_exactly_k_equal_adjacent_pairs.ipynb) |
 | 4048 | [Count Values With Equally Spaced Occurrences I](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-i/) | [4048_count_values_with_equally_spaced_occurrences_i.ipynb](DSA/Easy/4048_count_values_with_equally_spaced_occurrences_i.ipynb) |
 | 4052 | [Cyclically Shift Rows and Columns](https://leetcode.com/problems/cyclically-shift-rows-and-columns/) | [4052_cyclically_shift_rows_and_columns.ipynb](DSA/Easy/4052_cyclically_shift_rows_and_columns.ipynb) |
