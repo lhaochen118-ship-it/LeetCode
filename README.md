@@ -15,9 +15,9 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 977 notebook** — DSA/Easy: 693 · DSA/Medium: 163 · DSA/Hard: 108 · SQL: 11 · Shell: 2
+**Tổng: 997 notebook** — DSA/Easy: 713 · DSA/Medium: 163 · DSA/Hard: 108 · SQL: 11 · Shell: 2
 
-## DSA — Easy — 693 bài
+## DSA — Easy — 713 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -700,6 +700,26 @@ Shell/                            bài Shell (Bash)
 | 3688 | [Bitwise OR of Even Numbers in an Array](https://leetcode.com/problems/bitwise-or-of-even-numbers-in-an-array/) | [3688_bitwise_or_of_even_numbers_in_an_array.ipynb](DSA/Easy/3688_bitwise_or_of_even_numbers_in_an_array.ipynb) |
 | 3692 | [Majority Frequency Characters](https://leetcode.com/problems/majority-frequency-characters/) | [3692_majority_frequency_characters.ipynb](DSA/Easy/3692_majority_frequency_characters.ipynb) |
 | 3696 | [Maximum Distance Between Unequal Words in Array I](https://leetcode.com/problems/maximum-distance-between-unequal-words-in-array-i/) | [3696_maximum_distance_between_unequal_words_in_array_i.ipynb](DSA/Easy/3696_maximum_distance_between_unequal_words_in_array_i.ipynb) |
+| 3697 | [Compute Decimal Representation](https://leetcode.com/problems/compute-decimal-representation/) | [3697_compute_decimal_representation.ipynb](DSA/Easy/3697_compute_decimal_representation.ipynb) |
+| 3701 | [Compute Alternating Sum](https://leetcode.com/problems/compute-alternating-sum/) | [3701_compute_alternating_sum.ipynb](DSA/Easy/3701_compute_alternating_sum.ipynb) |
+| 3707 | [Equal Score Substrings](https://leetcode.com/problems/equal-score-substrings/) | [3707_equal_score_substrings.ipynb](DSA/Easy/3707_equal_score_substrings.ipynb) |
+| 3712 | [Sum of Elements With Frequency Divisible by K](https://leetcode.com/problems/sum-of-elements-with-frequency-divisible-by-k/) | [3712_sum_of_elements_with_frequency_divisible_by_k.ipynb](DSA/Easy/3712_sum_of_elements_with_frequency_divisible_by_k.ipynb) |
+| 3718 | [Smallest Missing Multiple of K](https://leetcode.com/problems/smallest-missing-multiple-of-k/) | [3718_smallest_missing_multiple_of_k.ipynb](DSA/Easy/3718_smallest_missing_multiple_of_k.ipynb) |
+| 3726 | [Remove Zeros in Decimal Representation](https://leetcode.com/problems/remove-zeros-in-decimal-representation/) | [3726_remove_zeros_in_decimal_representation.ipynb](DSA/Easy/3726_remove_zeros_in_decimal_representation.ipynb) |
+| 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/) | [3731_find_missing_elements.ipynb](DSA/Easy/3731_find_missing_elements.ipynb) |
+| 3736 | [Minimum Moves to Equal Array Elements III](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/) | [3736_minimum_moves_to_equal_array_elements_iii.ipynb](DSA/Easy/3736_minimum_moves_to_equal_array_elements_iii.ipynb) |
+| 3740 | [Minimum Distance Between Three Equal Elements I](https://leetcode.com/problems/minimum-distance-between-three-equal-elements-i/) | [3740_minimum_distance_between_three_equal_elements_i.ipynb](DSA/Easy/3740_minimum_distance_between_three_equal_elements_i.ipynb) |
+| 3745 | [Maximize Expression of Three Elements](https://leetcode.com/problems/maximize-expression-of-three-elements/) | [3745_maximize_expression_of_three_elements.ipynb](DSA/Easy/3745_maximize_expression_of_three_elements.ipynb) |
+| 3750 | [Minimum Number of Flips to Reverse Binary String](https://leetcode.com/problems/minimum-number-of-flips-to-reverse-binary-string/) | [3750_minimum_number_of_flips_to_reverse_binary_string.ipynb](DSA/Easy/3750_minimum_number_of_flips_to_reverse_binary_string.ipynb) |
+| 3754 | [Concatenate Non-Zero Digits and Multiply by Sum I](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i/) | [3754_concatenate_non_zero_digits_and_multiply_by_sum_i.ipynb](DSA/Easy/3754_concatenate_non_zero_digits_and_multiply_by_sum_i.ipynb) |
+| 3769 | [Sort Integers by Binary Reflection](https://leetcode.com/problems/sort-integers-by-binary-reflection/) | [3769_sort_integers_by_binary_reflection.ipynb](DSA/Easy/3769_sort_integers_by_binary_reflection.ipynb) |
+| 3774 | [Absolute Difference Between Maximum and Minimum K Elements](https://leetcode.com/problems/absolute-difference-between-maximum-and-minimum-k-elements/) | [3774_absolute_difference_between_maximum_and_minimum_k_elements.ipynb](DSA/Easy/3774_absolute_difference_between_maximum_and_minimum_k_elements.ipynb) |
+| 3783 | [Mirror Distance of an Integer](https://leetcode.com/problems/mirror-distance-of-an-integer/) | [3783_mirror_distance_of_an_integer.ipynb](DSA/Easy/3783_mirror_distance_of_an_integer.ipynb) |
+| 3794 | [Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix/) | [3794_reverse_string_prefix.ipynb](DSA/Easy/3794_reverse_string_prefix.ipynb) |
+| 3798 | [Largest Even Number](https://leetcode.com/problems/largest-even-number/) | [3798_largest_even_number.ipynb](DSA/Easy/3798_largest_even_number.ipynb) |
+| 3803 | [Count Residue Prefixes](https://leetcode.com/problems/count-residue-prefixes/) | [3803_count_residue_prefixes.ipynb](DSA/Easy/3803_count_residue_prefixes.ipynb) |
+| 3813 | [Vowel-Consonant Score](https://leetcode.com/problems/vowel-consonant-score/) | [3813_vowel_consonant_score.ipynb](DSA/Easy/3813_vowel_consonant_score.ipynb) |
+| 3823 | [Reverse Letters Then Special Characters in a String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string/) | [3823_reverse_letters_then_special_characters_in_a_string.ipynb](DSA/Easy/3823_reverse_letters_then_special_characters_in_a_string.ipynb) |
 | 4043 | [Count Rotations With Exactly K Equal Adjacent Pairs](https://leetcode.com/problems/count-rotations-with-exactly-k-equal-adjacent-pairs/) | [4043_count_rotations_with_exactly_k_equal_adjacent_pairs.ipynb](DSA/Easy/4043_count_rotations_with_exactly_k_equal_adjacent_pairs.ipynb) |
 | 4048 | [Count Values With Equally Spaced Occurrences I](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-i/) | [4048_count_values_with_equally_spaced_occurrences_i.ipynb](DSA/Easy/4048_count_values_with_equally_spaced_occurrences_i.ipynb) |
 | 4052 | [Cyclically Shift Rows and Columns](https://leetcode.com/problems/cyclically-shift-rows-and-columns/) | [4052_cyclically_shift_rows_and_columns.ipynb](DSA/Easy/4052_cyclically_shift_rows_and_columns.ipynb) |
