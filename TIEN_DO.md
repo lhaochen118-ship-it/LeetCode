@@ -337,10 +337,9 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 
 ### Đợt Hard 7 (nhóm Hard, tính từ đầu danh sách) — 19/11/2026
 
-- Đã xong: 726, 727, 730, 732, 736, 741, 745, 749 (8 bài; đợt dừng giữa chừng do hết lượt, đã ghi nhận vào Excel/README ở phiên sau)
+- Đã xong: 726, 727, 730, 732, 736, 741, 745, 749 (8 bài đầu, ghi nhận tạm bởi phiên khác; đợt 7 đã hoàn tất đủ 20 bài — xem mục "Đợt Hard 7" thứ hai bên dưới)
 - Lỗi: không có
 - Bỏ qua: không có
-- ID Hard tiếp theo (tính từ đầu): 753
 
 ### Đợt Hard 8 (nhóm Hard, tính từ cuối danh sách đếm lên) — 19/11/2026
 
@@ -357,4 +356,4 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 - Lỗi: không có
 - Bỏ qua: không có
 - Ghi chú: Bài Premium (đề viết theo hiểu biết): 727, 759, 772, 774. Cần đối chiếu: 759 (chữ ký [[Interval]]), 770 (ví dụ 4–6 viết theo trí nhớ). 753 nhiều đáp án đúng (test kiểm tra tính hợp lệ). Đợt bị tạm dừng lúc 18h theo yêu cầu, làm tiếp lúc 21h01. Chạy tuần tự 1 agent/lượt.
-- ID Hard tiếp theo: 782
+- ID Hard tiếp theo (tính từ đầu): 782 (đợt kế tiếp đánh số Đợt Hard 9 vì số 8 đã dùng cho đợt tính từ cuối)
