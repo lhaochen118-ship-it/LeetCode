@@ -7,9 +7,9 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 ## Trạng thái hiện tại
 
 <!--STATUS-->
-- Cập nhật: 19/11/2026, sau đợt 23
-- ID tiếp theo: 2379 (Easy)
-- Số bài DSA còn lại: 2974
+- Cập nhật: 19/11/2026, sau đợt 24
+- ID tiếp theo: 2475 (Easy)
+- Số bài DSA còn lại: 2954
 <!--/STATUS-->
 
 ## Nhật ký các đợt
@@ -196,3 +196,10 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 - Bỏ qua: không có
 - Ghi chú: Đã sửa 2347 (input hợp lệ theo ràng buộc), 2293 (ví dụ lỗi lộ sai).
 - ID tiếp theo: 2379
+
+### Đợt 24 — 19/11/2026
+
+- Đã xong: 2379, 2383, 2389, 2395, 2399, 2404, 2409, 2413, 2418, 2423, 2427, 2432, 2437, 2441, 2446, 2451, 2455, 2460, 2465, 2469
+- Lỗi: không có
+- Bỏ qua: không có
+- ID tiếp theo: 2475

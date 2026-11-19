@@ -15,9 +15,9 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 750 notebook** — DSA/Easy: 499 · DSA/Medium: 137 · DSA/Hard: 101 · SQL: 11 · Shell: 2
+**Tổng: 770 notebook** — DSA/Easy: 519 · DSA/Medium: 137 · DSA/Hard: 101 · SQL: 11 · Shell: 2
 
-## DSA — Easy — 499 bài
+## DSA — Easy — 519 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -520,6 +520,26 @@ Shell/                            bài Shell (Bash)
 | 2363 | [Merge Similar Items](https://leetcode.com/problems/merge-similar-items/) | [2363_merge_similar_items.ipynb](DSA/Easy/2363_merge_similar_items.ipynb) |
 | 2367 | [Number of Arithmetic Triplets](https://leetcode.com/problems/number-of-arithmetic-triplets/) | [2367_number_of_arithmetic_triplets.ipynb](DSA/Easy/2367_number_of_arithmetic_triplets.ipynb) |
 | 2373 | [Largest Local Values in a Matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix/) | [2373_largest_local_values_in_a_matrix.ipynb](DSA/Easy/2373_largest_local_values_in_a_matrix.ipynb) |
+| 2379 | [Minimum Recolors to Get K Consecutive Black Blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/) | [2379_minimum_recolors_to_get_k_consecutive_black_blocks.ipynb](DSA/Easy/2379_minimum_recolors_to_get_k_consecutive_black_blocks.ipynb) |
+| 2383 | [Minimum Hours of Training to Win a Competition](https://leetcode.com/problems/minimum-hours-of-training-to-win-a-competition/) | [2383_minimum_hours_of_training_to_win_a_competition.ipynb](DSA/Easy/2383_minimum_hours_of_training_to_win_a_competition.ipynb) |
+| 2389 | [Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/) | [2389_longest_subsequence_with_limited_sum.ipynb](DSA/Easy/2389_longest_subsequence_with_limited_sum.ipynb) |
+| 2395 | [Find Subarrays With Equal Sum](https://leetcode.com/problems/find-subarrays-with-equal-sum/) | [2395_find_subarrays_with_equal_sum.ipynb](DSA/Easy/2395_find_subarrays_with_equal_sum.ipynb) |
+| 2399 | [Check Distances Between Same Letters](https://leetcode.com/problems/check-distances-between-same-letters/) | [2399_check_distances_between_same_letters.ipynb](DSA/Easy/2399_check_distances_between_same_letters.ipynb) |
+| 2404 | [Most Frequent Even Element](https://leetcode.com/problems/most-frequent-even-element/) | [2404_most_frequent_even_element.ipynb](DSA/Easy/2404_most_frequent_even_element.ipynb) |
+| 2409 | [Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/) | [2409_count_days_spent_together.ipynb](DSA/Easy/2409_count_days_spent_together.ipynb) |
+| 2413 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/) | [2413_smallest_even_multiple.ipynb](DSA/Easy/2413_smallest_even_multiple.ipynb) |
+| 2418 | [Sort the People](https://leetcode.com/problems/sort-the-people/) | [2418_sort_the_people.ipynb](DSA/Easy/2418_sort_the_people.ipynb) |
+| 2423 | [Remove Letter To Equalize Frequency](https://leetcode.com/problems/remove-letter-to-equalize-frequency/) | [2423_remove_letter_to_equalize_frequency.ipynb](DSA/Easy/2423_remove_letter_to_equalize_frequency.ipynb) |
+| 2427 | [Number of Common Factors](https://leetcode.com/problems/number-of-common-factors/) | [2427_number_of_common_factors.ipynb](DSA/Easy/2427_number_of_common_factors.ipynb) |
+| 2432 | [The Employee That Worked on the Longest Task](https://leetcode.com/problems/the-employee-that-worked-on-the-longest-task/) | [2432_the_employee_that_worked_on_the_longest_task.ipynb](DSA/Easy/2432_the_employee_that_worked_on_the_longest_task.ipynb) |
+| 2437 | [Number of Valid Clock Times](https://leetcode.com/problems/number-of-valid-clock-times/) | [2437_number_of_valid_clock_times.ipynb](DSA/Easy/2437_number_of_valid_clock_times.ipynb) |
+| 2441 | [Largest Positive Integer That Exists With Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/) | [2441_largest_positive_integer_that_exists_with_its_negative.ipynb](DSA/Easy/2441_largest_positive_integer_that_exists_with_its_negative.ipynb) |
+| 2446 | [Determine if Two Events Have Conflict](https://leetcode.com/problems/determine-if-two-events-have-conflict/) | [2446_determine_if_two_events_have_conflict.ipynb](DSA/Easy/2446_determine_if_two_events_have_conflict.ipynb) |
+| 2451 | [Odd String Difference](https://leetcode.com/problems/odd-string-difference/) | [2451_odd_string_difference.ipynb](DSA/Easy/2451_odd_string_difference.ipynb) |
+| 2455 | [Average Value of Even Numbers That Are Divisible by Three](https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three/) | [2455_average_value_of_even_numbers_that_are_divisible_by_three.ipynb](DSA/Easy/2455_average_value_of_even_numbers_that_are_divisible_by_three.ipynb) |
+| 2460 | [Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array/) | [2460_apply_operations_to_an_array.ipynb](DSA/Easy/2460_apply_operations_to_an_array.ipynb) |
+| 2465 | [Number of Distinct Averages](https://leetcode.com/problems/number-of-distinct-averages/) | [2465_number_of_distinct_averages.ipynb](DSA/Easy/2465_number_of_distinct_averages.ipynb) |
+| 2469 | [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/) | [2469_convert_the_temperature.ipynb](DSA/Easy/2469_convert_the_temperature.ipynb) |
 
 ## DSA — Medium — 137 bài
 
