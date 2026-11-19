@@ -243,3 +243,10 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 - Đã có file và đạt kiểm tra (chưa ghi Excel/README): 2475, 2481, 2485, 2496.
 - Còn phải viết: 2490, 2500, 2506, 2511, 2515, 2520, 2525, 2529, 2535, 2540, 2544, 2549, 2553, 2558, 2562, 2566 (có thể có file viết dở cho 2506–2566: kiểm tra bằng check_nb.py rồi làm lại nếu FAIL).
 - Khi đủ 20 bài: cập nhật Excel/README (README/Excel hiện CHƯA có 2475, 2481, 2485, 2496), ghi "Đợt 25" vào nhật ký, rồi làm tiếp đợt 30 từ Easy #2942 (tra Excel để lấy ID chính xác).
+
+### Đợt 25 — 19/11/2026
+
+- Đã xong: 2475, 2481, 2485, 2490, 2496, 2500, 2506, 2511, 2515, 2520, 2525, 2529, 2535, 2540, 2544, 2549, 2553, 2558, 2562, 2566
+- Lỗi: không có
+- Bỏ qua: không có
+- Ghi chú: Đợt này làm bù sau khi bị ngắt do hết usage limit; 2515 dùng đúng tên phương thức LeetCode closetTarget.
