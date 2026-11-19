@@ -334,3 +334,10 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 - Bỏ qua: không có
 - Ghi chú: Bài Premium (đề viết theo hiểu biết): 631, 642, 644, 656, 660, 683, 711. Cần đối chiếu: 631 (kiểu column str, miền val), 642 (luật hòa ASCII), 644 (sai số 1e-5), 656 (định nghĩa thứ tự từ điển), 675 (ô xuất phát là vật cản → trả -1, đề không nói rõ), 683/711 (ví dụ, ràng buộc). 0710 là bài ngẫu nhiên: test bằng seed cố định + phân phối thô. Chạy tuần tự 1 agent/lượt theo yêu cầu.
 - ID Hard tiếp theo: 726
+
+### Đợt Hard 7 (nhóm Hard, tính từ đầu danh sách) — 19/11/2026
+
+- Đã xong: 726, 727, 730, 732, 736, 741, 745, 749 (8 bài; đợt dừng giữa chừng do hết lượt, đã ghi nhận vào Excel/README ở phiên sau)
+- Lỗi: không có
+- Bỏ qua: không có
+- ID Hard tiếp theo (tính từ đầu): 753

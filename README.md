@@ -15,7 +15,7 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 1077 notebook** — DSA/Easy: 713 · DSA/Medium: 203 · DSA/Hard: 148 · SQL: 11 · Shell: 2
+**Tổng: 1085 notebook** — DSA/Easy: 713 · DSA/Medium: 203 · DSA/Hard: 156 · SQL: 11 · Shell: 2
 
 ## DSA — Easy — 713 bài
 
@@ -943,7 +943,7 @@ Shell/                            bài Shell (Bash)
 | 4112 | [Maximize Score After Zeroing Subtrees](https://leetcode.com/problems/maximize-score-after-zeroing-subtrees/) | [4112_maximize_score_after_zeroing_subtrees.ipynb](DSA/Medium/4112_maximize_score_after_zeroing_subtrees.ipynb) |
 | 4113 | [Game of Divisible Sums](https://leetcode.com/problems/game-of-divisible-sums/) | [4113_game_of_divisible_sums.ipynb](DSA/Medium/4113_game_of_divisible_sums.ipynb) |
 
-## DSA — Hard — 148 bài
+## DSA — Hard — 156 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -1075,6 +1075,14 @@ Shell/                            bài Shell (Bash)
 | 0711 | [Number of Distinct Islands II](https://leetcode.com/problems/number-of-distinct-islands-ii/) | [0711_number_of_distinct_islands_ii.ipynb](DSA/Hard/0711_number_of_distinct_islands_ii.ipynb) |
 | 0715 | [Range Module](https://leetcode.com/problems/range-module/) | [0715_range_module.ipynb](DSA/Hard/0715_range_module.ipynb) |
 | 0719 | [Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/) | [0719_find_k_th_smallest_pair_distance.ipynb](DSA/Hard/0719_find_k_th_smallest_pair_distance.ipynb) |
+| 0726 | [Number of Atoms](https://leetcode.com/problems/number-of-atoms/) | [0726_number_of_atoms.ipynb](DSA/Hard/0726_number_of_atoms.ipynb) |
+| 0727 | [Minimum Window Subsequence](https://leetcode.com/problems/minimum-window-subsequence/) | [0727_minimum_window_subsequence.ipynb](DSA/Hard/0727_minimum_window_subsequence.ipynb) |
+| 0730 | [Count Different Palindromic Subsequences](https://leetcode.com/problems/count-different-palindromic-subsequences/) | [0730_count_different_palindromic_subsequences.ipynb](DSA/Hard/0730_count_different_palindromic_subsequences.ipynb) |
+| 0732 | [My Calendar III](https://leetcode.com/problems/my-calendar-iii/) | [0732_my_calendar_iii.ipynb](DSA/Hard/0732_my_calendar_iii.ipynb) |
+| 0736 | [Parse Lisp Expression](https://leetcode.com/problems/parse-lisp-expression/) | [0736_parse_lisp_expression.ipynb](DSA/Hard/0736_parse_lisp_expression.ipynb) |
+| 0741 | [Cherry Pickup](https://leetcode.com/problems/cherry-pickup/) | [0741_cherry_pickup.ipynb](DSA/Hard/0741_cherry_pickup.ipynb) |
+| 0745 | [Prefix and Suffix Search](https://leetcode.com/problems/prefix-and-suffix-search/) | [0745_prefix_and_suffix_search.ipynb](DSA/Hard/0745_prefix_and_suffix_search.ipynb) |
+| 0749 | [Contain Virus](https://leetcode.com/problems/contain-virus/) | [0749_contain_virus.ipynb](DSA/Hard/0749_contain_virus.ipynb) |
 | 4042 | [Valid K-Unique Subarrays II](https://leetcode.com/problems/valid-k-unique-subarrays-ii/) | [4042_valid_k_unique_subarrays_ii.ipynb](DSA/Hard/4042_valid_k_unique_subarrays_ii.ipynb) |
 | 4046 | [Minimum Cost Path With At Most K Turns](https://leetcode.com/problems/minimum-cost-path-with-at-most-k-turns/) | [4046_minimum_cost_path_with_at_most_k_turns.ipynb](DSA/Hard/4046_minimum_cost_path_with_at_most_k_turns.ipynb) |
 | 4047 | [Minimum Operations to Make XOR of All Elements Zero](https://leetcode.com/problems/minimum-operations-to-make-xor-of-all-elements-zero/) | [4047_minimum_operations_to_make_xor_of_all_elements_zero.ipynb](DSA/Hard/4047_minimum_operations_to_make_xor_of_all_elements_zero.ipynb) |
