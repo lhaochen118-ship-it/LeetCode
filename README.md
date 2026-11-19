@@ -15,9 +15,9 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 630 notebook** — DSA/Easy: 379 · DSA/Medium: 137 · DSA/Hard: 101 · SQL: 11 · Shell: 2
+**Tổng: 650 notebook** — DSA/Easy: 399 · DSA/Medium: 137 · DSA/Hard: 101 · SQL: 11 · Shell: 2
 
-## DSA — Easy — 379 bài
+## DSA — Easy — 399 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -400,6 +400,26 @@ Shell/                            bài Shell (Bash)
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | [1768_merge_strings_alternately.ipynb](DSA/Easy/1768_merge_strings_alternately.ipynb) |
 | 1773 | [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/) | [1773_count_items_matching_a_rule.ipynb](DSA/Easy/1773_count_items_matching_a_rule.ipynb) |
 | 1779 | [Find Nearest Point That Has the Same X or Y Coordinate](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/) | [1779_find_nearest_point_that_has_the_same_x_or_y_coordinate.ipynb](DSA/Easy/1779_find_nearest_point_that_has_the_same_x_or_y_coordinate.ipynb) |
+| 1784 | [Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/) | [1784_check_if_binary_string_has_at_most_one_segment_of_ones.ipynb](DSA/Easy/1784_check_if_binary_string_has_at_most_one_segment_of_ones.ipynb) |
+| 1790 | [Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/) | [1790_check_if_one_string_swap_can_make_strings_equal.ipynb](DSA/Easy/1790_check_if_one_string_swap_can_make_strings_equal.ipynb) |
+| 1791 | [Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/) | [1791_find_center_of_star_graph.ipynb](DSA/Easy/1791_find_center_of_star_graph.ipynb) |
+| 1796 | [Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string/) | [1796_second_largest_digit_in_a_string.ipynb](DSA/Easy/1796_second_largest_digit_in_a_string.ipynb) |
+| 1800 | [Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum/) | [1800_maximum_ascending_subarray_sum.ipynb](DSA/Easy/1800_maximum_ascending_subarray_sum.ipynb) |
+| 1805 | [Number of Different Integers in a String](https://leetcode.com/problems/number-of-different-integers-in-a-string/) | [1805_number_of_different_integers_in_a_string.ipynb](DSA/Easy/1805_number_of_different_integers_in_a_string.ipynb) |
+| 1812 | [Determine Color of a Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square/) | [1812_determine_color_of_a_chessboard_square.ipynb](DSA/Easy/1812_determine_color_of_a_chessboard_square.ipynb) |
+| 1816 | [Truncate Sentence](https://leetcode.com/problems/truncate-sentence/) | [1816_truncate_sentence.ipynb](DSA/Easy/1816_truncate_sentence.ipynb) |
+| 1822 | [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/) | [1822_sign_of_the_product_of_an_array.ipynb](DSA/Easy/1822_sign_of_the_product_of_an_array.ipynb) |
+| 1826 | [Faulty Sensor](https://leetcode.com/problems/faulty-sensor/) | [1826_faulty_sensor.ipynb](DSA/Easy/1826_faulty_sensor.ipynb) |
+| 1827 | [Minimum Operations to Make the Array Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/) | [1827_minimum_operations_to_make_the_array_increasing.ipynb](DSA/Easy/1827_minimum_operations_to_make_the_array_increasing.ipynb) |
+| 1832 | [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) | [1832_check_if_the_sentence_is_pangram.ipynb](DSA/Easy/1832_check_if_the_sentence_is_pangram.ipynb) |
+| 1837 | [Sum of Digits in Base K](https://leetcode.com/problems/sum-of-digits-in-base-k/) | [1837_sum_of_digits_in_base_k.ipynb](DSA/Easy/1837_sum_of_digits_in_base_k.ipynb) |
+| 1844 | [Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/) | [1844_replace_all_digits_with_characters.ipynb](DSA/Easy/1844_replace_all_digits_with_characters.ipynb) |
+| 1848 | [Minimum Distance to the Target Element](https://leetcode.com/problems/minimum-distance-to-the-target-element/) | [1848_minimum_distance_to_the_target_element.ipynb](DSA/Easy/1848_minimum_distance_to_the_target_element.ipynb) |
+| 1854 | [Maximum Population Year](https://leetcode.com/problems/maximum-population-year/) | [1854_maximum_population_year.ipynb](DSA/Easy/1854_maximum_population_year.ipynb) |
+| 1859 | [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/) | [1859_sorting_the_sentence.ipynb](DSA/Easy/1859_sorting_the_sentence.ipynb) |
+| 1863 | [Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/) | [1863_sum_of_all_subset_xor_totals.ipynb](DSA/Easy/1863_sum_of_all_subset_xor_totals.ipynb) |
+| 1869 | [Longer Contiguous Segments of Ones than Zeros](https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/) | [1869_longer_contiguous_segments_of_ones_than_zeros.ipynb](DSA/Easy/1869_longer_contiguous_segments_of_ones_than_zeros.ipynb) |
+| 1876 | [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/) | [1876_substrings_of_size_three_with_distinct_characters.ipynb](DSA/Easy/1876_substrings_of_size_three_with_distinct_characters.ipynb) |
 
 ## DSA — Medium — 137 bài
 
