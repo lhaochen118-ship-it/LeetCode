@@ -15,9 +15,9 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 912 notebook** — DSA/Easy: 653 · DSA/Medium: 143 · DSA/Hard: 103 · SQL: 11 · Shell: 2
+**Tổng: 957 notebook** — DSA/Easy: 693 · DSA/Medium: 143 · DSA/Hard: 108 · SQL: 11 · Shell: 2
 
-## DSA — Easy — 653 bài
+## DSA — Easy — 693 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -640,6 +640,26 @@ Shell/                            bài Shell (Bash)
 | 2928 | [Distribute Candies Among Children I](https://leetcode.com/problems/distribute-candies-among-children-i/) | [2928_distribute_candies_among_children_i.ipynb](DSA/Easy/2928_distribute_candies_among_children_i.ipynb) |
 | 2932 | [Maximum Strong Pair XOR I](https://leetcode.com/problems/maximum-strong-pair-xor-i/) | [2932_maximum_strong_pair_xor_i.ipynb](DSA/Easy/2932_maximum_strong_pair_xor_i.ipynb) |
 | 2937 | [Make Three Strings Equal](https://leetcode.com/problems/make-three-strings-equal/) | [2937_make_three_strings_equal.ipynb](DSA/Easy/2937_make_three_strings_equal.ipynb) |
+| 2942 | [Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/) | [2942_find_words_containing_character.ipynb](DSA/Easy/2942_find_words_containing_character.ipynb) |
+| 2946 | [Matrix Similarity After Cyclic Shifts](https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts/) | [2946_matrix_similarity_after_cyclic_shifts.ipynb](DSA/Easy/2946_matrix_similarity_after_cyclic_shifts.ipynb) |
+| 2951 | [Find the Peaks](https://leetcode.com/problems/find-the-peaks/) | [2951_find_the_peaks.ipynb](DSA/Easy/2951_find_the_peaks.ipynb) |
+| 2956 | [Find Common Elements Between Two Arrays](https://leetcode.com/problems/find-common-elements-between-two-arrays/) | [2956_find_common_elements_between_two_arrays.ipynb](DSA/Easy/2956_find_common_elements_between_two_arrays.ipynb) |
+| 2960 | [Count Tested Devices After Test Operations](https://leetcode.com/problems/count-tested-devices-after-test-operations/) | [2960_count_tested_devices_after_test_operations.ipynb](DSA/Easy/2960_count_tested_devices_after_test_operations.ipynb) |
+| 2965 | [Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/) | [2965_find_missing_and_repeated_values.ipynb](DSA/Easy/2965_find_missing_and_repeated_values.ipynb) |
+| 2970 | [Count the Number of Incremovable Subarrays I](https://leetcode.com/problems/count-the-number-of-incremovable-subarrays-i/) | [2970_count_the_number_of_incremovable_subarrays_i.ipynb](DSA/Easy/2970_count_the_number_of_incremovable_subarrays_i.ipynb) |
+| 2974 | [Minimum Number Game](https://leetcode.com/problems/minimum-number-game/) | [2974_minimum_number_game.ipynb](DSA/Easy/2974_minimum_number_game.ipynb) |
+| 2980 | [Check if Bitwise OR Has Trailing Zeros](https://leetcode.com/problems/check-if-bitwise-or-has-trailing-zeros/) | [2980_check_if_bitwise_or_has_trailing_zeros.ipynb](DSA/Easy/2980_check_if_bitwise_or_has_trailing_zeros.ipynb) |
+| 2996 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/) | [2996_smallest_missing_integer_greater_than_sequential_prefix_sum.ipynb](DSA/Easy/2996_smallest_missing_integer_greater_than_sequential_prefix_sum.ipynb) |
+| 3000 | [Maximum Area of Longest Diagonal Rectangle](https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle/) | [3000_maximum_area_of_longest_diagonal_rectangle.ipynb](DSA/Easy/3000_maximum_area_of_longest_diagonal_rectangle.ipynb) |
+| 3005 | [Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/) | [3005_count_elements_with_maximum_frequency.ipynb](DSA/Easy/3005_count_elements_with_maximum_frequency.ipynb) |
+| 3010 | [Divide an Array Into Subarrays With Minimum Cost I](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/) | [3010_divide_an_array_into_subarrays_with_minimum_cost_i.ipynb](DSA/Easy/3010_divide_an_array_into_subarrays_with_minimum_cost_i.ipynb) |
+| 3014 | [Minimum Number of Pushes to Type Word I](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/) | [3014_minimum_number_of_pushes_to_type_word_i.ipynb](DSA/Easy/3014_minimum_number_of_pushes_to_type_word_i.ipynb) |
+| 3019 | [Number of Changing Keys](https://leetcode.com/problems/number-of-changing-keys/) | [3019_number_of_changing_keys.ipynb](DSA/Easy/3019_number_of_changing_keys.ipynb) |
+| 3024 | [Type of Triangle](https://leetcode.com/problems/type-of-triangle/) | [3024_type_of_triangle.ipynb](DSA/Easy/3024_type_of_triangle.ipynb) |
+| 3028 | [Ant on the Boundary](https://leetcode.com/problems/ant-on-the-boundary/) | [3028_ant_on_the_boundary.ipynb](DSA/Easy/3028_ant_on_the_boundary.ipynb) |
+| 3032 | [Count Numbers With Unique Digits II](https://leetcode.com/problems/count-numbers-with-unique-digits-ii/) | [3032_count_numbers_with_unique_digits_ii.ipynb](DSA/Easy/3032_count_numbers_with_unique_digits_ii.ipynb) |
+| 3033 | [Modify the Matrix](https://leetcode.com/problems/modify-the-matrix/) | [3033_modify_the_matrix.ipynb](DSA/Easy/3033_modify_the_matrix.ipynb) |
+| 3038 | [Maximum Number of Operations With the Same Score I](https://leetcode.com/problems/maximum-number-of-operations-with-the-same-score-i/) | [3038_maximum_number_of_operations_with_the_same_score_i.ipynb](DSA/Easy/3038_maximum_number_of_operations_with_the_same_score_i.ipynb) |
 | 3467 | [Transform Array by Parity](https://leetcode.com/problems/transform-array-by-parity/) | [3467_transform_array_by_parity.ipynb](DSA/Easy/3467_transform_array_by_parity.ipynb) |
 | 3471 | [Find the Largest Almost Missing Integer](https://leetcode.com/problems/find-the-largest-almost-missing-integer/) | [3471_find_the_largest_almost_missing_integer.ipynb](DSA/Easy/3471_find_the_largest_almost_missing_integer.ipynb) |
 | 3477 | [Fruits Into Baskets II](https://leetcode.com/problems/fruits-into-baskets-ii/) | [3477_fruits_into_baskets_ii.ipynb](DSA/Easy/3477_fruits_into_baskets_ii.ipynb) |
@@ -660,6 +680,26 @@ Shell/                            bài Shell (Bash)
 | 3571 | [Find the Shortest Superstring II](https://leetcode.com/problems/find-the-shortest-superstring-ii/) | [3571_find_the_shortest_superstring_ii.ipynb](DSA/Easy/3571_find_the_shortest_superstring_ii.ipynb) |
 | 3581 | [Count Odd Letters from Number](https://leetcode.com/problems/count-odd-letters-from-number/) | [3581_count_odd_letters_from_number.ipynb](DSA/Easy/3581_count_odd_letters_from_number.ipynb) |
 | 3582 | [Generate Tag for Video Caption](https://leetcode.com/problems/generate-tag-for-video-caption/) | [3582_generate_tag_for_video_caption.ipynb](DSA/Easy/3582_generate_tag_for_video_caption.ipynb) |
+| 3591 | [Check if Any Element Has Prime Frequency](https://leetcode.com/problems/check-if-any-element-has-prime-frequency/) | [3591_check_if_any_element_has_prime_frequency.ipynb](DSA/Easy/3591_check_if_any_element_has_prime_frequency.ipynb) |
+| 3602 | [Hexadecimal and Hexatrigesimal Conversion](https://leetcode.com/problems/hexadecimal-and-hexatrigesimal-conversion/) | [3602_hexadecimal_and_hexatrigesimal_conversion.ipynb](DSA/Easy/3602_hexadecimal_and_hexatrigesimal_conversion.ipynb) |
+| 3606 | [Coupon Code Validator](https://leetcode.com/problems/coupon-code-validator/) | [3606_coupon_code_validator.ipynb](DSA/Easy/3606_coupon_code_validator.ipynb) |
+| 3622 | [Check Divisibility by Digit Sum and Product](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/) | [3622_check_divisibility_by_digit_sum_and_product.ipynb](DSA/Easy/3622_check_divisibility_by_digit_sum_and_product.ipynb) |
+| 3633 | [Earliest Finish Time for Land and Water Rides I](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/) | [3633_earliest_finish_time_for_land_and_water_rides_i.ipynb](DSA/Easy/3633_earliest_finish_time_for_land_and_water_rides_i.ipynb) |
+| 3637 | [Trionic Array I](https://leetcode.com/problems/trionic-array-i/) | [3637_trionic_array_i.ipynb](DSA/Easy/3637_trionic_array_i.ipynb) |
+| 3643 | [Flip Square Submatrix Vertically](https://leetcode.com/problems/flip-square-submatrix-vertically/) | [3643_flip_square_submatrix_vertically.ipynb](DSA/Easy/3643_flip_square_submatrix_vertically.ipynb) |
+| 3658 | [GCD of Odd and Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums/) | [3658_gcd_of_odd_and_even_sums.ipynb](DSA/Easy/3658_gcd_of_odd_and_even_sums.ipynb) |
+| 3662 | [Filter Characters by Frequency](https://leetcode.com/problems/filter-characters-by-frequency/) | [3662_filter_characters_by_frequency.ipynb](DSA/Easy/3662_filter_characters_by_frequency.ipynb) |
+| 3663 | [Find The Least Frequent Digit](https://leetcode.com/problems/find-the-least-frequent-digit/) | [3663_find_the_least_frequent_digit.ipynb](DSA/Easy/3663_find_the_least_frequent_digit.ipynb) |
+| 3667 | [Sort Array By Absolute Value](https://leetcode.com/problems/sort-array-by-absolute-value/) | [3667_sort_array_by_absolute_value.ipynb](DSA/Easy/3667_sort_array_by_absolute_value.ipynb) |
+| 3668 | [Restore Finishing Order](https://leetcode.com/problems/restore-finishing-order/) | [3668_restore_finishing_order.ipynb](DSA/Easy/3668_restore_finishing_order.ipynb) |
+| 3674 | [Minimum Operations to Equalize Array](https://leetcode.com/problems/minimum-operations-to-equalize-array/) | [3674_minimum_operations_to_equalize_array.ipynb](DSA/Easy/3674_minimum_operations_to_equalize_array.ipynb) |
+| 3678 | [Smallest Absent Positive Greater Than Average](https://leetcode.com/problems/smallest-absent-positive-greater-than-average/) | [3678_smallest_absent_positive_greater_than_average.ipynb](DSA/Easy/3678_smallest_absent_positive_greater_than_average.ipynb) |
+| 3683 | [Earliest Time to Finish One Task](https://leetcode.com/problems/earliest-time-to-finish-one-task/) | [3683_earliest_time_to_finish_one_task.ipynb](DSA/Easy/3683_earliest_time_to_finish_one_task.ipynb) |
+| 3684 | [Maximize Sum of At Most K Distinct Elements](https://leetcode.com/problems/maximize-sum-of-at-most-k-distinct-elements/) | [3684_maximize_sum_of_at_most_k_distinct_elements.ipynb](DSA/Easy/3684_maximize_sum_of_at_most_k_distinct_elements.ipynb) |
+| 3687 | [Library Late Fee Calculator](https://leetcode.com/problems/library-late-fee-calculator/) | [3687_library_late_fee_calculator.ipynb](DSA/Easy/3687_library_late_fee_calculator.ipynb) |
+| 3688 | [Bitwise OR of Even Numbers in an Array](https://leetcode.com/problems/bitwise-or-of-even-numbers-in-an-array/) | [3688_bitwise_or_of_even_numbers_in_an_array.ipynb](DSA/Easy/3688_bitwise_or_of_even_numbers_in_an_array.ipynb) |
+| 3692 | [Majority Frequency Characters](https://leetcode.com/problems/majority-frequency-characters/) | [3692_majority_frequency_characters.ipynb](DSA/Easy/3692_majority_frequency_characters.ipynb) |
+| 3696 | [Maximum Distance Between Unequal Words in Array I](https://leetcode.com/problems/maximum-distance-between-unequal-words-in-array-i/) | [3696_maximum_distance_between_unequal_words_in_array_i.ipynb](DSA/Easy/3696_maximum_distance_between_unequal_words_in_array_i.ipynb) |
 | 4043 | [Count Rotations With Exactly K Equal Adjacent Pairs](https://leetcode.com/problems/count-rotations-with-exactly-k-equal-adjacent-pairs/) | [4043_count_rotations_with_exactly_k_equal_adjacent_pairs.ipynb](DSA/Easy/4043_count_rotations_with_exactly_k_equal_adjacent_pairs.ipynb) |
 | 4048 | [Count Values With Equally Spaced Occurrences I](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-i/) | [4048_count_values_with_equally_spaced_occurrences_i.ipynb](DSA/Easy/4048_count_values_with_equally_spaced_occurrences_i.ipynb) |
 | 4052 | [Cyclically Shift Rows and Columns](https://leetcode.com/problems/cyclically-shift-rows-and-columns/) | [4052_cyclically_shift_rows_and_columns.ipynb](DSA/Easy/4052_cyclically_shift_rows_and_columns.ipynb) |
@@ -823,7 +863,7 @@ Shell/                            bài Shell (Bash)
 | 4112 | [Maximize Score After Zeroing Subtrees](https://leetcode.com/problems/maximize-score-after-zeroing-subtrees/) | [4112_maximize_score_after_zeroing_subtrees.ipynb](DSA/Medium/4112_maximize_score_after_zeroing_subtrees.ipynb) |
 | 4113 | [Game of Divisible Sums](https://leetcode.com/problems/game-of-divisible-sums/) | [4113_game_of_divisible_sums.ipynb](DSA/Medium/4113_game_of_divisible_sums.ipynb) |
 
-## DSA — Hard — 103 bài
+## DSA — Hard — 108 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -915,6 +955,11 @@ Shell/                            bài Shell (Bash)
 | 0466 | [Count The Repetitions](https://leetcode.com/problems/count-the-repetitions/) | [0466_count_the_repetitions.ipynb](DSA/Hard/0466_count_the_repetitions.ipynb) |
 | 0472 | [Concatenated Words](https://leetcode.com/problems/concatenated-words/) | [0472_concatenated_words.ipynb](DSA/Hard/0472_concatenated_words.ipynb) |
 | 0479 | [Largest Palindrome Product](https://leetcode.com/problems/largest-palindrome-product/) | [0479_largest_palindrome_product.ipynb](DSA/Hard/0479_largest_palindrome_product.ipynb) |
+| 4042 | [Valid K-Unique Subarrays II](https://leetcode.com/problems/valid-k-unique-subarrays-ii/) | [4042_valid_k_unique_subarrays_ii.ipynb](DSA/Hard/4042_valid_k_unique_subarrays_ii.ipynb) |
+| 4046 | [Minimum Cost Path With At Most K Turns](https://leetcode.com/problems/minimum-cost-path-with-at-most-k-turns/) | [4046_minimum_cost_path_with_at_most_k_turns.ipynb](DSA/Hard/4046_minimum_cost_path_with_at_most_k_turns.ipynb) |
+| 4047 | [Minimum Operations to Make XOR of All Elements Zero](https://leetcode.com/problems/minimum-operations-to-make-xor-of-all-elements-zero/) | [4047_minimum_operations_to_make_xor_of_all_elements_zero.ipynb](DSA/Hard/4047_minimum_operations_to_make_xor_of_all_elements_zero.ipynb) |
+| 4051 | [Count Subarrays with Distant Sums](https://leetcode.com/problems/count-subarrays-with-distant-sums/) | [4051_count_subarrays_with_distant_sums.ipynb](DSA/Hard/4051_count_subarrays_with_distant_sums.ipynb) |
+| 4055 | [Count Shadow Pairs II](https://leetcode.com/problems/count-shadow-pairs-ii/) | [4055_count_shadow_pairs_ii.ipynb](DSA/Hard/4055_count_shadow_pairs_ii.ipynb) |
 | 4059 | [Lexicographically Largest Power Array](https://leetcode.com/problems/lexicographically-largest-power-array/) | [4059_lexicographically_largest_power_array.ipynb](DSA/Hard/4059_lexicographically_largest_power_array.ipynb) |
 | 4060 | [Count Evenly Good Integers](https://leetcode.com/problems/count-evenly-good-integers/) | [4060_count_evenly_good_integers.ipynb](DSA/Hard/4060_count_evenly_good_integers.ipynb) |
 | 4064 | [Longest Subarray Divisible by K with At Most One Negation II](https://leetcode.com/problems/longest-subarray-divisible-by-k-with-at-most-one-negation-ii/) | [4064_longest_subarray_divisible_by_k_with_at_most_one_negation_ii.ipynb](DSA/Hard/4064_longest_subarray_divisible_by_k_with_at_most_one_negation_ii.ipynb) |
