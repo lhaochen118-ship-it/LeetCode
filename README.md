@@ -15,9 +15,9 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 710 notebook** — DSA/Easy: 459 · DSA/Medium: 137 · DSA/Hard: 101 · SQL: 11 · Shell: 2
+**Tổng: 730 notebook** — DSA/Easy: 479 · DSA/Medium: 137 · DSA/Hard: 101 · SQL: 11 · Shell: 2
 
-## DSA — Easy — 459 bài
+## DSA — Easy — 479 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -480,6 +480,26 @@ Shell/                            bài Shell (Bash)
 | 2169 | [Count Operations to Obtain Zero](https://leetcode.com/problems/count-operations-to-obtain-zero/) | [2169_count_operations_to_obtain_zero.ipynb](DSA/Easy/2169_count_operations_to_obtain_zero.ipynb) |
 | 2176 | [Count Equal and Divisible Pairs in an Array](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/) | [2176_count_equal_and_divisible_pairs_in_an_array.ipynb](DSA/Easy/2176_count_equal_and_divisible_pairs_in_an_array.ipynb) |
 | 2180 | [Count Integers With Even Digit Sum](https://leetcode.com/problems/count-integers-with-even-digit-sum/) | [2180_count_integers_with_even_digit_sum.ipynb](DSA/Easy/2180_count_integers_with_even_digit_sum.ipynb) |
+| 2185 | [Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/) | [2185_counting_words_with_a_given_prefix.ipynb](DSA/Easy/2185_counting_words_with_a_given_prefix.ipynb) |
+| 2190 | [Most Frequent Number Following Key In an Array](https://leetcode.com/problems/most-frequent-number-following-key-in-an-array/) | [2190_most_frequent_number_following_key_in_an_array.ipynb](DSA/Easy/2190_most_frequent_number_following_key_in_an_array.ipynb) |
+| 2194 | [Cells in a Range on an Excel Sheet](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/) | [2194_cells_in_a_range_on_an_excel_sheet.ipynb](DSA/Easy/2194_cells_in_a_range_on_an_excel_sheet.ipynb) |
+| 2200 | [Find All K-Distant Indices in an Array](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/) | [2200_find_all_k_distant_indices_in_an_array.ipynb](DSA/Easy/2200_find_all_k_distant_indices_in_an_array.ipynb) |
+| 2206 | [Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs/) | [2206_divide_array_into_equal_pairs.ipynb](DSA/Easy/2206_divide_array_into_equal_pairs.ipynb) |
+| 2210 | [Count Hills and Valleys in an Array](https://leetcode.com/problems/count-hills-and-valleys-in-an-array/) | [2210_count_hills_and_valleys_in_an_array.ipynb](DSA/Easy/2210_count_hills_and_valleys_in_an_array.ipynb) |
+| 2215 | [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) | [2215_find_the_difference_of_two_arrays.ipynb](DSA/Easy/2215_find_the_difference_of_two_arrays.ipynb) |
+| 2220 | [Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/) | [2220_minimum_bit_flips_to_convert_number.ipynb](DSA/Easy/2220_minimum_bit_flips_to_convert_number.ipynb) |
+| 2224 | [Minimum Number of Operations to Convert Time](https://leetcode.com/problems/minimum-number-of-operations-to-convert-time/) | [2224_minimum_number_of_operations_to_convert_time.ipynb](DSA/Easy/2224_minimum_number_of_operations_to_convert_time.ipynb) |
+| 2229 | [Check if an Array Is Consecutive](https://leetcode.com/problems/check-if-an-array-is-consecutive/) | [2229_check_if_an_array_is_consecutive.ipynb](DSA/Easy/2229_check_if_an_array_is_consecutive.ipynb) |
+| 2231 | [Largest Number After Digit Swaps by Parity](https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity/) | [2231_largest_number_after_digit_swaps_by_parity.ipynb](DSA/Easy/2231_largest_number_after_digit_swaps_by_parity.ipynb) |
+| 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/) | [2235_add_two_integers.ipynb](DSA/Easy/2235_add_two_integers.ipynb) |
+| 2236 | [Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/) | [2236_root_equals_sum_of_children.ipynb](DSA/Easy/2236_root_equals_sum_of_children.ipynb) |
+| 2239 | [Find Closest Number to Zero](https://leetcode.com/problems/find-closest-number-to-zero/) | [2239_find_closest_number_to_zero.ipynb](DSA/Easy/2239_find_closest_number_to_zero.ipynb) |
+| 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | [2243_calculate_digit_sum_of_a_string.ipynb](DSA/Easy/2243_calculate_digit_sum_of_a_string.ipynb) |
+| 2248 | [Intersection of Multiple Arrays](https://leetcode.com/problems/intersection-of-multiple-arrays/) | [2248_intersection_of_multiple_arrays.ipynb](DSA/Easy/2248_intersection_of_multiple_arrays.ipynb) |
+| 2255 | [Count Prefixes of a Given String](https://leetcode.com/problems/count-prefixes-of-a-given-string/) | [2255_count_prefixes_of_a_given_string.ipynb](DSA/Easy/2255_count_prefixes_of_a_given_string.ipynb) |
+| 2259 | [Remove Digit From Number to Maximize Result](https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/) | [2259_remove_digit_from_number_to_maximize_result.ipynb](DSA/Easy/2259_remove_digit_from_number_to_maximize_result.ipynb) |
+| 2264 | [Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/) | [2264_largest_3_same_digit_number_in_string.ipynb](DSA/Easy/2264_largest_3_same_digit_number_in_string.ipynb) |
+| 2269 | [Find the K-Beauty of a Number](https://leetcode.com/problems/find-the-k-beauty-of-a-number/) | [2269_find_the_k_beauty_of_a_number.ipynb](DSA/Easy/2269_find_the_k_beauty_of_a_number.ipynb) |
 
 ## DSA — Medium — 137 bài
 
