@@ -294,3 +294,10 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 - Bỏ qua: không có
 - Ghi chú: Bài Premium (đề viết theo hiểu biết, đối chiếu lại nếu có tài khoản Premium): 0244, 0245, 0247, 0250, 0251, 0253, 0254, 0255, 0256, 0259, 0261. Đề/ví dụ lấy từ bản doocs/leetcode, mọi ví dụ được assert và đối chiếu brute force. 0251 và 0244 là bài thiết kế class (khung test tự dựng).
 - ID Medium tiếp theo: 0264 (đợt 42 → 264–306, đợt 43 → 307–341).
+
+### Đợt 37 — 19/11/2026
+
+- Đã xong: 3697, 3701, 3707, 3712, 3718, 3726, 3731, 3736, 3740, 3745, 3750, 3754, 3769, 3774, 3783, 3794, 3798, 3803, 3813, 3823
+- Lỗi: không có
+- Bỏ qua: không có
+- Ghi chú: Cần đối chiếu đề với LeetCode: 3750 (cách hiểu đề, slug suy ra từ tên), 3823 (độ khó ghi Easy theo doocs); slug các bài 3xxx suy ra từ tên bài.
