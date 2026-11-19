@@ -15,7 +15,7 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 1085 notebook** — DSA/Easy: 713 · DSA/Medium: 203 · DSA/Hard: 156 · SQL: 11 · Shell: 2
+**Tổng: 1105 notebook** — DSA/Easy: 713 · DSA/Medium: 203 · DSA/Hard: 176 · SQL: 11 · Shell: 2
 
 ## DSA — Easy — 713 bài
 
@@ -943,7 +943,7 @@ Shell/                            bài Shell (Bash)
 | 4112 | [Maximize Score After Zeroing Subtrees](https://leetcode.com/problems/maximize-score-after-zeroing-subtrees/) | [4112_maximize_score_after_zeroing_subtrees.ipynb](DSA/Medium/4112_maximize_score_after_zeroing_subtrees.ipynb) |
 | 4113 | [Game of Divisible Sums](https://leetcode.com/problems/game-of-divisible-sums/) | [4113_game_of_divisible_sums.ipynb](DSA/Medium/4113_game_of_divisible_sums.ipynb) |
 
-## DSA — Hard — 156 bài
+## DSA — Hard — 176 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -1083,6 +1083,26 @@ Shell/                            bài Shell (Bash)
 | 0741 | [Cherry Pickup](https://leetcode.com/problems/cherry-pickup/) | [0741_cherry_pickup.ipynb](DSA/Hard/0741_cherry_pickup.ipynb) |
 | 0745 | [Prefix and Suffix Search](https://leetcode.com/problems/prefix-and-suffix-search/) | [0745_prefix_and_suffix_search.ipynb](DSA/Hard/0745_prefix_and_suffix_search.ipynb) |
 | 0749 | [Contain Virus](https://leetcode.com/problems/contain-virus/) | [0749_contain_virus.ipynb](DSA/Hard/0749_contain_virus.ipynb) |
+| 3985 | [Palindromic Subarray Sum](https://leetcode.com/problems/palindromic-subarray-sum/) | [3985_palindromic_subarray_sum.ipynb](DSA/Hard/3985_palindromic_subarray_sum.ipynb) |
+| 3989 | [Maximum Consistent Columns in a Grid](https://leetcode.com/problems/maximum-consistent-columns-in-a-grid/) | [3989_maximum_consistent_columns_in_a_grid.ipynb](DSA/Hard/3989_maximum_consistent_columns_in_a_grid.ipynb) |
+| 3990 | [Create Grid With Exactly K Paths II](https://leetcode.com/problems/create-grid-with-exactly-k-paths-ii/) | [3990_create_grid_with_exactly_k_paths_ii.ipynb](DSA/Hard/3990_create_grid_with_exactly_k_paths_ii.ipynb) |
+| 3995 | [Minimum Cost to Convert String III](https://leetcode.com/problems/minimum-cost-to-convert-string-iii/) | [3995_minimum_cost_to_convert_string_iii.ipynb](DSA/Hard/3995_minimum_cost_to_convert_string_iii.ipynb) |
+| 3999 | [Minimum Number of String Groups Through Transformations](https://leetcode.com/problems/minimum-number-of-string-groups-through-transformations/) | [3999_minimum_number_of_string_groups_through_transformations.ipynb](DSA/Hard/3999_minimum_number_of_string_groups_through_transformations.ipynb) |
+| 4003 | [Minimum Cost Path with Alternating Directions III](https://leetcode.com/problems/minimum-cost-path-with-alternating-directions-iii/) | [4003_minimum_cost_path_with_alternating_directions_iii.ipynb](DSA/Hard/4003_minimum_cost_path_with_alternating_directions_iii.ipynb) |
+| 4004 | [Minimum Moves to Balance Circular Array II](https://leetcode.com/problems/minimum-moves-to-balance-circular-array-ii/) | [4004_minimum_moves_to_balance_circular_array_ii.ipynb](DSA/Hard/4004_minimum_moves_to_balance_circular_array_ii.ipynb) |
+| 4005 | [Minimum Operations to Make Array Equal III](https://leetcode.com/problems/minimum-operations-to-make-array-equal-iii/) | [4005_minimum_operations_to_make_array_equal_iii.ipynb](DSA/Hard/4005_minimum_operations_to_make_array_equal_iii.ipynb) |
+| 4007 | [Widest Possible Fence](https://leetcode.com/problems/widest-possible-fence/) | [4007_widest_possible_fence.ipynb](DSA/Hard/4007_widest_possible_fence.ipynb) |
+| 4009 | [Minimum Possible Maximum Waiting Time](https://leetcode.com/problems/minimum-possible-maximum-waiting-time/) | [4009_minimum_possible_maximum_waiting_time.ipynb](DSA/Hard/4009_minimum_possible_maximum_waiting_time.ipynb) |
+| 4013 | [Count Subarrays With Even Odd Ratio II](https://leetcode.com/problems/count-subarrays-with-even-odd-ratio-ii/) | [4013_count_subarrays_with_even_odd_ratio_ii.ipynb](DSA/Hard/4013_count_subarrays_with_even_odd_ratio_ii.ipynb) |
+| 4017 | [Peaks in Array II](https://leetcode.com/problems/peaks-in-array-ii/) | [4017_peaks_in_array_ii.ipynb](DSA/Hard/4017_peaks_in_array_ii.ipynb) |
+| 4018 | [Total Sum of Interaction Cost in Tree Groups II](https://leetcode.com/problems/total-sum-of-interaction-cost-in-tree-groups-ii/) | [4018_total_sum_of_interaction_cost_in_tree_groups_ii.ipynb](DSA/Hard/4018_total_sum_of_interaction_cost_in_tree_groups_ii.ipynb) |
+| 4023 | [Elevator Requests II](https://leetcode.com/problems/elevator-requests-ii/) | [4023_elevator_requests_ii.ipynb](DSA/Hard/4023_elevator_requests_ii.ipynb) |
+| 4027 | [Elevator Requests III](https://leetcode.com/problems/elevator-requests-iii/) | [4027_elevator_requests_iii.ipynb](DSA/Hard/4027_elevator_requests_iii.ipynb) |
+| 4028 | [Minimum Operations to Make a Rotated Palindrome II](https://leetcode.com/problems/minimum-operations-to-make-a-rotated-palindrome-ii/) | [4028_minimum_operations_to_make_a_rotated_palindrome_ii.ipynb](DSA/Hard/4028_minimum_operations_to_make_a_rotated_palindrome_ii.ipynb) |
+| 4029 | [Elevator Requests IV](https://leetcode.com/problems/elevator-requests-iv/) | [4029_elevator_requests_iv.ipynb](DSA/Hard/4029_elevator_requests_iv.ipynb) |
+| 4033 | [Valid K-Unique Subarrays I](https://leetcode.com/problems/valid-k-unique-subarrays-i/) | [4033_valid_k_unique_subarrays_i.ipynb](DSA/Hard/4033_valid_k_unique_subarrays_i.ipynb) |
+| 4037 | [Maximum Valid Split Positions II](https://leetcode.com/problems/maximum-valid-split-positions-ii/) | [4037_maximum_valid_split_positions_ii.ipynb](DSA/Hard/4037_maximum_valid_split_positions_ii.ipynb) |
+| 4041 | [Minimum Operations to Form Subset Sum II](https://leetcode.com/problems/minimum-operations-to-form-subset-sum-ii/) | [4041_minimum_operations_to_form_subset_sum_ii.ipynb](DSA/Hard/4041_minimum_operations_to_form_subset_sum_ii.ipynb) |
 | 4042 | [Valid K-Unique Subarrays II](https://leetcode.com/problems/valid-k-unique-subarrays-ii/) | [4042_valid_k_unique_subarrays_ii.ipynb](DSA/Hard/4042_valid_k_unique_subarrays_ii.ipynb) |
 | 4046 | [Minimum Cost Path With At Most K Turns](https://leetcode.com/problems/minimum-cost-path-with-at-most-k-turns/) | [4046_minimum_cost_path_with_at_most_k_turns.ipynb](DSA/Hard/4046_minimum_cost_path_with_at_most_k_turns.ipynb) |
 | 4047 | [Minimum Operations to Make XOR of All Elements Zero](https://leetcode.com/problems/minimum-operations-to-make-xor-of-all-elements-zero/) | [4047_minimum_operations_to_make_xor_of_all_elements_zero.ipynb](DSA/Hard/4047_minimum_operations_to_make_xor_of_all_elements_zero.ipynb) |

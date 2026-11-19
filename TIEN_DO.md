@@ -341,3 +341,12 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 - Lỗi: không có
 - Bỏ qua: không có
 - ID Hard tiếp theo (tính từ đầu): 753
+
+### Đợt Hard 8 (nhóm Hard, tính từ cuối danh sách đếm lên) — 19/11/2026
+
+- Đã xong: 4041, 4037, 4033, 4029, 4028, 4027, 4023, 4018, 4017, 4013, 4009, 4007, 4005, 4004, 4003, 3999, 3995, 3990, 3989, 3985
+- Lỗi: không có
+- Bỏ qua: không có
+- Ghi chú: Tên bài, đề và chữ ký lấy từ LeetCode GraphQL + bản doocs/leetcode (Excel trước đó chưa có tên các bài này). Bài Premium (đề lấy từ doocs, đối chiếu lại nếu có tài khoản Premium): 4029, 4028, 4018, 4005, 4004, 3990. Cần đối chiếu tên phương thức (suy luận, không có skeleton): 4018 `interactionCosts`, 4005 `minOperations`, 3990 `constructGrid` (nhiều đáp án đúng, test theo tính chất), 4029 `elevatorRequests`. 4033: dùng hash ngẫu nhiên 64 bit (xác suất sai cực nhỏ, đã ghi trong notebook). 3999: hint của doocs sai, notebook dùng lời giải đúng đã kiểm chứng. 4005: Python thuần có thể chậm ở ca xấu nhất (đã nêu, có thêm cách numpy). Chạy 1 agent/lượt tuần tự theo yêu cầu.
+- ID Hard tiếp theo (tính từ cuối đếm lên): 3981 (rồi 3977, 3973, 3972, 3971, …)
+- ID Hard tiếp theo (tính từ đầu): 753
