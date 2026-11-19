@@ -15,9 +15,9 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 830 notebook** — DSA/Easy: 579 · DSA/Medium: 137 · DSA/Hard: 101 · SQL: 11 · Shell: 2
+**Tổng: 850 notebook** — DSA/Easy: 599 · DSA/Medium: 137 · DSA/Hard: 101 · SQL: 11 · Shell: 2
 
-## DSA — Easy — 579 bài
+## DSA — Easy — 599 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -600,6 +600,26 @@ Shell/                            bài Shell (Bash)
 | 2880 | [Select Data](https://leetcode.com/problems/select-data/) | [2880_select_data.ipynb](DSA/Easy/2880_select_data.ipynb) |
 | 2881 | [Create a New Column](https://leetcode.com/problems/create-a-new-column/) | [2881_create_a_new_column.ipynb](DSA/Easy/2881_create_a_new_column.ipynb) |
 | 2882 | [Drop Duplicate Rows](https://leetcode.com/problems/drop-duplicate-rows/) | [2882_drop_duplicate_rows.ipynb](DSA/Easy/2882_drop_duplicate_rows.ipynb) |
+| 2883 | [Drop Missing Data](https://leetcode.com/problems/drop-missing-data/) | [2883_drop_missing_data.ipynb](DSA/Easy/2883_drop_missing_data.ipynb) |
+| 2884 | [Modify Columns](https://leetcode.com/problems/modify-columns/) | [2884_modify_columns.ipynb](DSA/Easy/2884_modify_columns.ipynb) |
+| 2885 | [Rename Columns](https://leetcode.com/problems/rename-columns/) | [2885_rename_columns.ipynb](DSA/Easy/2885_rename_columns.ipynb) |
+| 2886 | [Change Data Type](https://leetcode.com/problems/change-data-type/) | [2886_change_data_type.ipynb](DSA/Easy/2886_change_data_type.ipynb) |
+| 2887 | [Fill Missing Data](https://leetcode.com/problems/fill-missing-data/) | [2887_fill_missing_data.ipynb](DSA/Easy/2887_fill_missing_data.ipynb) |
+| 2888 | [Reshape Data: Concatenate](https://leetcode.com/problems/reshape-data-concatenate/) | [2888_reshape_data_concatenate.ipynb](DSA/Easy/2888_reshape_data_concatenate.ipynb) |
+| 2889 | [Reshape Data: Pivot](https://leetcode.com/problems/reshape-data-pivot/) | [2889_reshape_data_pivot.ipynb](DSA/Easy/2889_reshape_data_pivot.ipynb) |
+| 2890 | [Reshape Data: Melt](https://leetcode.com/problems/reshape-data-melt/) | [2890_reshape_data_melt.ipynb](DSA/Easy/2890_reshape_data_melt.ipynb) |
+| 2891 | [Method Chaining](https://leetcode.com/problems/method-chaining/) | [2891_method_chaining.ipynb](DSA/Easy/2891_method_chaining.ipynb) |
+| 2894 | [Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/) | [2894_divisible_and_non_divisible_sums_difference.ipynb](DSA/Easy/2894_divisible_and_non_divisible_sums_difference.ipynb) |
+| 2899 | [Last Visited Integers](https://leetcode.com/problems/last-visited-integers/) | [2899_last_visited_integers.ipynb](DSA/Easy/2899_last_visited_integers.ipynb) |
+| 2900 | [Longest Unequal Adjacent Groups Subsequence I](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i/) | [2900_longest_unequal_adjacent_groups_subsequence_i.ipynb](DSA/Easy/2900_longest_unequal_adjacent_groups_subsequence_i.ipynb) |
+| 2903 | [Sum of Values at Indices With K Set Bits](https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits/) | [2903_sum_of_values_at_indices_with_k_set_bits.ipynb](DSA/Easy/2903_sum_of_values_at_indices_with_k_set_bits.ipynb) |
+| 2908 | [Minimum Sum of Mountain Triplets I](https://leetcode.com/problems/minimum-sum-of-mountain-triplets-i/) | [2908_minimum_sum_of_mountain_triplets_i.ipynb](DSA/Easy/2908_minimum_sum_of_mountain_triplets_i.ipynb) |
+| 2913 | [Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/) | [2913_subarrays_distinct_element_sum_of_squares_i.ipynb](DSA/Easy/2913_subarrays_distinct_element_sum_of_squares_i.ipynb) |
+| 2917 | [K-or of an Array](https://leetcode.com/problems/k-or-of-an-array/) | [2917_k_or_of_an_array.ipynb](DSA/Easy/2917_k_or_of_an_array.ipynb) |
+| 2923 | [Find Champion I](https://leetcode.com/problems/find-champion-i/) | [2923_find_champion_i.ipynb](DSA/Easy/2923_find_champion_i.ipynb) |
+| 2928 | [Distribute Candies Among Children I](https://leetcode.com/problems/distribute-candies-among-children-i/) | [2928_distribute_candies_among_children_i.ipynb](DSA/Easy/2928_distribute_candies_among_children_i.ipynb) |
+| 2932 | [Maximum Strong Pair XOR I](https://leetcode.com/problems/maximum-strong-pair-xor-i/) | [2932_maximum_strong_pair_xor_i.ipynb](DSA/Easy/2932_maximum_strong_pair_xor_i.ipynb) |
+| 2937 | [Make Three Strings Equal](https://leetcode.com/problems/make-three-strings-equal/) | [2937_make_three_strings_equal.ipynb](DSA/Easy/2937_make_three_strings_equal.ipynb) |
 
 ## DSA — Medium — 137 bài
 

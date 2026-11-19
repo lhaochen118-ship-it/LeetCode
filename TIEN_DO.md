@@ -227,3 +227,12 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 - Bỏ qua: không có
 - Ghi chú: 2877–2882 là bài pandas (pandas 3.x, chữ ký hàm và dữ liệu ví dụ viết theo trí nhớ — đối chiếu lại với đề gốc). Ví dụ khác nên đối chiếu: 2839 (ví dụ 2), 2828 (ví dụ 3). Đợt 25 (2475–2566) do khung chat khác làm, chưa thấy trên main khi ghi đợt này.
 - ID tiếp theo: 2883
+
+### Đợt 29 — 19/11/2026
+
+- Đã xong: 2883, 2884, 2885, 2886, 2887, 2888, 2889, 2890, 2891, 2894, 2899, 2900, 2903, 2908, 2913, 2917, 2923, 2928, 2932, 2937
+- Lỗi: không có
+- Bỏ qua: không có
+- Ghi chú: 2883–2891 là bài pandas (pandas 3.x, chữ ký hàm và dữ liệu ví dụ viết theo trí nhớ — đối chiếu lại với đề gốc). Ví dụ cần đối chiếu: 2888 (ignore_index), 2889 (index/reset_index của pivot), 2887 (dtype quantity), 2891 (nhãn hàng), 2900 (nhiều đáp án đúng; test kiểm tra tính hợp lệ + độ dài tối ưu). Các bài còn lại đề/ví dụ viết theo trí nhớ, đáp án khớp brute force. Đợt này chỉ chạy 1 agent theo yêu cầu; theo yêu cầu người dùng, dừng sau đợt 29.
+- Còn thiếu: đợt 25 (Easy 2475–2566, 20 bài) vẫn chưa có trên repo — nên làm bù ở đợt kế tiếp.
+- ID tiếp theo (sau 2937): 2942 (và 2475 nếu làm bù đợt 25 trước)
