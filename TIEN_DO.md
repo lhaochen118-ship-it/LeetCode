@@ -326,3 +326,11 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 - Bỏ qua: không có
 - Ghi chú: Bài Premium (đề viết theo hiểu biết): 489, 499, 527, 568, 588. Cần đối chiếu đề: 499 (ví dụ viết theo trí nhớ), 527 (ví dụ/ràng buộc), 588 (addContentToFile có tự tạo thư mục cha hay không — notebook giả định có). 0488 dùng cắt tỉa kiểm chứng bằng test ngẫu nhiên; 0517 chiều đạt được chỉ nêu kết quả đã biết. Nhóm Hard trước đợt này đã có 0004–0479 (88 bài) và 4042–4114 (20 bài cuối). Chạy tuần tự 1 agent/lượt theo yêu cầu.
 - ID Hard tiếp theo: 631
+
+### Đợt Hard 6 (nhóm Hard, tính từ đầu danh sách) — 19/11/2026
+
+- Đã xong: 631, 632, 639, 642, 644, 656, 660, 664, 668, 675, 679, 683, 685, 689, 691, 699, 710, 711, 715, 719
+- Lỗi: không có
+- Bỏ qua: không có
+- Ghi chú: Bài Premium (đề viết theo hiểu biết): 631, 642, 644, 656, 660, 683, 711. Cần đối chiếu: 631 (kiểu column str, miền val), 642 (luật hòa ASCII), 644 (sai số 1e-5), 656 (định nghĩa thứ tự từ điển), 675 (ô xuất phát là vật cản → trả -1, đề không nói rõ), 683/711 (ví dụ, ràng buộc). 0710 là bài ngẫu nhiên: test bằng seed cố định + phân phối thô. Chạy tuần tự 1 agent/lượt theo yêu cầu.
+- ID Hard tiếp theo: 726

@@ -15,7 +15,7 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 1057 notebook** — DSA/Easy: 713 · DSA/Medium: 203 · DSA/Hard: 128 · SQL: 11 · Shell: 2
+**Tổng: 1077 notebook** — DSA/Easy: 713 · DSA/Medium: 203 · DSA/Hard: 148 · SQL: 11 · Shell: 2
 
 ## DSA — Easy — 713 bài
 
@@ -943,7 +943,7 @@ Shell/                            bài Shell (Bash)
 | 4112 | [Maximize Score After Zeroing Subtrees](https://leetcode.com/problems/maximize-score-after-zeroing-subtrees/) | [4112_maximize_score_after_zeroing_subtrees.ipynb](DSA/Medium/4112_maximize_score_after_zeroing_subtrees.ipynb) |
 | 4113 | [Game of Divisible Sums](https://leetcode.com/problems/game-of-divisible-sums/) | [4113_game_of_divisible_sums.ipynb](DSA/Medium/4113_game_of_divisible_sums.ipynb) |
 
-## DSA — Hard — 128 bài
+## DSA — Hard — 148 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -1055,6 +1055,26 @@ Shell/                            bài Shell (Bash)
 | 0600 | [Non-negative Integers without Consecutive Ones](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/) | [0600_non_negative_integers_without_consecutive_ones.ipynb](DSA/Hard/0600_non_negative_integers_without_consecutive_ones.ipynb) |
 | 0629 | [K Inverse Pairs Array](https://leetcode.com/problems/k-inverse-pairs-array/) | [0629_k_inverse_pairs_array.ipynb](DSA/Hard/0629_k_inverse_pairs_array.ipynb) |
 | 0630 | [Course Schedule III](https://leetcode.com/problems/course-schedule-iii/) | [0630_course_schedule_iii.ipynb](DSA/Hard/0630_course_schedule_iii.ipynb) |
+| 0631 | [Design Excel Sum Formula](https://leetcode.com/problems/design-excel-sum-formula/) | [0631_design_excel_sum_formula.ipynb](DSA/Hard/0631_design_excel_sum_formula.ipynb) |
+| 0632 | [Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/) | [0632_smallest_range_covering_elements_from_k_lists.ipynb](DSA/Hard/0632_smallest_range_covering_elements_from_k_lists.ipynb) |
+| 0639 | [Decode Ways II](https://leetcode.com/problems/decode-ways-ii/) | [0639_decode_ways_ii.ipynb](DSA/Hard/0639_decode_ways_ii.ipynb) |
+| 0642 | [Design Search Autocomplete System](https://leetcode.com/problems/design-search-autocomplete-system/) | [0642_design_search_autocomplete_system.ipynb](DSA/Hard/0642_design_search_autocomplete_system.ipynb) |
+| 0644 | [Maximum Average Subarray II](https://leetcode.com/problems/maximum-average-subarray-ii/) | [0644_maximum_average_subarray_ii.ipynb](DSA/Hard/0644_maximum_average_subarray_ii.ipynb) |
+| 0656 | [Coin Path](https://leetcode.com/problems/coin-path/) | [0656_coin_path.ipynb](DSA/Hard/0656_coin_path.ipynb) |
+| 0660 | [Remove 9](https://leetcode.com/problems/remove-9/) | [0660_remove_9.ipynb](DSA/Hard/0660_remove_9.ipynb) |
+| 0664 | [Strange Printer](https://leetcode.com/problems/strange-printer/) | [0664_strange_printer.ipynb](DSA/Hard/0664_strange_printer.ipynb) |
+| 0668 | [Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/) | [0668_kth_smallest_number_in_multiplication_table.ipynb](DSA/Hard/0668_kth_smallest_number_in_multiplication_table.ipynb) |
+| 0675 | [Cut Off Trees for Golf Event](https://leetcode.com/problems/cut-off-trees-for-golf-event/) | [0675_cut_off_trees_for_golf_event.ipynb](DSA/Hard/0675_cut_off_trees_for_golf_event.ipynb) |
+| 0679 | [24 Game](https://leetcode.com/problems/24-game/) | [0679_24_game.ipynb](DSA/Hard/0679_24_game.ipynb) |
+| 0683 | [K Empty Slots](https://leetcode.com/problems/k-empty-slots/) | [0683_k_empty_slots.ipynb](DSA/Hard/0683_k_empty_slots.ipynb) |
+| 0685 | [Redundant Connection II](https://leetcode.com/problems/redundant-connection-ii/) | [0685_redundant_connection_ii.ipynb](DSA/Hard/0685_redundant_connection_ii.ipynb) |
+| 0689 | [Maximum Sum of 3 Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/) | [0689_maximum_sum_of_3_non_overlapping_subarrays.ipynb](DSA/Hard/0689_maximum_sum_of_3_non_overlapping_subarrays.ipynb) |
+| 0691 | [Stickers to Spell Word](https://leetcode.com/problems/stickers-to-spell-word/) | [0691_stickers_to_spell_word.ipynb](DSA/Hard/0691_stickers_to_spell_word.ipynb) |
+| 0699 | [Falling Squares](https://leetcode.com/problems/falling-squares/) | [0699_falling_squares.ipynb](DSA/Hard/0699_falling_squares.ipynb) |
+| 0710 | [Random Pick with Blacklist](https://leetcode.com/problems/random-pick-with-blacklist/) | [0710_random_pick_with_blacklist.ipynb](DSA/Hard/0710_random_pick_with_blacklist.ipynb) |
+| 0711 | [Number of Distinct Islands II](https://leetcode.com/problems/number-of-distinct-islands-ii/) | [0711_number_of_distinct_islands_ii.ipynb](DSA/Hard/0711_number_of_distinct_islands_ii.ipynb) |
+| 0715 | [Range Module](https://leetcode.com/problems/range-module/) | [0715_range_module.ipynb](DSA/Hard/0715_range_module.ipynb) |
+| 0719 | [Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/) | [0719_find_k_th_smallest_pair_distance.ipynb](DSA/Hard/0719_find_k_th_smallest_pair_distance.ipynb) |
 | 4042 | [Valid K-Unique Subarrays II](https://leetcode.com/problems/valid-k-unique-subarrays-ii/) | [4042_valid_k_unique_subarrays_ii.ipynb](DSA/Hard/4042_valid_k_unique_subarrays_ii.ipynb) |
 | 4046 | [Minimum Cost Path With At Most K Turns](https://leetcode.com/problems/minimum-cost-path-with-at-most-k-turns/) | [4046_minimum_cost_path_with_at_most_k_turns.ipynb](DSA/Hard/4046_minimum_cost_path_with_at_most_k_turns.ipynb) |
 | 4047 | [Minimum Operations to Make XOR of All Elements Zero](https://leetcode.com/problems/minimum-operations-to-make-xor-of-all-elements-zero/) | [4047_minimum_operations_to_make_xor_of_all_elements_zero.ipynb](DSA/Hard/4047_minimum_operations_to_make_xor_of_all_elements_zero.ipynb) |
