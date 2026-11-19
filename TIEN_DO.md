@@ -7,9 +7,9 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 ## Trạng thái hiện tại
 
 <!--STATUS-->
-- Cập nhật: 19/11/2026, sau đợt 18
-- ID tiếp theo: 1880 (Easy)
-- Số bài DSA còn lại: 3074
+- Cập nhật: 19/11/2026, sau đợt 19
+- ID tiếp theo: 1979 (Easy)
+- Số bài DSA còn lại: 3054
 <!--/STATUS-->
 
 ## Nhật ký các đợt
@@ -158,3 +158,11 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 - Bỏ qua: không có
 - Ghi chú: Bài Premium (đề viết theo hiểu biết): 1826.
 - ID tiếp theo: 1880
+
+### Đợt 19 — 19/11/2026
+
+- Đã xong: 1880, 1886, 1893, 1897, 1903, 1909, 1913, 1920, 1925, 1929, 1933, 1935, 1941, 1945, 1952, 1957, 1961, 1967, 1971, 1974
+- Lỗi: không có
+- Bỏ qua: không có
+- Ghi chú: Bài Premium (đề viết theo hiểu biết): 1933.
+- ID tiếp theo: 1979

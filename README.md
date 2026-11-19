@@ -15,9 +15,9 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 650 notebook** — DSA/Easy: 399 · DSA/Medium: 137 · DSA/Hard: 101 · SQL: 11 · Shell: 2
+**Tổng: 670 notebook** — DSA/Easy: 419 · DSA/Medium: 137 · DSA/Hard: 101 · SQL: 11 · Shell: 2
 
-## DSA — Easy — 399 bài
+## DSA — Easy — 419 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -420,6 +420,26 @@ Shell/                            bài Shell (Bash)
 | 1863 | [Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/) | [1863_sum_of_all_subset_xor_totals.ipynb](DSA/Easy/1863_sum_of_all_subset_xor_totals.ipynb) |
 | 1869 | [Longer Contiguous Segments of Ones than Zeros](https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/) | [1869_longer_contiguous_segments_of_ones_than_zeros.ipynb](DSA/Easy/1869_longer_contiguous_segments_of_ones_than_zeros.ipynb) |
 | 1876 | [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/) | [1876_substrings_of_size_three_with_distinct_characters.ipynb](DSA/Easy/1876_substrings_of_size_three_with_distinct_characters.ipynb) |
+| 1880 | [Check if Word Equals Summation of Two Words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/) | [1880_check_if_word_equals_summation_of_two_words.ipynb](DSA/Easy/1880_check_if_word_equals_summation_of_two_words.ipynb) |
+| 1886 | [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/) | [1886_determine_whether_matrix_can_be_obtained_by_rotation.ipynb](DSA/Easy/1886_determine_whether_matrix_can_be_obtained_by_rotation.ipynb) |
+| 1893 | [Check if All the Integers in a Range Are Covered](https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/) | [1893_check_if_all_the_integers_in_a_range_are_covered.ipynb](DSA/Easy/1893_check_if_all_the_integers_in_a_range_are_covered.ipynb) |
+| 1897 | [Redistribute Characters to Make All Strings Equal](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/) | [1897_redistribute_characters_to_make_all_strings_equal.ipynb](DSA/Easy/1897_redistribute_characters_to_make_all_strings_equal.ipynb) |
+| 1903 | [Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/) | [1903_largest_odd_number_in_string.ipynb](DSA/Easy/1903_largest_odd_number_in_string.ipynb) |
+| 1909 | [Remove One Element to Make the Array Strictly Increasing](https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing/) | [1909_remove_one_element_to_make_the_array_strictly_increasing.ipynb](DSA/Easy/1909_remove_one_element_to_make_the_array_strictly_increasing.ipynb) |
+| 1913 | [Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/) | [1913_maximum_product_difference_between_two_pairs.ipynb](DSA/Easy/1913_maximum_product_difference_between_two_pairs.ipynb) |
+| 1920 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) | [1920_build_array_from_permutation.ipynb](DSA/Easy/1920_build_array_from_permutation.ipynb) |
+| 1925 | [Count Square Sum Triples](https://leetcode.com/problems/count-square-sum-triples/) | [1925_count_square_sum_triples.ipynb](DSA/Easy/1925_count_square_sum_triples.ipynb) |
+| 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [1929_concatenation_of_array.ipynb](DSA/Easy/1929_concatenation_of_array.ipynb) |
+| 1933 | [Check if String Is Decomposable Into Value-Equal Substrings](https://leetcode.com/problems/check-if-string-is-decomposable-into-value-equal-substrings/) | [1933_check_if_string_is_decomposable_into_value_equal_substrings.ipynb](DSA/Easy/1933_check_if_string_is_decomposable_into_value_equal_substrings.ipynb) |
+| 1935 | [Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type/) | [1935_maximum_number_of_words_you_can_type.ipynb](DSA/Easy/1935_maximum_number_of_words_you_can_type.ipynb) |
+| 1941 | [Check if All Characters Have Equal Number of Occurrences](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/) | [1941_check_if_all_characters_have_equal_number_of_occurrences.ipynb](DSA/Easy/1941_check_if_all_characters_have_equal_number_of_occurrences.ipynb) |
+| 1945 | [Sum of Digits of String After Convert](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/) | [1945_sum_of_digits_of_string_after_convert.ipynb](DSA/Easy/1945_sum_of_digits_of_string_after_convert.ipynb) |
+| 1952 | [Three Divisors](https://leetcode.com/problems/three-divisors/) | [1952_three_divisors.ipynb](DSA/Easy/1952_three_divisors.ipynb) |
+| 1957 | [Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/) | [1957_delete_characters_to_make_fancy_string.ipynb](DSA/Easy/1957_delete_characters_to_make_fancy_string.ipynb) |
+| 1961 | [Check If String Is a Prefix of Array](https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/) | [1961_check_if_string_is_a_prefix_of_array.ipynb](DSA/Easy/1961_check_if_string_is_a_prefix_of_array.ipynb) |
+| 1967 | [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/) | [1967_number_of_strings_that_appear_as_substrings_in_word.ipynb](DSA/Easy/1967_number_of_strings_that_appear_as_substrings_in_word.ipynb) |
+| 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) | [1971_find_if_path_exists_in_graph.ipynb](DSA/Easy/1971_find_if_path_exists_in_graph.ipynb) |
+| 1974 | [Minimum Time to Type Word Using Special Typewriter](https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter/) | [1974_minimum_time_to_type_word_using_special_typewriter.ipynb](DSA/Easy/1974_minimum_time_to_type_word_using_special_typewriter.ipynb) |
 
 ## DSA — Medium — 137 bài
 
