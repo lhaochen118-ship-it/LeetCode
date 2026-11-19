@@ -15,7 +15,7 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 1017 notebook** — DSA/Easy: 713 · DSA/Medium: 183 · DSA/Hard: 108 · SQL: 11 · Shell: 2
+**Tổng: 1037 notebook** — DSA/Easy: 713 · DSA/Medium: 203 · DSA/Hard: 108 · SQL: 11 · Shell: 2
 
 ## DSA — Easy — 713 bài
 
@@ -735,7 +735,7 @@ Shell/                            bài Shell (Bash)
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [4097_minimum_value_of_merged_integers.ipynb](DSA/Easy/4097_minimum_value_of_merged_integers.ipynb) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [4111_count_consistent_subarrays_i.ipynb](DSA/Easy/4111_count_consistent_subarrays_i.ipynb) |
 
-## DSA — Medium — 183 bài
+## DSA — Medium — 203 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -903,6 +903,26 @@ Shell/                            bài Shell (Bash)
 | 0300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [0300_longest_increasing_subsequence.ipynb](DSA/Medium/0300_longest_increasing_subsequence.ipynb) |
 | 0304 | [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | [0304_range_sum_query_2d_immutable.ipynb](DSA/Medium/0304_range_sum_query_2d_immutable.ipynb) |
 | 0306 | [Additive Number](https://leetcode.com/problems/additive-number/) | [0306_additive_number.ipynb](DSA/Medium/0306_additive_number.ipynb) |
+| 0307 | [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) | [0307_range_sum_query_mutable.ipynb](DSA/Medium/0307_range_sum_query_mutable.ipynb) |
+| 0309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [0309_best_time_to_buy_and_sell_stock_with_cooldown.ipynb](DSA/Medium/0309_best_time_to_buy_and_sell_stock_with_cooldown.ipynb) |
+| 0310 | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) | [0310_minimum_height_trees.ipynb](DSA/Medium/0310_minimum_height_trees.ipynb) |
+| 0311 | [Sparse Matrix Multiplication 🔒](https://leetcode.com/problems/sparse-matrix-multiplication/) | [0311_sparse_matrix_multiplication.ipynb](DSA/Medium/0311_sparse_matrix_multiplication.ipynb) |
+| 0313 | [Super Ugly Number](https://leetcode.com/problems/super-ugly-number/) | [0313_super_ugly_number.ipynb](DSA/Medium/0313_super_ugly_number.ipynb) |
+| 0314 | [Binary Tree Vertical Order Traversal 🔒](https://leetcode.com/problems/binary-tree-vertical-order-traversal/) | [0314_binary_tree_vertical_order_traversal.ipynb](DSA/Medium/0314_binary_tree_vertical_order_traversal.ipynb) |
+| 0316 | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | [0316_remove_duplicate_letters.ipynb](DSA/Medium/0316_remove_duplicate_letters.ipynb) |
+| 0318 | [Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/) | [0318_maximum_product_of_word_lengths.ipynb](DSA/Medium/0318_maximum_product_of_word_lengths.ipynb) |
+| 0319 | [Bulb Switcher](https://leetcode.com/problems/bulb-switcher/) | [0319_bulb_switcher.ipynb](DSA/Medium/0319_bulb_switcher.ipynb) |
+| 0320 | [Generalized Abbreviation 🔒](https://leetcode.com/problems/generalized-abbreviation/) | [0320_generalized_abbreviation.ipynb](DSA/Medium/0320_generalized_abbreviation.ipynb) |
+| 0322 | [Coin Change](https://leetcode.com/problems/coin-change/) | [0322_coin_change.ipynb](DSA/Medium/0322_coin_change.ipynb) |
+| 0323 | [Number of Connected Components in an Undirected Graph 🔒](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) | [0323_number_of_connected_components_in_an_undirected_graph.ipynb](DSA/Medium/0323_number_of_connected_components_in_an_undirected_graph.ipynb) |
+| 0324 | [Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/) | [0324_wiggle_sort_ii.ipynb](DSA/Medium/0324_wiggle_sort_ii.ipynb) |
+| 0325 | [Maximum Size Subarray Sum Equals k 🔒](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/) | [0325_maximum_size_subarray_sum_equals_k.ipynb](DSA/Medium/0325_maximum_size_subarray_sum_equals_k.ipynb) |
+| 0328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [0328_odd_even_linked_list.ipynb](DSA/Medium/0328_odd_even_linked_list.ipynb) |
+| 0331 | [Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/) | [0331_verify_preorder_serialization_of_a_binary_tree.ipynb](DSA/Medium/0331_verify_preorder_serialization_of_a_binary_tree.ipynb) |
+| 0333 | [Largest BST Subtree 🔒](https://leetcode.com/problems/largest-bst-subtree/) | [0333_largest_bst_subtree.ipynb](DSA/Medium/0333_largest_bst_subtree.ipynb) |
+| 0334 | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | [0334_increasing_triplet_subsequence.ipynb](DSA/Medium/0334_increasing_triplet_subsequence.ipynb) |
+| 0337 | [House Robber III](https://leetcode.com/problems/house-robber-iii/) | [0337_house_robber_iii.ipynb](DSA/Medium/0337_house_robber_iii.ipynb) |
+| 0341 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | [0341_flatten_nested_list_iterator.ipynb](DSA/Medium/0341_flatten_nested_list_iterator.ipynb) |
 | 4044 | [Count Good Cyclic Rotations](https://leetcode.com/problems/count-good-cyclic-rotations/) | [4044_count_good_cyclic_rotations.ipynb](DSA/Medium/4044_count_good_cyclic_rotations.ipynb) |
 | 4045 | [Count Robot Groups](https://leetcode.com/problems/count-robot-groups/) | [4045_count_robot_groups.ipynb](DSA/Medium/4045_count_robot_groups.ipynb) |
 | 4049 | [Count Values With Equally Spaced Occurrences II](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-ii/) | [4049_count_values_with_equally_spaced_occurrences_ii.ipynb](DSA/Medium/4049_count_values_with_equally_spaced_occurrences_ii.ipynb) |

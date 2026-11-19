@@ -309,3 +309,12 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 - Bỏ qua: không có
 - Ghi chú: Bài Premium (đề viết theo hiểu biết, đối chiếu lại nếu có tài khoản Premium): 0267, 0271, 0277, 0280, 0281, 0285, 0286, 0294, 0298. Chữ ký hàm của vài bài viết theo skeleton LeetCode nhớ được (file đề doocs thiếu) — đối chiếu lại. 0286: DFS cắt tỉa chỉ chạy trên lưới nhỏ vì quá chậm ở 250×250 (đã ghi trong notebook). 0280 nhiều đáp án đúng (test theo tính chất); 0275 dùng bisect key= cần Python 3.10+.
 - ID Medium tiếp theo: 0307 (đợt 43 → 307–341).
+
+### Đợt 43 — 19/11/2026
+
+- Đã xong (Medium): 0307, 0309, 0310, 0311, 0313, 0314, 0316, 0318, 0319, 0320, 0322, 0323, 0324, 0325, 0328, 0331, 0333, 0334, 0337, 0341
+- Lỗi: không có
+- Bỏ qua: không có
+- Ghi chú: Bài Premium (đề viết theo hiểu biết, đối chiếu lại nếu có tài khoản Premium): 0311, 0314, 0320, 0323, 0325, 0333. Chữ ký hàm của vài bài viết theo skeleton LeetCode nhớ được (file đề doocs thiếu) — đối chiếu lại. 0324, 0310, 0320 nhiều đáp án đúng (test theo tính chất/so sánh đã sắp). 0307, 0341 tự dựng khung test (class / NestedInteger giả lập).
+- Theo yêu cầu người dùng, dừng sau đợt 43 (các đợt 41–43 chạy bằng 2 agent).
+- ID Medium tiếp theo: 0343 (tra Excel để lấy ID chính xác); đợt 36–39 (Easy) do khung chat khác làm — kiểm tra Excel xem Easy còn thiếu bài nào.
