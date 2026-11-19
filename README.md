@@ -15,9 +15,9 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 770 notebook** — DSA/Easy: 519 · DSA/Medium: 137 · DSA/Hard: 101 · SQL: 11 · Shell: 2
+**Tổng: 790 notebook** — DSA/Easy: 539 · DSA/Medium: 137 · DSA/Hard: 101 · SQL: 11 · Shell: 2
 
-## DSA — Easy — 519 bài
+## DSA — Easy — 539 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -540,6 +540,26 @@ Shell/                            bài Shell (Bash)
 | 2460 | [Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array/) | [2460_apply_operations_to_an_array.ipynb](DSA/Easy/2460_apply_operations_to_an_array.ipynb) |
 | 2465 | [Number of Distinct Averages](https://leetcode.com/problems/number-of-distinct-averages/) | [2465_number_of_distinct_averages.ipynb](DSA/Easy/2465_number_of_distinct_averages.ipynb) |
 | 2469 | [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/) | [2469_convert_the_temperature.ipynb](DSA/Easy/2469_convert_the_temperature.ipynb) |
+| 2570 | [Merge Two 2D Arrays by Summing Values](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/) | [2570_merge_two_2d_arrays_by_summing_values.ipynb](DSA/Easy/2570_merge_two_2d_arrays_by_summing_values.ipynb) |
+| 2574 | [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/) | [2574_left_and_right_sum_differences.ipynb](DSA/Easy/2574_left_and_right_sum_differences.ipynb) |
+| 2578 | [Split With Minimum Sum](https://leetcode.com/problems/split-with-minimum-sum/) | [2578_split_with_minimum_sum.ipynb](DSA/Easy/2578_split_with_minimum_sum.ipynb) |
+| 2582 | [Pass the Pillow](https://leetcode.com/problems/pass-the-pillow/) | [2582_pass_the_pillow.ipynb](DSA/Easy/2582_pass_the_pillow.ipynb) |
+| 2586 | [Count the Number of Vowel Strings in Range](https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range/) | [2586_count_the_number_of_vowel_strings_in_range.ipynb](DSA/Easy/2586_count_the_number_of_vowel_strings_in_range.ipynb) |
+| 2591 | [Distribute Money to Maximum Children](https://leetcode.com/problems/distribute-money-to-maximum-children/) | [2591_distribute_money_to_maximum_children.ipynb](DSA/Easy/2591_distribute_money_to_maximum_children.ipynb) |
+| 2595 | [Number of Even and Odd Bits](https://leetcode.com/problems/number-of-even-and-odd-bits/) | [2595_number_of_even_and_odd_bits.ipynb](DSA/Easy/2595_number_of_even_and_odd_bits.ipynb) |
+| 2600 | [K Items With the Maximum Sum](https://leetcode.com/problems/k-items-with-the-maximum-sum/) | [2600_k_items_with_the_maximum_sum.ipynb](DSA/Easy/2600_k_items_with_the_maximum_sum.ipynb) |
+| 2605 | [Form Smallest Number From Two Digit Arrays](https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays/) | [2605_form_smallest_number_from_two_digit_arrays.ipynb](DSA/Easy/2605_form_smallest_number_from_two_digit_arrays.ipynb) |
+| 2609 | [Find the Longest Balanced Substring of a Binary String](https://leetcode.com/problems/find-the-longest-balanced-substring-of-a-binary-string/) | [2609_find_the_longest_balanced_substring_of_a_binary_string.ipynb](DSA/Easy/2609_find_the_longest_balanced_substring_of_a_binary_string.ipynb) |
+| 2614 | [Prime In Diagonal](https://leetcode.com/problems/prime-in-diagonal/) | [2614_prime_in_diagonal.ipynb](DSA/Easy/2614_prime_in_diagonal.ipynb) |
+| 2639 | [Find the Width of Columns of a Grid](https://leetcode.com/problems/find-the-width-of-columns-of-a-grid/) | [2639_find_the_width_of_columns_of_a_grid.ipynb](DSA/Easy/2639_find_the_width_of_columns_of_a_grid.ipynb) |
+| 2643 | [Row With Maximum Ones](https://leetcode.com/problems/row-with-maximum-ones/) | [2643_row_with_maximum_ones.ipynb](DSA/Easy/2643_row_with_maximum_ones.ipynb) |
+| 2644 | [Find the Maximum Divisibility Score](https://leetcode.com/problems/find-the-maximum-divisibility-score/) | [2644_find_the_maximum_divisibility_score.ipynb](DSA/Easy/2644_find_the_maximum_divisibility_score.ipynb) |
+| 2651 | [Calculate Delayed Arrival Time](https://leetcode.com/problems/calculate-delayed-arrival-time/) | [2651_calculate_delayed_arrival_time.ipynb](DSA/Easy/2651_calculate_delayed_arrival_time.ipynb) |
+| 2652 | [Sum Multiples](https://leetcode.com/problems/sum-multiples/) | [2652_sum_multiples.ipynb](DSA/Easy/2652_sum_multiples.ipynb) |
+| 2656 | [Maximum Sum With Exactly K Elements](https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/) | [2656_maximum_sum_with_exactly_k_elements.ipynb](DSA/Easy/2656_maximum_sum_with_exactly_k_elements.ipynb) |
+| 2660 | [Determine the Winner of a Bowling Game](https://leetcode.com/problems/determine-the-winner-of-a-bowling-game/) | [2660_determine_the_winner_of_a_bowling_game.ipynb](DSA/Easy/2660_determine_the_winner_of_a_bowling_game.ipynb) |
+| 2670 | [Find the Distinct Difference Array](https://leetcode.com/problems/find-the-distinct-difference-array/) | [2670_find_the_distinct_difference_array.ipynb](DSA/Easy/2670_find_the_distinct_difference_array.ipynb) |
+| 2678 | [Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/) | [2678_number_of_senior_citizens.ipynb](DSA/Easy/2678_number_of_senior_citizens.ipynb) |
 
 ## DSA — Medium — 137 bài
 

@@ -203,3 +203,11 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 - Lỗi: không có
 - Bỏ qua: không có
 - ID tiếp theo: 2475
+
+### Đợt 26 — 19/11/2026
+
+- Đã xong: 2570, 2574, 2578, 2582, 2586, 2591, 2595, 2600, 2605, 2609, 2614, 2639, 2643, 2644, 2651, 2652, 2656, 2660, 2670, 2678
+- Lỗi: không có
+- Bỏ qua: không có
+- Ghi chú: Đợt 25 (2475–2566) do khung chat khác làm; đợt này lấy 20 bài Easy kế tiếp sau đó. Ví dụ cần đối chiếu lại với đề gốc: 2644 (ví dụ 3), 2578 (ví dụ 2).
+- ID tiếp theo: 2682
