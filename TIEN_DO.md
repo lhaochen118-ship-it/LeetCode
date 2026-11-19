@@ -244,3 +244,10 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 - Lỗi: không có
 - Bỏ qua: không có
 - Ghi chú: Đợt này làm bù sau khi bị ngắt do hết usage limit; 2515 dùng đúng tên phương thức LeetCode closetTarget.
+
+### Bổ sung từ nhánh claude/intelligent-clarke-6anln2 — 19/11/2026
+
+- Đã xong (thêm mới vào main): 4064, 4077 (DSA/Hard)
+- Ghi chú: các bài Hard 4060, 4068, 4073, 4081, 4082, 4086, 4091, 4095, 4100, 4105, 4109, 4114 cũng được nhánh này làm, nhưng main đã có bản (trùng hoặc của khung chat khác) nên giữ nguyên bản trên main, không ghi đè.
+- Ghi chú: 10 bài Medium 4101–4113 của nhánh này đã có sẵn trên main (trùng nội dung).
+- Còn lại trong 20 bài Hard cuối danh sách (đếm từ cuối lên): 4059, 4055, 4051, 4047, 4046, 4042 — main đã có 4059; chưa có 4055, 4051, 4047, 4046, 4042.
