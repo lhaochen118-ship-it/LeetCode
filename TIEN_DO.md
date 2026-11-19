@@ -203,3 +203,11 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 - Lỗi: không có
 - Bỏ qua: không có
 - ID tiếp theo: 2475
+
+### Đợt 25 — đang dở (dừng do hết giới hạn sử dụng, reset 6:40 UTC 19/11/2026)
+
+- Đợt 25 gồm 20 bài: 2475, 2481, 2485, 2490, 2496, 2500, 2506, 2511, 2515, 2520, 2525, 2529, 2535, 2540, 2544, 2549, 2553, 2558, 2562, 2566.
+- Đã có file và đạt kiểm tra (chưa ghi Excel/README): 2475, 2481, 2485, 2496.
+- Còn phải viết: 2490, 2500, 2506, 2511, 2515, 2520, 2525, 2529, 2535, 2540, 2544, 2549, 2553, 2558, 2562, 2566 (có thể có file viết dở cho 2506–2566: kiểm tra bằng check_nb.py rồi làm lại nếu FAIL).
+- Khi đủ 20 bài: cập nhật Excel/README, ghi "Đợt 25" vào nhật ký, rồi làm đợt 26 từ Easy #2571 trở đi (tra Excel để lấy ID chính xác).
+
