@@ -15,9 +15,9 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 892 notebook** — DSA/Easy: 639 · DSA/Medium: 137 · DSA/Hard: 103 · SQL: 11 · Shell: 2
+**Tổng: 912 notebook** — DSA/Easy: 653 · DSA/Medium: 143 · DSA/Hard: 103 · SQL: 11 · Shell: 2
 
-## DSA — Easy — 639 bài
+## DSA — Easy — 653 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -660,8 +660,22 @@ Shell/                            bài Shell (Bash)
 | 3571 | [Find the Shortest Superstring II](https://leetcode.com/problems/find-the-shortest-superstring-ii/) | [3571_find_the_shortest_superstring_ii.ipynb](DSA/Easy/3571_find_the_shortest_superstring_ii.ipynb) |
 | 3581 | [Count Odd Letters from Number](https://leetcode.com/problems/count-odd-letters-from-number/) | [3581_count_odd_letters_from_number.ipynb](DSA/Easy/3581_count_odd_letters_from_number.ipynb) |
 | 3582 | [Generate Tag for Video Caption](https://leetcode.com/problems/generate-tag-for-video-caption/) | [3582_generate_tag_for_video_caption.ipynb](DSA/Easy/3582_generate_tag_for_video_caption.ipynb) |
+| 4043 | [Count Rotations With Exactly K Equal Adjacent Pairs](https://leetcode.com/problems/count-rotations-with-exactly-k-equal-adjacent-pairs/) | [4043_count_rotations_with_exactly_k_equal_adjacent_pairs.ipynb](DSA/Easy/4043_count_rotations_with_exactly_k_equal_adjacent_pairs.ipynb) |
+| 4048 | [Count Values With Equally Spaced Occurrences I](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-i/) | [4048_count_values_with_equally_spaced_occurrences_i.ipynb](DSA/Easy/4048_count_values_with_equally_spaced_occurrences_i.ipynb) |
+| 4052 | [Cyclically Shift Rows and Columns](https://leetcode.com/problems/cyclically-shift-rows-and-columns/) | [4052_cyclically_shift_rows_and_columns.ipynb](DSA/Easy/4052_cyclically_shift_rows_and_columns.ipynb) |
+| 4056 | [Number of Intersecting Interval Pairs I](https://leetcode.com/problems/number-of-intersecting-interval-pairs-i/) | [4056_number_of_intersecting_interval_pairs_i.ipynb](DSA/Easy/4056_number_of_intersecting_interval_pairs_i.ipynb) |
+| 4061 | [Minimum Queen Moves to Reach Target](https://leetcode.com/problems/minimum-queen-moves-to-reach-target/) | [4061_minimum_queen_moves_to_reach_target.ipynb](DSA/Easy/4061_minimum_queen_moves_to_reach_target.ipynb) |
+| 4065 | [Rearrange Array by Removing Distinct Values](https://leetcode.com/problems/rearrange-array-by-removing-distinct-values/) | [4065_rearrange_array_by_removing_distinct_values.ipynb](DSA/Easy/4065_rearrange_array_by_removing_distinct_values.ipynb) |
+| 4070 | [Minimum Rotations to Dial a Number I](https://leetcode.com/problems/minimum-rotations-to-dial-a-number-i/) | [4070_minimum_rotations_to_dial_a_number_i.ipynb](DSA/Easy/4070_minimum_rotations_to_dial_a_number_i.ipynb) |
+| 4074 | [Maximum Product Pair With Target Sum](https://leetcode.com/problems/maximum-product-pair-with-target-sum/) | [4074_maximum_product_pair_with_target_sum.ipynb](DSA/Easy/4074_maximum_product_pair_with_target_sum.ipynb) |
+| 4078 | [Three Fibonacci Sum](https://leetcode.com/problems/three-fibonacci-sum/) | [4078_three_fibonacci_sum.ipynb](DSA/Easy/4078_three_fibonacci_sum.ipynb) |
+| 4083 | [Minimum Deletions to Make Array Sharp](https://leetcode.com/problems/minimum-deletions-to-make-array-sharp/) | [4083_minimum_deletions_to_make_array_sharp.ipynb](DSA/Easy/4083_minimum_deletions_to_make_array_sharp.ipynb) |
+| 4088 | [Difference Between Peaks and Valleys](https://leetcode.com/problems/difference-between-peaks-and-valleys/) | [4088_difference_between_peaks_and_valleys.ipynb](DSA/Easy/4088_difference_between_peaks_and_valleys.ipynb) |
+| 4092 | [Binary Digit Score](https://leetcode.com/problems/binary-digit-score/) | [4092_binary_digit_score.ipynb](DSA/Easy/4092_binary_digit_score.ipynb) |
+| 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [4097_minimum_value_of_merged_integers.ipynb](DSA/Easy/4097_minimum_value_of_merged_integers.ipynb) |
+| 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [4111_count_consistent_subarrays_i.ipynb](DSA/Easy/4111_count_consistent_subarrays_i.ipynb) |
 
-## DSA — Medium — 137 bài
+## DSA — Medium — 143 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -783,6 +797,12 @@ Shell/                            bài Shell (Bash)
 | 0210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [0210_course_schedule_ii.ipynb](DSA/Medium/0210_course_schedule_ii.ipynb) |
 | 0211 | [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/) | [0211_design_add_and_search_words_data_structure.ipynb](DSA/Medium/0211_design_add_and_search_words_data_structure.ipynb) |
 | 0213 | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | [0213_house_robber_ii.ipynb](DSA/Medium/0213_house_robber_ii.ipynb) |
+| 0215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [0215_kth_largest_element_in_an_array.ipynb](DSA/Medium/0215_kth_largest_element_in_an_array.ipynb) |
+| 0216 | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | [0216_combination_sum_iii.ipynb](DSA/Medium/0216_combination_sum_iii.ipynb) |
+| 0221 | [Maximal Square](https://leetcode.com/problems/maximal-square/) | [0221_maximal_square.ipynb](DSA/Medium/0221_maximal_square.ipynb) |
+| 0222 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | [0222_count_complete_tree_nodes.ipynb](DSA/Medium/0222_count_complete_tree_nodes.ipynb) |
+| 0223 | [Rectangle Area](https://leetcode.com/problems/rectangle-area/) | [0223_rectangle_area.ipynb](DSA/Medium/0223_rectangle_area.ipynb) |
+| 0227 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | [0227_basic_calculator_ii.ipynb](DSA/Medium/0227_basic_calculator_ii.ipynb) |
 | 4044 | [Count Good Cyclic Rotations](https://leetcode.com/problems/count-good-cyclic-rotations/) | [4044_count_good_cyclic_rotations.ipynb](DSA/Medium/4044_count_good_cyclic_rotations.ipynb) |
 | 4045 | [Count Robot Groups](https://leetcode.com/problems/count-robot-groups/) | [4045_count_robot_groups.ipynb](DSA/Medium/4045_count_robot_groups.ipynb) |
 | 4049 | [Count Values With Equally Spaced Occurrences II](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-ii/) | [4049_count_values_with_equally_spaced_occurrences_ii.ipynb](DSA/Medium/4049_count_values_with_equally_spaced_occurrences_ii.ipynb) |

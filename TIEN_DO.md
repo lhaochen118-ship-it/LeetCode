@@ -258,3 +258,13 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 - Lỗi: không có
 - Bỏ qua: không có
 - Ghi chú: Bài Premium (đề viết theo hiểu biết): 3491, 3571. Cần đối chiếu đề: 3491 (xử lý số trùng hệt nhau), 3512 (thao tác giảm 1), 3581 (cách đổi chữ số thành chữ cái).
+
+### Đợt 40 — 19/11/2026
+
+- Đã xong (Easy, 14 bài cuối của nhóm Easy): 4043, 4048, 4052, 4056, 4061, 4065, 4070, 4074, 4078, 4083, 4088, 4092, 4097, 4111
+- Đã xong (Medium, 6 bài đầu tiên của nhóm Medium): 0215, 0216, 0221, 0222, 0223, 0227
+- Lỗi: không có
+- Bỏ qua: không có
+- Ghi chú: Đợt 40 tính theo lưới 20 bài/đợt từ đợt 29 (bắt đầu 2883); Easy chỉ còn 14 bài nên bù 6 bài Medium đầu danh sách. Đề lấy từ bản doocs/leetcode (đề, ví dụ, chữ ký hàm), mọi ví dụ được assert và đối chiếu brute force. 0215 có cell đo thời gian nên số ms đổi theo mỗi lần chạy. 4074 nhiều đáp án đúng (test kiểm tra tính hợp lệ + tích lớn nhất).
+- Các đợt 36–39 (Easy 3.6xx–4.0xx) do khung chat khác làm; kiểm tra Excel/README để biết ID còn thiếu của Easy.
+- ID Medium tiếp theo: 0229 (đợt 41 → 229–261, đợt 42 → 264–306, đợt 43 → 307–341).
