@@ -7,9 +7,9 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 ## Trạng thái hiện tại
 
 <!--STATUS-->
-- Cập nhật: 19/11/2026, sau đợt 22
-- ID tiếp theo: 2273 (Easy)
-- Số bài DSA còn lại: 2994
+- Cập nhật: 19/11/2026, sau đợt 23
+- ID tiếp theo: 2379 (Easy)
+- Số bài DSA còn lại: 2974
 <!--/STATUS-->
 
 ## Nhật ký các đợt
@@ -188,3 +188,11 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 - Bỏ qua: không có
 - Ghi chú: Bài Premium (đề viết theo hiểu biết): 2229. Bài 2269: ví dụ 2 (num=430, k=2) trong notebook tính theo định nghĩa ra 1, nên đối chiếu lại với đề gốc.
 - ID tiếp theo: 2273
+
+### Đợt 23 — 19/11/2026
+
+- Đã xong: 2273, 2278, 2283, 2287, 2293, 2299, 2303, 2309, 2315, 2319, 2325, 2331, 2335, 2341, 2347, 2351, 2357, 2363, 2367, 2373
+- Lỗi: không có
+- Bỏ qua: không có
+- Ghi chú: Đã sửa 2347 (input hợp lệ theo ràng buộc), 2293 (ví dụ lỗi lộ sai).
+- ID tiếp theo: 2379

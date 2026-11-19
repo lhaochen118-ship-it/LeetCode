@@ -15,9 +15,9 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 730 notebook** — DSA/Easy: 479 · DSA/Medium: 137 · DSA/Hard: 101 · SQL: 11 · Shell: 2
+**Tổng: 750 notebook** — DSA/Easy: 499 · DSA/Medium: 137 · DSA/Hard: 101 · SQL: 11 · Shell: 2
 
-## DSA — Easy — 479 bài
+## DSA — Easy — 499 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -500,6 +500,26 @@ Shell/                            bài Shell (Bash)
 | 2259 | [Remove Digit From Number to Maximize Result](https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/) | [2259_remove_digit_from_number_to_maximize_result.ipynb](DSA/Easy/2259_remove_digit_from_number_to_maximize_result.ipynb) |
 | 2264 | [Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/) | [2264_largest_3_same_digit_number_in_string.ipynb](DSA/Easy/2264_largest_3_same_digit_number_in_string.ipynb) |
 | 2269 | [Find the K-Beauty of a Number](https://leetcode.com/problems/find-the-k-beauty-of-a-number/) | [2269_find_the_k_beauty_of_a_number.ipynb](DSA/Easy/2269_find_the_k_beauty_of_a_number.ipynb) |
+| 2273 | [Find Resultant Array After Removing Anagrams](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/) | [2273_find_resultant_array_after_removing_anagrams.ipynb](DSA/Easy/2273_find_resultant_array_after_removing_anagrams.ipynb) |
+| 2278 | [Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/) | [2278_percentage_of_letter_in_string.ipynb](DSA/Easy/2278_percentage_of_letter_in_string.ipynb) |
+| 2283 | [Check if Number Has Equal Digit Count and Digit Value](https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/) | [2283_check_if_number_has_equal_digit_count_and_digit_value.ipynb](DSA/Easy/2283_check_if_number_has_equal_digit_count_and_digit_value.ipynb) |
+| 2287 | [Rearrange Characters to Make Target String](https://leetcode.com/problems/rearrange-characters-to-make-target-string/) | [2287_rearrange_characters_to_make_target_string.ipynb](DSA/Easy/2287_rearrange_characters_to_make_target_string.ipynb) |
+| 2293 | [Min Max Game](https://leetcode.com/problems/min-max-game/) | [2293_min_max_game.ipynb](DSA/Easy/2293_min_max_game.ipynb) |
+| 2299 | [Strong Password Checker II](https://leetcode.com/problems/strong-password-checker-ii/) | [2299_strong_password_checker_ii.ipynb](DSA/Easy/2299_strong_password_checker_ii.ipynb) |
+| 2303 | [Calculate Amount Paid in Taxes](https://leetcode.com/problems/calculate-amount-paid-in-taxes/) | [2303_calculate_amount_paid_in_taxes.ipynb](DSA/Easy/2303_calculate_amount_paid_in_taxes.ipynb) |
+| 2309 | [Greatest English Letter in Upper and Lower Case](https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/) | [2309_greatest_english_letter_in_upper_and_lower_case.ipynb](DSA/Easy/2309_greatest_english_letter_in_upper_and_lower_case.ipynb) |
+| 2315 | [Count Asterisks](https://leetcode.com/problems/count-asterisks/) | [2315_count_asterisks.ipynb](DSA/Easy/2315_count_asterisks.ipynb) |
+| 2319 | [Check if Matrix Is X-Matrix](https://leetcode.com/problems/check-if-matrix-is-x-matrix/) | [2319_check_if_matrix_is_x_matrix.ipynb](DSA/Easy/2319_check_if_matrix_is_x_matrix.ipynb) |
+| 2325 | [Decode the Message](https://leetcode.com/problems/decode-the-message/) | [2325_decode_the_message.ipynb](DSA/Easy/2325_decode_the_message.ipynb) |
+| 2331 | [Evaluate Boolean Binary Tree](https://leetcode.com/problems/evaluate-boolean-binary-tree/) | [2331_evaluate_boolean_binary_tree.ipynb](DSA/Easy/2331_evaluate_boolean_binary_tree.ipynb) |
+| 2335 | [Minimum Amount of Time to Fill Cups](https://leetcode.com/problems/minimum-amount-of-time-to-fill-cups/) | [2335_minimum_amount_of_time_to_fill_cups.ipynb](DSA/Easy/2335_minimum_amount_of_time_to_fill_cups.ipynb) |
+| 2341 | [Maximum Number of Pairs in Array](https://leetcode.com/problems/maximum-number-of-pairs-in-array/) | [2341_maximum_number_of_pairs_in_array.ipynb](DSA/Easy/2341_maximum_number_of_pairs_in_array.ipynb) |
+| 2347 | [Best Poker Hand](https://leetcode.com/problems/best-poker-hand/) | [2347_best_poker_hand.ipynb](DSA/Easy/2347_best_poker_hand.ipynb) |
+| 2351 | [First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice/) | [2351_first_letter_to_appear_twice.ipynb](DSA/Easy/2351_first_letter_to_appear_twice.ipynb) |
+| 2357 | [Make Array Zero by Subtracting Equal Amounts](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/) | [2357_make_array_zero_by_subtracting_equal_amounts.ipynb](DSA/Easy/2357_make_array_zero_by_subtracting_equal_amounts.ipynb) |
+| 2363 | [Merge Similar Items](https://leetcode.com/problems/merge-similar-items/) | [2363_merge_similar_items.ipynb](DSA/Easy/2363_merge_similar_items.ipynb) |
+| 2367 | [Number of Arithmetic Triplets](https://leetcode.com/problems/number-of-arithmetic-triplets/) | [2367_number_of_arithmetic_triplets.ipynb](DSA/Easy/2367_number_of_arithmetic_triplets.ipynb) |
+| 2373 | [Largest Local Values in a Matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix/) | [2373_largest_local_values_in_a_matrix.ipynb](DSA/Easy/2373_largest_local_values_in_a_matrix.ipynb) |
 
 ## DSA — Medium — 137 bài
 
