@@ -15,7 +15,7 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 1105 notebook** — DSA/Easy: 713 · DSA/Medium: 203 · DSA/Hard: 176 · SQL: 11 · Shell: 2
+**Tổng: 1125 notebook** — DSA/Easy: 713 · DSA/Medium: 203 · DSA/Hard: 196 · SQL: 11 · Shell: 2
 
 ## DSA — Easy — 713 bài
 
@@ -943,7 +943,7 @@ Shell/                            bài Shell (Bash)
 | 4112 | [Maximize Score After Zeroing Subtrees](https://leetcode.com/problems/maximize-score-after-zeroing-subtrees/) | [4112_maximize_score_after_zeroing_subtrees.ipynb](DSA/Medium/4112_maximize_score_after_zeroing_subtrees.ipynb) |
 | 4113 | [Game of Divisible Sums](https://leetcode.com/problems/game-of-divisible-sums/) | [4113_game_of_divisible_sums.ipynb](DSA/Medium/4113_game_of_divisible_sums.ipynb) |
 
-## DSA — Hard — 176 bài
+## DSA — Hard — 188 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -1083,6 +1083,18 @@ Shell/                            bài Shell (Bash)
 | 0741 | [Cherry Pickup](https://leetcode.com/problems/cherry-pickup/) | [0741_cherry_pickup.ipynb](DSA/Hard/0741_cherry_pickup.ipynb) |
 | 0745 | [Prefix and Suffix Search](https://leetcode.com/problems/prefix-and-suffix-search/) | [0745_prefix_and_suffix_search.ipynb](DSA/Hard/0745_prefix_and_suffix_search.ipynb) |
 | 0749 | [Contain Virus](https://leetcode.com/problems/contain-virus/) | [0749_contain_virus.ipynb](DSA/Hard/0749_contain_virus.ipynb) |
+| 0753 | [Cracking the Safe](https://leetcode.com/problems/cracking-the-safe/) | [0753_cracking_the_safe.ipynb](DSA/Hard/0753_cracking_the_safe.ipynb) |
+| 0757 | [Set Intersection Size At Least Two](https://leetcode.com/problems/set-intersection-size-at-least-two/) | [0757_set_intersection_size_at_least_two.ipynb](DSA/Hard/0757_set_intersection_size_at_least_two.ipynb) |
+| 0759 | [Employee Free Time](https://leetcode.com/problems/employee-free-time/) | [0759_employee_free_time.ipynb](DSA/Hard/0759_employee_free_time.ipynb) |
+| 0761 | [Special Binary String](https://leetcode.com/problems/special-binary-string/) | [0761_special_binary_string.ipynb](DSA/Hard/0761_special_binary_string.ipynb) |
+| 0765 | [Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands/) | [0765_couples_holding_hands.ipynb](DSA/Hard/0765_couples_holding_hands.ipynb) |
+| 0768 | [Max Chunks To Make Sorted II](https://leetcode.com/problems/max-chunks-to-make-sorted-ii/) | [0768_max_chunks_to_make_sorted_ii.ipynb](DSA/Hard/0768_max_chunks_to_make_sorted_ii.ipynb) |
+| 0770 | [Basic Calculator IV](https://leetcode.com/problems/basic-calculator-iv/) | [0770_basic_calculator_iv.ipynb](DSA/Hard/0770_basic_calculator_iv.ipynb) |
+| 0772 | [Basic Calculator III](https://leetcode.com/problems/basic-calculator-iii/) | [0772_basic_calculator_iii.ipynb](DSA/Hard/0772_basic_calculator_iii.ipynb) |
+| 0773 | [Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/) | [0773_sliding_puzzle.ipynb](DSA/Hard/0773_sliding_puzzle.ipynb) |
+| 0774 | [Minimize Max Distance to Gas Station](https://leetcode.com/problems/minimize-max-distance-to-gas-station/) | [0774_minimize_max_distance_to_gas_station.ipynb](DSA/Hard/0774_minimize_max_distance_to_gas_station.ipynb) |
+| 0778 | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | [0778_swim_in_rising_water.ipynb](DSA/Hard/0778_swim_in_rising_water.ipynb) |
+| 0780 | [Reaching Points](https://leetcode.com/problems/reaching-points/) | [0780_reaching_points.ipynb](DSA/Hard/0780_reaching_points.ipynb) |
 | 3985 | [Palindromic Subarray Sum](https://leetcode.com/problems/palindromic-subarray-sum/) | [3985_palindromic_subarray_sum.ipynb](DSA/Hard/3985_palindromic_subarray_sum.ipynb) |
 | 3989 | [Maximum Consistent Columns in a Grid](https://leetcode.com/problems/maximum-consistent-columns-in-a-grid/) | [3989_maximum_consistent_columns_in_a_grid.ipynb](DSA/Hard/3989_maximum_consistent_columns_in_a_grid.ipynb) |
 | 3990 | [Create Grid With Exactly K Paths II](https://leetcode.com/problems/create-grid-with-exactly-k-paths-ii/) | [3990_create_grid_with_exactly_k_paths_ii.ipynb](DSA/Hard/3990_create_grid_with_exactly_k_paths_ii.ipynb) |

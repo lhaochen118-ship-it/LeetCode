@@ -350,3 +350,11 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 - Ghi chú: Tên bài, đề và chữ ký lấy từ LeetCode GraphQL + bản doocs/leetcode (Excel trước đó chưa có tên các bài này). Bài Premium (đề lấy từ doocs, đối chiếu lại nếu có tài khoản Premium): 4029, 4028, 4018, 4005, 4004, 3990. Cần đối chiếu tên phương thức (suy luận, không có skeleton): 4018 `interactionCosts`, 4005 `minOperations`, 3990 `constructGrid` (nhiều đáp án đúng, test theo tính chất), 4029 `elevatorRequests`. 4033: dùng hash ngẫu nhiên 64 bit (xác suất sai cực nhỏ, đã ghi trong notebook). 3999: hint của doocs sai, notebook dùng lời giải đúng đã kiểm chứng. 4005: Python thuần có thể chậm ở ca xấu nhất (đã nêu, có thêm cách numpy). Chạy 1 agent/lượt tuần tự theo yêu cầu.
 - ID Hard tiếp theo (tính từ cuối đếm lên): 3981 (rồi 3977, 3973, 3972, 3971, …)
 - ID Hard tiếp theo (tính từ đầu): 753
+
+### Đợt Hard 7 (nhóm Hard, tính từ đầu danh sách) — 19/11/2026
+
+- Đã xong: 726, 727, 730, 732, 736, 741, 745, 749, 753, 757, 759, 761, 765, 768, 770, 772, 773, 774, 778, 780
+- Lỗi: không có
+- Bỏ qua: không có
+- Ghi chú: Bài Premium (đề viết theo hiểu biết): 727, 759, 772, 774. Cần đối chiếu: 759 (chữ ký [[Interval]]), 770 (ví dụ 4–6 viết theo trí nhớ). 753 nhiều đáp án đúng (test kiểm tra tính hợp lệ). Đợt bị tạm dừng lúc 18h theo yêu cầu, làm tiếp lúc 21h01. Chạy tuần tự 1 agent/lượt.
+- ID Hard tiếp theo: 782
