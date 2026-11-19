@@ -318,3 +318,11 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 - Ghi chú: Bài Premium (đề viết theo hiểu biết, đối chiếu lại nếu có tài khoản Premium): 0311, 0314, 0320, 0323, 0325, 0333. Chữ ký hàm của vài bài viết theo skeleton LeetCode nhớ được (file đề doocs thiếu) — đối chiếu lại. 0324, 0310, 0320 nhiều đáp án đúng (test theo tính chất/so sánh đã sắp). 0307, 0341 tự dựng khung test (class / NestedInteger giả lập).
 - Theo yêu cầu người dùng, dừng sau đợt 43 (các đợt 41–43 chạy bằng 2 agent).
 - ID Medium tiếp theo: 0343 (tra Excel để lấy ID chính xác); đợt 36–39 (Easy) do khung chat khác làm — kiểm tra Excel xem Easy còn thiếu bài nào.
+
+### Đợt Hard 5 (nhóm Hard, tính từ đầu danh sách) — 19/11/2026
+
+- Đã xong: 480, 483, 488, 489, 493, 499, 502, 514, 517, 527, 546, 552, 564, 568, 587, 588, 591, 600, 629, 630
+- Lỗi: không có
+- Bỏ qua: không có
+- Ghi chú: Bài Premium (đề viết theo hiểu biết): 489, 499, 527, 568, 588. Cần đối chiếu đề: 499 (ví dụ viết theo trí nhớ), 527 (ví dụ/ràng buộc), 588 (addContentToFile có tự tạo thư mục cha hay không — notebook giả định có). 0488 dùng cắt tỉa kiểm chứng bằng test ngẫu nhiên; 0517 chiều đạt được chỉ nêu kết quả đã biết. Nhóm Hard trước đợt này đã có 0004–0479 (88 bài) và 4042–4114 (20 bài cuối). Chạy tuần tự 1 agent/lượt theo yêu cầu.
+- ID Hard tiếp theo: 631

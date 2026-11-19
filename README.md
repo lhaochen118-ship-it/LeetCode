@@ -15,7 +15,7 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 1037 notebook** — DSA/Easy: 713 · DSA/Medium: 203 · DSA/Hard: 108 · SQL: 11 · Shell: 2
+**Tổng: 1057 notebook** — DSA/Easy: 713 · DSA/Medium: 203 · DSA/Hard: 128 · SQL: 11 · Shell: 2
 
 ## DSA — Easy — 713 bài
 
@@ -943,7 +943,7 @@ Shell/                            bài Shell (Bash)
 | 4112 | [Maximize Score After Zeroing Subtrees](https://leetcode.com/problems/maximize-score-after-zeroing-subtrees/) | [4112_maximize_score_after_zeroing_subtrees.ipynb](DSA/Medium/4112_maximize_score_after_zeroing_subtrees.ipynb) |
 | 4113 | [Game of Divisible Sums](https://leetcode.com/problems/game-of-divisible-sums/) | [4113_game_of_divisible_sums.ipynb](DSA/Medium/4113_game_of_divisible_sums.ipynb) |
 
-## DSA — Hard — 108 bài
+## DSA — Hard — 128 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -1035,6 +1035,26 @@ Shell/                            bài Shell (Bash)
 | 0466 | [Count The Repetitions](https://leetcode.com/problems/count-the-repetitions/) | [0466_count_the_repetitions.ipynb](DSA/Hard/0466_count_the_repetitions.ipynb) |
 | 0472 | [Concatenated Words](https://leetcode.com/problems/concatenated-words/) | [0472_concatenated_words.ipynb](DSA/Hard/0472_concatenated_words.ipynb) |
 | 0479 | [Largest Palindrome Product](https://leetcode.com/problems/largest-palindrome-product/) | [0479_largest_palindrome_product.ipynb](DSA/Hard/0479_largest_palindrome_product.ipynb) |
+| 0480 | [Sliding Window Median](https://leetcode.com/problems/sliding-window-median/) | [0480_sliding_window_median.ipynb](DSA/Hard/0480_sliding_window_median.ipynb) |
+| 0483 | [Smallest Good Base](https://leetcode.com/problems/smallest-good-base/) | [0483_smallest_good_base.ipynb](DSA/Hard/0483_smallest_good_base.ipynb) |
+| 0488 | [Zuma Game](https://leetcode.com/problems/zuma-game/) | [0488_zuma_game.ipynb](DSA/Hard/0488_zuma_game.ipynb) |
+| 0489 | [Robot Room Cleaner](https://leetcode.com/problems/robot-room-cleaner/) | [0489_robot_room_cleaner.ipynb](DSA/Hard/0489_robot_room_cleaner.ipynb) |
+| 0493 | [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/) | [0493_reverse_pairs.ipynb](DSA/Hard/0493_reverse_pairs.ipynb) |
+| 0499 | [The Maze III](https://leetcode.com/problems/the-maze-iii/) | [0499_the_maze_iii.ipynb](DSA/Hard/0499_the_maze_iii.ipynb) |
+| 0502 | [IPO](https://leetcode.com/problems/ipo/) | [0502_ipo.ipynb](DSA/Hard/0502_ipo.ipynb) |
+| 0514 | [Freedom Trail](https://leetcode.com/problems/freedom-trail/) | [0514_freedom_trail.ipynb](DSA/Hard/0514_freedom_trail.ipynb) |
+| 0517 | [Super Washing Machines](https://leetcode.com/problems/super-washing-machines/) | [0517_super_washing_machines.ipynb](DSA/Hard/0517_super_washing_machines.ipynb) |
+| 0527 | [Word Abbreviation](https://leetcode.com/problems/word-abbreviation/) | [0527_word_abbreviation.ipynb](DSA/Hard/0527_word_abbreviation.ipynb) |
+| 0546 | [Remove Boxes](https://leetcode.com/problems/remove-boxes/) | [0546_remove_boxes.ipynb](DSA/Hard/0546_remove_boxes.ipynb) |
+| 0552 | [Student Attendance Record II](https://leetcode.com/problems/student-attendance-record-ii/) | [0552_student_attendance_record_ii.ipynb](DSA/Hard/0552_student_attendance_record_ii.ipynb) |
+| 0564 | [Find the Closest Palindrome](https://leetcode.com/problems/find-the-closest-palindrome/) | [0564_find_the_closest_palindrome.ipynb](DSA/Hard/0564_find_the_closest_palindrome.ipynb) |
+| 0568 | [Maximum Vacation Days](https://leetcode.com/problems/maximum-vacation-days/) | [0568_maximum_vacation_days.ipynb](DSA/Hard/0568_maximum_vacation_days.ipynb) |
+| 0587 | [Erect the Fence](https://leetcode.com/problems/erect-the-fence/) | [0587_erect_the_fence.ipynb](DSA/Hard/0587_erect_the_fence.ipynb) |
+| 0588 | [Design In-Memory File System](https://leetcode.com/problems/design-in-memory-file-system/) | [0588_design_in_memory_file_system.ipynb](DSA/Hard/0588_design_in_memory_file_system.ipynb) |
+| 0591 | [Tag Validator](https://leetcode.com/problems/tag-validator/) | [0591_tag_validator.ipynb](DSA/Hard/0591_tag_validator.ipynb) |
+| 0600 | [Non-negative Integers without Consecutive Ones](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/) | [0600_non_negative_integers_without_consecutive_ones.ipynb](DSA/Hard/0600_non_negative_integers_without_consecutive_ones.ipynb) |
+| 0629 | [K Inverse Pairs Array](https://leetcode.com/problems/k-inverse-pairs-array/) | [0629_k_inverse_pairs_array.ipynb](DSA/Hard/0629_k_inverse_pairs_array.ipynb) |
+| 0630 | [Course Schedule III](https://leetcode.com/problems/course-schedule-iii/) | [0630_course_schedule_iii.ipynb](DSA/Hard/0630_course_schedule_iii.ipynb) |
 | 4042 | [Valid K-Unique Subarrays II](https://leetcode.com/problems/valid-k-unique-subarrays-ii/) | [4042_valid_k_unique_subarrays_ii.ipynb](DSA/Hard/4042_valid_k_unique_subarrays_ii.ipynb) |
 | 4046 | [Minimum Cost Path With At Most K Turns](https://leetcode.com/problems/minimum-cost-path-with-at-most-k-turns/) | [4046_minimum_cost_path_with_at_most_k_turns.ipynb](DSA/Hard/4046_minimum_cost_path_with_at_most_k_turns.ipynb) |
 | 4047 | [Minimum Operations to Make XOR of All Elements Zero](https://leetcode.com/problems/minimum-operations-to-make-xor-of-all-elements-zero/) | [4047_minimum_operations_to_make_xor_of_all_elements_zero.ipynb](DSA/Hard/4047_minimum_operations_to_make_xor_of_all_elements_zero.ipynb) |
