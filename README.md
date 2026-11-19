@@ -15,7 +15,7 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 957 notebook** — DSA/Easy: 693 · DSA/Medium: 143 · DSA/Hard: 108 · SQL: 11 · Shell: 2
+**Tổng: 977 notebook** — DSA/Easy: 693 · DSA/Medium: 163 · DSA/Hard: 108 · SQL: 11 · Shell: 2
 
 ## DSA — Easy — 693 bài
 
@@ -715,7 +715,7 @@ Shell/                            bài Shell (Bash)
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [4097_minimum_value_of_merged_integers.ipynb](DSA/Easy/4097_minimum_value_of_merged_integers.ipynb) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [4111_count_consistent_subarrays_i.ipynb](DSA/Easy/4111_count_consistent_subarrays_i.ipynb) |
 
-## DSA — Medium — 143 bài
+## DSA — Medium — 163 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -843,6 +843,26 @@ Shell/                            bài Shell (Bash)
 | 0222 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | [0222_count_complete_tree_nodes.ipynb](DSA/Medium/0222_count_complete_tree_nodes.ipynb) |
 | 0223 | [Rectangle Area](https://leetcode.com/problems/rectangle-area/) | [0223_rectangle_area.ipynb](DSA/Medium/0223_rectangle_area.ipynb) |
 | 0227 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | [0227_basic_calculator_ii.ipynb](DSA/Medium/0227_basic_calculator_ii.ipynb) |
+| 0229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | [0229_majority_element_ii.ipynb](DSA/Medium/0229_majority_element_ii.ipynb) |
+| 0230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [0230_kth_smallest_element_in_a_bst.ipynb](DSA/Medium/0230_kth_smallest_element_in_a_bst.ipynb) |
+| 0235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [0235_lowest_common_ancestor_of_a_binary_search_tree.ipynb](DSA/Medium/0235_lowest_common_ancestor_of_a_binary_search_tree.ipynb) |
+| 0236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [0236_lowest_common_ancestor_of_a_binary_tree.ipynb](DSA/Medium/0236_lowest_common_ancestor_of_a_binary_tree.ipynb) |
+| 0237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [0237_delete_node_in_a_linked_list.ipynb](DSA/Medium/0237_delete_node_in_a_linked_list.ipynb) |
+| 0238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [0238_product_of_array_except_self.ipynb](DSA/Medium/0238_product_of_array_except_self.ipynb) |
+| 0240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [0240_search_a_2d_matrix_ii.ipynb](DSA/Medium/0240_search_a_2d_matrix_ii.ipynb) |
+| 0241 | [Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/) | [0241_different_ways_to_add_parentheses.ipynb](DSA/Medium/0241_different_ways_to_add_parentheses.ipynb) |
+| 0244 | [Shortest Word Distance II 🔒](https://leetcode.com/problems/shortest-word-distance-ii/) | [0244_shortest_word_distance_ii.ipynb](DSA/Medium/0244_shortest_word_distance_ii.ipynb) |
+| 0245 | [Shortest Word Distance III 🔒](https://leetcode.com/problems/shortest-word-distance-iii/) | [0245_shortest_word_distance_iii.ipynb](DSA/Medium/0245_shortest_word_distance_iii.ipynb) |
+| 0247 | [Strobogrammatic Number II 🔒](https://leetcode.com/problems/strobogrammatic-number-ii/) | [0247_strobogrammatic_number_ii.ipynb](DSA/Medium/0247_strobogrammatic_number_ii.ipynb) |
+| 0250 | [Count Univalue Subtrees 🔒](https://leetcode.com/problems/count-univalue-subtrees/) | [0250_count_univalue_subtrees.ipynb](DSA/Medium/0250_count_univalue_subtrees.ipynb) |
+| 0251 | [Flatten 2D Vector 🔒](https://leetcode.com/problems/flatten-2d-vector/) | [0251_flatten_2d_vector.ipynb](DSA/Medium/0251_flatten_2d_vector.ipynb) |
+| 0253 | [Meeting Rooms II 🔒](https://leetcode.com/problems/meeting-rooms-ii/) | [0253_meeting_rooms_ii.ipynb](DSA/Medium/0253_meeting_rooms_ii.ipynb) |
+| 0254 | [Factor Combinations 🔒](https://leetcode.com/problems/factor-combinations/) | [0254_factor_combinations.ipynb](DSA/Medium/0254_factor_combinations.ipynb) |
+| 0255 | [Verify Preorder Sequence in Binary Search Tree 🔒](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/) | [0255_verify_preorder_sequence_in_binary_search_tree.ipynb](DSA/Medium/0255_verify_preorder_sequence_in_binary_search_tree.ipynb) |
+| 0256 | [Paint House 🔒](https://leetcode.com/problems/paint-house/) | [0256_paint_house.ipynb](DSA/Medium/0256_paint_house.ipynb) |
+| 0259 | [3Sum Smaller 🔒](https://leetcode.com/problems/3sum-smaller/) | [0259_3sum_smaller.ipynb](DSA/Medium/0259_3sum_smaller.ipynb) |
+| 0260 | [Single Number III](https://leetcode.com/problems/single-number-iii/) | [0260_single_number_iii.ipynb](DSA/Medium/0260_single_number_iii.ipynb) |
+| 0261 | [Graph Valid Tree 🔒](https://leetcode.com/problems/graph-valid-tree/) | [0261_graph_valid_tree.ipynb](DSA/Medium/0261_graph_valid_tree.ipynb) |
 | 4044 | [Count Good Cyclic Rotations](https://leetcode.com/problems/count-good-cyclic-rotations/) | [4044_count_good_cyclic_rotations.ipynb](DSA/Medium/4044_count_good_cyclic_rotations.ipynb) |
 | 4045 | [Count Robot Groups](https://leetcode.com/problems/count-robot-groups/) | [4045_count_robot_groups.ipynb](DSA/Medium/4045_count_robot_groups.ipynb) |
 | 4049 | [Count Values With Equally Spaced Occurrences II](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-ii/) | [4049_count_values_with_equally_spaced_occurrences_ii.ipynb](DSA/Medium/4049_count_values_with_equally_spaced_occurrences_ii.ipynb) |

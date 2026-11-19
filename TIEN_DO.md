@@ -286,3 +286,11 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 - Lỗi: không có
 - Bỏ qua: không có
 - Ghi chú: Bài Premium (đề viết theo hiểu biết): 3662, 3667, 3687, 3696. Cần đối chiếu đề: 3622 (constraint n ≤ 10^6), 3674 (điều kiện AND toàn mảng), 3696 (khoảng cách j-i+1).
+
+### Đợt 41 — 19/11/2026
+
+- Đã xong (Medium): 0229, 0230, 0235, 0236, 0237, 0238, 0240, 0241, 0244, 0245, 0247, 0250, 0251, 0253, 0254, 0255, 0256, 0259, 0260, 0261
+- Lỗi: không có
+- Bỏ qua: không có
+- Ghi chú: Bài Premium (đề viết theo hiểu biết, đối chiếu lại nếu có tài khoản Premium): 0244, 0245, 0247, 0250, 0251, 0253, 0254, 0255, 0256, 0259, 0261. Đề/ví dụ lấy từ bản doocs/leetcode, mọi ví dụ được assert và đối chiếu brute force. 0251 và 0244 là bài thiết kế class (khung test tự dựng).
+- ID Medium tiếp theo: 0264 (đợt 42 → 264–306, đợt 43 → 307–341).
