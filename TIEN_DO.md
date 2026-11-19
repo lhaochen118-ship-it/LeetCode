@@ -7,9 +7,9 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 ## Trạng thái hiện tại
 
 <!--STATUS-->
-- Cập nhật: 18/11/2026, sau đợt 16
-- ID tiếp theo: 1684 (Easy)
-- Số bài DSA còn lại: 3114
+- Cập nhật: 19/11/2026, sau đợt 17
+- ID tiếp theo: 1784 (Easy)
+- Số bài DSA còn lại: 3094
 <!--/STATUS-->
 
 ## Nhật ký các đợt
@@ -142,3 +142,11 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 - Lỗi: không có
 - Bỏ qua: không có
 - ID tiếp theo: 1684
+
+### Đợt 17 — 19/11/2026
+
+- Đã xong: 1684, 1688, 1694, 1700, 1704, 1708, 1710, 1716, 1720, 1725, 1732, 1736, 1742, 1748, 1752, 1758, 1763, 1768, 1773, 1779
+- Lỗi: không có
+- Bỏ qua: không có
+- Ghi chú: Bài Premium (đề viết theo hiểu biết): 1708.
+- ID tiếp theo: 1784

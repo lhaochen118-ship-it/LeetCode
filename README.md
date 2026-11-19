@@ -15,9 +15,9 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 610 notebook** — DSA/Easy: 359 · DSA/Medium: 137 · DSA/Hard: 101 · SQL: 11 · Shell: 2
+**Tổng: 630 notebook** — DSA/Easy: 379 · DSA/Medium: 137 · DSA/Hard: 101 · SQL: 11 · Shell: 2
 
-## DSA — Easy — 359 bài
+## DSA — Easy — 379 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -380,6 +380,26 @@ Shell/                            bài Shell (Bash)
 | 1668 | [Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring/) | [1668_maximum_repeating_substring.ipynb](DSA/Easy/1668_maximum_repeating_substring.ipynb) |
 | 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | [1672_richest_customer_wealth.ipynb](DSA/Easy/1672_richest_customer_wealth.ipynb) |
 | 1678 | [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/) | [1678_goal_parser_interpretation.ipynb](DSA/Easy/1678_goal_parser_interpretation.ipynb) |
+| 1684 | [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/) | [1684_count_the_number_of_consistent_strings.ipynb](DSA/Easy/1684_count_the_number_of_consistent_strings.ipynb) |
+| 1688 | [Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/) | [1688_count_of_matches_in_tournament.ipynb](DSA/Easy/1688_count_of_matches_in_tournament.ipynb) |
+| 1694 | [Reformat Phone Number](https://leetcode.com/problems/reformat-phone-number/) | [1694_reformat_phone_number.ipynb](DSA/Easy/1694_reformat_phone_number.ipynb) |
+| 1700 | [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/) | [1700_number_of_students_unable_to_eat_lunch.ipynb](DSA/Easy/1700_number_of_students_unable_to_eat_lunch.ipynb) |
+| 1704 | [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/) | [1704_determine_if_string_halves_are_alike.ipynb](DSA/Easy/1704_determine_if_string_halves_are_alike.ipynb) |
+| 1708 | [Largest Subarray Length K](https://leetcode.com/problems/largest-subarray-length-k/) | [1708_largest_subarray_length_k.ipynb](DSA/Easy/1708_largest_subarray_length_k.ipynb) |
+| 1710 | [Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/) | [1710_maximum_units_on_a_truck.ipynb](DSA/Easy/1710_maximum_units_on_a_truck.ipynb) |
+| 1716 | [Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/) | [1716_calculate_money_in_leetcode_bank.ipynb](DSA/Easy/1716_calculate_money_in_leetcode_bank.ipynb) |
+| 1720 | [Decode XORed Array](https://leetcode.com/problems/decode-xored-array/) | [1720_decode_xored_array.ipynb](DSA/Easy/1720_decode_xored_array.ipynb) |
+| 1725 | [Number Of Rectangles That Can Form The Largest Square](https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/) | [1725_number_of_rectangles_that_can_form_the_largest_square.ipynb](DSA/Easy/1725_number_of_rectangles_that_can_form_the_largest_square.ipynb) |
+| 1732 | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | [1732_find_the_highest_altitude.ipynb](DSA/Easy/1732_find_the_highest_altitude.ipynb) |
+| 1736 | [Latest Time by Replacing Hidden Digits](https://leetcode.com/problems/latest-time-by-replacing-hidden-digits/) | [1736_latest_time_by_replacing_hidden_digits.ipynb](DSA/Easy/1736_latest_time_by_replacing_hidden_digits.ipynb) |
+| 1742 | [Maximum Number of Balls in a Box](https://leetcode.com/problems/maximum-number-of-balls-in-a-box/) | [1742_maximum_number_of_balls_in_a_box.ipynb](DSA/Easy/1742_maximum_number_of_balls_in_a_box.ipynb) |
+| 1748 | [Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/) | [1748_sum_of_unique_elements.ipynb](DSA/Easy/1748_sum_of_unique_elements.ipynb) |
+| 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | [1752_check_if_array_is_sorted_and_rotated.ipynb](DSA/Easy/1752_check_if_array_is_sorted_and_rotated.ipynb) |
+| 1758 | [Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/) | [1758_minimum_changes_to_make_alternating_binary_string.ipynb](DSA/Easy/1758_minimum_changes_to_make_alternating_binary_string.ipynb) |
+| 1763 | [Longest Nice Substring](https://leetcode.com/problems/longest-nice-substring/) | [1763_longest_nice_substring.ipynb](DSA/Easy/1763_longest_nice_substring.ipynb) |
+| 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | [1768_merge_strings_alternately.ipynb](DSA/Easy/1768_merge_strings_alternately.ipynb) |
+| 1773 | [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/) | [1773_count_items_matching_a_rule.ipynb](DSA/Easy/1773_count_items_matching_a_rule.ipynb) |
+| 1779 | [Find Nearest Point That Has the Same X or Y Coordinate](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/) | [1779_find_nearest_point_that_has_the_same_x_or_y_coordinate.ipynb](DSA/Easy/1779_find_nearest_point_that_has_the_same_x_or_y_coordinate.ipynb) |
 
 ## DSA — Medium — 137 bài
 
