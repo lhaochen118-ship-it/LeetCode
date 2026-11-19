@@ -7,9 +7,9 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 ## Trạng thái hiện tại
 
 <!--STATUS-->
-- Cập nhật: 19/11/2026, sau đợt 24
-- ID tiếp theo: 2475 (Easy)
-- Số bài DSA còn lại: 2954
+- Cập nhật: 19/11/2026, sau đợt 29 (đợt 25 còn dở)
+- ID tiếp theo: 2490 (Easy, hoàn tất đợt 25 dở), sau đó 2942 (Easy đợt 30)
+- Số bài DSA còn lại: 2874
 <!--/STATUS-->
 
 ## Nhật ký các đợt
@@ -204,10 +204,42 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 - Bỏ qua: không có
 - ID tiếp theo: 2475
 
+### Đợt 26 — 19/11/2026
+
+- Đã xong: 2570, 2574, 2578, 2582, 2586, 2591, 2595, 2600, 2605, 2609, 2614, 2639, 2643, 2644, 2651, 2652, 2656, 2660, 2670, 2678
+- Lỗi: không có
+- Bỏ qua: không có
+- Ghi chú: Đợt 25 (2475–2566) do khung chat khác làm; đợt này lấy 20 bài Easy kế tiếp sau đó. Ví dụ cần đối chiếu lại với đề gốc: 2644 (ví dụ 3), 2578 (ví dụ 2).
+- ID tiếp theo: 2682
+
+### Đợt 27 — 19/11/2026
+
+- Đã xong: 2682, 2696, 2697, 2706, 2710, 2716, 2717, 2728, 2729, 2733, 2739, 2744, 2748, 2760, 2765, 2769, 2778, 2784, 2788, 2798
+- Lỗi: không có
+- Bỏ qua: không có
+- Ghi chú: Bài Premium (đề viết theo hiểu biết): 2728 (tự dựng lớp mô phỏng `Street`; bài tập 5(b) dùng `moveLeft` — bỏ nếu đề gốc không có). Ví dụ cần đối chiếu lại với đề gốc: 2728, 2760, 2769, 2784, 2788.
+- ID tiếp theo: 2806
+
+### Đợt 28 — 19/11/2026
+
+- Đã xong: 2806, 2810, 2815, 2824, 2828, 2833, 2839, 2843, 2848, 2855, 2859, 2864, 2869, 2873, 2877, 2878, 2879, 2880, 2881, 2882
+- Lỗi: không có
+- Bỏ qua: không có
+- Ghi chú: 2877–2882 là bài pandas (pandas 3.x, chữ ký hàm và dữ liệu ví dụ viết theo trí nhớ — đối chiếu lại với đề gốc). Ví dụ khác nên đối chiếu: 2839 (ví dụ 2), 2828 (ví dụ 3). Đợt 25 (2475–2566) do khung chat khác làm, chưa thấy trên main khi ghi đợt này.
+- ID tiếp theo: 2883
+
+### Đợt 29 — 19/11/2026
+
+- Đã xong: 2883, 2884, 2885, 2886, 2887, 2888, 2889, 2890, 2891, 2894, 2899, 2900, 2903, 2908, 2913, 2917, 2923, 2928, 2932, 2937
+- Lỗi: không có
+- Bỏ qua: không có
+- Ghi chú: 2883–2891 là bài pandas (pandas 3.x, chữ ký hàm và dữ liệu ví dụ viết theo trí nhớ — đối chiếu lại với đề gốc). Ví dụ cần đối chiếu: 2888 (ignore_index), 2889 (index/reset_index của pivot), 2887 (dtype quantity), 2891 (nhãn hàng), 2900 (nhiều đáp án đúng; test kiểm tra tính hợp lệ + độ dài tối ưu). Các bài còn lại đề/ví dụ viết theo trí nhớ, đáp án khớp brute force. Đợt này chỉ chạy 1 agent theo yêu cầu; theo yêu cầu người dùng, dừng sau đợt 29.
+- Còn thiếu: đợt 25 (Easy 2475–2566, 20 bài) vẫn chưa có trên repo — nên làm bù ở đợt kế tiếp.
+- ID tiếp theo (sau 2937): 2942 (và 2475 nếu làm bù đợt 25 trước)
+
 ### Đợt 25 — đang dở (dừng do hết giới hạn sử dụng, reset 6:40 UTC 19/11/2026)
 
 - Đợt 25 gồm 20 bài: 2475, 2481, 2485, 2490, 2496, 2500, 2506, 2511, 2515, 2520, 2525, 2529, 2535, 2540, 2544, 2549, 2553, 2558, 2562, 2566.
 - Đã có file và đạt kiểm tra (chưa ghi Excel/README): 2475, 2481, 2485, 2496.
 - Còn phải viết: 2490, 2500, 2506, 2511, 2515, 2520, 2525, 2529, 2535, 2540, 2544, 2549, 2553, 2558, 2562, 2566 (có thể có file viết dở cho 2506–2566: kiểm tra bằng check_nb.py rồi làm lại nếu FAIL).
-- Khi đủ 20 bài: cập nhật Excel/README, ghi "Đợt 25" vào nhật ký, rồi làm đợt 26 từ Easy #2571 trở đi (tra Excel để lấy ID chính xác).
-
+- Khi đủ 20 bài: cập nhật Excel/README (README/Excel hiện CHƯA có 2475, 2481, 2485, 2496), ghi "Đợt 25" vào nhật ký, rồi làm tiếp đợt 30 từ Easy #2942 (tra Excel để lấy ID chính xác).

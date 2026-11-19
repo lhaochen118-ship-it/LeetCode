@@ -15,9 +15,9 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 770 notebook** — DSA/Easy: 519 · DSA/Medium: 137 · DSA/Hard: 101 · SQL: 11 · Shell: 2
+**Tổng: 850 notebook** — DSA/Easy: 599 · DSA/Medium: 137 · DSA/Hard: 101 · SQL: 11 · Shell: 2
 
-## DSA — Easy — 519 bài
+## DSA — Easy — 599 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -540,6 +540,86 @@ Shell/                            bài Shell (Bash)
 | 2460 | [Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array/) | [2460_apply_operations_to_an_array.ipynb](DSA/Easy/2460_apply_operations_to_an_array.ipynb) |
 | 2465 | [Number of Distinct Averages](https://leetcode.com/problems/number-of-distinct-averages/) | [2465_number_of_distinct_averages.ipynb](DSA/Easy/2465_number_of_distinct_averages.ipynb) |
 | 2469 | [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/) | [2469_convert_the_temperature.ipynb](DSA/Easy/2469_convert_the_temperature.ipynb) |
+| 2570 | [Merge Two 2D Arrays by Summing Values](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/) | [2570_merge_two_2d_arrays_by_summing_values.ipynb](DSA/Easy/2570_merge_two_2d_arrays_by_summing_values.ipynb) |
+| 2574 | [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/) | [2574_left_and_right_sum_differences.ipynb](DSA/Easy/2574_left_and_right_sum_differences.ipynb) |
+| 2578 | [Split With Minimum Sum](https://leetcode.com/problems/split-with-minimum-sum/) | [2578_split_with_minimum_sum.ipynb](DSA/Easy/2578_split_with_minimum_sum.ipynb) |
+| 2582 | [Pass the Pillow](https://leetcode.com/problems/pass-the-pillow/) | [2582_pass_the_pillow.ipynb](DSA/Easy/2582_pass_the_pillow.ipynb) |
+| 2586 | [Count the Number of Vowel Strings in Range](https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range/) | [2586_count_the_number_of_vowel_strings_in_range.ipynb](DSA/Easy/2586_count_the_number_of_vowel_strings_in_range.ipynb) |
+| 2591 | [Distribute Money to Maximum Children](https://leetcode.com/problems/distribute-money-to-maximum-children/) | [2591_distribute_money_to_maximum_children.ipynb](DSA/Easy/2591_distribute_money_to_maximum_children.ipynb) |
+| 2595 | [Number of Even and Odd Bits](https://leetcode.com/problems/number-of-even-and-odd-bits/) | [2595_number_of_even_and_odd_bits.ipynb](DSA/Easy/2595_number_of_even_and_odd_bits.ipynb) |
+| 2600 | [K Items With the Maximum Sum](https://leetcode.com/problems/k-items-with-the-maximum-sum/) | [2600_k_items_with_the_maximum_sum.ipynb](DSA/Easy/2600_k_items_with_the_maximum_sum.ipynb) |
+| 2605 | [Form Smallest Number From Two Digit Arrays](https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays/) | [2605_form_smallest_number_from_two_digit_arrays.ipynb](DSA/Easy/2605_form_smallest_number_from_two_digit_arrays.ipynb) |
+| 2609 | [Find the Longest Balanced Substring of a Binary String](https://leetcode.com/problems/find-the-longest-balanced-substring-of-a-binary-string/) | [2609_find_the_longest_balanced_substring_of_a_binary_string.ipynb](DSA/Easy/2609_find_the_longest_balanced_substring_of_a_binary_string.ipynb) |
+| 2614 | [Prime In Diagonal](https://leetcode.com/problems/prime-in-diagonal/) | [2614_prime_in_diagonal.ipynb](DSA/Easy/2614_prime_in_diagonal.ipynb) |
+| 2639 | [Find the Width of Columns of a Grid](https://leetcode.com/problems/find-the-width-of-columns-of-a-grid/) | [2639_find_the_width_of_columns_of_a_grid.ipynb](DSA/Easy/2639_find_the_width_of_columns_of_a_grid.ipynb) |
+| 2643 | [Row With Maximum Ones](https://leetcode.com/problems/row-with-maximum-ones/) | [2643_row_with_maximum_ones.ipynb](DSA/Easy/2643_row_with_maximum_ones.ipynb) |
+| 2644 | [Find the Maximum Divisibility Score](https://leetcode.com/problems/find-the-maximum-divisibility-score/) | [2644_find_the_maximum_divisibility_score.ipynb](DSA/Easy/2644_find_the_maximum_divisibility_score.ipynb) |
+| 2651 | [Calculate Delayed Arrival Time](https://leetcode.com/problems/calculate-delayed-arrival-time/) | [2651_calculate_delayed_arrival_time.ipynb](DSA/Easy/2651_calculate_delayed_arrival_time.ipynb) |
+| 2652 | [Sum Multiples](https://leetcode.com/problems/sum-multiples/) | [2652_sum_multiples.ipynb](DSA/Easy/2652_sum_multiples.ipynb) |
+| 2656 | [Maximum Sum With Exactly K Elements](https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/) | [2656_maximum_sum_with_exactly_k_elements.ipynb](DSA/Easy/2656_maximum_sum_with_exactly_k_elements.ipynb) |
+| 2660 | [Determine the Winner of a Bowling Game](https://leetcode.com/problems/determine-the-winner-of-a-bowling-game/) | [2660_determine_the_winner_of_a_bowling_game.ipynb](DSA/Easy/2660_determine_the_winner_of_a_bowling_game.ipynb) |
+| 2670 | [Find the Distinct Difference Array](https://leetcode.com/problems/find-the-distinct-difference-array/) | [2670_find_the_distinct_difference_array.ipynb](DSA/Easy/2670_find_the_distinct_difference_array.ipynb) |
+| 2678 | [Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/) | [2678_number_of_senior_citizens.ipynb](DSA/Easy/2678_number_of_senior_citizens.ipynb) |
+| 2682 | [Find the Losers of the Circular Game](https://leetcode.com/problems/find-the-losers-of-the-circular-game/) | [2682_find_the_losers_of_the_circular_game.ipynb](DSA/Easy/2682_find_the_losers_of_the_circular_game.ipynb) |
+| 2696 | [Minimum String Length After Removing Substrings](https://leetcode.com/problems/minimum-string-length-after-removing-substrings/) | [2696_minimum_string_length_after_removing_substrings.ipynb](DSA/Easy/2696_minimum_string_length_after_removing_substrings.ipynb) |
+| 2697 | [Lexicographically Smallest Palindrome](https://leetcode.com/problems/lexicographically-smallest-palindrome/) | [2697_lexicographically_smallest_palindrome.ipynb](DSA/Easy/2697_lexicographically_smallest_palindrome.ipynb) |
+| 2706 | [Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates/) | [2706_buy_two_chocolates.ipynb](DSA/Easy/2706_buy_two_chocolates.ipynb) |
+| 2710 | [Remove Trailing Zeros From a String](https://leetcode.com/problems/remove-trailing-zeros-from-a-string/) | [2710_remove_trailing_zeros_from_a_string.ipynb](DSA/Easy/2710_remove_trailing_zeros_from_a_string.ipynb) |
+| 2716 | [Minimize String Length](https://leetcode.com/problems/minimize-string-length/) | [2716_minimize_string_length.ipynb](DSA/Easy/2716_minimize_string_length.ipynb) |
+| 2717 | [Semi-Ordered Permutation](https://leetcode.com/problems/semi-ordered-permutation/) | [2717_semi_ordered_permutation.ipynb](DSA/Easy/2717_semi_ordered_permutation.ipynb) |
+| 2728 | [Count Houses in a Circular Street](https://leetcode.com/problems/count-houses-in-a-circular-street/) | [2728_count_houses_in_a_circular_street.ipynb](DSA/Easy/2728_count_houses_in_a_circular_street.ipynb) |
+| 2729 | [Check if The Number is Fascinating](https://leetcode.com/problems/check-if-the-number-is-fascinating/) | [2729_check_if_the_number_is_fascinating.ipynb](DSA/Easy/2729_check_if_the_number_is_fascinating.ipynb) |
+| 2733 | [Neither Minimum nor Maximum](https://leetcode.com/problems/neither-minimum-nor-maximum/) | [2733_neither_minimum_nor_maximum.ipynb](DSA/Easy/2733_neither_minimum_nor_maximum.ipynb) |
+| 2739 | [Total Distance Traveled](https://leetcode.com/problems/total-distance-traveled/) | [2739_total_distance_traveled.ipynb](DSA/Easy/2739_total_distance_traveled.ipynb) |
+| 2744 | [Find Maximum Number of String Pairs](https://leetcode.com/problems/find-maximum-number-of-string-pairs/) | [2744_find_maximum_number_of_string_pairs.ipynb](DSA/Easy/2744_find_maximum_number_of_string_pairs.ipynb) |
+| 2748 | [Number of Beautiful Pairs](https://leetcode.com/problems/number-of-beautiful-pairs/) | [2748_number_of_beautiful_pairs.ipynb](DSA/Easy/2748_number_of_beautiful_pairs.ipynb) |
+| 2760 | [Longest Even Odd Subarray With Threshold](https://leetcode.com/problems/longest-even-odd-subarray-with-threshold/) | [2760_longest_even_odd_subarray_with_threshold.ipynb](DSA/Easy/2760_longest_even_odd_subarray_with_threshold.ipynb) |
+| 2765 | [Longest Alternating Subarray](https://leetcode.com/problems/longest-alternating-subarray/) | [2765_longest_alternating_subarray.ipynb](DSA/Easy/2765_longest_alternating_subarray.ipynb) |
+| 2769 | [Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/) | [2769_find_the_maximum_achievable_number.ipynb](DSA/Easy/2769_find_the_maximum_achievable_number.ipynb) |
+| 2778 | [Sum of Squares of Special Elements](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | [2778_sum_of_squares_of_special_elements.ipynb](DSA/Easy/2778_sum_of_squares_of_special_elements.ipynb) |
+| 2784 | [Check if Array is Good](https://leetcode.com/problems/check-if-array-is-good/) | [2784_check_if_array_is_good.ipynb](DSA/Easy/2784_check_if_array_is_good.ipynb) |
+| 2788 | [Split Strings by Separator](https://leetcode.com/problems/split-strings-by-separator/) | [2788_split_strings_by_separator.ipynb](DSA/Easy/2788_split_strings_by_separator.ipynb) |
+| 2798 | [Number of Employees Who Met the Target](https://leetcode.com/problems/number-of-employees-who-met-the-target/) | [2798_number_of_employees_who_met_the_target.ipynb](DSA/Easy/2798_number_of_employees_who_met_the_target.ipynb) |
+| 2806 | [Account Balance After Rounded Purchase](https://leetcode.com/problems/account-balance-after-rounded-purchase/) | [2806_account_balance_after_rounded_purchase.ipynb](DSA/Easy/2806_account_balance_after_rounded_purchase.ipynb) |
+| 2810 | [Faulty Keyboard](https://leetcode.com/problems/faulty-keyboard/) | [2810_faulty_keyboard.ipynb](DSA/Easy/2810_faulty_keyboard.ipynb) |
+| 2815 | [Max Pair Sum in an Array](https://leetcode.com/problems/max-pair-sum-in-an-array/) | [2815_max_pair_sum_in_an_array.ipynb](DSA/Easy/2815_max_pair_sum_in_an_array.ipynb) |
+| 2824 | [Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/) | [2824_count_pairs_whose_sum_is_less_than_target.ipynb](DSA/Easy/2824_count_pairs_whose_sum_is_less_than_target.ipynb) |
+| 2828 | [Check if a String Is an Acronym of Words](https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words/) | [2828_check_if_a_string_is_an_acronym_of_words.ipynb](DSA/Easy/2828_check_if_a_string_is_an_acronym_of_words.ipynb) |
+| 2833 | [Furthest Point From Origin](https://leetcode.com/problems/furthest-point-from-origin/) | [2833_furthest_point_from_origin.ipynb](DSA/Easy/2833_furthest_point_from_origin.ipynb) |
+| 2839 | [Check if Strings Can be Made Equal With Operations I](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i/) | [2839_check_if_strings_can_be_made_equal_with_operations_i.ipynb](DSA/Easy/2839_check_if_strings_can_be_made_equal_with_operations_i.ipynb) |
+| 2843 | [Count Symmetric Integers](https://leetcode.com/problems/count-symmetric-integers/) | [2843_count_symmetric_integers.ipynb](DSA/Easy/2843_count_symmetric_integers.ipynb) |
+| 2848 | [Points That Intersect With Cars](https://leetcode.com/problems/points-that-intersect-with-cars/) | [2848_points_that_intersect_with_cars.ipynb](DSA/Easy/2848_points_that_intersect_with_cars.ipynb) |
+| 2855 | [Minimum Right Shifts to Sort the Array](https://leetcode.com/problems/minimum-right-shifts-to-sort-the-array/) | [2855_minimum_right_shifts_to_sort_the_array.ipynb](DSA/Easy/2855_minimum_right_shifts_to_sort_the_array.ipynb) |
+| 2859 | [Sum of Values at Indices With K Set Bits](https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits/) | [2859_sum_of_values_at_indices_with_k_set_bits.ipynb](DSA/Easy/2859_sum_of_values_at_indices_with_k_set_bits.ipynb) |
+| 2864 | [Maximum Odd Binary Number](https://leetcode.com/problems/maximum-odd-binary-number/) | [2864_maximum_odd_binary_number.ipynb](DSA/Easy/2864_maximum_odd_binary_number.ipynb) |
+| 2869 | [Minimum Operations to Collect Elements](https://leetcode.com/problems/minimum-operations-to-collect-elements/) | [2869_minimum_operations_to_collect_elements.ipynb](DSA/Easy/2869_minimum_operations_to_collect_elements.ipynb) |
+| 2873 | [Maximum Value of an Ordered Triplet I](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i/) | [2873_maximum_value_of_an_ordered_triplet_i.ipynb](DSA/Easy/2873_maximum_value_of_an_ordered_triplet_i.ipynb) |
+| 2877 | [Create a DataFrame from List](https://leetcode.com/problems/create-a-dataframe-from-list/) | [2877_create_a_dataframe_from_list.ipynb](DSA/Easy/2877_create_a_dataframe_from_list.ipynb) |
+| 2878 | [Get the Size of a DataFrame](https://leetcode.com/problems/get-the-size-of-a-dataframe/) | [2878_get_the_size_of_a_dataframe.ipynb](DSA/Easy/2878_get_the_size_of_a_dataframe.ipynb) |
+| 2879 | [Display the First Three Rows](https://leetcode.com/problems/display-the-first-three-rows/) | [2879_display_the_first_three_rows.ipynb](DSA/Easy/2879_display_the_first_three_rows.ipynb) |
+| 2880 | [Select Data](https://leetcode.com/problems/select-data/) | [2880_select_data.ipynb](DSA/Easy/2880_select_data.ipynb) |
+| 2881 | [Create a New Column](https://leetcode.com/problems/create-a-new-column/) | [2881_create_a_new_column.ipynb](DSA/Easy/2881_create_a_new_column.ipynb) |
+| 2882 | [Drop Duplicate Rows](https://leetcode.com/problems/drop-duplicate-rows/) | [2882_drop_duplicate_rows.ipynb](DSA/Easy/2882_drop_duplicate_rows.ipynb) |
+| 2883 | [Drop Missing Data](https://leetcode.com/problems/drop-missing-data/) | [2883_drop_missing_data.ipynb](DSA/Easy/2883_drop_missing_data.ipynb) |
+| 2884 | [Modify Columns](https://leetcode.com/problems/modify-columns/) | [2884_modify_columns.ipynb](DSA/Easy/2884_modify_columns.ipynb) |
+| 2885 | [Rename Columns](https://leetcode.com/problems/rename-columns/) | [2885_rename_columns.ipynb](DSA/Easy/2885_rename_columns.ipynb) |
+| 2886 | [Change Data Type](https://leetcode.com/problems/change-data-type/) | [2886_change_data_type.ipynb](DSA/Easy/2886_change_data_type.ipynb) |
+| 2887 | [Fill Missing Data](https://leetcode.com/problems/fill-missing-data/) | [2887_fill_missing_data.ipynb](DSA/Easy/2887_fill_missing_data.ipynb) |
+| 2888 | [Reshape Data: Concatenate](https://leetcode.com/problems/reshape-data-concatenate/) | [2888_reshape_data_concatenate.ipynb](DSA/Easy/2888_reshape_data_concatenate.ipynb) |
+| 2889 | [Reshape Data: Pivot](https://leetcode.com/problems/reshape-data-pivot/) | [2889_reshape_data_pivot.ipynb](DSA/Easy/2889_reshape_data_pivot.ipynb) |
+| 2890 | [Reshape Data: Melt](https://leetcode.com/problems/reshape-data-melt/) | [2890_reshape_data_melt.ipynb](DSA/Easy/2890_reshape_data_melt.ipynb) |
+| 2891 | [Method Chaining](https://leetcode.com/problems/method-chaining/) | [2891_method_chaining.ipynb](DSA/Easy/2891_method_chaining.ipynb) |
+| 2894 | [Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/) | [2894_divisible_and_non_divisible_sums_difference.ipynb](DSA/Easy/2894_divisible_and_non_divisible_sums_difference.ipynb) |
+| 2899 | [Last Visited Integers](https://leetcode.com/problems/last-visited-integers/) | [2899_last_visited_integers.ipynb](DSA/Easy/2899_last_visited_integers.ipynb) |
+| 2900 | [Longest Unequal Adjacent Groups Subsequence I](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i/) | [2900_longest_unequal_adjacent_groups_subsequence_i.ipynb](DSA/Easy/2900_longest_unequal_adjacent_groups_subsequence_i.ipynb) |
+| 2903 | [Sum of Values at Indices With K Set Bits](https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits/) | [2903_sum_of_values_at_indices_with_k_set_bits.ipynb](DSA/Easy/2903_sum_of_values_at_indices_with_k_set_bits.ipynb) |
+| 2908 | [Minimum Sum of Mountain Triplets I](https://leetcode.com/problems/minimum-sum-of-mountain-triplets-i/) | [2908_minimum_sum_of_mountain_triplets_i.ipynb](DSA/Easy/2908_minimum_sum_of_mountain_triplets_i.ipynb) |
+| 2913 | [Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/) | [2913_subarrays_distinct_element_sum_of_squares_i.ipynb](DSA/Easy/2913_subarrays_distinct_element_sum_of_squares_i.ipynb) |
+| 2917 | [K-or of an Array](https://leetcode.com/problems/k-or-of-an-array/) | [2917_k_or_of_an_array.ipynb](DSA/Easy/2917_k_or_of_an_array.ipynb) |
+| 2923 | [Find Champion I](https://leetcode.com/problems/find-champion-i/) | [2923_find_champion_i.ipynb](DSA/Easy/2923_find_champion_i.ipynb) |
+| 2928 | [Distribute Candies Among Children I](https://leetcode.com/problems/distribute-candies-among-children-i/) | [2928_distribute_candies_among_children_i.ipynb](DSA/Easy/2928_distribute_candies_among_children_i.ipynb) |
+| 2932 | [Maximum Strong Pair XOR I](https://leetcode.com/problems/maximum-strong-pair-xor-i/) | [2932_maximum_strong_pair_xor_i.ipynb](DSA/Easy/2932_maximum_strong_pair_xor_i.ipynb) |
+| 2937 | [Make Three Strings Equal](https://leetcode.com/problems/make-three-strings-equal/) | [2937_make_three_strings_equal.ipynb](DSA/Easy/2937_make_three_strings_equal.ipynb) |
 
 ## DSA — Medium — 137 bài
 
