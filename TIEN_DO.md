@@ -301,3 +301,11 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 - Lỗi: không có
 - Bỏ qua: không có
 - Ghi chú: Cần đối chiếu đề với LeetCode: 3750 (cách hiểu đề, slug suy ra từ tên), 3823 (độ khó ghi Easy theo doocs); slug các bài 3xxx suy ra từ tên bài.
+
+### Đợt 42 — 19/11/2026
+
+- Đã xong (Medium): 0264, 0267, 0271, 0274, 0275, 0277, 0279, 0280, 0281, 0284, 0285, 0286, 0287, 0289, 0294, 0298, 0299, 0300, 0304, 0306
+- Lỗi: không có
+- Bỏ qua: không có
+- Ghi chú: Bài Premium (đề viết theo hiểu biết, đối chiếu lại nếu có tài khoản Premium): 0267, 0271, 0277, 0280, 0281, 0285, 0286, 0294, 0298. Chữ ký hàm của vài bài viết theo skeleton LeetCode nhớ được (file đề doocs thiếu) — đối chiếu lại. 0286: DFS cắt tỉa chỉ chạy trên lưới nhỏ vì quá chậm ở 250×250 (đã ghi trong notebook). 0280 nhiều đáp án đúng (test theo tính chất); 0275 dùng bisect key= cần Python 3.10+.
+- ID Medium tiếp theo: 0307 (đợt 43 → 307–341).

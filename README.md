@@ -15,7 +15,7 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 997 notebook** — DSA/Easy: 713 · DSA/Medium: 163 · DSA/Hard: 108 · SQL: 11 · Shell: 2
+**Tổng: 1017 notebook** — DSA/Easy: 713 · DSA/Medium: 183 · DSA/Hard: 108 · SQL: 11 · Shell: 2
 
 ## DSA — Easy — 713 bài
 
@@ -735,7 +735,7 @@ Shell/                            bài Shell (Bash)
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [4097_minimum_value_of_merged_integers.ipynb](DSA/Easy/4097_minimum_value_of_merged_integers.ipynb) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [4111_count_consistent_subarrays_i.ipynb](DSA/Easy/4111_count_consistent_subarrays_i.ipynb) |
 
-## DSA — Medium — 163 bài
+## DSA — Medium — 183 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -883,6 +883,26 @@ Shell/                            bài Shell (Bash)
 | 0259 | [3Sum Smaller 🔒](https://leetcode.com/problems/3sum-smaller/) | [0259_3sum_smaller.ipynb](DSA/Medium/0259_3sum_smaller.ipynb) |
 | 0260 | [Single Number III](https://leetcode.com/problems/single-number-iii/) | [0260_single_number_iii.ipynb](DSA/Medium/0260_single_number_iii.ipynb) |
 | 0261 | [Graph Valid Tree 🔒](https://leetcode.com/problems/graph-valid-tree/) | [0261_graph_valid_tree.ipynb](DSA/Medium/0261_graph_valid_tree.ipynb) |
+| 0264 | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) | [0264_ugly_number_ii.ipynb](DSA/Medium/0264_ugly_number_ii.ipynb) |
+| 0267 | [Palindrome Permutation II 🔒](https://leetcode.com/problems/palindrome-permutation-ii/) | [0267_palindrome_permutation_ii.ipynb](DSA/Medium/0267_palindrome_permutation_ii.ipynb) |
+| 0271 | [Encode and Decode Strings 🔒](https://leetcode.com/problems/encode-and-decode-strings/) | [0271_encode_and_decode_strings.ipynb](DSA/Medium/0271_encode_and_decode_strings.ipynb) |
+| 0274 | [H-Index](https://leetcode.com/problems/h-index/) | [0274_h_index.ipynb](DSA/Medium/0274_h_index.ipynb) |
+| 0275 | [H-Index II](https://leetcode.com/problems/h-index-ii/) | [0275_h_index_ii.ipynb](DSA/Medium/0275_h_index_ii.ipynb) |
+| 0277 | [Find the Celebrity 🔒](https://leetcode.com/problems/find-the-celebrity/) | [0277_find_the_celebrity.ipynb](DSA/Medium/0277_find_the_celebrity.ipynb) |
+| 0279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | [0279_perfect_squares.ipynb](DSA/Medium/0279_perfect_squares.ipynb) |
+| 0280 | [Wiggle Sort 🔒](https://leetcode.com/problems/wiggle-sort/) | [0280_wiggle_sort.ipynb](DSA/Medium/0280_wiggle_sort.ipynb) |
+| 0281 | [Zigzag Iterator 🔒](https://leetcode.com/problems/zigzag-iterator/) | [0281_zigzag_iterator.ipynb](DSA/Medium/0281_zigzag_iterator.ipynb) |
+| 0284 | [Peeking Iterator](https://leetcode.com/problems/peeking-iterator/) | [0284_peeking_iterator.ipynb](DSA/Medium/0284_peeking_iterator.ipynb) |
+| 0285 | [Inorder Successor in BST 🔒](https://leetcode.com/problems/inorder-successor-in-bst/) | [0285_inorder_successor_in_bst.ipynb](DSA/Medium/0285_inorder_successor_in_bst.ipynb) |
+| 0286 | [Walls and Gates 🔒](https://leetcode.com/problems/walls-and-gates/) | [0286_walls_and_gates.ipynb](DSA/Medium/0286_walls_and_gates.ipynb) |
+| 0287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [0287_find_the_duplicate_number.ipynb](DSA/Medium/0287_find_the_duplicate_number.ipynb) |
+| 0289 | [Game of Life](https://leetcode.com/problems/game-of-life/) | [0289_game_of_life.ipynb](DSA/Medium/0289_game_of_life.ipynb) |
+| 0294 | [Flip Game II 🔒](https://leetcode.com/problems/flip-game-ii/) | [0294_flip_game_ii.ipynb](DSA/Medium/0294_flip_game_ii.ipynb) |
+| 0298 | [Binary Tree Longest Consecutive Sequence 🔒](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/) | [0298_binary_tree_longest_consecutive_sequence.ipynb](DSA/Medium/0298_binary_tree_longest_consecutive_sequence.ipynb) |
+| 0299 | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | [0299_bulls_and_cows.ipynb](DSA/Medium/0299_bulls_and_cows.ipynb) |
+| 0300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [0300_longest_increasing_subsequence.ipynb](DSA/Medium/0300_longest_increasing_subsequence.ipynb) |
+| 0304 | [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | [0304_range_sum_query_2d_immutable.ipynb](DSA/Medium/0304_range_sum_query_2d_immutable.ipynb) |
+| 0306 | [Additive Number](https://leetcode.com/problems/additive-number/) | [0306_additive_number.ipynb](DSA/Medium/0306_additive_number.ipynb) |
 | 4044 | [Count Good Cyclic Rotations](https://leetcode.com/problems/count-good-cyclic-rotations/) | [4044_count_good_cyclic_rotations.ipynb](DSA/Medium/4044_count_good_cyclic_rotations.ipynb) |
 | 4045 | [Count Robot Groups](https://leetcode.com/problems/count-robot-groups/) | [4045_count_robot_groups.ipynb](DSA/Medium/4045_count_robot_groups.ipynb) |
 | 4049 | [Count Values With Equally Spaced Occurrences II](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-ii/) | [4049_count_values_with_equally_spaced_occurrences_ii.ipynb](DSA/Medium/4049_count_values_with_equally_spaced_occurrences_ii.ipynb) |
