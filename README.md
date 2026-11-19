@@ -15,7 +15,7 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 1125 notebook** — DSA/Easy: 713 · DSA/Medium: 203 · DSA/Hard: 196 · SQL: 11 · Shell: 2
+**Tổng: 1137 notebook** — DSA/Easy: 713 · DSA/Medium: 203 · DSA/Hard: 208 · SQL: 11 · Shell: 2
 
 ## DSA — Easy — 713 bài
 
@@ -943,7 +943,7 @@ Shell/                            bài Shell (Bash)
 | 4112 | [Maximize Score After Zeroing Subtrees](https://leetcode.com/problems/maximize-score-after-zeroing-subtrees/) | [4112_maximize_score_after_zeroing_subtrees.ipynb](DSA/Medium/4112_maximize_score_after_zeroing_subtrees.ipynb) |
 | 4113 | [Game of Divisible Sums](https://leetcode.com/problems/game-of-divisible-sums/) | [4113_game_of_divisible_sums.ipynb](DSA/Medium/4113_game_of_divisible_sums.ipynb) |
 
-## DSA — Hard — 188 bài
+## DSA — Hard — 208 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -1095,6 +1095,26 @@ Shell/                            bài Shell (Bash)
 | 0774 | [Minimize Max Distance to Gas Station](https://leetcode.com/problems/minimize-max-distance-to-gas-station/) | [0774_minimize_max_distance_to_gas_station.ipynb](DSA/Hard/0774_minimize_max_distance_to_gas_station.ipynb) |
 | 0778 | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | [0778_swim_in_rising_water.ipynb](DSA/Hard/0778_swim_in_rising_water.ipynb) |
 | 0780 | [Reaching Points](https://leetcode.com/problems/reaching-points/) | [0780_reaching_points.ipynb](DSA/Hard/0780_reaching_points.ipynb) |
+| 0782 | [Transform to Chessboard](https://leetcode.com/problems/transform-to-chessboard/) | [0782_transform_to_chessboard.ipynb](DSA/Hard/0782_transform_to_chessboard.ipynb) |
+| 0793 | [Preimage Size of Factorial Zeroes Function](https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/) | [0793_preimage_size_of_factorial_zeroes_function.ipynb](DSA/Hard/0793_preimage_size_of_factorial_zeroes_function.ipynb) |
+| 0798 | [Smallest Rotation with Highest Score](https://leetcode.com/problems/smallest-rotation-with-highest-score/) | [0798_smallest_rotation_with_highest_score.ipynb](DSA/Hard/0798_smallest_rotation_with_highest_score.ipynb) |
+| 0801 | [Minimum Swaps To Make Sequences Increasing](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/) | [0801_minimum_swaps_to_make_sequences_increasing.ipynb](DSA/Hard/0801_minimum_swaps_to_make_sequences_increasing.ipynb) |
+| 0803 | [Bricks Falling When Hit](https://leetcode.com/problems/bricks-falling-when-hit/) | [0803_bricks_falling_when_hit.ipynb](DSA/Hard/0803_bricks_falling_when_hit.ipynb) |
+| 0805 | [Split Array With Same Average](https://leetcode.com/problems/split-array-with-same-average/) | [0805_split_array_with_same_average.ipynb](DSA/Hard/0805_split_array_with_same_average.ipynb) |
+| 0810 | [Chalkboard XOR Game](https://leetcode.com/problems/chalkboard-xor-game/) | [0810_chalkboard_xor_game.ipynb](DSA/Hard/0810_chalkboard_xor_game.ipynb) |
+| 0815 | [Bus Routes](https://leetcode.com/problems/bus-routes/) | [0815_bus_routes.ipynb](DSA/Hard/0815_bus_routes.ipynb) |
+| 0818 | [Race Car](https://leetcode.com/problems/race-car/) | [0818_race_car.ipynb](DSA/Hard/0818_race_car.ipynb) |
+| 0827 | [Making A Large Island](https://leetcode.com/problems/making-a-large-island/) | [0827_making_a_large_island.ipynb](DSA/Hard/0827_making_a_large_island.ipynb) |
+| 0828 | [Count Unique Characters of All Substrings of a Given String](https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string/) | [0828_count_unique_characters_of_all_substrings_of_a_given_string.ipynb](DSA/Hard/0828_count_unique_characters_of_all_substrings_of_a_given_string.ipynb) |
+| 0829 | [Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum/) | [0829_consecutive_numbers_sum.ipynb](DSA/Hard/0829_consecutive_numbers_sum.ipynb) |
+| 0834 | [Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/) | [0834_sum_of_distances_in_tree.ipynb](DSA/Hard/0834_sum_of_distances_in_tree.ipynb) |
+| 0839 | [Similar String Groups](https://leetcode.com/problems/similar-string-groups/) | [0839_similar_string_groups.ipynb](DSA/Hard/0839_similar_string_groups.ipynb) |
+| 0843 | [Guess the Word](https://leetcode.com/problems/guess-the-word/) | [0843_guess_the_word.ipynb](DSA/Hard/0843_guess_the_word.ipynb) |
+| 0847 | [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/) | [0847_shortest_path_visiting_all_nodes.ipynb](DSA/Hard/0847_shortest_path_visiting_all_nodes.ipynb) |
+| 0850 | [Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii/) | [0850_rectangle_area_ii.ipynb](DSA/Hard/0850_rectangle_area_ii.ipynb) |
+| 0854 | [K-Similar Strings](https://leetcode.com/problems/k-similar-strings/) | [0854_k_similar_strings.ipynb](DSA/Hard/0854_k_similar_strings.ipynb) |
+| 0857 | [Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/) | [0857_minimum_cost_to_hire_k_workers.ipynb](DSA/Hard/0857_minimum_cost_to_hire_k_workers.ipynb) |
+| 0862 | [Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/) | [0862_shortest_subarray_with_sum_at_least_k.ipynb](DSA/Hard/0862_shortest_subarray_with_sum_at_least_k.ipynb) |
 | 3985 | [Palindromic Subarray Sum](https://leetcode.com/problems/palindromic-subarray-sum/) | [3985_palindromic_subarray_sum.ipynb](DSA/Hard/3985_palindromic_subarray_sum.ipynb) |
 | 3989 | [Maximum Consistent Columns in a Grid](https://leetcode.com/problems/maximum-consistent-columns-in-a-grid/) | [3989_maximum_consistent_columns_in_a_grid.ipynb](DSA/Hard/3989_maximum_consistent_columns_in_a_grid.ipynb) |
 | 3990 | [Create Grid With Exactly K Paths II](https://leetcode.com/problems/create-grid-with-exactly-k-paths-ii/) | [3990_create_grid_with_exactly_k_paths_ii.ipynb](DSA/Hard/3990_create_grid_with_exactly_k_paths_ii.ipynb) |

@@ -357,3 +357,11 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 - Bỏ qua: không có
 - Ghi chú: Bài Premium (đề viết theo hiểu biết): 727, 759, 772, 774. Cần đối chiếu: 759 (chữ ký [[Interval]]), 770 (ví dụ 4–6 viết theo trí nhớ). 753 nhiều đáp án đúng (test kiểm tra tính hợp lệ). Đợt bị tạm dừng lúc 18h theo yêu cầu, làm tiếp lúc 21h01. Chạy tuần tự 1 agent/lượt.
 - ID Hard tiếp theo (tính từ đầu): 782 (đợt kế tiếp đánh số Đợt Hard 9 vì số 8 đã dùng cho đợt tính từ cuối)
+
+### Đợt Hard 9 (nhóm Hard, tính từ đầu danh sách) — 19/11/2026
+
+- Đã xong: 782, 793, 798, 801, 803, 805, 810, 815, 818, 827, 828, 829, 834, 839, 843, 847, 850, 854, 857, 862
+- Lỗi: không có
+- Bỏ qua: không có
+- Ghi chú: Không có bài Premium. Cần đối chiếu: 803 (giả định tường ban đầu mọi viên đều ổn định), 843 (giới hạn allowedGuesses viết theo hiểu biết; tự dựng lớp Master), 810 (quy luật biến thể ở mục 15 chỉ là quan sát bằng máy). 857 kết quả số thực, so sánh có sai số. Chạy tuần tự 1 agent/lượt.
+- ID Hard tiếp theo: 864
