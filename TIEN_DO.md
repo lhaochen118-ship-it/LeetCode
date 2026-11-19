@@ -211,3 +211,11 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 - Bỏ qua: không có
 - Ghi chú: Đợt 25 (2475–2566) do khung chat khác làm; đợt này lấy 20 bài Easy kế tiếp sau đó. Ví dụ cần đối chiếu lại với đề gốc: 2644 (ví dụ 3), 2578 (ví dụ 2).
 - ID tiếp theo: 2682
+
+### Đợt 27 — 19/11/2026
+
+- Đã xong: 2682, 2696, 2697, 2706, 2710, 2716, 2717, 2728, 2729, 2733, 2739, 2744, 2748, 2760, 2765, 2769, 2778, 2784, 2788, 2798
+- Lỗi: không có
+- Bỏ qua: không có
+- Ghi chú: Bài Premium (đề viết theo hiểu biết): 2728 (tự dựng lớp mô phỏng `Street`; bài tập 5(b) dùng `moveLeft` — bỏ nếu đề gốc không có). Ví dụ cần đối chiếu lại với đề gốc: 2728, 2760, 2769, 2784, 2788.
+- ID tiếp theo: 2806

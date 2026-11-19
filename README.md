@@ -15,9 +15,9 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 790 notebook** — DSA/Easy: 539 · DSA/Medium: 137 · DSA/Hard: 101 · SQL: 11 · Shell: 2
+**Tổng: 810 notebook** — DSA/Easy: 559 · DSA/Medium: 137 · DSA/Hard: 101 · SQL: 11 · Shell: 2
 
-## DSA — Easy — 539 bài
+## DSA — Easy — 559 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -560,6 +560,26 @@ Shell/                            bài Shell (Bash)
 | 2660 | [Determine the Winner of a Bowling Game](https://leetcode.com/problems/determine-the-winner-of-a-bowling-game/) | [2660_determine_the_winner_of_a_bowling_game.ipynb](DSA/Easy/2660_determine_the_winner_of_a_bowling_game.ipynb) |
 | 2670 | [Find the Distinct Difference Array](https://leetcode.com/problems/find-the-distinct-difference-array/) | [2670_find_the_distinct_difference_array.ipynb](DSA/Easy/2670_find_the_distinct_difference_array.ipynb) |
 | 2678 | [Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/) | [2678_number_of_senior_citizens.ipynb](DSA/Easy/2678_number_of_senior_citizens.ipynb) |
+| 2682 | [Find the Losers of the Circular Game](https://leetcode.com/problems/find-the-losers-of-the-circular-game/) | [2682_find_the_losers_of_the_circular_game.ipynb](DSA/Easy/2682_find_the_losers_of_the_circular_game.ipynb) |
+| 2696 | [Minimum String Length After Removing Substrings](https://leetcode.com/problems/minimum-string-length-after-removing-substrings/) | [2696_minimum_string_length_after_removing_substrings.ipynb](DSA/Easy/2696_minimum_string_length_after_removing_substrings.ipynb) |
+| 2697 | [Lexicographically Smallest Palindrome](https://leetcode.com/problems/lexicographically-smallest-palindrome/) | [2697_lexicographically_smallest_palindrome.ipynb](DSA/Easy/2697_lexicographically_smallest_palindrome.ipynb) |
+| 2706 | [Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates/) | [2706_buy_two_chocolates.ipynb](DSA/Easy/2706_buy_two_chocolates.ipynb) |
+| 2710 | [Remove Trailing Zeros From a String](https://leetcode.com/problems/remove-trailing-zeros-from-a-string/) | [2710_remove_trailing_zeros_from_a_string.ipynb](DSA/Easy/2710_remove_trailing_zeros_from_a_string.ipynb) |
+| 2716 | [Minimize String Length](https://leetcode.com/problems/minimize-string-length/) | [2716_minimize_string_length.ipynb](DSA/Easy/2716_minimize_string_length.ipynb) |
+| 2717 | [Semi-Ordered Permutation](https://leetcode.com/problems/semi-ordered-permutation/) | [2717_semi_ordered_permutation.ipynb](DSA/Easy/2717_semi_ordered_permutation.ipynb) |
+| 2728 | [Count Houses in a Circular Street](https://leetcode.com/problems/count-houses-in-a-circular-street/) | [2728_count_houses_in_a_circular_street.ipynb](DSA/Easy/2728_count_houses_in_a_circular_street.ipynb) |
+| 2729 | [Check if The Number is Fascinating](https://leetcode.com/problems/check-if-the-number-is-fascinating/) | [2729_check_if_the_number_is_fascinating.ipynb](DSA/Easy/2729_check_if_the_number_is_fascinating.ipynb) |
+| 2733 | [Neither Minimum nor Maximum](https://leetcode.com/problems/neither-minimum-nor-maximum/) | [2733_neither_minimum_nor_maximum.ipynb](DSA/Easy/2733_neither_minimum_nor_maximum.ipynb) |
+| 2739 | [Total Distance Traveled](https://leetcode.com/problems/total-distance-traveled/) | [2739_total_distance_traveled.ipynb](DSA/Easy/2739_total_distance_traveled.ipynb) |
+| 2744 | [Find Maximum Number of String Pairs](https://leetcode.com/problems/find-maximum-number-of-string-pairs/) | [2744_find_maximum_number_of_string_pairs.ipynb](DSA/Easy/2744_find_maximum_number_of_string_pairs.ipynb) |
+| 2748 | [Number of Beautiful Pairs](https://leetcode.com/problems/number-of-beautiful-pairs/) | [2748_number_of_beautiful_pairs.ipynb](DSA/Easy/2748_number_of_beautiful_pairs.ipynb) |
+| 2760 | [Longest Even Odd Subarray With Threshold](https://leetcode.com/problems/longest-even-odd-subarray-with-threshold/) | [2760_longest_even_odd_subarray_with_threshold.ipynb](DSA/Easy/2760_longest_even_odd_subarray_with_threshold.ipynb) |
+| 2765 | [Longest Alternating Subarray](https://leetcode.com/problems/longest-alternating-subarray/) | [2765_longest_alternating_subarray.ipynb](DSA/Easy/2765_longest_alternating_subarray.ipynb) |
+| 2769 | [Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/) | [2769_find_the_maximum_achievable_number.ipynb](DSA/Easy/2769_find_the_maximum_achievable_number.ipynb) |
+| 2778 | [Sum of Squares of Special Elements](https://leetcode.com/problems/sum-of-squares-of-special-elements/) | [2778_sum_of_squares_of_special_elements.ipynb](DSA/Easy/2778_sum_of_squares_of_special_elements.ipynb) |
+| 2784 | [Check if Array is Good](https://leetcode.com/problems/check-if-array-is-good/) | [2784_check_if_array_is_good.ipynb](DSA/Easy/2784_check_if_array_is_good.ipynb) |
+| 2788 | [Split Strings by Separator](https://leetcode.com/problems/split-strings-by-separator/) | [2788_split_strings_by_separator.ipynb](DSA/Easy/2788_split_strings_by_separator.ipynb) |
+| 2798 | [Number of Employees Who Met the Target](https://leetcode.com/problems/number-of-employees-who-met-the-target/) | [2798_number_of_employees_who_met_the_target.ipynb](DSA/Easy/2798_number_of_employees_who_met_the_target.ipynb) |
 
 ## DSA — Medium — 137 bài
 
