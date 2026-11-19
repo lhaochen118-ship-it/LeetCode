@@ -15,9 +15,9 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 850 notebook** — DSA/Easy: 599 · DSA/Medium: 137 · DSA/Hard: 101 · SQL: 11 · Shell: 2
+**Tổng: 892 notebook** — DSA/Easy: 639 · DSA/Medium: 137 · DSA/Hard: 103 · SQL: 11 · Shell: 2
 
-## DSA — Easy — 599 bài
+## DSA — Easy — 639 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -540,6 +540,26 @@ Shell/                            bài Shell (Bash)
 | 2460 | [Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array/) | [2460_apply_operations_to_an_array.ipynb](DSA/Easy/2460_apply_operations_to_an_array.ipynb) |
 | 2465 | [Number of Distinct Averages](https://leetcode.com/problems/number-of-distinct-averages/) | [2465_number_of_distinct_averages.ipynb](DSA/Easy/2465_number_of_distinct_averages.ipynb) |
 | 2469 | [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/) | [2469_convert_the_temperature.ipynb](DSA/Easy/2469_convert_the_temperature.ipynb) |
+| 2475 | [Number of Unequal Triplets in Array](https://leetcode.com/problems/number-of-unequal-triplets-in-array/) | [2475_number_of_unequal_triplets_in_array.ipynb](DSA/Easy/2475_number_of_unequal_triplets_in_array.ipynb) |
+| 2481 | [Minimum Cuts to Divide a Circle](https://leetcode.com/problems/minimum-cuts-to-divide-a-circle/) | [2481_minimum_cuts_to_divide_a_circle.ipynb](DSA/Easy/2481_minimum_cuts_to_divide_a_circle.ipynb) |
+| 2485 | [Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer/) | [2485_find_the_pivot_integer.ipynb](DSA/Easy/2485_find_the_pivot_integer.ipynb) |
+| 2490 | [Circular Sentence](https://leetcode.com/problems/circular-sentence/) | [2490_circular_sentence.ipynb](DSA/Easy/2490_circular_sentence.ipynb) |
+| 2496 | [Maximum Value of a String in an Array](https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/) | [2496_maximum_value_of_a_string_in_an_array.ipynb](DSA/Easy/2496_maximum_value_of_a_string_in_an_array.ipynb) |
+| 2500 | [Delete Greatest Value in Each Row](https://leetcode.com/problems/delete-greatest-value-in-each-row/) | [2500_delete_greatest_value_in_each_row.ipynb](DSA/Easy/2500_delete_greatest_value_in_each_row.ipynb) |
+| 2506 | [Count Pairs Of Similar Strings](https://leetcode.com/problems/count-pairs-of-similar-strings/) | [2506_count_pairs_of_similar_strings.ipynb](DSA/Easy/2506_count_pairs_of_similar_strings.ipynb) |
+| 2511 | [Maximum Enemy Forts That Can Be Captured](https://leetcode.com/problems/maximum-enemy-forts-that-can-be-captured/) | [2511_maximum_enemy_forts_that_can_be_captured.ipynb](DSA/Easy/2511_maximum_enemy_forts_that_can_be_captured.ipynb) |
+| 2515 | [Shortest Distance to Target String in a Circular Array](https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/) | [2515_shortest_distance_to_target_string_in_a_circular_array.ipynb](DSA/Easy/2515_shortest_distance_to_target_string_in_a_circular_array.ipynb) |
+| 2520 | [Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number/) | [2520_count_the_digits_that_divide_a_number.ipynb](DSA/Easy/2520_count_the_digits_that_divide_a_number.ipynb) |
+| 2525 | [Categorize Box According to Criteria](https://leetcode.com/problems/categorize-box-according-to-criteria/) | [2525_categorize_box_according_to_criteria.ipynb](DSA/Easy/2525_categorize_box_according_to_criteria.ipynb) |
+| 2529 | [Maximum Count of Positive Integer and Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/) | [2529_maximum_count_of_positive_integer_and_negative_integer.ipynb](DSA/Easy/2529_maximum_count_of_positive_integer_and_negative_integer.ipynb) |
+| 2535 | [Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/) | [2535_difference_between_element_sum_and_digit_sum_of_an_array.ipynb](DSA/Easy/2535_difference_between_element_sum_and_digit_sum_of_an_array.ipynb) |
+| 2540 | [Minimum Common Value](https://leetcode.com/problems/minimum-common-value/) | [2540_minimum_common_value.ipynb](DSA/Easy/2540_minimum_common_value.ipynb) |
+| 2544 | [Alternating Digit Sum](https://leetcode.com/problems/alternating-digit-sum/) | [2544_alternating_digit_sum.ipynb](DSA/Easy/2544_alternating_digit_sum.ipynb) |
+| 2549 | [Count Distinct Numbers on Board](https://leetcode.com/problems/count-distinct-numbers-on-board/) | [2549_count_distinct_numbers_on_board.ipynb](DSA/Easy/2549_count_distinct_numbers_on_board.ipynb) |
+| 2553 | [Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/) | [2553_separate_the_digits_in_an_array.ipynb](DSA/Easy/2553_separate_the_digits_in_an_array.ipynb) |
+| 2558 | [Take Gifts From the Richest Pile](https://leetcode.com/problems/take-gifts-from-the-richest-pile/) | [2558_take_gifts_from_the_richest_pile.ipynb](DSA/Easy/2558_take_gifts_from_the_richest_pile.ipynb) |
+| 2562 | [Find the Array Concatenation Value](https://leetcode.com/problems/find-the-array-concatenation-value/) | [2562_find_the_array_concatenation_value.ipynb](DSA/Easy/2562_find_the_array_concatenation_value.ipynb) |
+| 2566 | [Maximum Difference by Remapping a Digit](https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/) | [2566_maximum_difference_by_remapping_a_digit.ipynb](DSA/Easy/2566_maximum_difference_by_remapping_a_digit.ipynb) |
 | 2570 | [Merge Two 2D Arrays by Summing Values](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/) | [2570_merge_two_2d_arrays_by_summing_values.ipynb](DSA/Easy/2570_merge_two_2d_arrays_by_summing_values.ipynb) |
 | 2574 | [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/) | [2574_left_and_right_sum_differences.ipynb](DSA/Easy/2574_left_and_right_sum_differences.ipynb) |
 | 2578 | [Split With Minimum Sum](https://leetcode.com/problems/split-with-minimum-sum/) | [2578_split_with_minimum_sum.ipynb](DSA/Easy/2578_split_with_minimum_sum.ipynb) |
@@ -620,6 +640,26 @@ Shell/                            bài Shell (Bash)
 | 2928 | [Distribute Candies Among Children I](https://leetcode.com/problems/distribute-candies-among-children-i/) | [2928_distribute_candies_among_children_i.ipynb](DSA/Easy/2928_distribute_candies_among_children_i.ipynb) |
 | 2932 | [Maximum Strong Pair XOR I](https://leetcode.com/problems/maximum-strong-pair-xor-i/) | [2932_maximum_strong_pair_xor_i.ipynb](DSA/Easy/2932_maximum_strong_pair_xor_i.ipynb) |
 | 2937 | [Make Three Strings Equal](https://leetcode.com/problems/make-three-strings-equal/) | [2937_make_three_strings_equal.ipynb](DSA/Easy/2937_make_three_strings_equal.ipynb) |
+| 3467 | [Transform Array by Parity](https://leetcode.com/problems/transform-array-by-parity/) | [3467_transform_array_by_parity.ipynb](DSA/Easy/3467_transform_array_by_parity.ipynb) |
+| 3471 | [Find the Largest Almost Missing Integer](https://leetcode.com/problems/find-the-largest-almost-missing-integer/) | [3471_find_the_largest_almost_missing_integer.ipynb](DSA/Easy/3471_find_the_largest_almost_missing_integer.ipynb) |
+| 3477 | [Fruits Into Baskets II](https://leetcode.com/problems/fruits-into-baskets-ii/) | [3477_fruits_into_baskets_ii.ipynb](DSA/Easy/3477_fruits_into_baskets_ii.ipynb) |
+| 3483 | [Unique 3-Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers/) | [3483_unique_3_digit_even_numbers.ipynb](DSA/Easy/3483_unique_3_digit_even_numbers.ipynb) |
+| 3487 | [Maximum Unique Subarray Sum After Deletion](https://leetcode.com/problems/maximum-unique-subarray-sum-after-deletion/) | [3487_maximum_unique_subarray_sum_after_deletion.ipynb](DSA/Easy/3487_maximum_unique_subarray_sum_after_deletion.ipynb) |
+| 3491 | [Phone Number Prefix](https://leetcode.com/problems/phone-number-prefix/) | [3491_phone_number_prefix.ipynb](DSA/Easy/3491_phone_number_prefix.ipynb) |
+| 3492 | [Maximum Containers on a Ship](https://leetcode.com/problems/maximum-containers-on-a-ship/) | [3492_maximum_containers_on_a_ship.ipynb](DSA/Easy/3492_maximum_containers_on_a_ship.ipynb) |
+| 3498 | [Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string/) | [3498_reverse_degree_of_a_string.ipynb](DSA/Easy/3498_reverse_degree_of_a_string.ipynb) |
+| 3502 | [Minimum Cost to Reach Every Position](https://leetcode.com/problems/minimum-cost-to-reach-every-position/) | [3502_minimum_cost_to_reach_every_position.ipynb](DSA/Easy/3502_minimum_cost_to_reach_every_position.ipynb) |
+| 3507 | [Minimum Pair Removal to Sort Array I](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i/) | [3507_minimum_pair_removal_to_sort_array_i.ipynb](DSA/Easy/3507_minimum_pair_removal_to_sort_array_i.ipynb) |
+| 3512 | [Minimum Operations to Make Array Sum Divisible by K](https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/) | [3512_minimum_operations_to_make_array_sum_divisible_by_k.ipynb](DSA/Easy/3512_minimum_operations_to_make_array_sum_divisible_by_k.ipynb) |
+| 3516 | [Find Closest Person](https://leetcode.com/problems/find-closest-person/) | [3516_find_closest_person.ipynb](DSA/Easy/3516_find_closest_person.ipynb) |
+| 3536 | [Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits/) | [3536_maximum_product_of_two_digits.ipynb](DSA/Easy/3536_maximum_product_of_two_digits.ipynb) |
+| 3541 | [Find Most Frequent Vowel and Consonant](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/) | [3541_find_most_frequent_vowel_and_consonant.ipynb](DSA/Easy/3541_find_most_frequent_vowel_and_consonant.ipynb) |
+| 3545 | [Minimum Deletions for At Most K Distinct Characters](https://leetcode.com/problems/minimum-deletions-for-at-most-k-distinct-characters/) | [3545_minimum_deletions_for_at_most_k_distinct_characters.ipynb](DSA/Easy/3545_minimum_deletions_for_at_most_k_distinct_characters.ipynb) |
+| 3550 | [Smallest Index With Digit Sum Equal to Index](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) | [3550_smallest_index_with_digit_sum_equal_to_index.ipynb](DSA/Easy/3550_smallest_index_with_digit_sum_equal_to_index.ipynb) |
+| 3560 | [Find Minimum Log Transportation Cost](https://leetcode.com/problems/find-minimum-log-transportation-cost/) | [3560_find_minimum_log_transportation_cost.ipynb](DSA/Easy/3560_find_minimum_log_transportation_cost.ipynb) |
+| 3571 | [Find the Shortest Superstring II](https://leetcode.com/problems/find-the-shortest-superstring-ii/) | [3571_find_the_shortest_superstring_ii.ipynb](DSA/Easy/3571_find_the_shortest_superstring_ii.ipynb) |
+| 3581 | [Count Odd Letters from Number](https://leetcode.com/problems/count-odd-letters-from-number/) | [3581_count_odd_letters_from_number.ipynb](DSA/Easy/3581_count_odd_letters_from_number.ipynb) |
+| 3582 | [Generate Tag for Video Caption](https://leetcode.com/problems/generate-tag-for-video-caption/) | [3582_generate_tag_for_video_caption.ipynb](DSA/Easy/3582_generate_tag_for_video_caption.ipynb) |
 
 ## DSA — Medium — 137 bài
 
@@ -763,7 +803,7 @@ Shell/                            bài Shell (Bash)
 | 4112 | [Maximize Score After Zeroing Subtrees](https://leetcode.com/problems/maximize-score-after-zeroing-subtrees/) | [4112_maximize_score_after_zeroing_subtrees.ipynb](DSA/Medium/4112_maximize_score_after_zeroing_subtrees.ipynb) |
 | 4113 | [Game of Divisible Sums](https://leetcode.com/problems/game-of-divisible-sums/) | [4113_game_of_divisible_sums.ipynb](DSA/Medium/4113_game_of_divisible_sums.ipynb) |
 
-## DSA — Hard — 101 bài
+## DSA — Hard — 103 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -857,8 +897,10 @@ Shell/                            bài Shell (Bash)
 | 0479 | [Largest Palindrome Product](https://leetcode.com/problems/largest-palindrome-product/) | [0479_largest_palindrome_product.ipynb](DSA/Hard/0479_largest_palindrome_product.ipynb) |
 | 4059 | [Lexicographically Largest Power Array](https://leetcode.com/problems/lexicographically-largest-power-array/) | [4059_lexicographically_largest_power_array.ipynb](DSA/Hard/4059_lexicographically_largest_power_array.ipynb) |
 | 4060 | [Count Evenly Good Integers](https://leetcode.com/problems/count-evenly-good-integers/) | [4060_count_evenly_good_integers.ipynb](DSA/Hard/4060_count_evenly_good_integers.ipynb) |
+| 4064 | [Longest Subarray Divisible by K with At Most One Negation II](https://leetcode.com/problems/longest-subarray-divisible-by-k-with-at-most-one-negation-ii/) | [4064_longest_subarray_divisible_by_k_with_at_most_one_negation_ii.ipynb](DSA/Hard/4064_longest_subarray_divisible_by_k_with_at_most_one_negation_ii.ipynb) |
 | 4068 | [Maximize Meeting Earnings with Idle Gaps](https://leetcode.com/problems/maximize-meeting-earnings-with-idle-gaps/) | [4068_maximize_meeting_earnings_with_idle_gaps.ipynb](DSA/Hard/4068_maximize_meeting_earnings_with_idle_gaps.ipynb) |
 | 4073 | [Count Good Strings](https://leetcode.com/problems/count-good-strings/) | [4073_count_good_strings.ipynb](DSA/Hard/4073_count_good_strings.ipynb) |
+| 4077 | [Minimize Inversions in a Prefix Tree](https://leetcode.com/problems/minimize-inversions-in-a-prefix-tree/) | [4077_minimize_inversions_in_a_prefix_tree.ipynb](DSA/Hard/4077_minimize_inversions_in_a_prefix_tree.ipynb) |
 | 4081 | [Prime Subset Selection II](https://leetcode.com/problems/prime-subset-selection-ii/) | [4081_prime_subset_selection_ii.ipynb](DSA/Hard/4081_prime_subset_selection_ii.ipynb) |
 | 4082 | [Minimum Operations to Stabilize a Binary Tree](https://leetcode.com/problems/minimum-operations-to-stabilize-a-binary-tree/) | [4082_minimum_operations_to_stabilize_a_binary_tree.ipynb](DSA/Hard/4082_minimum_operations_to_stabilize_a_binary_tree.ipynb) |
 | 4086 | [Minimum Interval Selection to Cover Target Intervals](https://leetcode.com/problems/minimum-interval-selection-to-cover-target-intervals/) | [4086_minimum_interval_selection_to_cover_target_intervals.ipynb](DSA/Hard/4086_minimum_interval_selection_to_cover_target_intervals.ipynb) |
