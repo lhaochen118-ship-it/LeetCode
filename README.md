@@ -15,9 +15,9 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 670 notebook** — DSA/Easy: 419 · DSA/Medium: 137 · DSA/Hard: 101 · SQL: 11 · Shell: 2
+**Tổng: 690 notebook** — DSA/Easy: 439 · DSA/Medium: 137 · DSA/Hard: 101 · SQL: 11 · Shell: 2
 
-## DSA — Easy — 419 bài
+## DSA — Easy — 439 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -440,6 +440,26 @@ Shell/                            bài Shell (Bash)
 | 1967 | [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/) | [1967_number_of_strings_that_appear_as_substrings_in_word.ipynb](DSA/Easy/1967_number_of_strings_that_appear_as_substrings_in_word.ipynb) |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) | [1971_find_if_path_exists_in_graph.ipynb](DSA/Easy/1971_find_if_path_exists_in_graph.ipynb) |
 | 1974 | [Minimum Time to Type Word Using Special Typewriter](https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter/) | [1974_minimum_time_to_type_word_using_special_typewriter.ipynb](DSA/Easy/1974_minimum_time_to_type_word_using_special_typewriter.ipynb) |
+| 1979 | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) | [1979_find_greatest_common_divisor_of_array.ipynb](DSA/Easy/1979_find_greatest_common_divisor_of_array.ipynb) |
+| 1984 | [Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/) | [1984_minimum_difference_between_highest_and_lowest_of_k_scores.ipynb](DSA/Easy/1984_minimum_difference_between_highest_and_lowest_of_k_scores.ipynb) |
+| 1991 | [Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/) | [1991_find_the_middle_index_in_array.ipynb](DSA/Easy/1991_find_the_middle_index_in_array.ipynb) |
+| 1995 | [Count Special Quadruplets](https://leetcode.com/problems/count-special-quadruplets/) | [1995_count_special_quadruplets.ipynb](DSA/Easy/1995_count_special_quadruplets.ipynb) |
+| 2000 | [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/) | [2000_reverse_prefix_of_word.ipynb](DSA/Easy/2000_reverse_prefix_of_word.ipynb) |
+| 2006 | [Count Number of Pairs With Absolute Difference K](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/) | [2006_count_number_of_pairs_with_absolute_difference_k.ipynb](DSA/Easy/2006_count_number_of_pairs_with_absolute_difference_k.ipynb) |
+| 2011 | [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/) | [2011_final_value_of_variable_after_performing_operations.ipynb](DSA/Easy/2011_final_value_of_variable_after_performing_operations.ipynb) |
+| 2016 | [Maximum Difference Between Increasing Elements](https://leetcode.com/problems/maximum-difference-between-increasing-elements/) | [2016_maximum_difference_between_increasing_elements.ipynb](DSA/Easy/2016_maximum_difference_between_increasing_elements.ipynb) |
+| 2022 | [Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array/) | [2022_convert_1d_array_into_2d_array.ipynb](DSA/Easy/2022_convert_1d_array_into_2d_array.ipynb) |
+| 2027 | [Minimum Moves to Convert String](https://leetcode.com/problems/minimum-moves-to-convert-string/) | [2027_minimum_moves_to_convert_string.ipynb](DSA/Easy/2027_minimum_moves_to_convert_string.ipynb) |
+| 2032 | [Two Out of Three](https://leetcode.com/problems/two-out-of-three/) | [2032_two_out_of_three.ipynb](DSA/Easy/2032_two_out_of_three.ipynb) |
+| 2037 | [Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/) | [2037_minimum_number_of_moves_to_seat_everyone.ipynb](DSA/Easy/2037_minimum_number_of_moves_to_seat_everyone.ipynb) |
+| 2042 | [Check if Numbers Are Ascending in a Sentence](https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/) | [2042_check_if_numbers_are_ascending_in_a_sentence.ipynb](DSA/Easy/2042_check_if_numbers_are_ascending_in_a_sentence.ipynb) |
+| 2047 | [Number of Valid Words in a Sentence](https://leetcode.com/problems/number-of-valid-words-in-a-sentence/) | [2047_number_of_valid_words_in_a_sentence.ipynb](DSA/Easy/2047_number_of_valid_words_in_a_sentence.ipynb) |
+| 2053 | [Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array/) | [2053_kth_distinct_string_in_an_array.ipynb](DSA/Easy/2053_kth_distinct_string_in_an_array.ipynb) |
+| 2057 | [Smallest Index With Equal Value](https://leetcode.com/problems/smallest-index-with-equal-value/) | [2057_smallest_index_with_equal_value.ipynb](DSA/Easy/2057_smallest_index_with_equal_value.ipynb) |
+| 2062 | [Count Vowel Substrings of a String](https://leetcode.com/problems/count-vowel-substrings-of-a-string/) | [2062_count_vowel_substrings_of_a_string.ipynb](DSA/Easy/2062_count_vowel_substrings_of_a_string.ipynb) |
+| 2068 | [Check Whether Two Strings are Almost Equivalent](https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent/) | [2068_check_whether_two_strings_are_almost_equivalent.ipynb](DSA/Easy/2068_check_whether_two_strings_are_almost_equivalent.ipynb) |
+| 2073 | [Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/) | [2073_time_needed_to_buy_tickets.ipynb](DSA/Easy/2073_time_needed_to_buy_tickets.ipynb) |
+| 2078 | [Two Furthest Houses With Different Colors](https://leetcode.com/problems/two-furthest-houses-with-different-colors/) | [2078_two_furthest_houses_with_different_colors.ipynb](DSA/Easy/2078_two_furthest_houses_with_different_colors.ipynb) |
 
 ## DSA — Medium — 137 bài
 
