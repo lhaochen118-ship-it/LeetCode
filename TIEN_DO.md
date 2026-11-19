@@ -7,9 +7,9 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 ## Trạng thái hiện tại
 
 <!--STATUS-->
-- Cập nhật: 19/11/2026, sau đợt 29 (đợt 25 còn dở)
-- ID tiếp theo: 2490 (Easy, hoàn tất đợt 25 dở), sau đó 2942 (Easy đợt 30)
-- Số bài DSA còn lại: 2874
+- Cập nhật: 19/11/2026, sau đợt 25 (đã làm bù) — các đợt 26–29 xong; đợt 30–34 do khung chat khác, đợt 35–37 do phiên này
+- ID tiếp theo: 2942 (Easy, đợt 30)
+- Số bài DSA còn lại: 2854
 <!--/STATUS-->
 
 ## Nhật ký các đợt
@@ -234,12 +234,40 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 - Lỗi: không có
 - Bỏ qua: không có
 - Ghi chú: 2883–2891 là bài pandas (pandas 3.x, chữ ký hàm và dữ liệu ví dụ viết theo trí nhớ — đối chiếu lại với đề gốc). Ví dụ cần đối chiếu: 2888 (ignore_index), 2889 (index/reset_index của pivot), 2887 (dtype quantity), 2891 (nhãn hàng), 2900 (nhiều đáp án đúng; test kiểm tra tính hợp lệ + độ dài tối ưu). Các bài còn lại đề/ví dụ viết theo trí nhớ, đáp án khớp brute force. Đợt này chỉ chạy 1 agent theo yêu cầu; theo yêu cầu người dùng, dừng sau đợt 29.
-- Còn thiếu: đợt 25 (Easy 2475–2566, 20 bài) vẫn chưa có trên repo — nên làm bù ở đợt kế tiếp.
+- Đợt 25 (2475–2566) đã làm bù xong, xem mục "Đợt 25" bên dưới.
 - ID tiếp theo (sau 2937): 2942 (và 2475 nếu làm bù đợt 25 trước)
 
-### Đợt 25 — đang dở (dừng do hết giới hạn sử dụng, reset 6:40 UTC 19/11/2026)
 
-- Đợt 25 gồm 20 bài: 2475, 2481, 2485, 2490, 2496, 2500, 2506, 2511, 2515, 2520, 2525, 2529, 2535, 2540, 2544, 2549, 2553, 2558, 2562, 2566.
-- Đã có file và đạt kiểm tra (chưa ghi Excel/README): 2475, 2481, 2485, 2496.
-- Còn phải viết: 2490, 2500, 2506, 2511, 2515, 2520, 2525, 2529, 2535, 2540, 2544, 2549, 2553, 2558, 2562, 2566 (có thể có file viết dở cho 2506–2566: kiểm tra bằng check_nb.py rồi làm lại nếu FAIL).
-- Khi đủ 20 bài: cập nhật Excel/README (README/Excel hiện CHƯA có 2475, 2481, 2485, 2496), ghi "Đợt 25" vào nhật ký, rồi làm tiếp đợt 30 từ Easy #2942 (tra Excel để lấy ID chính xác).
+### Đợt 25 — 19/11/2026
+
+- Đã xong: 2475, 2481, 2485, 2490, 2496, 2500, 2506, 2511, 2515, 2520, 2525, 2529, 2535, 2540, 2544, 2549, 2553, 2558, 2562, 2566
+- Lỗi: không có
+- Bỏ qua: không có
+- Ghi chú: Đợt này làm bù sau khi bị ngắt do hết usage limit; 2515 dùng đúng tên phương thức LeetCode closetTarget.
+
+### Bổ sung từ nhánh claude/intelligent-clarke-6anln2 — 19/11/2026
+
+- Đã xong (thêm mới vào main): 4064, 4077 (DSA/Hard)
+- Ghi chú: các bài Hard 4060, 4068, 4073, 4081, 4082, 4086, 4091, 4095, 4100, 4105, 4109, 4114 cũng được nhánh này làm, nhưng main đã có bản (trùng hoặc của khung chat khác) nên giữ nguyên bản trên main, không ghi đè.
+- Ghi chú: 10 bài Medium 4101–4113 của nhánh này đã có sẵn trên main (trùng nội dung).
+- Còn lại trong 20 bài Hard cuối danh sách (đếm từ cuối lên): 4059, 4055, 4051, 4047, 4046, 4042 — main đã có 4059; chưa có 4055, 4051, 4047, 4046, 4042.
+- Cập nhật: đã thêm 4042, 4046, 4047, 4051, 4055 vào DSA/Hard (đề + chữ ký hàm theo LeetCode, mọi ví dụ được assert, đối chiếu brute force). 4042 và 4047 là bài Premium.
+- 4059: giữ bản trên main (method `lexLargestPower`); đã đối chiếu brute force 2000 test — đúng. Tên method chính thức trên LeetCode là `largestPower` (bản trên nhánh claude/intelligent-clarke-6anln2 dùng tên này). Lưu ý: lối tắt "sắp giảm dần" là SAI (phản ví dụ [5, 2, 1]).
+- Như vậy đã xong toàn bộ 20 bài Hard cuối danh sách (4042 → 4114).
+
+### Đợt 35 — 19/11/2026
+
+- Đã xong: 3467, 3471, 3477, 3483, 3487, 3491, 3492, 3498, 3502, 3507, 3512, 3516, 3536, 3541, 3545, 3550, 3560, 3571, 3581, 3582
+- Lỗi: không có
+- Bỏ qua: không có
+- Ghi chú: Bài Premium (đề viết theo hiểu biết): 3491, 3571. Cần đối chiếu đề: 3491 (xử lý số trùng hệt nhau), 3512 (thao tác giảm 1), 3581 (cách đổi chữ số thành chữ cái).
+
+### Đợt 40 — 19/11/2026
+
+- Đã xong (Easy, 14 bài cuối của nhóm Easy): 4043, 4048, 4052, 4056, 4061, 4065, 4070, 4074, 4078, 4083, 4088, 4092, 4097, 4111
+- Đã xong (Medium, 6 bài đầu tiên của nhóm Medium): 0215, 0216, 0221, 0222, 0223, 0227
+- Lỗi: không có
+- Bỏ qua: không có
+- Ghi chú: Đợt 40 tính theo lưới 20 bài/đợt từ đợt 29 (bắt đầu 2883); Easy chỉ còn 14 bài nên bù 6 bài Medium đầu danh sách. Đề lấy từ bản doocs/leetcode (đề, ví dụ, chữ ký hàm), mọi ví dụ được assert và đối chiếu brute force. 0215 có cell đo thời gian nên số ms đổi theo mỗi lần chạy. 4074 nhiều đáp án đúng (test kiểm tra tính hợp lệ + tích lớn nhất).
+- Các đợt 36–39 (Easy 3.6xx–4.0xx) do khung chat khác làm; kiểm tra Excel/README để biết ID còn thiếu của Easy.
+- ID Medium tiếp theo: 0229 (đợt 41 → 229–261, đợt 42 → 264–306, đợt 43 → 307–341).
