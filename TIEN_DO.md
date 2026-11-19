@@ -286,3 +286,26 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 - Lỗi: không có
 - Bỏ qua: không có
 - Ghi chú: Bài Premium (đề viết theo hiểu biết): 3662, 3667, 3687, 3696. Cần đối chiếu đề: 3622 (constraint n ≤ 10^6), 3674 (điều kiện AND toàn mảng), 3696 (khoảng cách j-i+1).
+
+### Đợt 41 — 19/11/2026
+
+- Đã xong (Medium): 0229, 0230, 0235, 0236, 0237, 0238, 0240, 0241, 0244, 0245, 0247, 0250, 0251, 0253, 0254, 0255, 0256, 0259, 0260, 0261
+- Lỗi: không có
+- Bỏ qua: không có
+- Ghi chú: Bài Premium (đề viết theo hiểu biết, đối chiếu lại nếu có tài khoản Premium): 0244, 0245, 0247, 0250, 0251, 0253, 0254, 0255, 0256, 0259, 0261. Đề/ví dụ lấy từ bản doocs/leetcode, mọi ví dụ được assert và đối chiếu brute force. 0251 và 0244 là bài thiết kế class (khung test tự dựng).
+- ID Medium tiếp theo: 0264 (đợt 42 → 264–306, đợt 43 → 307–341).
+
+### Đợt 37 — 19/11/2026
+
+- Đã xong: 3697, 3701, 3707, 3712, 3718, 3726, 3731, 3736, 3740, 3745, 3750, 3754, 3769, 3774, 3783, 3794, 3798, 3803, 3813, 3823
+- Lỗi: không có
+- Bỏ qua: không có
+- Ghi chú: Cần đối chiếu đề với LeetCode: 3750 (cách hiểu đề, slug suy ra từ tên), 3823 (độ khó ghi Easy theo doocs); slug các bài 3xxx suy ra từ tên bài.
+
+### Đợt 42 — 19/11/2026
+
+- Đã xong (Medium): 0264, 0267, 0271, 0274, 0275, 0277, 0279, 0280, 0281, 0284, 0285, 0286, 0287, 0289, 0294, 0298, 0299, 0300, 0304, 0306
+- Lỗi: không có
+- Bỏ qua: không có
+- Ghi chú: Bài Premium (đề viết theo hiểu biết, đối chiếu lại nếu có tài khoản Premium): 0267, 0271, 0277, 0280, 0281, 0285, 0286, 0294, 0298. Chữ ký hàm của vài bài viết theo skeleton LeetCode nhớ được (file đề doocs thiếu) — đối chiếu lại. 0286: DFS cắt tỉa chỉ chạy trên lưới nhỏ vì quá chậm ở 250×250 (đã ghi trong notebook). 0280 nhiều đáp án đúng (test theo tính chất); 0275 dùng bisect key= cần Python 3.10+.
+- ID Medium tiếp theo: 0307 (đợt 43 → 307–341).
