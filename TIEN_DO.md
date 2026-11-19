@@ -251,3 +251,10 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 - Ghi chú: các bài Hard 4060, 4068, 4073, 4081, 4082, 4086, 4091, 4095, 4100, 4105, 4109, 4114 cũng được nhánh này làm, nhưng main đã có bản (trùng hoặc của khung chat khác) nên giữ nguyên bản trên main, không ghi đè.
 - Ghi chú: 10 bài Medium 4101–4113 của nhánh này đã có sẵn trên main (trùng nội dung).
 - Còn lại trong 20 bài Hard cuối danh sách (đếm từ cuối lên): 4059, 4055, 4051, 4047, 4046, 4042 — main đã có 4059; chưa có 4055, 4051, 4047, 4046, 4042.
+
+### Đợt 35 — 19/11/2026
+
+- Đã xong: 3467, 3471, 3477, 3483, 3487, 3491, 3492, 3498, 3502, 3507, 3512, 3516, 3536, 3541, 3545, 3550, 3560, 3571, 3581, 3582
+- Lỗi: không có
+- Bỏ qua: không có
+- Ghi chú: Bài Premium (đề viết theo hiểu biết): 3491, 3571. Cần đối chiếu đề: 3491 (xử lý số trùng hệt nhau), 3512 (thao tác giảm 1), 3581 (cách đổi chữ số thành chữ cái).

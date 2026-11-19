@@ -15,9 +15,9 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 872 notebook** — DSA/Easy: 619 · DSA/Medium: 137 · DSA/Hard: 103 · SQL: 11 · Shell: 2
+**Tổng: 892 notebook** — DSA/Easy: 639 · DSA/Medium: 137 · DSA/Hard: 103 · SQL: 11 · Shell: 2
 
-## DSA — Easy — 619 bài
+## DSA — Easy — 639 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -640,6 +640,26 @@ Shell/                            bài Shell (Bash)
 | 2928 | [Distribute Candies Among Children I](https://leetcode.com/problems/distribute-candies-among-children-i/) | [2928_distribute_candies_among_children_i.ipynb](DSA/Easy/2928_distribute_candies_among_children_i.ipynb) |
 | 2932 | [Maximum Strong Pair XOR I](https://leetcode.com/problems/maximum-strong-pair-xor-i/) | [2932_maximum_strong_pair_xor_i.ipynb](DSA/Easy/2932_maximum_strong_pair_xor_i.ipynb) |
 | 2937 | [Make Three Strings Equal](https://leetcode.com/problems/make-three-strings-equal/) | [2937_make_three_strings_equal.ipynb](DSA/Easy/2937_make_three_strings_equal.ipynb) |
+| 3467 | [Transform Array by Parity](https://leetcode.com/problems/transform-array-by-parity/) | [3467_transform_array_by_parity.ipynb](DSA/Easy/3467_transform_array_by_parity.ipynb) |
+| 3471 | [Find the Largest Almost Missing Integer](https://leetcode.com/problems/find-the-largest-almost-missing-integer/) | [3471_find_the_largest_almost_missing_integer.ipynb](DSA/Easy/3471_find_the_largest_almost_missing_integer.ipynb) |
+| 3477 | [Fruits Into Baskets II](https://leetcode.com/problems/fruits-into-baskets-ii/) | [3477_fruits_into_baskets_ii.ipynb](DSA/Easy/3477_fruits_into_baskets_ii.ipynb) |
+| 3483 | [Unique 3-Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers/) | [3483_unique_3_digit_even_numbers.ipynb](DSA/Easy/3483_unique_3_digit_even_numbers.ipynb) |
+| 3487 | [Maximum Unique Subarray Sum After Deletion](https://leetcode.com/problems/maximum-unique-subarray-sum-after-deletion/) | [3487_maximum_unique_subarray_sum_after_deletion.ipynb](DSA/Easy/3487_maximum_unique_subarray_sum_after_deletion.ipynb) |
+| 3491 | [Phone Number Prefix](https://leetcode.com/problems/phone-number-prefix/) | [3491_phone_number_prefix.ipynb](DSA/Easy/3491_phone_number_prefix.ipynb) |
+| 3492 | [Maximum Containers on a Ship](https://leetcode.com/problems/maximum-containers-on-a-ship/) | [3492_maximum_containers_on_a_ship.ipynb](DSA/Easy/3492_maximum_containers_on_a_ship.ipynb) |
+| 3498 | [Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string/) | [3498_reverse_degree_of_a_string.ipynb](DSA/Easy/3498_reverse_degree_of_a_string.ipynb) |
+| 3502 | [Minimum Cost to Reach Every Position](https://leetcode.com/problems/minimum-cost-to-reach-every-position/) | [3502_minimum_cost_to_reach_every_position.ipynb](DSA/Easy/3502_minimum_cost_to_reach_every_position.ipynb) |
+| 3507 | [Minimum Pair Removal to Sort Array I](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i/) | [3507_minimum_pair_removal_to_sort_array_i.ipynb](DSA/Easy/3507_minimum_pair_removal_to_sort_array_i.ipynb) |
+| 3512 | [Minimum Operations to Make Array Sum Divisible by K](https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/) | [3512_minimum_operations_to_make_array_sum_divisible_by_k.ipynb](DSA/Easy/3512_minimum_operations_to_make_array_sum_divisible_by_k.ipynb) |
+| 3516 | [Find Closest Person](https://leetcode.com/problems/find-closest-person/) | [3516_find_closest_person.ipynb](DSA/Easy/3516_find_closest_person.ipynb) |
+| 3536 | [Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits/) | [3536_maximum_product_of_two_digits.ipynb](DSA/Easy/3536_maximum_product_of_two_digits.ipynb) |
+| 3541 | [Find Most Frequent Vowel and Consonant](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/) | [3541_find_most_frequent_vowel_and_consonant.ipynb](DSA/Easy/3541_find_most_frequent_vowel_and_consonant.ipynb) |
+| 3545 | [Minimum Deletions for At Most K Distinct Characters](https://leetcode.com/problems/minimum-deletions-for-at-most-k-distinct-characters/) | [3545_minimum_deletions_for_at_most_k_distinct_characters.ipynb](DSA/Easy/3545_minimum_deletions_for_at_most_k_distinct_characters.ipynb) |
+| 3550 | [Smallest Index With Digit Sum Equal to Index](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) | [3550_smallest_index_with_digit_sum_equal_to_index.ipynb](DSA/Easy/3550_smallest_index_with_digit_sum_equal_to_index.ipynb) |
+| 3560 | [Find Minimum Log Transportation Cost](https://leetcode.com/problems/find-minimum-log-transportation-cost/) | [3560_find_minimum_log_transportation_cost.ipynb](DSA/Easy/3560_find_minimum_log_transportation_cost.ipynb) |
+| 3571 | [Find the Shortest Superstring II](https://leetcode.com/problems/find-the-shortest-superstring-ii/) | [3571_find_the_shortest_superstring_ii.ipynb](DSA/Easy/3571_find_the_shortest_superstring_ii.ipynb) |
+| 3581 | [Count Odd Letters from Number](https://leetcode.com/problems/count-odd-letters-from-number/) | [3581_count_odd_letters_from_number.ipynb](DSA/Easy/3581_count_odd_letters_from_number.ipynb) |
+| 3582 | [Generate Tag for Video Caption](https://leetcode.com/problems/generate-tag-for-video-caption/) | [3582_generate_tag_for_video_caption.ipynb](DSA/Easy/3582_generate_tag_for_video_caption.ipynb) |
 
 ## DSA — Medium — 137 bài
 
