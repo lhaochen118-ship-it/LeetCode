@@ -251,6 +251,9 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 - Ghi chú: các bài Hard 4060, 4068, 4073, 4081, 4082, 4086, 4091, 4095, 4100, 4105, 4109, 4114 cũng được nhánh này làm, nhưng main đã có bản (trùng hoặc của khung chat khác) nên giữ nguyên bản trên main, không ghi đè.
 - Ghi chú: 10 bài Medium 4101–4113 của nhánh này đã có sẵn trên main (trùng nội dung).
 - Còn lại trong 20 bài Hard cuối danh sách (đếm từ cuối lên): 4059, 4055, 4051, 4047, 4046, 4042 — main đã có 4059; chưa có 4055, 4051, 4047, 4046, 4042.
+- Cập nhật: đã thêm 4042, 4046, 4047, 4051, 4055 vào DSA/Hard (đề + chữ ký hàm theo LeetCode, mọi ví dụ được assert, đối chiếu brute force). 4042 và 4047 là bài Premium.
+- 4059: giữ bản trên main (method `lexLargestPower`); đã đối chiếu brute force 2000 test — đúng. Tên method chính thức trên LeetCode là `largestPower` (bản trên nhánh claude/intelligent-clarke-6anln2 dùng tên này). Lưu ý: lối tắt "sắp giảm dần" là SAI (phản ví dụ [5, 2, 1]).
+- Như vậy đã xong toàn bộ 20 bài Hard cuối danh sách (4042 → 4114).
 
 ### Đợt 35 — 19/11/2026
 
