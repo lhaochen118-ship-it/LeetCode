@@ -7,9 +7,9 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 ## Trạng thái hiện tại
 
 <!--STATUS-->
-- Cập nhật: 19/11/2026, sau đợt 20
-- ID tiếp theo: 2085 (Easy)
-- Số bài DSA còn lại: 3034
+- Cập nhật: 19/11/2026, sau đợt 21
+- ID tiếp theo: 2185 (Easy)
+- Số bài DSA còn lại: 3014
 <!--/STATUS-->
 
 ## Nhật ký các đợt
@@ -173,3 +173,10 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 - Lỗi: không có
 - Bỏ qua: không có
 - ID tiếp theo: 2085
+
+### Đợt 21 — 19/11/2026
+
+- Đã xong: 2085, 2089, 2094, 2099, 2103, 2108, 2114, 2119, 2124, 2129, 2133, 2138, 2144, 2148, 2154, 2160, 2164, 2169, 2176, 2180
+- Lỗi: không có
+- Bỏ qua: không có
+- ID tiếp theo: 2185

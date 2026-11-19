@@ -15,9 +15,9 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 690 notebook** — DSA/Easy: 439 · DSA/Medium: 137 · DSA/Hard: 101 · SQL: 11 · Shell: 2
+**Tổng: 710 notebook** — DSA/Easy: 459 · DSA/Medium: 137 · DSA/Hard: 101 · SQL: 11 · Shell: 2
 
-## DSA — Easy — 439 bài
+## DSA — Easy — 459 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -460,6 +460,26 @@ Shell/                            bài Shell (Bash)
 | 2068 | [Check Whether Two Strings are Almost Equivalent](https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent/) | [2068_check_whether_two_strings_are_almost_equivalent.ipynb](DSA/Easy/2068_check_whether_two_strings_are_almost_equivalent.ipynb) |
 | 2073 | [Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/) | [2073_time_needed_to_buy_tickets.ipynb](DSA/Easy/2073_time_needed_to_buy_tickets.ipynb) |
 | 2078 | [Two Furthest Houses With Different Colors](https://leetcode.com/problems/two-furthest-houses-with-different-colors/) | [2078_two_furthest_houses_with_different_colors.ipynb](DSA/Easy/2078_two_furthest_houses_with_different_colors.ipynb) |
+| 2085 | [Count Common Words With One Occurrence](https://leetcode.com/problems/count-common-words-with-one-occurrence/) | [2085_count_common_words_with_one_occurrence.ipynb](DSA/Easy/2085_count_common_words_with_one_occurrence.ipynb) |
+| 2089 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | [2089_find_target_indices_after_sorting_array.ipynb](DSA/Easy/2089_find_target_indices_after_sorting_array.ipynb) |
+| 2094 | [Finding 3-Digit Even Numbers](https://leetcode.com/problems/finding-3-digit-even-numbers/) | [2094_finding_3_digit_even_numbers.ipynb](DSA/Easy/2094_finding_3_digit_even_numbers.ipynb) |
+| 2099 | [Find Subsequence of Length K With the Largest Sum](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/) | [2099_find_subsequence_of_length_k_with_the_largest_sum.ipynb](DSA/Easy/2099_find_subsequence_of_length_k_with_the_largest_sum.ipynb) |
+| 2103 | [Rings and Rods](https://leetcode.com/problems/rings-and-rods/) | [2103_rings_and_rods.ipynb](DSA/Easy/2103_rings_and_rods.ipynb) |
+| 2108 | [Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/) | [2108_find_first_palindromic_string_in_the_array.ipynb](DSA/Easy/2108_find_first_palindromic_string_in_the_array.ipynb) |
+| 2114 | [Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/) | [2114_maximum_number_of_words_found_in_sentences.ipynb](DSA/Easy/2114_maximum_number_of_words_found_in_sentences.ipynb) |
+| 2119 | [A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal/) | [2119_a_number_after_a_double_reversal.ipynb](DSA/Easy/2119_a_number_after_a_double_reversal.ipynb) |
+| 2124 | [Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/) | [2124_check_if_all_as_appears_before_all_bs.ipynb](DSA/Easy/2124_check_if_all_as_appears_before_all_bs.ipynb) |
+| 2129 | [Capitalize the Title](https://leetcode.com/problems/capitalize-the-title/) | [2129_capitalize_the_title.ipynb](DSA/Easy/2129_capitalize_the_title.ipynb) |
+| 2133 | [Check if Every Row and Column Contains All Numbers](https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers/) | [2133_check_if_every_row_and_column_contains_all_numbers.ipynb](DSA/Easy/2133_check_if_every_row_and_column_contains_all_numbers.ipynb) |
+| 2138 | [Divide a String Into Groups of Size k](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/) | [2138_divide_a_string_into_groups_of_size_k.ipynb](DSA/Easy/2138_divide_a_string_into_groups_of_size_k.ipynb) |
+| 2144 | [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/) | [2144_minimum_cost_of_buying_candies_with_discount.ipynb](DSA/Easy/2144_minimum_cost_of_buying_candies_with_discount.ipynb) |
+| 2148 | [Count Elements With Strictly Smaller and Greater Elements](https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements/) | [2148_count_elements_with_strictly_smaller_and_greater_elements.ipynb](DSA/Easy/2148_count_elements_with_strictly_smaller_and_greater_elements.ipynb) |
+| 2154 | [Keep Multiplying Found Values by Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two/) | [2154_keep_multiplying_found_values_by_two.ipynb](DSA/Easy/2154_keep_multiplying_found_values_by_two.ipynb) |
+| 2160 | [Minimum Sum of Four Digit Number After Splitting Digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/) | [2160_minimum_sum_of_four_digit_number_after_splitting_digits.ipynb](DSA/Easy/2160_minimum_sum_of_four_digit_number_after_splitting_digits.ipynb) |
+| 2164 | [Sort Even and Odd Indices Independently](https://leetcode.com/problems/sort-even-and-odd-indices-independently/) | [2164_sort_even_and_odd_indices_independently.ipynb](DSA/Easy/2164_sort_even_and_odd_indices_independently.ipynb) |
+| 2169 | [Count Operations to Obtain Zero](https://leetcode.com/problems/count-operations-to-obtain-zero/) | [2169_count_operations_to_obtain_zero.ipynb](DSA/Easy/2169_count_operations_to_obtain_zero.ipynb) |
+| 2176 | [Count Equal and Divisible Pairs in an Array](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/) | [2176_count_equal_and_divisible_pairs_in_an_array.ipynb](DSA/Easy/2176_count_equal_and_divisible_pairs_in_an_array.ipynb) |
+| 2180 | [Count Integers With Even Digit Sum](https://leetcode.com/problems/count-integers-with-even-digit-sum/) | [2180_count_integers_with_even_digit_sum.ipynb](DSA/Easy/2180_count_integers_with_even_digit_sum.ipynb) |
 
 ## DSA — Medium — 137 bài
 
