@@ -219,3 +219,11 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 - Bỏ qua: không có
 - Ghi chú: Bài Premium (đề viết theo hiểu biết): 2728 (tự dựng lớp mô phỏng `Street`; bài tập 5(b) dùng `moveLeft` — bỏ nếu đề gốc không có). Ví dụ cần đối chiếu lại với đề gốc: 2728, 2760, 2769, 2784, 2788.
 - ID tiếp theo: 2806
+
+### Đợt 28 — 19/11/2026
+
+- Đã xong: 2806, 2810, 2815, 2824, 2828, 2833, 2839, 2843, 2848, 2855, 2859, 2864, 2869, 2873, 2877, 2878, 2879, 2880, 2881, 2882
+- Lỗi: không có
+- Bỏ qua: không có
+- Ghi chú: 2877–2882 là bài pandas (pandas 3.x, chữ ký hàm và dữ liệu ví dụ viết theo trí nhớ — đối chiếu lại với đề gốc). Ví dụ khác nên đối chiếu: 2839 (ví dụ 2), 2828 (ví dụ 3). Đợt 25 (2475–2566) do khung chat khác làm, chưa thấy trên main khi ghi đợt này.
+- ID tiếp theo: 2883

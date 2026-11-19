@@ -15,9 +15,9 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 810 notebook** — DSA/Easy: 559 · DSA/Medium: 137 · DSA/Hard: 101 · SQL: 11 · Shell: 2
+**Tổng: 830 notebook** — DSA/Easy: 579 · DSA/Medium: 137 · DSA/Hard: 101 · SQL: 11 · Shell: 2
 
-## DSA — Easy — 559 bài
+## DSA — Easy — 579 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -580,6 +580,26 @@ Shell/                            bài Shell (Bash)
 | 2784 | [Check if Array is Good](https://leetcode.com/problems/check-if-array-is-good/) | [2784_check_if_array_is_good.ipynb](DSA/Easy/2784_check_if_array_is_good.ipynb) |
 | 2788 | [Split Strings by Separator](https://leetcode.com/problems/split-strings-by-separator/) | [2788_split_strings_by_separator.ipynb](DSA/Easy/2788_split_strings_by_separator.ipynb) |
 | 2798 | [Number of Employees Who Met the Target](https://leetcode.com/problems/number-of-employees-who-met-the-target/) | [2798_number_of_employees_who_met_the_target.ipynb](DSA/Easy/2798_number_of_employees_who_met_the_target.ipynb) |
+| 2806 | [Account Balance After Rounded Purchase](https://leetcode.com/problems/account-balance-after-rounded-purchase/) | [2806_account_balance_after_rounded_purchase.ipynb](DSA/Easy/2806_account_balance_after_rounded_purchase.ipynb) |
+| 2810 | [Faulty Keyboard](https://leetcode.com/problems/faulty-keyboard/) | [2810_faulty_keyboard.ipynb](DSA/Easy/2810_faulty_keyboard.ipynb) |
+| 2815 | [Max Pair Sum in an Array](https://leetcode.com/problems/max-pair-sum-in-an-array/) | [2815_max_pair_sum_in_an_array.ipynb](DSA/Easy/2815_max_pair_sum_in_an_array.ipynb) |
+| 2824 | [Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/) | [2824_count_pairs_whose_sum_is_less_than_target.ipynb](DSA/Easy/2824_count_pairs_whose_sum_is_less_than_target.ipynb) |
+| 2828 | [Check if a String Is an Acronym of Words](https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words/) | [2828_check_if_a_string_is_an_acronym_of_words.ipynb](DSA/Easy/2828_check_if_a_string_is_an_acronym_of_words.ipynb) |
+| 2833 | [Furthest Point From Origin](https://leetcode.com/problems/furthest-point-from-origin/) | [2833_furthest_point_from_origin.ipynb](DSA/Easy/2833_furthest_point_from_origin.ipynb) |
+| 2839 | [Check if Strings Can be Made Equal With Operations I](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i/) | [2839_check_if_strings_can_be_made_equal_with_operations_i.ipynb](DSA/Easy/2839_check_if_strings_can_be_made_equal_with_operations_i.ipynb) |
+| 2843 | [Count Symmetric Integers](https://leetcode.com/problems/count-symmetric-integers/) | [2843_count_symmetric_integers.ipynb](DSA/Easy/2843_count_symmetric_integers.ipynb) |
+| 2848 | [Points That Intersect With Cars](https://leetcode.com/problems/points-that-intersect-with-cars/) | [2848_points_that_intersect_with_cars.ipynb](DSA/Easy/2848_points_that_intersect_with_cars.ipynb) |
+| 2855 | [Minimum Right Shifts to Sort the Array](https://leetcode.com/problems/minimum-right-shifts-to-sort-the-array/) | [2855_minimum_right_shifts_to_sort_the_array.ipynb](DSA/Easy/2855_minimum_right_shifts_to_sort_the_array.ipynb) |
+| 2859 | [Sum of Values at Indices With K Set Bits](https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits/) | [2859_sum_of_values_at_indices_with_k_set_bits.ipynb](DSA/Easy/2859_sum_of_values_at_indices_with_k_set_bits.ipynb) |
+| 2864 | [Maximum Odd Binary Number](https://leetcode.com/problems/maximum-odd-binary-number/) | [2864_maximum_odd_binary_number.ipynb](DSA/Easy/2864_maximum_odd_binary_number.ipynb) |
+| 2869 | [Minimum Operations to Collect Elements](https://leetcode.com/problems/minimum-operations-to-collect-elements/) | [2869_minimum_operations_to_collect_elements.ipynb](DSA/Easy/2869_minimum_operations_to_collect_elements.ipynb) |
+| 2873 | [Maximum Value of an Ordered Triplet I](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i/) | [2873_maximum_value_of_an_ordered_triplet_i.ipynb](DSA/Easy/2873_maximum_value_of_an_ordered_triplet_i.ipynb) |
+| 2877 | [Create a DataFrame from List](https://leetcode.com/problems/create-a-dataframe-from-list/) | [2877_create_a_dataframe_from_list.ipynb](DSA/Easy/2877_create_a_dataframe_from_list.ipynb) |
+| 2878 | [Get the Size of a DataFrame](https://leetcode.com/problems/get-the-size-of-a-dataframe/) | [2878_get_the_size_of_a_dataframe.ipynb](DSA/Easy/2878_get_the_size_of_a_dataframe.ipynb) |
+| 2879 | [Display the First Three Rows](https://leetcode.com/problems/display-the-first-three-rows/) | [2879_display_the_first_three_rows.ipynb](DSA/Easy/2879_display_the_first_three_rows.ipynb) |
+| 2880 | [Select Data](https://leetcode.com/problems/select-data/) | [2880_select_data.ipynb](DSA/Easy/2880_select_data.ipynb) |
+| 2881 | [Create a New Column](https://leetcode.com/problems/create-a-new-column/) | [2881_create_a_new_column.ipynb](DSA/Easy/2881_create_a_new_column.ipynb) |
+| 2882 | [Drop Duplicate Rows](https://leetcode.com/problems/drop-duplicate-rows/) | [2882_drop_duplicate_rows.ipynb](DSA/Easy/2882_drop_duplicate_rows.ipynb) |
 
 ## DSA — Medium — 137 bài
 
