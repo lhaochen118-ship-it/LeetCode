@@ -15,7 +15,7 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 870 notebook** — DSA/Easy: 619 · DSA/Medium: 137 · DSA/Hard: 101 · SQL: 11 · Shell: 2
+**Tổng: 872 notebook** — DSA/Easy: 619 · DSA/Medium: 137 · DSA/Hard: 103 · SQL: 11 · Shell: 2
 
 ## DSA — Easy — 619 bài
 
@@ -783,7 +783,7 @@ Shell/                            bài Shell (Bash)
 | 4112 | [Maximize Score After Zeroing Subtrees](https://leetcode.com/problems/maximize-score-after-zeroing-subtrees/) | [4112_maximize_score_after_zeroing_subtrees.ipynb](DSA/Medium/4112_maximize_score_after_zeroing_subtrees.ipynb) |
 | 4113 | [Game of Divisible Sums](https://leetcode.com/problems/game-of-divisible-sums/) | [4113_game_of_divisible_sums.ipynb](DSA/Medium/4113_game_of_divisible_sums.ipynb) |
 
-## DSA — Hard — 101 bài
+## DSA — Hard — 103 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -877,8 +877,10 @@ Shell/                            bài Shell (Bash)
 | 0479 | [Largest Palindrome Product](https://leetcode.com/problems/largest-palindrome-product/) | [0479_largest_palindrome_product.ipynb](DSA/Hard/0479_largest_palindrome_product.ipynb) |
 | 4059 | [Lexicographically Largest Power Array](https://leetcode.com/problems/lexicographically-largest-power-array/) | [4059_lexicographically_largest_power_array.ipynb](DSA/Hard/4059_lexicographically_largest_power_array.ipynb) |
 | 4060 | [Count Evenly Good Integers](https://leetcode.com/problems/count-evenly-good-integers/) | [4060_count_evenly_good_integers.ipynb](DSA/Hard/4060_count_evenly_good_integers.ipynb) |
+| 4064 | [Longest Subarray Divisible by K with At Most One Negation II](https://leetcode.com/problems/longest-subarray-divisible-by-k-with-at-most-one-negation-ii/) | [4064_longest_subarray_divisible_by_k_with_at_most_one_negation_ii.ipynb](DSA/Hard/4064_longest_subarray_divisible_by_k_with_at_most_one_negation_ii.ipynb) |
 | 4068 | [Maximize Meeting Earnings with Idle Gaps](https://leetcode.com/problems/maximize-meeting-earnings-with-idle-gaps/) | [4068_maximize_meeting_earnings_with_idle_gaps.ipynb](DSA/Hard/4068_maximize_meeting_earnings_with_idle_gaps.ipynb) |
 | 4073 | [Count Good Strings](https://leetcode.com/problems/count-good-strings/) | [4073_count_good_strings.ipynb](DSA/Hard/4073_count_good_strings.ipynb) |
+| 4077 | [Minimize Inversions in a Prefix Tree](https://leetcode.com/problems/minimize-inversions-in-a-prefix-tree/) | [4077_minimize_inversions_in_a_prefix_tree.ipynb](DSA/Hard/4077_minimize_inversions_in_a_prefix_tree.ipynb) |
 | 4081 | [Prime Subset Selection II](https://leetcode.com/problems/prime-subset-selection-ii/) | [4081_prime_subset_selection_ii.ipynb](DSA/Hard/4081_prime_subset_selection_ii.ipynb) |
 | 4082 | [Minimum Operations to Stabilize a Binary Tree](https://leetcode.com/problems/minimum-operations-to-stabilize-a-binary-tree/) | [4082_minimum_operations_to_stabilize_a_binary_tree.ipynb](DSA/Hard/4082_minimum_operations_to_stabilize_a_binary_tree.ipynb) |
 | 4086 | [Minimum Interval Selection to Cover Target Intervals](https://leetcode.com/problems/minimum-interval-selection-to-cover-target-intervals/) | [4086_minimum_interval_selection_to_cover_target_intervals.ipynb](DSA/Hard/4086_minimum_interval_selection_to_cover_target_intervals.ipynb) |
