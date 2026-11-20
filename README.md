@@ -15,9 +15,9 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 1237 notebook** — DSA/Easy: 793 · DSA/Medium: 203 · DSA/Hard: 228 · SQL: 11 · Shell: 2
+**Tổng: 1257 notebook** — DSA/Easy: 813 · DSA/Medium: 203 · DSA/Hard: 228 · SQL: 11 · Shell: 2
 
-## DSA — Easy — 793 bài
+## DSA — Easy — 813 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -700,6 +700,26 @@ Shell/                            bài Shell (Bash)
 | 3232 | [Find if Digit Game Can Be Won](https://leetcode.com/problems/find-if-digit-game-can-be-won/) | [3232_find_if_digit_game_can_be_won.ipynb](DSA/Easy/3232_find_if_digit_game_can_be_won.ipynb) |
 | 3238 | [Find the Number of Winning Players](https://leetcode.com/problems/find-the-number-of-winning-players/) | [3238_find_the_number_of_winning_players.ipynb](DSA/Easy/3238_find_the_number_of_winning_players.ipynb) |
 | 3242 | [Design Neighbor Sum Service](https://leetcode.com/problems/design-neighbor-sum-service/) | [3242_design_neighbor_sum_service.ipynb](DSA/Easy/3242_design_neighbor_sum_service.ipynb) |
+| 3248 | [Snake in Matrix](https://leetcode.com/problems/snake-in-matrix/) | [3248_snake_in_matrix.ipynb](DSA/Easy/3248_snake_in_matrix.ipynb) |
+| 3258 | [Count Substrings That Satisfy K-Constraint I](https://leetcode.com/problems/count-substrings-that-satisfy-k-constraint-i/) | [3258_count_substrings_that_satisfy_k_constraint_i.ipynb](DSA/Easy/3258_count_substrings_that_satisfy_k_constraint_i.ipynb) |
+| 3263 | [Convert Doubly Linked List to Array I](https://leetcode.com/problems/convert-doubly-linked-list-to-array-i/) | [3263_convert_doubly_linked_list_to_array_i.ipynb](DSA/Easy/3263_convert_doubly_linked_list_to_array_i.ipynb) |
+| 3264 | [Final Array State After K Multiplication Operations I](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/) | [3264_final_array_state_after_k_multiplication_operations_i.ipynb](DSA/Easy/3264_final_array_state_after_k_multiplication_operations_i.ipynb) |
+| 3270 | [Find the Key of the Numbers](https://leetcode.com/problems/find-the-key-of-the-numbers/) | [3270_find_the_key_of_the_numbers.ipynb](DSA/Easy/3270_find_the_key_of_the_numbers.ipynb) |
+| 3274 | [Check if Two Chessboard Squares Have the Same Color](https://leetcode.com/problems/check-if-two-chessboard-squares-have-the-same-color/) | [3274_check_if_two_chessboard_squares_have_the_same_color.ipynb](DSA/Easy/3274_check_if_two_chessboard_squares_have_the_same_color.ipynb) |
+| 3280 | [Convert Date to Binary](https://leetcode.com/problems/convert-date-to-binary/) | [3280_convert_date_to_binary.ipynb](DSA/Easy/3280_convert_date_to_binary.ipynb) |
+| 3285 | [Find Indices of Stable Mountains](https://leetcode.com/problems/find-indices-of-stable-mountains/) | [3285_find_indices_of_stable_mountains.ipynb](DSA/Easy/3285_find_indices_of_stable_mountains.ipynb) |
+| 3289 | [The Two Sneaky Numbers of Digitville](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/) | [3289_the_two_sneaky_numbers_of_digitville.ipynb](DSA/Easy/3289_the_two_sneaky_numbers_of_digitville.ipynb) |
+| 3300 | [Minimum Element After Replacement With Digit Sum](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/) | [3300_minimum_element_after_replacement_with_digit_sum.ipynb](DSA/Easy/3300_minimum_element_after_replacement_with_digit_sum.ipynb) |
+| 3304 | [Find the K-th Character in String Game I](https://leetcode.com/problems/find-the-k-th-character-in-string-game-i/) | [3304_find_the_k_th_character_in_string_game_i.ipynb](DSA/Easy/3304_find_the_k_th_character_in_string_game_i.ipynb) |
+| 3314 | [Construct the Minimum Bitwise Array I](https://leetcode.com/problems/construct-the-minimum-bitwise-array-i/) | [3314_construct_the_minimum_bitwise_array_i.ipynb](DSA/Easy/3314_construct_the_minimum_bitwise_array_i.ipynb) |
+| 3318 | [Find X-Sum of All K-Long Subarrays I](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/) | [3318_find_x_sum_of_all_k_long_subarrays_i.ipynb](DSA/Easy/3318_find_x_sum_of_all_k_long_subarrays_i.ipynb) |
+| 3330 | [Find the Original Typed String I](https://leetcode.com/problems/find-the-original-typed-string-i/) | [3330_find_the_original_typed_string_i.ipynb](DSA/Easy/3330_find_the_original_typed_string_i.ipynb) |
+| 3340 | [Check Balanced String](https://leetcode.com/problems/check-balanced-string/) | [3340_check_balanced_string.ipynb](DSA/Easy/3340_check_balanced_string.ipynb) |
+| 3345 | [Smallest Divisible Digit Product I](https://leetcode.com/problems/smallest-divisible-digit-product-i/) | [3345_smallest_divisible_digit_product_i.ipynb](DSA/Easy/3345_smallest_divisible_digit_product_i.ipynb) |
+| 3349 | [Adjacent Increasing Subarrays Detection I](https://leetcode.com/problems/adjacent-increasing-subarrays-detection-i/) | [3349_adjacent_increasing_subarrays_detection_i.ipynb](DSA/Easy/3349_adjacent_increasing_subarrays_detection_i.ipynb) |
+| 3353 | [Minimum Total Operations](https://leetcode.com/problems/minimum-total-operations/) | [3353_minimum_total_operations.ipynb](DSA/Easy/3353_minimum_total_operations.ipynb) |
+| 3354 | [Make Array Elements Equal to Zero](https://leetcode.com/problems/make-array-elements-equal-to-zero/) | [3354_make_array_elements_equal_to_zero.ipynb](DSA/Easy/3354_make_array_elements_equal_to_zero.ipynb) |
+| 3360 | [Stone Removal Game](https://leetcode.com/problems/stone-removal-game/) | [3360_stone_removal_game.ipynb](DSA/Easy/3360_stone_removal_game.ipynb) |
 | 3467 | [Transform Array by Parity](https://leetcode.com/problems/transform-array-by-parity/) | [3467_transform_array_by_parity.ipynb](DSA/Easy/3467_transform_array_by_parity.ipynb) |
 | 3471 | [Find the Largest Almost Missing Integer](https://leetcode.com/problems/find-the-largest-almost-missing-integer/) | [3471_find_the_largest_almost_missing_integer.ipynb](DSA/Easy/3471_find_the_largest_almost_missing_integer.ipynb) |
 | 3477 | [Fruits Into Baskets II](https://leetcode.com/problems/fruits-into-baskets-ii/) | [3477_fruits_into_baskets_ii.ipynb](DSA/Easy/3477_fruits_into_baskets_ii.ipynb) |
