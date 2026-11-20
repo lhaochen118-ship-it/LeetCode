@@ -15,9 +15,9 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 1157 notebook** — DSA/Easy: 733 · DSA/Medium: 203 · DSA/Hard: 208 · SQL: 11 · Shell: 2
+**Tổng: 1177 notebook** — DSA/Easy: 753 · DSA/Medium: 203 · DSA/Hard: 208 · SQL: 11 · Shell: 2
 
-## DSA — Easy — 733 bài
+## DSA — Easy — 753 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -660,6 +660,26 @@ Shell/                            bài Shell (Bash)
 | 3032 | [Count Numbers With Unique Digits II](https://leetcode.com/problems/count-numbers-with-unique-digits-ii/) | [3032_count_numbers_with_unique_digits_ii.ipynb](DSA/Easy/3032_count_numbers_with_unique_digits_ii.ipynb) |
 | 3033 | [Modify the Matrix](https://leetcode.com/problems/modify-the-matrix/) | [3033_modify_the_matrix.ipynb](DSA/Easy/3033_modify_the_matrix.ipynb) |
 | 3038 | [Maximum Number of Operations With the Same Score I](https://leetcode.com/problems/maximum-number-of-operations-with-the-same-score-i/) | [3038_maximum_number_of_operations_with_the_same_score_i.ipynb](DSA/Easy/3038_maximum_number_of_operations_with_the_same_score_i.ipynb) |
+| 3042 | [Count Prefix and Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/) | [3042_count_prefix_and_suffix_pairs_i.ipynb](DSA/Easy/3042_count_prefix_and_suffix_pairs_i.ipynb) |
+| 3046 | [Split the Array](https://leetcode.com/problems/split-the-array/) | [3046_split_the_array.ipynb](DSA/Easy/3046_split_the_array.ipynb) |
+| 3062 | [Winner of the Linked List Game](https://leetcode.com/problems/winner-of-the-linked-list-game/) | [3062_winner_of_the_linked_list_game.ipynb](DSA/Easy/3062_winner_of_the_linked_list_game.ipynb) |
+| 3065 | [Minimum Operations to Exceed Threshold Value I](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i/) | [3065_minimum_operations_to_exceed_threshold_value_i.ipynb](DSA/Easy/3065_minimum_operations_to_exceed_threshold_value_i.ipynb) |
+| 3069 | [Distribute Elements Into Two Arrays I](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/) | [3069_distribute_elements_into_two_arrays_i.ipynb](DSA/Easy/3069_distribute_elements_into_two_arrays_i.ipynb) |
+| 3074 | [Apple Redistribution into Boxes](https://leetcode.com/problems/apple-redistribution-into-boxes/) | [3074_apple_redistribution_into_boxes.ipynb](DSA/Easy/3074_apple_redistribution_into_boxes.ipynb) |
+| 3079 | [Find the Sum of Encrypted Integers](https://leetcode.com/problems/find-the-sum-of-encrypted-integers/) | [3079_find_the_sum_of_encrypted_integers.ipynb](DSA/Easy/3079_find_the_sum_of_encrypted_integers.ipynb) |
+| 3083 | [Existence of a Substring in a String and Its Reverse](https://leetcode.com/problems/existence-of-a-substring-in-a-string-and-its-reverse/) | [3083_existence_of_a_substring_in_a_string_and_its_reverse.ipynb](DSA/Easy/3083_existence_of_a_substring_in_a_string_and_its_reverse.ipynb) |
+| 3090 | [Maximum Length Substring With Two Occurrences](https://leetcode.com/problems/maximum-length-substring-with-two-occurrences/) | [3090_maximum_length_substring_with_two_occurrences.ipynb](DSA/Easy/3090_maximum_length_substring_with_two_occurrences.ipynb) |
+| 3095 | [Shortest Subarray With OR at Least K I](https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-i/) | [3095_shortest_subarray_with_or_at_least_k_i.ipynb](DSA/Easy/3095_shortest_subarray_with_or_at_least_k_i.ipynb) |
+| 3099 | [Harshad Number](https://leetcode.com/problems/harshad-number/) | [3099_harshad_number.ipynb](DSA/Easy/3099_harshad_number.ipynb) |
+| 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/) | [3105_longest_strictly_increasing_or_strictly_decreasing_subarray.ipynb](DSA/Easy/3105_longest_strictly_increasing_or_strictly_decreasing_subarray.ipynb) |
+| 3110 | [Score of a String](https://leetcode.com/problems/score-of-a-string/) | [3110_score_of_a_string.ipynb](DSA/Easy/3110_score_of_a_string.ipynb) |
+| 3114 | [Latest Time You Can Obtain After Replacing Characters](https://leetcode.com/problems/latest-time-you-can-obtain-after-replacing-characters/) | [3114_latest_time_you_can_obtain_after_replacing_characters.ipynb](DSA/Easy/3114_latest_time_you_can_obtain_after_replacing_characters.ipynb) |
+| 3120 | [Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i/) | [3120_count_the_number_of_special_characters_i.ipynb](DSA/Easy/3120_count_the_number_of_special_characters_i.ipynb) |
+| 3127 | [Make a Square with the Same Color](https://leetcode.com/problems/make-a-square-with-the-same-color/) | [3127_make_a_square_with_the_same_color.ipynb](DSA/Easy/3127_make_a_square_with_the_same_color.ipynb) |
+| 3131 | [Find the Integer Added to Array I](https://leetcode.com/problems/find-the-integer-added-to-array-i/) | [3131_find_the_integer_added_to_array_i.ipynb](DSA/Easy/3131_find_the_integer_added_to_array_i.ipynb) |
+| 3136 | [Valid Word](https://leetcode.com/problems/valid-word/) | [3136_valid_word.ipynb](DSA/Easy/3136_valid_word.ipynb) |
+| 3142 | [Check if Grid Satisfies Conditions](https://leetcode.com/problems/check-if-grid-satisfies-conditions/) | [3142_check_if_grid_satisfies_conditions.ipynb](DSA/Easy/3142_check_if_grid_satisfies_conditions.ipynb) |
+| 3146 | [Permutation Difference between Two Strings](https://leetcode.com/problems/permutation-difference-between-two-strings/) | [3146_permutation_difference_between_two_strings.ipynb](DSA/Easy/3146_permutation_difference_between_two_strings.ipynb) |
 | 3467 | [Transform Array by Parity](https://leetcode.com/problems/transform-array-by-parity/) | [3467_transform_array_by_parity.ipynb](DSA/Easy/3467_transform_array_by_parity.ipynb) |
 | 3471 | [Find the Largest Almost Missing Integer](https://leetcode.com/problems/find-the-largest-almost-missing-integer/) | [3471_find_the_largest_almost_missing_integer.ipynb](DSA/Easy/3471_find_the_largest_almost_missing_integer.ipynb) |
 | 3477 | [Fruits Into Baskets II](https://leetcode.com/problems/fruits-into-baskets-ii/) | [3477_fruits_into_baskets_ii.ipynb](DSA/Easy/3477_fruits_into_baskets_ii.ipynb) |
