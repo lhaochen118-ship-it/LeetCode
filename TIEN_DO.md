@@ -365,3 +365,25 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 - Bỏ qua: không có
 - Ghi chú: Không có bài Premium. Cần đối chiếu: 803 (giả định tường ban đầu mọi viên đều ổn định), 843 (giới hạn allowedGuesses viết theo hiểu biết; tự dựng lớp Master), 810 (quy luật biến thể ở mục 15 chỉ là quan sát bằng máy). 857 kết quả số thực, so sánh có sai số. Chạy tuần tự 1 agent/lượt.
 - ID Hard tiếp theo: 864
+
+### Đợt 38 — 19/11/2026
+
+- Đã xong: 3827, 3833, 3838, 3842, 3852, 3856, 3861, 3866, 3870, 3875, 3880, 3884, 3894, 3898, 3903, 3908, 3912, 3917, 3921, 3925
+- Lỗi: không có
+- Bỏ qua: không có
+- Ghi chú: Đề lấy từ leetcode.doocs.org (bản diễn giải), nên đối chiếu từng chữ với đề gốc: 3838, 3842, 3852, 3875, 3894 (biên màu đèn), 3903, 3921. Slug suy ra từ tên bài.
+
+### Đợt 31 — 20/11/2026
+
+- Đã xong: 3042, 3046, 3062, 3065, 3069, 3074, 3079, 3083, 3090, 3095, 3099, 3105, 3110, 3114, 3120, 3127, 3131, 3136, 3142, 3146
+- Lỗi: không có
+- Bỏ qua: không có (đã kiểm tra trước: 20 ID chưa có file, chưa có trong Excel/TIEN_DO và không trùng với main)
+- Ghi chú: Bài Premium (đề viết theo hiểu biết): 3062. Ví dụ cần đối chiếu với đề gốc: 3062, 3095 (ví dụ 4 tự dựng), 3114 (ví dụ 3 tự dựng), 3090 (ví dụ 3 tự dựng), 3079 (ví dụ 3 tự dựng), 3042 (ràng buộc độ dài từ). 3110 và 3142 dùng `itertools.pairwise` (Python ≥ 3.10). Đợt này chỉ chạy 1 agent theo yêu cầu. Đã gộp main (đợt 38…) trước khi ghi.
+- ID tiếp theo (sau 3146): tra Excel (Easy chưa có, ID > 3146; hiện là 3151); đợt 25 (2475–2566) vẫn dở, xem mục Đợt 25.
+
+### Đợt 39 — 19/11/2026
+
+- Đã xong: 3931, 3936, 3940, 3945, 3950, 3954, 3959, 3963, 3978, 3982, 3986, 3992, 3996, 4000, 4006, 4010, 4020, 4024, 4030, 4038
+- Lỗi: không có
+- Bỏ qua: không có
+- Ghi chú: Đề lấy từ leetcode.doocs.org (bản diễn giải), nên đối chiếu từng chữ với đề gốc: 3950 (cặp bit liền kề tính chồng lấn), 3954 (tên method sumOfGoodIntegers), 3963 (cách chấm đáp án hợp lệ), 3992 (cách hiểu đề). Slug suy ra từ tên bài.
