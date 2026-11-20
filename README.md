@@ -15,7 +15,7 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 1357 notebook** — DSA/Easy: 833 · DSA/Medium: 263 · DSA/Hard: 248 · SQL: 11 · Shell: 2
+**Tổng: 1377 notebook** — DSA/Easy: 833 · DSA/Medium: 283 · DSA/Hard: 248 · SQL: 11 · Shell: 2
 
 ## DSA — Easy — 833 bài
 
@@ -855,7 +855,7 @@ Shell/                            bài Shell (Bash)
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [4097_minimum_value_of_merged_integers.ipynb](DSA/Easy/4097_minimum_value_of_merged_integers.ipynb) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [4111_count_consistent_subarrays_i.ipynb](DSA/Easy/4111_count_consistent_subarrays_i.ipynb) |
 
-## DSA — Medium — 263 bài
+## DSA — Medium — 283 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -1103,6 +1103,26 @@ Shell/                            bài Shell (Bash)
 | 0437 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/) | [0437_path_sum_iii.ipynb](DSA/Medium/0437_path_sum_iii.ipynb) |
 | 0438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [0438_find_all_anagrams_in_a_string.ipynb](DSA/Medium/0438_find_all_anagrams_in_a_string.ipynb) |
 | 0439 | [Ternary Expression Parser](https://leetcode.com/problems/ternary-expression-parser/) | [0439_ternary_expression_parser.ipynb](DSA/Medium/0439_ternary_expression_parser.ipynb) |
+| 0442 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [0442_find_all_duplicates_in_an_array.ipynb](DSA/Medium/0442_find_all_duplicates_in_an_array.ipynb) |
+| 0443 | [String Compression](https://leetcode.com/problems/string-compression/) | [0443_string_compression.ipynb](DSA/Medium/0443_string_compression.ipynb) |
+| 0444 | [Sequence Reconstruction](https://leetcode.com/problems/sequence-reconstruction/) | [0444_sequence_reconstruction.ipynb](DSA/Medium/0444_sequence_reconstruction.ipynb) |
+| 0445 | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | [0445_add_two_numbers_ii.ipynb](DSA/Medium/0445_add_two_numbers_ii.ipynb) |
+| 0447 | [Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/) | [0447_number_of_boomerangs.ipynb](DSA/Medium/0447_number_of_boomerangs.ipynb) |
+| 0449 | [Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/) | [0449_serialize_and_deserialize_bst.ipynb](DSA/Medium/0449_serialize_and_deserialize_bst.ipynb) |
+| 0450 | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | [0450_delete_node_in_a_bst.ipynb](DSA/Medium/0450_delete_node_in_a_bst.ipynb) |
+| 0451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | [0451_sort_characters_by_frequency.ipynb](DSA/Medium/0451_sort_characters_by_frequency.ipynb) |
+| 0452 | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | [0452_minimum_number_of_arrows_to_burst_balloons.ipynb](DSA/Medium/0452_minimum_number_of_arrows_to_burst_balloons.ipynb) |
+| 0453 | [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | [0453_minimum_moves_to_equal_array_elements.ipynb](DSA/Medium/0453_minimum_moves_to_equal_array_elements.ipynb) |
+| 0454 | [4Sum II](https://leetcode.com/problems/4sum-ii/) | [0454_4sum_ii.ipynb](DSA/Medium/0454_4sum_ii.ipynb) |
+| 0456 | [132 Pattern](https://leetcode.com/problems/132-pattern/) | [0456_132_pattern.ipynb](DSA/Medium/0456_132_pattern.ipynb) |
+| 0457 | [Circular Array Loop](https://leetcode.com/problems/circular-array-loop/) | [0457_circular_array_loop.ipynb](DSA/Medium/0457_circular_array_loop.ipynb) |
+| 0462 | [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | [0462_minimum_moves_to_equal_array_elements_ii.ipynb](DSA/Medium/0462_minimum_moves_to_equal_array_elements_ii.ipynb) |
+| 0464 | [Can I Win](https://leetcode.com/problems/can-i-win/) | [0464_can_i_win.ipynb](DSA/Medium/0464_can_i_win.ipynb) |
+| 0467 | [Unique Substrings in Wraparound String](https://leetcode.com/problems/unique-substrings-in-wraparound-string/) | [0467_unique_substrings_in_wraparound_string.ipynb](DSA/Medium/0467_unique_substrings_in_wraparound_string.ipynb) |
+| 0468 | [Validate IP Address](https://leetcode.com/problems/validate-ip-address/) | [0468_validate_ip_address.ipynb](DSA/Medium/0468_validate_ip_address.ipynb) |
+| 0469 | [Convex Polygon](https://leetcode.com/problems/convex-polygon/) | [0469_convex_polygon.ipynb](DSA/Medium/0469_convex_polygon.ipynb) |
+| 0470 | [Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/) | [0470_implement_rand10_using_rand7.ipynb](DSA/Medium/0470_implement_rand10_using_rand7.ipynb) |
+| 0471 | [Encode String with Shortest Length](https://leetcode.com/problems/encode-string-with-shortest-length/) | [0471_encode_string_with_shortest_length.ipynb](DSA/Medium/0471_encode_string_with_shortest_length.ipynb) |
 | 4044 | [Count Good Cyclic Rotations](https://leetcode.com/problems/count-good-cyclic-rotations/) | [4044_count_good_cyclic_rotations.ipynb](DSA/Medium/4044_count_good_cyclic_rotations.ipynb) |
 | 4045 | [Count Robot Groups](https://leetcode.com/problems/count-robot-groups/) | [4045_count_robot_groups.ipynb](DSA/Medium/4045_count_robot_groups.ipynb) |
 | 4049 | [Count Values With Equally Spaced Occurrences II](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-ii/) | [4049_count_values_with_equally_spaced_occurrences_ii.ipynb](DSA/Medium/4049_count_values_with_equally_spaced_occurrences_ii.ipynb) |
