@@ -413,3 +413,13 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 - Ghi chú: Bài Premium (đề viết theo hiểu biết, đối chiếu lại nếu có tài khoản Premium): 3263, 3353. 3263: tên method `toArray` và lớp `Node` lấy từ lời giải doocs (không có skeleton gốc), cần đối chiếu. Đề lấy từ bản doocs vì LeetCode GraphQL không truy cập được. Ví dụ tự dựng (ghi chú trong notebook): các ca biên mục 12.1 ở 3274, 3280, 3285, 3289, 3300; ca mục 8 ở 3258, 3264, 3270. 3285, 3289, 3314 nhiều đáp án đúng nên test bằng hàm kiểm tra tính hợp lệ. Mục 15 nhắc các bài liên quan theo trí nhớ (3307, 3315, 3321, 3333) cần tra lại nếu trích dẫn. Chạy 4 agent song song (5 bài/agent); đã tự kiểm tra lại 20 file: 67–74 cell, 29.172–39.061 ký tự, đủ mục 1–20, không lỗi/stderr, TODO không bị gọi. Đã gộp main (đến đợt 32 + Hard 10) trước khi ghi.
 - Số đếm sau đợt: DSA 1.244 (Easy 813 · Medium 203 · Hard 228), SQL 11, Shell 2 → README 1.257 = số file; Excel 1.244 "Đã có notebook" ở sheet DSA.
 - ID Easy tiếp theo (tra Excel, chưa có): 3364, 3370, 3375, 3379, 3386, 3392, 3396, 3402, 3407, 3411, 3417, 3423, 3427, 3432, 3438, 3442, 3450, 3452, 3456, 3461. Đây là 20 bài Easy cuối cùng → Đợt 34 là đợt cuối của nhóm Easy; sau đó chuyển sang Medium.
+
+### Đợt 34 — 20/11/2026 (đợt cuối của nhóm Easy)
+
+- Đã xong: 3364, 3370, 3375, 3379, 3386, 3392, 3396, 3402, 3407, 3411, 3417, 3423, 3427, 3432, 3438, 3442, 3450, 3452, 3456, 3461
+- Lỗi: không có
+- Bỏ qua: không có (đã kiểm tra trước: 20 ID chưa có file, chưa có trong Excel/TIEN_DO; không trùng với main)
+- Ghi chú: Bài Premium (đề viết theo hiểu biết, đối chiếu lại nếu có tài khoản Premium): 3364, 3450. 3364: tên method `minimumSumSubarray(nums, l, r)` lấy từ lời giải doocs; 3379 `constructTransformedArray` và 3386 `buttonWithLongestTime` cũng lấy theo doocs, cần đối chiếu skeleton. Đề lấy từ bản doocs vì LeetCode GraphQL không truy cập được. 3450: 4 ví dụ lấy từ doocs, nên đối chiếu đề gốc. Các test biên tự dựng đã ghi chú trong từng notebook. Chạy 4 agent song song (5 bài/agent); đã tự kiểm tra lại 20 file: 64–78 cell, 27.980–40.083 ký tự, đủ mục 1–20, không lỗi/stderr, cell TODO chỉ gán `None` (không gọi hàm). Đã gộp main trước khi ghi.
+- Số đếm sau đợt: DSA 1.264 (Easy 833 · Medium 203 · Hard 228), SQL 11, Shell 2 → README 1.277 = số file; Excel 1.264 "Đã có notebook" ở sheet DSA.
+- Nhóm Easy đã xong toàn bộ: 833/833 (không còn ID Easy chưa có theo Excel).
+- ID tiếp theo: chuyển sang Medium, theo ID tăng dần, tra Excel lọc ID chưa có (hiện là 343, 347, 348, 351, 353, 355, 356, 357, 360, 361, 362, 364, 365, 366, 368, 369, 370, 371, 372, 373). Còn 1.755 bài Medium chưa có (kiểm tra lại với main mới nhất trước khi làm, vì các khung chat khác có thể đã làm một số đoạn Medium).

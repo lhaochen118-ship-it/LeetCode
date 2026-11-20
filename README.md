@@ -15,9 +15,9 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 1257 notebook** — DSA/Easy: 813 · DSA/Medium: 203 · DSA/Hard: 228 · SQL: 11 · Shell: 2
+**Tổng: 1277 notebook** — DSA/Easy: 833 · DSA/Medium: 203 · DSA/Hard: 228 · SQL: 11 · Shell: 2
 
-## DSA — Easy — 813 bài
+## DSA — Easy — 833 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -720,6 +720,26 @@ Shell/                            bài Shell (Bash)
 | 3353 | [Minimum Total Operations](https://leetcode.com/problems/minimum-total-operations/) | [3353_minimum_total_operations.ipynb](DSA/Easy/3353_minimum_total_operations.ipynb) |
 | 3354 | [Make Array Elements Equal to Zero](https://leetcode.com/problems/make-array-elements-equal-to-zero/) | [3354_make_array_elements_equal_to_zero.ipynb](DSA/Easy/3354_make_array_elements_equal_to_zero.ipynb) |
 | 3360 | [Stone Removal Game](https://leetcode.com/problems/stone-removal-game/) | [3360_stone_removal_game.ipynb](DSA/Easy/3360_stone_removal_game.ipynb) |
+| 3364 | [Minimum Positive Sum Subarray](https://leetcode.com/problems/minimum-positive-sum-subarray/) | [3364_minimum_positive_sum_subarray.ipynb](DSA/Easy/3364_minimum_positive_sum_subarray.ipynb) |
+| 3370 | [Smallest Number With All Set Bits](https://leetcode.com/problems/smallest-number-with-all-set-bits/) | [3370_smallest_number_with_all_set_bits.ipynb](DSA/Easy/3370_smallest_number_with_all_set_bits.ipynb) |
+| 3375 | [Minimum Operations to Make Array Values Equal to K](https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k/) | [3375_minimum_operations_to_make_array_values_equal_to_k.ipynb](DSA/Easy/3375_minimum_operations_to_make_array_values_equal_to_k.ipynb) |
+| 3379 | [Transformed Array](https://leetcode.com/problems/transformed-array/) | [3379_transformed_array.ipynb](DSA/Easy/3379_transformed_array.ipynb) |
+| 3386 | [Button with Longest Push Time](https://leetcode.com/problems/button-with-longest-push-time/) | [3386_button_with_longest_push_time.ipynb](DSA/Easy/3386_button_with_longest_push_time.ipynb) |
+| 3392 | [Count Subarrays of Length Three With a Condition](https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition/) | [3392_count_subarrays_of_length_three_with_a_condition.ipynb](DSA/Easy/3392_count_subarrays_of_length_three_with_a_condition.ipynb) |
+| 3396 | [Minimum Number of Operations to Make Elements in Array Distinct](https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct/) | [3396_minimum_number_of_operations_to_make_elements_in_array_distinct.ipynb](DSA/Easy/3396_minimum_number_of_operations_to_make_elements_in_array_distinct.ipynb) |
+| 3402 | [Minimum Operations to Make Columns Strictly Increasing](https://leetcode.com/problems/minimum-operations-to-make-columns-strictly-increasing/) | [3402_minimum_operations_to_make_columns_strictly_increasing.ipynb](DSA/Easy/3402_minimum_operations_to_make_columns_strictly_increasing.ipynb) |
+| 3407 | [Substring Matching Pattern](https://leetcode.com/problems/substring-matching-pattern/) | [3407_substring_matching_pattern.ipynb](DSA/Easy/3407_substring_matching_pattern.ipynb) |
+| 3411 | [Maximum Subarray With Equal Products](https://leetcode.com/problems/maximum-subarray-with-equal-products/) | [3411_maximum_subarray_with_equal_products.ipynb](DSA/Easy/3411_maximum_subarray_with_equal_products.ipynb) |
+| 3417 | [Zigzag Grid Traversal With Skip](https://leetcode.com/problems/zigzag-grid-traversal-with-skip/) | [3417_zigzag_grid_traversal_with_skip.ipynb](DSA/Easy/3417_zigzag_grid_traversal_with_skip.ipynb) |
+| 3423 | [Maximum Difference Between Adjacent Elements in a Circular Array](https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array/) | [3423_maximum_difference_between_adjacent_elements_in_a_circular_array.ipynb](DSA/Easy/3423_maximum_difference_between_adjacent_elements_in_a_circular_array.ipynb) |
+| 3427 | [Sum of Variable Length Subarrays](https://leetcode.com/problems/sum-of-variable-length-subarrays/) | [3427_sum_of_variable_length_subarrays.ipynb](DSA/Easy/3427_sum_of_variable_length_subarrays.ipynb) |
+| 3432 | [Count Partitions with Even Sum Difference](https://leetcode.com/problems/count-partitions-with-even-sum-difference/) | [3432_count_partitions_with_even_sum_difference.ipynb](DSA/Easy/3432_count_partitions_with_even_sum_difference.ipynb) |
+| 3438 | [Find Valid Pair of Adjacent Digits in String](https://leetcode.com/problems/find-valid-pair-of-adjacent-digits-in-string/) | [3438_find_valid_pair_of_adjacent_digits_in_string.ipynb](DSA/Easy/3438_find_valid_pair_of_adjacent_digits_in_string.ipynb) |
+| 3442 | [Maximum Difference Between Even and Odd Frequency I](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i/) | [3442_maximum_difference_between_even_and_odd_frequency_i.ipynb](DSA/Easy/3442_maximum_difference_between_even_and_odd_frequency_i.ipynb) |
+| 3450 | [Maximum Students on a Single Bench](https://leetcode.com/problems/maximum-students-on-a-single-bench/) | [3450_maximum_students_on_a_single_bench.ipynb](DSA/Easy/3450_maximum_students_on_a_single_bench.ipynb) |
+| 3452 | [Sum of Good Numbers](https://leetcode.com/problems/sum-of-good-numbers/) | [3452_sum_of_good_numbers.ipynb](DSA/Easy/3452_sum_of_good_numbers.ipynb) |
+| 3456 | [Find Special Substring of Length K](https://leetcode.com/problems/find-special-substring-of-length-k/) | [3456_find_special_substring_of_length_k.ipynb](DSA/Easy/3456_find_special_substring_of_length_k.ipynb) |
+| 3461 | [Check If Digits Are Equal in String After Operations I](https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i/) | [3461_check_if_digits_are_equal_in_string_after_operations_i.ipynb](DSA/Easy/3461_check_if_digits_are_equal_in_string_after_operations_i.ipynb) |
 | 3467 | [Transform Array by Parity](https://leetcode.com/problems/transform-array-by-parity/) | [3467_transform_array_by_parity.ipynb](DSA/Easy/3467_transform_array_by_parity.ipynb) |
 | 3471 | [Find the Largest Almost Missing Integer](https://leetcode.com/problems/find-the-largest-almost-missing-integer/) | [3471_find_the_largest_almost_missing_integer.ipynb](DSA/Easy/3471_find_the_largest_almost_missing_integer.ipynb) |
 | 3477 | [Fruits Into Baskets II](https://leetcode.com/problems/fruits-into-baskets-ii/) | [3477_fruits_into_baskets_ii.ipynb](DSA/Easy/3477_fruits_into_baskets_ii.ipynb) |
