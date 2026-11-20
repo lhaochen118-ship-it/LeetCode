@@ -15,9 +15,9 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 1137 notebook** — DSA/Easy: 713 · DSA/Medium: 203 · DSA/Hard: 208 · SQL: 11 · Shell: 2
+**Tổng: 1157 notebook** — DSA/Easy: 733 · DSA/Medium: 203 · DSA/Hard: 208 · SQL: 11 · Shell: 2
 
-## DSA — Easy — 713 bài
+## DSA — Easy — 733 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -720,6 +720,26 @@ Shell/                            bài Shell (Bash)
 | 3803 | [Count Residue Prefixes](https://leetcode.com/problems/count-residue-prefixes/) | [3803_count_residue_prefixes.ipynb](DSA/Easy/3803_count_residue_prefixes.ipynb) |
 | 3813 | [Vowel-Consonant Score](https://leetcode.com/problems/vowel-consonant-score/) | [3813_vowel_consonant_score.ipynb](DSA/Easy/3813_vowel_consonant_score.ipynb) |
 | 3823 | [Reverse Letters Then Special Characters in a String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string/) | [3823_reverse_letters_then_special_characters_in_a_string.ipynb](DSA/Easy/3823_reverse_letters_then_special_characters_in_a_string.ipynb) |
+| 3827 | [Count Monobit Integers](https://leetcode.com/problems/count-monobit-integers/) | [3827_count_monobit_integers.ipynb](DSA/Easy/3827_count_monobit_integers.ipynb) |
+| 3833 | [Count Dominant Indices](https://leetcode.com/problems/count-dominant-indices/) | [3833_count_dominant_indices.ipynb](DSA/Easy/3833_count_dominant_indices.ipynb) |
+| 3838 | [Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping/) | [3838_weighted_word_mapping.ipynb](DSA/Easy/3838_weighted_word_mapping.ipynb) |
+| 3842 | [Toggle Light Bulbs](https://leetcode.com/problems/toggle-light-bulbs/) | [3842_toggle_light_bulbs.ipynb](DSA/Easy/3842_toggle_light_bulbs.ipynb) |
+| 3852 | [Smallest Pair With Different Frequencies](https://leetcode.com/problems/smallest-pair-with-different-frequencies/) | [3852_smallest_pair_with_different_frequencies.ipynb](DSA/Easy/3852_smallest_pair_with_different_frequencies.ipynb) |
+| 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels/) | [3856_trim_trailing_vowels.ipynb](DSA/Easy/3856_trim_trailing_vowels.ipynb) |
+| 3861 | [Minimum Capacity Box](https://leetcode.com/problems/minimum-capacity-box/) | [3861_minimum_capacity_box.ipynb](DSA/Easy/3861_minimum_capacity_box.ipynb) |
+| 3866 | [First Unique Even Element](https://leetcode.com/problems/first-unique-even-element/) | [3866_first_unique_even_element.ipynb](DSA/Easy/3866_first_unique_even_element.ipynb) |
+| 3870 | [Count Commas in Range](https://leetcode.com/problems/count-commas-in-range/) | [3870_count_commas_in_range.ipynb](DSA/Easy/3870_count_commas_in_range.ipynb) |
+| 3875 | [Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/) | [3875_construct_uniform_parity_array_i.ipynb](DSA/Easy/3875_construct_uniform_parity_array_i.ipynb) |
+| 3880 | [Minimum Absolute Difference Between Two Values](https://leetcode.com/problems/minimum-absolute-difference-between-two-values/) | [3880_minimum_absolute_difference_between_two_values.ipynb](DSA/Easy/3880_minimum_absolute_difference_between_two_values.ipynb) |
+| 3884 | [First Matching Character From Both Ends](https://leetcode.com/problems/first-matching-character-from-both-ends/) | [3884_first_matching_character_from_both_ends.ipynb](DSA/Easy/3884_first_matching_character_from_both_ends.ipynb) |
+| 3894 | [Traffic Signal Color](https://leetcode.com/problems/traffic-signal-color/) | [3894_traffic_signal_color.ipynb](DSA/Easy/3894_traffic_signal_color.ipynb) |
+| 3898 | [Find the Degree of Each Vertex](https://leetcode.com/problems/find-the-degree-of-each-vertex/) | [3898_find_the_degree_of_each_vertex.ipynb](DSA/Easy/3898_find_the_degree_of_each_vertex.ipynb) |
+| 3903 | [Smallest Stable Index I](https://leetcode.com/problems/smallest-stable-index-i/) | [3903_smallest_stable_index_i.ipynb](DSA/Easy/3903_smallest_stable_index_i.ipynb) |
+| 3908 | [Valid Digit Number](https://leetcode.com/problems/valid-digit-number/) | [3908_valid_digit_number.ipynb](DSA/Easy/3908_valid_digit_number.ipynb) |
+| 3912 | [Valid Elements in an Array](https://leetcode.com/problems/valid-elements-in-an-array/) | [3912_valid_elements_in_an_array.ipynb](DSA/Easy/3912_valid_elements_in_an_array.ipynb) |
+| 3917 | [Count Indices With Opposite Parity](https://leetcode.com/problems/count-indices-with-opposite-parity/) | [3917_count_indices_with_opposite_parity.ipynb](DSA/Easy/3917_count_indices_with_opposite_parity.ipynb) |
+| 3921 | [Score Validator](https://leetcode.com/problems/score-validator/) | [3921_score_validator.ipynb](DSA/Easy/3921_score_validator.ipynb) |
+| 3925 | [Concatenate Array With Reverse](https://leetcode.com/problems/concatenate-array-with-reverse/) | [3925_concatenate_array_with_reverse.ipynb](DSA/Easy/3925_concatenate_array_with_reverse.ipynb) |
 | 4043 | [Count Rotations With Exactly K Equal Adjacent Pairs](https://leetcode.com/problems/count-rotations-with-exactly-k-equal-adjacent-pairs/) | [4043_count_rotations_with_exactly_k_equal_adjacent_pairs.ipynb](DSA/Easy/4043_count_rotations_with_exactly_k_equal_adjacent_pairs.ipynb) |
 | 4048 | [Count Values With Equally Spaced Occurrences I](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-i/) | [4048_count_values_with_equally_spaced_occurrences_i.ipynb](DSA/Easy/4048_count_values_with_equally_spaced_occurrences_i.ipynb) |
 | 4052 | [Cyclically Shift Rows and Columns](https://leetcode.com/problems/cyclically-shift-rows-and-columns/) | [4052_cyclically_shift_rows_and_columns.ipynb](DSA/Easy/4052_cyclically_shift_rows_and_columns.ipynb) |
