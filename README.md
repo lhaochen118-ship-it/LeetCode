@@ -15,7 +15,7 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 1317 notebook** — DSA/Easy: 833 · DSA/Medium: 243 · DSA/Hard: 228 · SQL: 11 · Shell: 2
+**Tổng: 1337 notebook** — DSA/Easy: 833 · DSA/Medium: 263 · DSA/Hard: 228 · SQL: 11 · Shell: 2
 
 ## DSA — Easy — 833 bài
 
@@ -855,7 +855,7 @@ Shell/                            bài Shell (Bash)
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [4097_minimum_value_of_merged_integers.ipynb](DSA/Easy/4097_minimum_value_of_merged_integers.ipynb) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [4111_count_consistent_subarrays_i.ipynb](DSA/Easy/4111_count_consistent_subarrays_i.ipynb) |
 
-## DSA — Medium — 243 bài
+## DSA — Medium — 263 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -1083,6 +1083,26 @@ Shell/                            bài Shell (Bash)
 | 0398 | [Random Pick Index](https://leetcode.com/problems/random-pick-index/) | [0398_random_pick_index.ipynb](DSA/Medium/0398_random_pick_index.ipynb) |
 | 0399 | [Evaluate Division](https://leetcode.com/problems/evaluate-division/) | [0399_evaluate_division.ipynb](DSA/Medium/0399_evaluate_division.ipynb) |
 | 0400 | [Nth Digit](https://leetcode.com/problems/nth-digit/) | [0400_nth_digit.ipynb](DSA/Medium/0400_nth_digit.ipynb) |
+| 0402 | [Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | [0402_remove_k_digits.ipynb](DSA/Medium/0402_remove_k_digits.ipynb) |
+| 0406 | [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/) | [0406_queue_reconstruction_by_height.ipynb](DSA/Medium/0406_queue_reconstruction_by_height.ipynb) |
+| 0413 | [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) | [0413_arithmetic_slices.ipynb](DSA/Medium/0413_arithmetic_slices.ipynb) |
+| 0416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | [0416_partition_equal_subset_sum.ipynb](DSA/Medium/0416_partition_equal_subset_sum.ipynb) |
+| 0417 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | [0417_pacific_atlantic_water_flow.ipynb](DSA/Medium/0417_pacific_atlantic_water_flow.ipynb) |
+| 0418 | [Sentence Screen Fitting](https://leetcode.com/problems/sentence-screen-fitting/) | [0418_sentence_screen_fitting.ipynb](DSA/Medium/0418_sentence_screen_fitting.ipynb) |
+| 0419 | [Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/) | [0419_battleships_in_a_board.ipynb](DSA/Medium/0419_battleships_in_a_board.ipynb) |
+| 0421 | [Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) | [0421_maximum_xor_of_two_numbers_in_an_array.ipynb](DSA/Medium/0421_maximum_xor_of_two_numbers_in_an_array.ipynb) |
+| 0423 | [Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/) | [0423_reconstruct_original_digits_from_english.ipynb](DSA/Medium/0423_reconstruct_original_digits_from_english.ipynb) |
+| 0424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | [0424_longest_repeating_character_replacement.ipynb](DSA/Medium/0424_longest_repeating_character_replacement.ipynb) |
+| 0426 | [Convert Binary Search Tree to Sorted Doubly Linked List](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/) | [0426_convert_binary_search_tree_to_sorted_doubly_linked_list.ipynb](DSA/Medium/0426_convert_binary_search_tree_to_sorted_doubly_linked_list.ipynb) |
+| 0427 | [Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree/) | [0427_construct_quad_tree.ipynb](DSA/Medium/0427_construct_quad_tree.ipynb) |
+| 0429 | [N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) | [0429_n_ary_tree_level_order_traversal.ipynb](DSA/Medium/0429_n_ary_tree_level_order_traversal.ipynb) |
+| 0430 | [Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) | [0430_flatten_a_multilevel_doubly_linked_list.ipynb](DSA/Medium/0430_flatten_a_multilevel_doubly_linked_list.ipynb) |
+| 0433 | [Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation/) | [0433_minimum_genetic_mutation.ipynb](DSA/Medium/0433_minimum_genetic_mutation.ipynb) |
+| 0435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | [0435_non_overlapping_intervals.ipynb](DSA/Medium/0435_non_overlapping_intervals.ipynb) |
+| 0436 | [Find Right Interval](https://leetcode.com/problems/find-right-interval/) | [0436_find_right_interval.ipynb](DSA/Medium/0436_find_right_interval.ipynb) |
+| 0437 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/) | [0437_path_sum_iii.ipynb](DSA/Medium/0437_path_sum_iii.ipynb) |
+| 0438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [0438_find_all_anagrams_in_a_string.ipynb](DSA/Medium/0438_find_all_anagrams_in_a_string.ipynb) |
+| 0439 | [Ternary Expression Parser](https://leetcode.com/problems/ternary-expression-parser/) | [0439_ternary_expression_parser.ipynb](DSA/Medium/0439_ternary_expression_parser.ipynb) |
 | 4044 | [Count Good Cyclic Rotations](https://leetcode.com/problems/count-good-cyclic-rotations/) | [4044_count_good_cyclic_rotations.ipynb](DSA/Medium/4044_count_good_cyclic_rotations.ipynb) |
 | 4045 | [Count Robot Groups](https://leetcode.com/problems/count-robot-groups/) | [4045_count_robot_groups.ipynb](DSA/Medium/4045_count_robot_groups.ipynb) |
 | 4049 | [Count Values With Equally Spaced Occurrences II](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-ii/) | [4049_count_values_with_equally_spaced_occurrences_ii.ipynb](DSA/Medium/4049_count_values_with_equally_spaced_occurrences_ii.ipynb) |
