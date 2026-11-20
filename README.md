@@ -15,7 +15,7 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 1297 notebook** — DSA/Easy: 833 · DSA/Medium: 223 · DSA/Hard: 228 · SQL: 11 · Shell: 2
+**Tổng: 1317 notebook** — DSA/Easy: 833 · DSA/Medium: 243 · DSA/Hard: 228 · SQL: 11 · Shell: 2
 
 ## DSA — Easy — 833 bài
 
@@ -855,7 +855,7 @@ Shell/                            bài Shell (Bash)
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [4097_minimum_value_of_merged_integers.ipynb](DSA/Easy/4097_minimum_value_of_merged_integers.ipynb) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [4111_count_consistent_subarrays_i.ipynb](DSA/Easy/4111_count_consistent_subarrays_i.ipynb) |
 
-## DSA — Medium — 223 bài
+## DSA — Medium — 243 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -1063,6 +1063,26 @@ Shell/                            bài Shell (Bash)
 | 0371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [0371_sum_of_two_integers.ipynb](DSA/Medium/0371_sum_of_two_integers.ipynb) |
 | 0372 | [Super Pow](https://leetcode.com/problems/super-pow/) | [0372_super_pow.ipynb](DSA/Medium/0372_super_pow.ipynb) |
 | 0373 | [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) | [0373_find_k_pairs_with_smallest_sums.ipynb](DSA/Medium/0373_find_k_pairs_with_smallest_sums.ipynb) |
+| 0375 | [Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii/) | [0375_guess_number_higher_or_lower_ii.ipynb](DSA/Medium/0375_guess_number_higher_or_lower_ii.ipynb) |
+| 0376 | [Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) | [0376_wiggle_subsequence.ipynb](DSA/Medium/0376_wiggle_subsequence.ipynb) |
+| 0377 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | [0377_combination_sum_iv.ipynb](DSA/Medium/0377_combination_sum_iv.ipynb) |
+| 0378 | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | [0378_kth_smallest_element_in_a_sorted_matrix.ipynb](DSA/Medium/0378_kth_smallest_element_in_a_sorted_matrix.ipynb) |
+| 0379 | [Design Phone Directory](https://leetcode.com/problems/design-phone-directory/) | [0379_design_phone_directory.ipynb](DSA/Medium/0379_design_phone_directory.ipynb) |
+| 0380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [0380_insert_delete_getrandom_o1.ipynb](DSA/Medium/0380_insert_delete_getrandom_o1.ipynb) |
+| 0382 | [Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/) | [0382_linked_list_random_node.ipynb](DSA/Medium/0382_linked_list_random_node.ipynb) |
+| 0384 | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) | [0384_shuffle_an_array.ipynb](DSA/Medium/0384_shuffle_an_array.ipynb) |
+| 0385 | [Mini Parser](https://leetcode.com/problems/mini-parser/) | [0385_mini_parser.ipynb](DSA/Medium/0385_mini_parser.ipynb) |
+| 0386 | [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/) | [0386_lexicographical_numbers.ipynb](DSA/Medium/0386_lexicographical_numbers.ipynb) |
+| 0388 | [Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/) | [0388_longest_absolute_file_path.ipynb](DSA/Medium/0388_longest_absolute_file_path.ipynb) |
+| 0390 | [Elimination Game](https://leetcode.com/problems/elimination-game/) | [0390_elimination_game.ipynb](DSA/Medium/0390_elimination_game.ipynb) |
+| 0393 | [UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/) | [0393_utf_8_validation.ipynb](DSA/Medium/0393_utf_8_validation.ipynb) |
+| 0394 | [Decode String](https://leetcode.com/problems/decode-string/) | [0394_decode_string.ipynb](DSA/Medium/0394_decode_string.ipynb) |
+| 0395 | [Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/) | [0395_longest_substring_with_at_least_k_repeating_characters.ipynb](DSA/Medium/0395_longest_substring_with_at_least_k_repeating_characters.ipynb) |
+| 0396 | [Rotate Function](https://leetcode.com/problems/rotate-function/) | [0396_rotate_function.ipynb](DSA/Medium/0396_rotate_function.ipynb) |
+| 0397 | [Integer Replacement](https://leetcode.com/problems/integer-replacement/) | [0397_integer_replacement.ipynb](DSA/Medium/0397_integer_replacement.ipynb) |
+| 0398 | [Random Pick Index](https://leetcode.com/problems/random-pick-index/) | [0398_random_pick_index.ipynb](DSA/Medium/0398_random_pick_index.ipynb) |
+| 0399 | [Evaluate Division](https://leetcode.com/problems/evaluate-division/) | [0399_evaluate_division.ipynb](DSA/Medium/0399_evaluate_division.ipynb) |
+| 0400 | [Nth Digit](https://leetcode.com/problems/nth-digit/) | [0400_nth_digit.ipynb](DSA/Medium/0400_nth_digit.ipynb) |
 | 4044 | [Count Good Cyclic Rotations](https://leetcode.com/problems/count-good-cyclic-rotations/) | [4044_count_good_cyclic_rotations.ipynb](DSA/Medium/4044_count_good_cyclic_rotations.ipynb) |
 | 4045 | [Count Robot Groups](https://leetcode.com/problems/count-robot-groups/) | [4045_count_robot_groups.ipynb](DSA/Medium/4045_count_robot_groups.ipynb) |
 | 4049 | [Count Values With Equally Spaced Occurrences II](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-ii/) | [4049_count_values_with_equally_spaced_occurrences_ii.ipynb](DSA/Medium/4049_count_values_with_equally_spaced_occurrences_ii.ipynb) |
