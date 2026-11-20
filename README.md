@@ -15,9 +15,9 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 1217 notebook** — DSA/Easy: 773 · DSA/Medium: 203 · DSA/Hard: 228 · SQL: 11 · Shell: 2
+**Tổng: 1237 notebook** — DSA/Easy: 793 · DSA/Medium: 203 · DSA/Hard: 228 · SQL: 11 · Shell: 2
 
-## DSA — Easy — 773 bài
+## DSA — Easy — 793 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -680,6 +680,26 @@ Shell/                            bài Shell (Bash)
 | 3136 | [Valid Word](https://leetcode.com/problems/valid-word/) | [3136_valid_word.ipynb](DSA/Easy/3136_valid_word.ipynb) |
 | 3142 | [Check if Grid Satisfies Conditions](https://leetcode.com/problems/check-if-grid-satisfies-conditions/) | [3142_check_if_grid_satisfies_conditions.ipynb](DSA/Easy/3142_check_if_grid_satisfies_conditions.ipynb) |
 | 3146 | [Permutation Difference between Two Strings](https://leetcode.com/problems/permutation-difference-between-two-strings/) | [3146_permutation_difference_between_two_strings.ipynb](DSA/Easy/3146_permutation_difference_between_two_strings.ipynb) |
+| 3151 | [Special Array I](https://leetcode.com/problems/special-array-i/) | [3151_special_array_i.ipynb](DSA/Easy/3151_special_array_i.ipynb) |
+| 3158 | [Find the XOR of Numbers Which Appear Twice](https://leetcode.com/problems/find-the-xor-of-numbers-which-appear-twice/) | [3158_find_the_xor_of_numbers_which_appear_twice.ipynb](DSA/Easy/3158_find_the_xor_of_numbers_which_appear_twice.ipynb) |
+| 3162 | [Find the Number of Good Pairs I](https://leetcode.com/problems/find-the-number-of-good-pairs-i/) | [3162_find_the_number_of_good_pairs_i.ipynb](DSA/Easy/3162_find_the_number_of_good_pairs_i.ipynb) |
+| 3168 | [Minimum Number of Chairs in a Waiting Room](https://leetcode.com/problems/minimum-number-of-chairs-in-a-waiting-room/) | [3168_minimum_number_of_chairs_in_a_waiting_room.ipynb](DSA/Easy/3168_minimum_number_of_chairs_in_a_waiting_room.ipynb) |
+| 3173 | [Bitwise OR of Adjacent Elements](https://leetcode.com/problems/bitwise-or-of-adjacent-elements/) | [3173_bitwise_or_of_adjacent_elements.ipynb](DSA/Easy/3173_bitwise_or_of_adjacent_elements.ipynb) |
+| 3174 | [Clear Digits](https://leetcode.com/problems/clear-digits/) | [3174_clear_digits.ipynb](DSA/Easy/3174_clear_digits.ipynb) |
+| 3178 | [Find the Child Who Has the Ball After K Seconds](https://leetcode.com/problems/find-the-child-who-has-the-ball-after-k-seconds/) | [3178_find_the_child_who_has_the_ball_after_k_seconds.ipynb](DSA/Easy/3178_find_the_child_who_has_the_ball_after_k_seconds.ipynb) |
+| 3184 | [Count Pairs That Form a Complete Day I](https://leetcode.com/problems/count-pairs-that-form-a-complete-day-i/) | [3184_count_pairs_that_form_a_complete_day_i.ipynb](DSA/Easy/3184_count_pairs_that_form_a_complete_day_i.ipynb) |
+| 3190 | [Find Minimum Operations to Make All Elements Divisible by Three](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/) | [3190_find_minimum_operations_to_make_all_elements_divisible_by_three.ipynb](DSA/Easy/3190_find_minimum_operations_to_make_all_elements_divisible_by_three.ipynb) |
+| 3194 | [Minimum Average of Smallest and Largest Elements](https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements/) | [3194_minimum_average_of_smallest_and_largest_elements.ipynb](DSA/Easy/3194_minimum_average_of_smallest_and_largest_elements.ipynb) |
+| 3199 | [Count Triplets with Even XOR Set Bits I](https://leetcode.com/problems/count-triplets-with-even-xor-set-bits-i/) | [3199_count_triplets_with_even_xor_set_bits_i.ipynb](DSA/Easy/3199_count_triplets_with_even_xor_set_bits_i.ipynb) |
+| 3200 | [Maximum Height of a Triangle](https://leetcode.com/problems/maximum-height-of-a-triangle/) | [3200_maximum_height_of_a_triangle.ipynb](DSA/Easy/3200_maximum_height_of_a_triangle.ipynb) |
+| 3206 | [Alternating Groups I](https://leetcode.com/problems/alternating-groups-i/) | [3206_alternating_groups_i.ipynb](DSA/Easy/3206_alternating_groups_i.ipynb) |
+| 3210 | [Find the Encrypted String](https://leetcode.com/problems/find-the-encrypted-string/) | [3210_find_the_encrypted_string.ipynb](DSA/Easy/3210_find_the_encrypted_string.ipynb) |
+| 3216 | [Lexicographically Smallest String After a Swap](https://leetcode.com/problems/lexicographically-smallest-string-after-a-swap/) | [3216_lexicographically_smallest_string_after_a_swap.ipynb](DSA/Easy/3216_lexicographically_smallest_string_after_a_swap.ipynb) |
+| 3222 | [Find the Winning Player in Coin Game](https://leetcode.com/problems/find-the-winning-player-in-coin-game/) | [3222_find_the_winning_player_in_coin_game.ipynb](DSA/Easy/3222_find_the_winning_player_in_coin_game.ipynb) |
+| 3226 | [Number of Bit Changes to Make Two Integers Equal](https://leetcode.com/problems/number-of-bit-changes-to-make-two-integers-equal/) | [3226_number_of_bit_changes_to_make_two_integers_equal.ipynb](DSA/Easy/3226_number_of_bit_changes_to_make_two_integers_equal.ipynb) |
+| 3232 | [Find if Digit Game Can Be Won](https://leetcode.com/problems/find-if-digit-game-can-be-won/) | [3232_find_if_digit_game_can_be_won.ipynb](DSA/Easy/3232_find_if_digit_game_can_be_won.ipynb) |
+| 3238 | [Find the Number of Winning Players](https://leetcode.com/problems/find-the-number-of-winning-players/) | [3238_find_the_number_of_winning_players.ipynb](DSA/Easy/3238_find_the_number_of_winning_players.ipynb) |
+| 3242 | [Design Neighbor Sum Service](https://leetcode.com/problems/design-neighbor-sum-service/) | [3242_design_neighbor_sum_service.ipynb](DSA/Easy/3242_design_neighbor_sum_service.ipynb) |
 | 3467 | [Transform Array by Parity](https://leetcode.com/problems/transform-array-by-parity/) | [3467_transform_array_by_parity.ipynb](DSA/Easy/3467_transform_array_by_parity.ipynb) |
 | 3471 | [Find the Largest Almost Missing Integer](https://leetcode.com/problems/find-the-largest-almost-missing-integer/) | [3471_find_the_largest_almost_missing_integer.ipynb](DSA/Easy/3471_find_the_largest_almost_missing_integer.ipynb) |
 | 3477 | [Fruits Into Baskets II](https://leetcode.com/problems/fruits-into-baskets-ii/) | [3477_fruits_into_baskets_ii.ipynb](DSA/Easy/3477_fruits_into_baskets_ii.ipynb) |
