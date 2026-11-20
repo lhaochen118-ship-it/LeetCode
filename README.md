@@ -15,7 +15,7 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 1397 notebook** — DSA/Easy: 833 · DSA/Medium: 283 · DSA/Hard: 268 · SQL: 11 · Shell: 2
+**Tổng: 1417 notebook** — DSA/Easy: 833 · DSA/Medium: 303 · DSA/Hard: 268 · SQL: 11 · Shell: 2
 
 ## DSA — Easy — 833 bài
 
@@ -855,7 +855,7 @@ Shell/                            bài Shell (Bash)
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [4097_minimum_value_of_merged_integers.ipynb](DSA/Easy/4097_minimum_value_of_merged_integers.ipynb) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [4111_count_consistent_subarrays_i.ipynb](DSA/Easy/4111_count_consistent_subarrays_i.ipynb) |
 
-## DSA — Medium — 283 bài
+## DSA — Medium — 303 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -1123,6 +1123,26 @@ Shell/                            bài Shell (Bash)
 | 0469 | [Convex Polygon](https://leetcode.com/problems/convex-polygon/) | [0469_convex_polygon.ipynb](DSA/Medium/0469_convex_polygon.ipynb) |
 | 0470 | [Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/) | [0470_implement_rand10_using_rand7.ipynb](DSA/Medium/0470_implement_rand10_using_rand7.ipynb) |
 | 0471 | [Encode String with Shortest Length](https://leetcode.com/problems/encode-string-with-shortest-length/) | [0471_encode_string_with_shortest_length.ipynb](DSA/Medium/0471_encode_string_with_shortest_length.ipynb) |
+| 0473 | [Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/) | [0473_matchsticks_to_square.ipynb](DSA/Medium/0473_matchsticks_to_square.ipynb) |
+| 0474 | [Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/) | [0474_ones_and_zeroes.ipynb](DSA/Medium/0474_ones_and_zeroes.ipynb) |
+| 0475 | [Heaters](https://leetcode.com/problems/heaters/) | [0475_heaters.ipynb](DSA/Medium/0475_heaters.ipynb) |
+| 0477 | [Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/) | [0477_total_hamming_distance.ipynb](DSA/Medium/0477_total_hamming_distance.ipynb) |
+| 0478 | [Generate Random Point in a Circle](https://leetcode.com/problems/generate-random-point-in-a-circle/) | [0478_generate_random_point_in_a_circle.ipynb](DSA/Medium/0478_generate_random_point_in_a_circle.ipynb) |
+| 0481 | [Magical String](https://leetcode.com/problems/magical-string/) | [0481_magical_string.ipynb](DSA/Medium/0481_magical_string.ipynb) |
+| 0484 | [Find Permutation](https://leetcode.com/problems/find-permutation/) | [0484_find_permutation.ipynb](DSA/Medium/0484_find_permutation.ipynb) |
+| 0486 | [Predict the Winner](https://leetcode.com/problems/predict-the-winner/) | [0486_predict_the_winner.ipynb](DSA/Medium/0486_predict_the_winner.ipynb) |
+| 0487 | [Max Consecutive Ones II](https://leetcode.com/problems/max-consecutive-ones-ii/) | [0487_max_consecutive_ones_ii.ipynb](DSA/Medium/0487_max_consecutive_ones_ii.ipynb) |
+| 0490 | [The Maze](https://leetcode.com/problems/the-maze/) | [0490_the_maze.ipynb](DSA/Medium/0490_the_maze.ipynb) |
+| 0491 | [Non-decreasing Subsequences](https://leetcode.com/problems/non-decreasing-subsequences/) | [0491_non_decreasing_subsequences.ipynb](DSA/Medium/0491_non_decreasing_subsequences.ipynb) |
+| 0494 | [Target Sum](https://leetcode.com/problems/target-sum/) | [0494_target_sum.ipynb](DSA/Medium/0494_target_sum.ipynb) |
+| 0497 | [Random Point in Non-overlapping Rectangles](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/) | [0497_random_point_in_non_overlapping_rectangles.ipynb](DSA/Medium/0497_random_point_in_non_overlapping_rectangles.ipynb) |
+| 0498 | [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/) | [0498_diagonal_traverse.ipynb](DSA/Medium/0498_diagonal_traverse.ipynb) |
+| 0503 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | [0503_next_greater_element_ii.ipynb](DSA/Medium/0503_next_greater_element_ii.ipynb) |
+| 0505 | [The Maze II](https://leetcode.com/problems/the-maze-ii/) | [0505_the_maze_ii.ipynb](DSA/Medium/0505_the_maze_ii.ipynb) |
+| 0508 | [Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/) | [0508_most_frequent_subtree_sum.ipynb](DSA/Medium/0508_most_frequent_subtree_sum.ipynb) |
+| 0510 | [Inorder Successor in BST II](https://leetcode.com/problems/inorder-successor-in-bst-ii/) | [0510_inorder_successor_in_bst_ii.ipynb](DSA/Medium/0510_inorder_successor_in_bst_ii.ipynb) |
+| 0513 | [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) | [0513_find_bottom_left_tree_value.ipynb](DSA/Medium/0513_find_bottom_left_tree_value.ipynb) |
+| 0515 | [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) | [0515_find_largest_value_in_each_tree_row.ipynb](DSA/Medium/0515_find_largest_value_in_each_tree_row.ipynb) |
 | 4044 | [Count Good Cyclic Rotations](https://leetcode.com/problems/count-good-cyclic-rotations/) | [4044_count_good_cyclic_rotations.ipynb](DSA/Medium/4044_count_good_cyclic_rotations.ipynb) |
 | 4045 | [Count Robot Groups](https://leetcode.com/problems/count-robot-groups/) | [4045_count_robot_groups.ipynb](DSA/Medium/4045_count_robot_groups.ipynb) |
 | 4049 | [Count Values With Equally Spaced Occurrences II](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-ii/) | [4049_count_values_with_equally_spaced_occurrences_ii.ipynb](DSA/Medium/4049_count_values_with_equally_spaced_occurrences_ii.ipynb) |
