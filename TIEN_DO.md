@@ -387,3 +387,11 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 - Lỗi: không có
 - Bỏ qua: không có
 - Ghi chú: Đề lấy từ leetcode.doocs.org (bản diễn giải), nên đối chiếu từng chữ với đề gốc: 3950 (cặp bit liền kề tính chồng lấn), 3954 (tên method sumOfGoodIntegers), 3963 (cách chấm đáp án hợp lệ), 3992 (cách hiểu đề). Slug suy ra từ tên bài.
+
+### Đợt Hard 10 (nhóm Hard, tính từ cuối danh sách đếm lên) — 20/11/2026
+
+- Đã xong: 3981, 3977, 3973, 3972, 3971, 3967, 3966, 3962, 3957, 3956, 3953, 3949, 3948, 3944, 3943, 3939, 3934, 3930, 3929, 3928
+- Lỗi: không có
+- Bỏ qua: không có
+- Ghi chú: Tên bài/đề/chữ ký lấy từ LeetCode GraphQL + bản doocs/leetcode. Bài Premium (đề lấy từ doocs, đối chiếu lại nếu có tài khoản Premium): 3973, 3972, 3967, 3949, 3944, 3930, 3929. Tên phương thức suy luận (không có skeleton), cần đối chiếu: 3973 `distinctGatePaths`, 3972 `countValidSubarrays`, 3967 `minFinishTime`, 3949 `subtreeInversionSum`, 3944 `minOperations`, 3929 `minPartitionScore` (3930 `powerUpdate` theo doocs). 3981 tên method thật là `interleaveCharacters`. Cách hiểu đề cần đối chiếu: 3953 (phần tử có thể giữ nguyên giá trị gốc dù lớn hơn maxVal), 3949 (ràng buộc khoảng cách ≥ k áp dụng cho mọi cặp nút được đảo), 3973, 3967. 3957 dùng Aliens trick (WQS), kiểm chứng bằng assert chứ không chứng minh chặt; gợi ý O(nm) của doocs không đủ nhanh. Hiệu năng Python có thể chậm trên LeetCode: 3962 (~6s ở n=1500), 3943 (lớp Solution sqrt-decomposition ~10s ở 5·10^4; có lớp SolutionNumpy dự phòng — chọn lớp nộp). 3934 dùng suffix automaton, hash mod 2^61−1. Chạy 1 agent/lượt tuần tự theo yêu cầu.
+- ID Hard tiếp theo (tính từ cuối đếm lên): 3924 (rồi 3920, 3916, 3915, …)

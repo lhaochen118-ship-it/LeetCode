@@ -15,7 +15,7 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 1197 notebook** — DSA/Easy: 773 · DSA/Medium: 203 · DSA/Hard: 208 · SQL: 11 · Shell: 2
+**Tổng: 1217 notebook** — DSA/Easy: 773 · DSA/Medium: 203 · DSA/Hard: 228 · SQL: 11 · Shell: 2
 
 ## DSA — Easy — 773 bài
 
@@ -1003,7 +1003,7 @@ Shell/                            bài Shell (Bash)
 | 4112 | [Maximize Score After Zeroing Subtrees](https://leetcode.com/problems/maximize-score-after-zeroing-subtrees/) | [4112_maximize_score_after_zeroing_subtrees.ipynb](DSA/Medium/4112_maximize_score_after_zeroing_subtrees.ipynb) |
 | 4113 | [Game of Divisible Sums](https://leetcode.com/problems/game-of-divisible-sums/) | [4113_game_of_divisible_sums.ipynb](DSA/Medium/4113_game_of_divisible_sums.ipynb) |
 
-## DSA — Hard — 208 bài
+## DSA — Hard — 228 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -1175,6 +1175,26 @@ Shell/                            bài Shell (Bash)
 | 0854 | [K-Similar Strings](https://leetcode.com/problems/k-similar-strings/) | [0854_k_similar_strings.ipynb](DSA/Hard/0854_k_similar_strings.ipynb) |
 | 0857 | [Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/) | [0857_minimum_cost_to_hire_k_workers.ipynb](DSA/Hard/0857_minimum_cost_to_hire_k_workers.ipynb) |
 | 0862 | [Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/) | [0862_shortest_subarray_with_sum_at_least_k.ipynb](DSA/Hard/0862_shortest_subarray_with_sum_at_least_k.ipynb) |
+| 3928 | [Minimum Cost to Buy Apples II](https://leetcode.com/problems/minimum-cost-to-buy-apples-ii/) | [3928_minimum_cost_to_buy_apples_ii.ipynb](DSA/Hard/3928_minimum_cost_to_buy_apples_ii.ipynb) |
+| 3929 | [Minimum Partition Score II](https://leetcode.com/problems/minimum-partition-score-ii/) | [3929_minimum_partition_score_ii.ipynb](DSA/Hard/3929_minimum_partition_score_ii.ipynb) |
+| 3930 | [Power Update After K-th Largest Insertion II](https://leetcode.com/problems/power-update-after-k-th-largest-insertion-ii/) | [3930_power_update_after_k_th_largest_insertion_ii.ipynb](DSA/Hard/3930_power_update_after_k_th_largest_insertion_ii.ipynb) |
+| 3934 | [Smallest Unique Subarray](https://leetcode.com/problems/smallest-unique-subarray/) | [3934_smallest_unique_subarray.ipynb](DSA/Hard/3934_smallest_unique_subarray.ipynb) |
+| 3939 | [Count Non Adjacent Subsets in a Rooted Tree](https://leetcode.com/problems/count-non-adjacent-subsets-in-a-rooted-tree/) | [3939_count_non_adjacent_subsets_in_a_rooted_tree.ipynb](DSA/Hard/3939_count_non_adjacent_subsets_in_a_rooted_tree.ipynb) |
+| 3943 | [Number of Pairs After Increment](https://leetcode.com/problems/number-of-pairs-after-increment/) | [3943_number_of_pairs_after_increment.ipynb](DSA/Hard/3943_number_of_pairs_after_increment.ipynb) |
+| 3944 | [Minimum Operations to Make Array Modulo Alternating II](https://leetcode.com/problems/minimum-operations-to-make-array-modulo-alternating-ii/) | [3944_minimum_operations_to_make_array_modulo_alternating_ii.ipynb](DSA/Hard/3944_minimum_operations_to_make_array_modulo_alternating_ii.ipynb) |
+| 3948 | [Lexicographically Maximum MEX Array](https://leetcode.com/problems/lexicographically-maximum-mex-array/) | [3948_lexicographically_maximum_mex_array.ipynb](DSA/Hard/3948_lexicographically_maximum_mex_array.ipynb) |
+| 3949 | [Subtree Inversion Sum II](https://leetcode.com/problems/subtree-inversion-sum-ii/) | [3949_subtree_inversion_sum_ii.ipynb](DSA/Hard/3949_subtree_inversion_sum_ii.ipynb) |
+| 3953 | [Maximum Score with Co-Prime Element](https://leetcode.com/problems/maximum-score-with-co-prime-element/) | [3953_maximum_score_with_co_prime_element.ipynb](DSA/Hard/3953_maximum_score_with_co_prime_element.ipynb) |
+| 3956 | [Maximum Sum of M Non-Overlapping Subarrays I](https://leetcode.com/problems/maximum-sum-of-m-non-overlapping-subarrays-i/) | [3956_maximum_sum_of_m_non_overlapping_subarrays_i.ipynb](DSA/Hard/3956_maximum_sum_of_m_non_overlapping_subarrays_i.ipynb) |
+| 3957 | [Maximum Sum of M Non-Overlapping Subarrays II](https://leetcode.com/problems/maximum-sum-of-m-non-overlapping-subarrays-ii/) | [3957_maximum_sum_of_m_non_overlapping_subarrays_ii.ipynb](DSA/Hard/3957_maximum_sum_of_m_non_overlapping_subarrays_ii.ipynb) |
+| 3962 | [Maximum Subarray Sum After at Most K Swaps](https://leetcode.com/problems/maximum-subarray-sum-after-at-most-k-swaps/) | [3962_maximum_subarray_sum_after_at_most_k_swaps.ipynb](DSA/Hard/3962_maximum_subarray_sum_after_at_most_k_swaps.ipynb) |
+| 3966 | [Count Good Integers in a Range](https://leetcode.com/problems/count-good-integers-in-a-range/) | [3966_count_good_integers_in_a_range.ipynb](DSA/Hard/3966_count_good_integers_in_a_range.ipynb) |
+| 3967 | [Finish Time of Tasks II](https://leetcode.com/problems/finish-time-of-tasks-ii/) | [3967_finish_time_of_tasks_ii.ipynb](DSA/Hard/3967_finish_time_of_tasks_ii.ipynb) |
+| 3971 | [Maximum Total Value](https://leetcode.com/problems/maximum-total-value/) | [3971_maximum_total_value.ipynb](DSA/Hard/3971_maximum_total_value.ipynb) |
+| 3972 | [Valid Subarrays With Matching Sum Digits II](https://leetcode.com/problems/valid-subarrays-with-matching-sum-digits-ii/) | [3972_valid_subarrays_with_matching_sum_digits_ii.ipynb](DSA/Hard/3972_valid_subarrays_with_matching_sum_digits_ii.ipynb) |
+| 3973 | [Distinct Gate Paths to LCA](https://leetcode.com/problems/distinct-gate-paths-to-lca/) | [3973_distinct_gate_paths_to_lca.ipynb](DSA/Hard/3973_distinct_gate_paths_to_lca.ipynb) |
+| 3977 | [Minimum Time to Reach Target With Limited Power](https://leetcode.com/problems/minimum-time-to-reach-target-with-limited-power/) | [3977_minimum_time_to_reach_target_with_limited_power.ipynb](DSA/Hard/3977_minimum_time_to_reach_target_with_limited_power.ipynb) |
+| 3981 | [Count Distinct Ways to Form Target from Two Strings](https://leetcode.com/problems/count-distinct-ways-to-form-target-from-two-strings/) | [3981_count_distinct_ways_to_form_target_from_two_strings.ipynb](DSA/Hard/3981_count_distinct_ways_to_form_target_from_two_strings.ipynb) |
 | 3985 | [Palindromic Subarray Sum](https://leetcode.com/problems/palindromic-subarray-sum/) | [3985_palindromic_subarray_sum.ipynb](DSA/Hard/3985_palindromic_subarray_sum.ipynb) |
 | 3989 | [Maximum Consistent Columns in a Grid](https://leetcode.com/problems/maximum-consistent-columns-in-a-grid/) | [3989_maximum_consistent_columns_in_a_grid.ipynb](DSA/Hard/3989_maximum_consistent_columns_in_a_grid.ipynb) |
 | 3990 | [Create Grid With Exactly K Paths II](https://leetcode.com/problems/create-grid-with-exactly-k-paths-ii/) | [3990_create_grid_with_exactly_k_paths_ii.ipynb](DSA/Hard/3990_create_grid_with_exactly_k_paths_ii.ipynb) |
