@@ -15,7 +15,7 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 1437 notebook** — DSA/Easy: 833 · DSA/Medium: 323 · DSA/Hard: 268 · SQL: 11 · Shell: 2
+**Tổng: 1457 notebook** — DSA/Easy: 833 · DSA/Medium: 343 · DSA/Hard: 268 · SQL: 11 · Shell: 2
 
 ## DSA — Easy — 833 bài
 
@@ -855,7 +855,7 @@ Shell/                            bài Shell (Bash)
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [4097_minimum_value_of_merged_integers.ipynb](DSA/Easy/4097_minimum_value_of_merged_integers.ipynb) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [4111_count_consistent_subarrays_i.ipynb](DSA/Easy/4111_count_consistent_subarrays_i.ipynb) |
 
-## DSA — Medium — 323 bài
+## DSA — Medium — 343 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -1163,6 +1163,26 @@ Shell/                            bài Shell (Bash)
 | 0539 | [Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/) | [0539_minimum_time_difference.ipynb](DSA/Medium/0539_minimum_time_difference.ipynb) |
 | 0540 | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [0540_single_element_in_a_sorted_array.ipynb](DSA/Medium/0540_single_element_in_a_sorted_array.ipynb) |
 | 0542 | [01 Matrix](https://leetcode.com/problems/01-matrix/) | [0542_01_matrix.ipynb](DSA/Medium/0542_01_matrix.ipynb) |
+| 0544 | [Output Contest Matches](https://leetcode.com/problems/output-contest-matches/) | [0544_output_contest_matches.ipynb](DSA/Medium/0544_output_contest_matches.ipynb) |
+| 0545 | [Boundary of Binary Tree](https://leetcode.com/problems/boundary-of-binary-tree/) | [0545_boundary_of_binary_tree.ipynb](DSA/Medium/0545_boundary_of_binary_tree.ipynb) |
+| 0547 | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | [0547_number_of_provinces.ipynb](DSA/Medium/0547_number_of_provinces.ipynb) |
+| 0548 | [Split Array with Equal Sum](https://leetcode.com/problems/split-array-with-equal-sum/) | [0548_split_array_with_equal_sum.ipynb](DSA/Medium/0548_split_array_with_equal_sum.ipynb) |
+| 0549 | [Binary Tree Longest Consecutive Sequence II](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence-ii/) | [0549_binary_tree_longest_consecutive_sequence_ii.ipynb](DSA/Medium/0549_binary_tree_longest_consecutive_sequence_ii.ipynb) |
+| 0553 | [Optimal Division](https://leetcode.com/problems/optimal-division/) | [0553_optimal_division.ipynb](DSA/Medium/0553_optimal_division.ipynb) |
+| 0554 | [Brick Wall](https://leetcode.com/problems/brick-wall/) | [0554_brick_wall.ipynb](DSA/Medium/0554_brick_wall.ipynb) |
+| 0555 | [Split Concatenated Strings](https://leetcode.com/problems/split-concatenated-strings/) | [0555_split_concatenated_strings.ipynb](DSA/Medium/0555_split_concatenated_strings.ipynb) |
+| 0556 | [Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/) | [0556_next_greater_element_iii.ipynb](DSA/Medium/0556_next_greater_element_iii.ipynb) |
+| 0558 | [Logical OR of Two Binary Grids Represented as Quad-Trees](https://leetcode.com/problems/logical-or-of-two-binary-grids-represented-as-quad-trees/) | [0558_logical_or_of_two_binary_grids_represented_as_quad_trees.ipynb](DSA/Medium/0558_logical_or_of_two_binary_grids_represented_as_quad_trees.ipynb) |
+| 0560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [0560_subarray_sum_equals_k.ipynb](DSA/Medium/0560_subarray_sum_equals_k.ipynb) |
+| 0562 | [Longest Line of Consecutive One in Matrix](https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix/) | [0562_longest_line_of_consecutive_one_in_matrix.ipynb](DSA/Medium/0562_longest_line_of_consecutive_one_in_matrix.ipynb) |
+| 0565 | [Array Nesting](https://leetcode.com/problems/array-nesting/) | [0565_array_nesting.ipynb](DSA/Medium/0565_array_nesting.ipynb) |
+| 0567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [0567_permutation_in_string.ipynb](DSA/Medium/0567_permutation_in_string.ipynb) |
+| 0573 | [Squirrel Simulation](https://leetcode.com/problems/squirrel-simulation/) | [0573_squirrel_simulation.ipynb](DSA/Medium/0573_squirrel_simulation.ipynb) |
+| 0576 | [Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths/) | [0576_out_of_boundary_paths.ipynb](DSA/Medium/0576_out_of_boundary_paths.ipynb) |
+| 0581 | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | [0581_shortest_unsorted_continuous_subarray.ipynb](DSA/Medium/0581_shortest_unsorted_continuous_subarray.ipynb) |
+| 0582 | [Kill Process](https://leetcode.com/problems/kill-process/) | [0582_kill_process.ipynb](DSA/Medium/0582_kill_process.ipynb) |
+| 0583 | [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/) | [0583_delete_operation_for_two_strings.ipynb](DSA/Medium/0583_delete_operation_for_two_strings.ipynb) |
+| 0592 | [Fraction Addition and Subtraction](https://leetcode.com/problems/fraction-addition-and-subtraction/) | [0592_fraction_addition_and_subtraction.ipynb](DSA/Medium/0592_fraction_addition_and_subtraction.ipynb) |
 | 4044 | [Count Good Cyclic Rotations](https://leetcode.com/problems/count-good-cyclic-rotations/) | [4044_count_good_cyclic_rotations.ipynb](DSA/Medium/4044_count_good_cyclic_rotations.ipynb) |
 | 4045 | [Count Robot Groups](https://leetcode.com/problems/count-robot-groups/) | [4045_count_robot_groups.ipynb](DSA/Medium/4045_count_robot_groups.ipynb) |
 | 4049 | [Count Values With Equally Spaced Occurrences II](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-ii/) | [4049_count_values_with_equally_spaced_occurrences_ii.ipynb](DSA/Medium/4049_count_values_with_equally_spaced_occurrences_ii.ipynb) |
