@@ -15,7 +15,7 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 1337 notebook** — DSA/Easy: 833 · DSA/Medium: 263 · DSA/Hard: 228 · SQL: 11 · Shell: 2
+**Tổng: 1357 notebook** — DSA/Easy: 833 · DSA/Medium: 263 · DSA/Hard: 248 · SQL: 11 · Shell: 2
 
 ## DSA — Easy — 833 bài
 
@@ -1123,7 +1123,7 @@ Shell/                            bài Shell (Bash)
 | 4112 | [Maximize Score After Zeroing Subtrees](https://leetcode.com/problems/maximize-score-after-zeroing-subtrees/) | [4112_maximize_score_after_zeroing_subtrees.ipynb](DSA/Medium/4112_maximize_score_after_zeroing_subtrees.ipynb) |
 | 4113 | [Game of Divisible Sums](https://leetcode.com/problems/game-of-divisible-sums/) | [4113_game_of_divisible_sums.ipynb](DSA/Medium/4113_game_of_divisible_sums.ipynb) |
 
-## DSA — Hard — 228 bài
+## DSA — Hard — 248 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -1295,6 +1295,26 @@ Shell/                            bài Shell (Bash)
 | 0854 | [K-Similar Strings](https://leetcode.com/problems/k-similar-strings/) | [0854_k_similar_strings.ipynb](DSA/Hard/0854_k_similar_strings.ipynb) |
 | 0857 | [Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/) | [0857_minimum_cost_to_hire_k_workers.ipynb](DSA/Hard/0857_minimum_cost_to_hire_k_workers.ipynb) |
 | 0862 | [Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/) | [0862_shortest_subarray_with_sum_at_least_k.ipynb](DSA/Hard/0862_shortest_subarray_with_sum_at_least_k.ipynb) |
+| 3859 | [Count Subarrays With K Distinct Integers](https://leetcode.com/problems/count-subarrays-with-k-distinct-integers/) | [3859_count_subarrays_with_k_distinct_integers.ipynb](DSA/Hard/3859_count_subarrays_with_k_distinct_integers.ipynb) |
+| 3864 | [Minimum Cost to Partition a Binary String](https://leetcode.com/problems/minimum-cost-to-partition-a-binary-string/) | [3864_minimum_cost_to_partition_a_binary_string.ipynb](DSA/Hard/3864_minimum_cost_to_partition_a_binary_string.ipynb) |
+| 3869 | [Count Fancy Numbers in a Range](https://leetcode.com/problems/count-fancy-numbers-in-a-range/) | [3869_count_fancy_numbers_in_a_range.ipynb](DSA/Hard/3869_count_fancy_numbers_in_a_range.ipynb) |
+| 3873 | [Maximum Points Activated with One Addition](https://leetcode.com/problems/maximum-points-activated-with-one-addition/) | [3873_maximum_points_activated_with_one_addition.ipynb](DSA/Hard/3873_maximum_points_activated_with_one_addition.ipynb) |
+| 3878 | [Count Good Subarrays](https://leetcode.com/problems/count-good-subarrays/) | [3878_count_good_subarrays.ipynb](DSA/Hard/3878_count_good_subarrays.ipynb) |
+| 3883 | [Count Non Decreasing Arrays With Given Digit Sums](https://leetcode.com/problems/count-non-decreasing-arrays-with-given-digit-sums/) | [3883_count_non_decreasing_arrays_with_given_digit_sums.ipynb](DSA/Hard/3883_count_non_decreasing_arrays_with_given_digit_sums.ipynb) |
+| 3886 | [Sum of Sortable Integers](https://leetcode.com/problems/sum-of-sortable-integers/) | [3886_sum_of_sortable_integers.ipynb](DSA/Hard/3886_sum_of_sortable_integers.ipynb) |
+| 3887 | [Incremental Even-Weighted Cycle Queries](https://leetcode.com/problems/incremental-even-weighted-cycle-queries/) | [3887_incremental_even_weighted_cycle_queries.ipynb](DSA/Hard/3887_incremental_even_weighted_cycle_queries.ipynb) |
+| 3888 | [Minimum Operations to Make All Grid Elements Equal](https://leetcode.com/problems/minimum-operations-to-make-all-grid-elements-equal/) | [3888_minimum_operations_to_make_all_grid_elements_equal.ipynb](DSA/Hard/3888_minimum_operations_to_make_all_grid_elements_equal.ipynb) |
+| 3892 | [Minimum Operations to Achieve At Least K Peaks](https://leetcode.com/problems/minimum-operations-to-achieve-at-least-k-peaks/) | [3892_minimum_operations_to_achieve_at_least_k_peaks.ipynb](DSA/Hard/3892_minimum_operations_to_achieve_at_least_k_peaks.ipynb) |
+| 3897 | [Maximum Value of Concatenated Binary Segments](https://leetcode.com/problems/maximum-value-of-concatenated-binary-segments/) | [3897_maximum_value_of_concatenated_binary_segments.ipynb](DSA/Hard/3897_maximum_value_of_concatenated_binary_segments.ipynb) |
+| 3901 | [Good Subsequence Queries](https://leetcode.com/problems/good-subsequence-queries/) | [3901_good_subsequence_queries.ipynb](DSA/Hard/3901_good_subsequence_queries.ipynb) |
+| 3902 | [Zigzag Level Sum of Binary Tree](https://leetcode.com/problems/zigzag-level-sum-of-binary-tree/) | [3902_zigzag_level_sum_of_binary_tree.ipynb](DSA/Hard/3902_zigzag_level_sum_of_binary_tree.ipynb) |
+| 3906 | [Count Good Integers on a Grid Path](https://leetcode.com/problems/count-good-integers-on-a-grid-path/) | [3906_count_good_integers_on_a_grid_path.ipynb](DSA/Hard/3906_count_good_integers_on_a_grid_path.ipynb) |
+| 3910 | [Count Connected Subgraphs with Even Node Sum](https://leetcode.com/problems/count-connected-subgraphs-with-even-node-sum/) | [3910_count_connected_subgraphs_with_even_node_sum.ipynb](DSA/Hard/3910_count_connected_subgraphs_with_even_node_sum.ipynb) |
+| 3911 | [K-th Smallest Remaining Even Integer in Subarray Queries](https://leetcode.com/problems/k-th-smallest-remaining-even-integer-in-subarray-queries/) | [3911_k_th_smallest_remaining_even_integer_in_subarray_queries.ipynb](DSA/Hard/3911_k_th_smallest_remaining_even_integer_in_subarray_queries.ipynb) |
+| 3915 | [Maximum Sum of Alternating Subsequence With Distance at Least K](https://leetcode.com/problems/maximum-sum-of-alternating-subsequence-with-distance-at-least-k/) | [3915_maximum_sum_of_alternating_subsequence_with_distance_at_least_k.ipynb](DSA/Hard/3915_maximum_sum_of_alternating_subsequence_with_distance_at_least_k.ipynb) |
+| 3916 | [Number of ZigZag Arrays III](https://leetcode.com/problems/number-of-zigzag-arrays-iii/) | [3916_number_of_zigzag_arrays_iii.ipynb](DSA/Hard/3916_number_of_zigzag_arrays_iii.ipynb) |
+| 3920 | [Maximize Fixed Points After Deletions](https://leetcode.com/problems/maximize-fixed-points-after-deletions/) | [3920_maximize_fixed_points_after_deletions.ipynb](DSA/Hard/3920_maximize_fixed_points_after_deletions.ipynb) |
+| 3924 | [Minimum Threshold Path With Limited Heavy Edges](https://leetcode.com/problems/minimum-threshold-path-with-limited-heavy-edges/) | [3924_minimum_threshold_path_with_limited_heavy_edges.ipynb](DSA/Hard/3924_minimum_threshold_path_with_limited_heavy_edges.ipynb) |
 | 3928 | [Minimum Cost to Buy Apples II](https://leetcode.com/problems/minimum-cost-to-buy-apples-ii/) | [3928_minimum_cost_to_buy_apples_ii.ipynb](DSA/Hard/3928_minimum_cost_to_buy_apples_ii.ipynb) |
 | 3929 | [Minimum Partition Score II](https://leetcode.com/problems/minimum-partition-score-ii/) | [3929_minimum_partition_score_ii.ipynb](DSA/Hard/3929_minimum_partition_score_ii.ipynb) |
 | 3930 | [Power Update After K-th Largest Insertion II](https://leetcode.com/problems/power-update-after-k-th-largest-insertion-ii/) | [3930_power_update_after_k_th_largest_insertion_ii.ipynb](DSA/Hard/3930_power_update_after_k_th_largest_insertion_ii.ipynb) |
