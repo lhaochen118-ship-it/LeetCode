@@ -15,7 +15,7 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 1417 notebook** — DSA/Easy: 833 · DSA/Medium: 303 · DSA/Hard: 268 · SQL: 11 · Shell: 2
+**Tổng: 1437 notebook** — DSA/Easy: 833 · DSA/Medium: 323 · DSA/Hard: 268 · SQL: 11 · Shell: 2
 
 ## DSA — Easy — 833 bài
 
@@ -855,7 +855,7 @@ Shell/                            bài Shell (Bash)
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [4097_minimum_value_of_merged_integers.ipynb](DSA/Easy/4097_minimum_value_of_merged_integers.ipynb) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [4111_count_consistent_subarrays_i.ipynb](DSA/Easy/4111_count_consistent_subarrays_i.ipynb) |
 
-## DSA — Medium — 303 bài
+## DSA — Medium — 323 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -1143,6 +1143,26 @@ Shell/                            bài Shell (Bash)
 | 0510 | [Inorder Successor in BST II](https://leetcode.com/problems/inorder-successor-in-bst-ii/) | [0510_inorder_successor_in_bst_ii.ipynb](DSA/Medium/0510_inorder_successor_in_bst_ii.ipynb) |
 | 0513 | [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) | [0513_find_bottom_left_tree_value.ipynb](DSA/Medium/0513_find_bottom_left_tree_value.ipynb) |
 | 0515 | [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) | [0515_find_largest_value_in_each_tree_row.ipynb](DSA/Medium/0515_find_largest_value_in_each_tree_row.ipynb) |
+| 0516 | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | [0516_longest_palindromic_subsequence.ipynb](DSA/Medium/0516_longest_palindromic_subsequence.ipynb) |
+| 0518 | [Coin Change II](https://leetcode.com/problems/coin-change-ii/) | [0518_coin_change_ii.ipynb](DSA/Medium/0518_coin_change_ii.ipynb) |
+| 0519 | [Random Flip Matrix](https://leetcode.com/problems/random-flip-matrix/) | [0519_random_flip_matrix.ipynb](DSA/Medium/0519_random_flip_matrix.ipynb) |
+| 0522 | [Longest Uncommon Subsequence II](https://leetcode.com/problems/longest-uncommon-subsequence-ii/) | [0522_longest_uncommon_subsequence_ii.ipynb](DSA/Medium/0522_longest_uncommon_subsequence_ii.ipynb) |
+| 0523 | [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | [0523_continuous_subarray_sum.ipynb](DSA/Medium/0523_continuous_subarray_sum.ipynb) |
+| 0524 | [Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/) | [0524_longest_word_in_dictionary_through_deleting.ipynb](DSA/Medium/0524_longest_word_in_dictionary_through_deleting.ipynb) |
+| 0525 | [Contiguous Array](https://leetcode.com/problems/contiguous-array/) | [0525_contiguous_array.ipynb](DSA/Medium/0525_contiguous_array.ipynb) |
+| 0526 | [Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/) | [0526_beautiful_arrangement.ipynb](DSA/Medium/0526_beautiful_arrangement.ipynb) |
+| 0528 | [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/) | [0528_random_pick_with_weight.ipynb](DSA/Medium/0528_random_pick_with_weight.ipynb) |
+| 0529 | [Minesweeper](https://leetcode.com/problems/minesweeper/) | [0529_minesweeper.ipynb](DSA/Medium/0529_minesweeper.ipynb) |
+| 0531 | [Lonely Pixel I](https://leetcode.com/problems/lonely-pixel-i/) | [0531_lonely_pixel_i.ipynb](DSA/Medium/0531_lonely_pixel_i.ipynb) |
+| 0532 | [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/) | [0532_k_diff_pairs_in_an_array.ipynb](DSA/Medium/0532_k_diff_pairs_in_an_array.ipynb) |
+| 0533 | [Lonely Pixel II](https://leetcode.com/problems/lonely-pixel-ii/) | [0533_lonely_pixel_ii.ipynb](DSA/Medium/0533_lonely_pixel_ii.ipynb) |
+| 0535 | [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/) | [0535_encode_and_decode_tinyurl.ipynb](DSA/Medium/0535_encode_and_decode_tinyurl.ipynb) |
+| 0536 | [Construct Binary Tree from String](https://leetcode.com/problems/construct-binary-tree-from-string/) | [0536_construct_binary_tree_from_string.ipynb](DSA/Medium/0536_construct_binary_tree_from_string.ipynb) |
+| 0537 | [Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/) | [0537_complex_number_multiplication.ipynb](DSA/Medium/0537_complex_number_multiplication.ipynb) |
+| 0538 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | [0538_convert_bst_to_greater_tree.ipynb](DSA/Medium/0538_convert_bst_to_greater_tree.ipynb) |
+| 0539 | [Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/) | [0539_minimum_time_difference.ipynb](DSA/Medium/0539_minimum_time_difference.ipynb) |
+| 0540 | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [0540_single_element_in_a_sorted_array.ipynb](DSA/Medium/0540_single_element_in_a_sorted_array.ipynb) |
+| 0542 | [01 Matrix](https://leetcode.com/problems/01-matrix/) | [0542_01_matrix.ipynb](DSA/Medium/0542_01_matrix.ipynb) |
 | 4044 | [Count Good Cyclic Rotations](https://leetcode.com/problems/count-good-cyclic-rotations/) | [4044_count_good_cyclic_rotations.ipynb](DSA/Medium/4044_count_good_cyclic_rotations.ipynb) |
 | 4045 | [Count Robot Groups](https://leetcode.com/problems/count-robot-groups/) | [4045_count_robot_groups.ipynb](DSA/Medium/4045_count_robot_groups.ipynb) |
 | 4049 | [Count Values With Equally Spaced Occurrences II](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-ii/) | [4049_count_values_with_equally_spaced_occurrences_ii.ipynb](DSA/Medium/4049_count_values_with_equally_spaced_occurrences_ii.ipynb) |
