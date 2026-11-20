@@ -372,3 +372,11 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 - Lỗi: không có
 - Bỏ qua: không có
 - Ghi chú: Đề lấy từ leetcode.doocs.org (bản diễn giải), nên đối chiếu từng chữ với đề gốc: 3838, 3842, 3852, 3875, 3894 (biên màu đèn), 3903, 3921. Slug suy ra từ tên bài.
+
+### Đợt 31 — 20/11/2026
+
+- Đã xong: 3042, 3046, 3062, 3065, 3069, 3074, 3079, 3083, 3090, 3095, 3099, 3105, 3110, 3114, 3120, 3127, 3131, 3136, 3142, 3146
+- Lỗi: không có
+- Bỏ qua: không có (đã kiểm tra trước: 20 ID chưa có file, chưa có trong Excel/TIEN_DO và không trùng với main)
+- Ghi chú: Bài Premium (đề viết theo hiểu biết): 3062. Ví dụ cần đối chiếu với đề gốc: 3062, 3095 (ví dụ 4 tự dựng), 3114 (ví dụ 3 tự dựng), 3090 (ví dụ 3 tự dựng), 3079 (ví dụ 3 tự dựng), 3042 (ràng buộc độ dài từ). 3110 và 3142 dùng `itertools.pairwise` (Python ≥ 3.10). Đợt này chỉ chạy 1 agent theo yêu cầu. Đã gộp main (đợt 38…) trước khi ghi.
+- ID tiếp theo (sau 3146): tra Excel (Easy chưa có, ID > 3146; hiện là 3151); đợt 25 (2475–2566) vẫn dở, xem mục Đợt 25.
