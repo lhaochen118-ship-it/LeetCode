@@ -423,3 +423,12 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 - Số đếm sau đợt: DSA 1.264 (Easy 833 · Medium 203 · Hard 228), SQL 11, Shell 2 → README 1.277 = số file; Excel 1.264 "Đã có notebook" ở sheet DSA.
 - Nhóm Easy đã xong toàn bộ: 833/833 (không còn ID Easy chưa có theo Excel).
 - ID tiếp theo: chuyển sang Medium, theo ID tăng dần, tra Excel lọc ID chưa có (hiện là 343, 347, 348, 351, 353, 355, 356, 357, 360, 361, 362, 364, 365, 366, 368, 369, 370, 371, 372, 373). Còn 1.755 bài Medium chưa có (kiểm tra lại với main mới nhất trước khi làm, vì các khung chat khác có thể đã làm một số đoạn Medium).
+
+### Đợt 35 (Medium, tính từ đầu danh sách) — 20/11/2026
+
+- Đã xong (Medium): 0343, 0347, 0348, 0351, 0353, 0355, 0356, 0357, 0360, 0361, 0362, 0364, 0365, 0366, 0368, 0369, 0370, 0371, 0372, 0373
+- Lỗi: không có
+- Bỏ qua: không có (đã kiểm tra trước: 20 ID chưa có file, chưa có trong Excel/TIEN_DO; không trùng với main)
+- Ghi chú: Bài Premium (đề viết theo hiểu biết, đối chiếu lại nếu có tài khoản Premium): 0348, 0351, 0353, 0356, 0360, 0361, 0362, 0364, 0366, 0369, 0370. Đề lấy từ bản doocs vì LeetCode GraphQL không truy cập được. Cần đối chiếu: 0351 (đáp án theo độ dài và trường hợp m > n → 0 do tự vét cạn), 0353 (ván 2×2 tự dựng), 0356 (cách hiểu điểm lặp theo tập hợp), 0361 (lưới không ô trống → 0), 0365 (tên tham số skeleton `x, y, target` theo trí nhớ), 0369/0370/0371/0372 (một số ví dụ tự dựng, ghi chú trong notebook). 0373 và 0368 nhiều đáp án đúng nên test bằng hàm kiểm tra tính hợp lệ. Lớp NestedInteger (0364), TreeNode (0366), ListNode (0369) tự dựng trong notebook. Chạy 4 agent song song (5 bài/agent); đã tự kiểm tra lại 20 file: 66–80 cell, 36.338–53.613 ký tự, đủ mục 1–20, không lỗi/stderr, cell TODO chỉ gán/def rỗng. Đã gộp main trước khi ghi.
+- Số đếm sau đợt: DSA 1.284 (Easy 833 · Medium 223 · Hard 228), SQL 11, Shell 2 → README 1.297 = số file; Excel 1.284 "Đã có notebook" ở sheet DSA.
+- ID Medium tiếp theo (tra Excel, chưa có): 375, 376, 377, 378, 379, 380, 382, 384, 385, 386, 388, 390, 393, 394, 395, 396, 397, 398, 399, 400. Còn 1.735 bài Medium chưa có (kiểm tra lại với main mới nhất trước khi làm).

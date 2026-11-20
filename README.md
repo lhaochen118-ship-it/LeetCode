@@ -15,7 +15,7 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 1277 notebook** — DSA/Easy: 833 · DSA/Medium: 203 · DSA/Hard: 228 · SQL: 11 · Shell: 2
+**Tổng: 1297 notebook** — DSA/Easy: 833 · DSA/Medium: 223 · DSA/Hard: 228 · SQL: 11 · Shell: 2
 
 ## DSA — Easy — 833 bài
 
@@ -855,7 +855,7 @@ Shell/                            bài Shell (Bash)
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [4097_minimum_value_of_merged_integers.ipynb](DSA/Easy/4097_minimum_value_of_merged_integers.ipynb) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [4111_count_consistent_subarrays_i.ipynb](DSA/Easy/4111_count_consistent_subarrays_i.ipynb) |
 
-## DSA — Medium — 203 bài
+## DSA — Medium — 223 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -1043,6 +1043,26 @@ Shell/                            bài Shell (Bash)
 | 0334 | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | [0334_increasing_triplet_subsequence.ipynb](DSA/Medium/0334_increasing_triplet_subsequence.ipynb) |
 | 0337 | [House Robber III](https://leetcode.com/problems/house-robber-iii/) | [0337_house_robber_iii.ipynb](DSA/Medium/0337_house_robber_iii.ipynb) |
 | 0341 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | [0341_flatten_nested_list_iterator.ipynb](DSA/Medium/0341_flatten_nested_list_iterator.ipynb) |
+| 0343 | [Integer Break](https://leetcode.com/problems/integer-break/) | [0343_integer_break.ipynb](DSA/Medium/0343_integer_break.ipynb) |
+| 0347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [0347_top_k_frequent_elements.ipynb](DSA/Medium/0347_top_k_frequent_elements.ipynb) |
+| 0348 | [Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/) | [0348_design_tic_tac_toe.ipynb](DSA/Medium/0348_design_tic_tac_toe.ipynb) |
+| 0351 | [Android Unlock Patterns](https://leetcode.com/problems/android-unlock-patterns/) | [0351_android_unlock_patterns.ipynb](DSA/Medium/0351_android_unlock_patterns.ipynb) |
+| 0353 | [Design Snake Game](https://leetcode.com/problems/design-snake-game/) | [0353_design_snake_game.ipynb](DSA/Medium/0353_design_snake_game.ipynb) |
+| 0355 | [Design Twitter](https://leetcode.com/problems/design-twitter/) | [0355_design_twitter.ipynb](DSA/Medium/0355_design_twitter.ipynb) |
+| 0356 | [Line Reflection](https://leetcode.com/problems/line-reflection/) | [0356_line_reflection.ipynb](DSA/Medium/0356_line_reflection.ipynb) |
+| 0357 | [Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/) | [0357_count_numbers_with_unique_digits.ipynb](DSA/Medium/0357_count_numbers_with_unique_digits.ipynb) |
+| 0360 | [Sort Transformed Array](https://leetcode.com/problems/sort-transformed-array/) | [0360_sort_transformed_array.ipynb](DSA/Medium/0360_sort_transformed_array.ipynb) |
+| 0361 | [Bomb Enemy](https://leetcode.com/problems/bomb-enemy/) | [0361_bomb_enemy.ipynb](DSA/Medium/0361_bomb_enemy.ipynb) |
+| 0362 | [Design Hit Counter](https://leetcode.com/problems/design-hit-counter/) | [0362_design_hit_counter.ipynb](DSA/Medium/0362_design_hit_counter.ipynb) |
+| 0364 | [Nested List Weight Sum II](https://leetcode.com/problems/nested-list-weight-sum-ii/) | [0364_nested_list_weight_sum_ii.ipynb](DSA/Medium/0364_nested_list_weight_sum_ii.ipynb) |
+| 0365 | [Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/) | [0365_water_and_jug_problem.ipynb](DSA/Medium/0365_water_and_jug_problem.ipynb) |
+| 0366 | [Find Leaves of Binary Tree](https://leetcode.com/problems/find-leaves-of-binary-tree/) | [0366_find_leaves_of_binary_tree.ipynb](DSA/Medium/0366_find_leaves_of_binary_tree.ipynb) |
+| 0368 | [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) | [0368_largest_divisible_subset.ipynb](DSA/Medium/0368_largest_divisible_subset.ipynb) |
+| 0369 | [Plus One Linked List](https://leetcode.com/problems/plus-one-linked-list/) | [0369_plus_one_linked_list.ipynb](DSA/Medium/0369_plus_one_linked_list.ipynb) |
+| 0370 | [Range Addition](https://leetcode.com/problems/range-addition/) | [0370_range_addition.ipynb](DSA/Medium/0370_range_addition.ipynb) |
+| 0371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [0371_sum_of_two_integers.ipynb](DSA/Medium/0371_sum_of_two_integers.ipynb) |
+| 0372 | [Super Pow](https://leetcode.com/problems/super-pow/) | [0372_super_pow.ipynb](DSA/Medium/0372_super_pow.ipynb) |
+| 0373 | [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) | [0373_find_k_pairs_with_smallest_sums.ipynb](DSA/Medium/0373_find_k_pairs_with_smallest_sums.ipynb) |
 | 4044 | [Count Good Cyclic Rotations](https://leetcode.com/problems/count-good-cyclic-rotations/) | [4044_count_good_cyclic_rotations.ipynb](DSA/Medium/4044_count_good_cyclic_rotations.ipynb) |
 | 4045 | [Count Robot Groups](https://leetcode.com/problems/count-robot-groups/) | [4045_count_robot_groups.ipynb](DSA/Medium/4045_count_robot_groups.ipynb) |
 | 4049 | [Count Values With Equally Spaced Occurrences II](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-ii/) | [4049_count_values_with_equally_spaced_occurrences_ii.ipynb](DSA/Medium/4049_count_values_with_equally_spaced_occurrences_ii.ipynb) |
