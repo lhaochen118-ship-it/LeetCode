@@ -15,7 +15,7 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 1457 notebook** — DSA/Easy: 833 · DSA/Medium: 343 · DSA/Hard: 268 · SQL: 11 · Shell: 2
+**Tổng: 1477 notebook** — DSA/Easy: 833 · DSA/Medium: 363 · DSA/Hard: 268 · SQL: 11 · Shell: 2
 
 ## DSA — Easy — 833 bài
 
@@ -855,7 +855,7 @@ Shell/                            bài Shell (Bash)
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [4097_minimum_value_of_merged_integers.ipynb](DSA/Easy/4097_minimum_value_of_merged_integers.ipynb) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [4111_count_consistent_subarrays_i.ipynb](DSA/Easy/4111_count_consistent_subarrays_i.ipynb) |
 
-## DSA — Medium — 343 bài
+## DSA — Medium — 363 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -1183,6 +1183,26 @@ Shell/                            bài Shell (Bash)
 | 0582 | [Kill Process](https://leetcode.com/problems/kill-process/) | [0582_kill_process.ipynb](DSA/Medium/0582_kill_process.ipynb) |
 | 0583 | [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/) | [0583_delete_operation_for_two_strings.ipynb](DSA/Medium/0583_delete_operation_for_two_strings.ipynb) |
 | 0592 | [Fraction Addition and Subtraction](https://leetcode.com/problems/fraction-addition-and-subtraction/) | [0592_fraction_addition_and_subtraction.ipynb](DSA/Medium/0592_fraction_addition_and_subtraction.ipynb) |
+| 0593 | [Valid Square](https://leetcode.com/problems/valid-square/) | [0593_valid_square.ipynb](DSA/Medium/0593_valid_square.ipynb) |
+| 0606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | [0606_construct_string_from_binary_tree.ipynb](DSA/Medium/0606_construct_string_from_binary_tree.ipynb) |
+| 0609 | [Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/) | [0609_find_duplicate_file_in_system.ipynb](DSA/Medium/0609_find_duplicate_file_in_system.ipynb) |
+| 0611 | [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/) | [0611_valid_triangle_number.ipynb](DSA/Medium/0611_valid_triangle_number.ipynb) |
+| 0616 | [Add Bold Tag in String](https://leetcode.com/problems/add-bold-tag-in-string/) | [0616_add_bold_tag_in_string.ipynb](DSA/Medium/0616_add_bold_tag_in_string.ipynb) |
+| 0621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | [0621_task_scheduler.ipynb](DSA/Medium/0621_task_scheduler.ipynb) |
+| 0622 | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) | [0622_design_circular_queue.ipynb](DSA/Medium/0622_design_circular_queue.ipynb) |
+| 0623 | [Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/) | [0623_add_one_row_to_tree.ipynb](DSA/Medium/0623_add_one_row_to_tree.ipynb) |
+| 0624 | [Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays/) | [0624_maximum_distance_in_arrays.ipynb](DSA/Medium/0624_maximum_distance_in_arrays.ipynb) |
+| 0625 | [Minimum Factorization](https://leetcode.com/problems/minimum-factorization/) | [0625_minimum_factorization.ipynb](DSA/Medium/0625_minimum_factorization.ipynb) |
+| 0633 | [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/) | [0633_sum_of_square_numbers.ipynb](DSA/Medium/0633_sum_of_square_numbers.ipynb) |
+| 0634 | [Find the Derangement of An Array](https://leetcode.com/problems/find-the-derangement-of-an-array/) | [0634_find_the_derangement_of_an_array.ipynb](DSA/Medium/0634_find_the_derangement_of_an_array.ipynb) |
+| 0635 | [Design Log Storage System](https://leetcode.com/problems/design-log-storage-system/) | [0635_design_log_storage_system.ipynb](DSA/Medium/0635_design_log_storage_system.ipynb) |
+| 0636 | [Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions/) | [0636_exclusive_time_of_functions.ipynb](DSA/Medium/0636_exclusive_time_of_functions.ipynb) |
+| 0638 | [Shopping Offers](https://leetcode.com/problems/shopping-offers/) | [0638_shopping_offers.ipynb](DSA/Medium/0638_shopping_offers.ipynb) |
+| 0640 | [Solve the Equation](https://leetcode.com/problems/solve-the-equation/) | [0640_solve_the_equation.ipynb](DSA/Medium/0640_solve_the_equation.ipynb) |
+| 0641 | [Design Circular Deque](https://leetcode.com/problems/design-circular-deque/) | [0641_design_circular_deque.ipynb](DSA/Medium/0641_design_circular_deque.ipynb) |
+| 0646 | [Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/) | [0646_maximum_length_of_pair_chain.ipynb](DSA/Medium/0646_maximum_length_of_pair_chain.ipynb) |
+| 0647 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | [0647_palindromic_substrings.ipynb](DSA/Medium/0647_palindromic_substrings.ipynb) |
+| 0648 | [Replace Words](https://leetcode.com/problems/replace-words/) | [0648_replace_words.ipynb](DSA/Medium/0648_replace_words.ipynb) |
 | 4044 | [Count Good Cyclic Rotations](https://leetcode.com/problems/count-good-cyclic-rotations/) | [4044_count_good_cyclic_rotations.ipynb](DSA/Medium/4044_count_good_cyclic_rotations.ipynb) |
 | 4045 | [Count Robot Groups](https://leetcode.com/problems/count-robot-groups/) | [4045_count_robot_groups.ipynb](DSA/Medium/4045_count_robot_groups.ipynb) |
 | 4049 | [Count Values With Equally Spaced Occurrences II](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-ii/) | [4049_count_values_with_equally_spaced_occurrences_ii.ipynb](DSA/Medium/4049_count_values_with_equally_spaced_occurrences_ii.ipynb) |
