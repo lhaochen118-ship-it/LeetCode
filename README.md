@@ -15,7 +15,7 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 1477 notebook** — DSA/Easy: 833 · DSA/Medium: 363 · DSA/Hard: 268 · SQL: 11 · Shell: 2
+**Tổng: 1497 notebook** — DSA/Easy: 833 · DSA/Medium: 383 · DSA/Hard: 268 · SQL: 11 · Shell: 2
 
 ## DSA — Easy — 833 bài
 
@@ -855,7 +855,7 @@ Shell/                            bài Shell (Bash)
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [4097_minimum_value_of_merged_integers.ipynb](DSA/Easy/4097_minimum_value_of_merged_integers.ipynb) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [4111_count_consistent_subarrays_i.ipynb](DSA/Easy/4111_count_consistent_subarrays_i.ipynb) |
 
-## DSA — Medium — 363 bài
+## DSA — Medium — 383 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -1203,6 +1203,26 @@ Shell/                            bài Shell (Bash)
 | 0646 | [Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/) | [0646_maximum_length_of_pair_chain.ipynb](DSA/Medium/0646_maximum_length_of_pair_chain.ipynb) |
 | 0647 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | [0647_palindromic_substrings.ipynb](DSA/Medium/0647_palindromic_substrings.ipynb) |
 | 0648 | [Replace Words](https://leetcode.com/problems/replace-words/) | [0648_replace_words.ipynb](DSA/Medium/0648_replace_words.ipynb) |
+| 0649 | [Dota2 Senate](https://leetcode.com/problems/dota2-senate/) | [0649_dota2_senate.ipynb](DSA/Medium/0649_dota2_senate.ipynb) |
+| 0650 | [2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/) | [0650_2_keys_keyboard.ipynb](DSA/Medium/0650_2_keys_keyboard.ipynb) |
+| 0651 | [4 Keys Keyboard](https://leetcode.com/problems/4-keys-keyboard/) | [0651_4_keys_keyboard.ipynb](DSA/Medium/0651_4_keys_keyboard.ipynb) |
+| 0652 | [Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/) | [0652_find_duplicate_subtrees.ipynb](DSA/Medium/0652_find_duplicate_subtrees.ipynb) |
+| 0654 | [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/) | [0654_maximum_binary_tree.ipynb](DSA/Medium/0654_maximum_binary_tree.ipynb) |
+| 0655 | [Print Binary Tree](https://leetcode.com/problems/print-binary-tree/) | [0655_print_binary_tree.ipynb](DSA/Medium/0655_print_binary_tree.ipynb) |
+| 0658 | [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) | [0658_find_k_closest_elements.ipynb](DSA/Medium/0658_find_k_closest_elements.ipynb) |
+| 0659 | [Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/) | [0659_split_array_into_consecutive_subsequences.ipynb](DSA/Medium/0659_split_array_into_consecutive_subsequences.ipynb) |
+| 0662 | [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/) | [0662_maximum_width_of_binary_tree.ipynb](DSA/Medium/0662_maximum_width_of_binary_tree.ipynb) |
+| 0663 | [Equal Tree Partition](https://leetcode.com/problems/equal-tree-partition/) | [0663_equal_tree_partition.ipynb](DSA/Medium/0663_equal_tree_partition.ipynb) |
+| 0665 | [Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/) | [0665_non_decreasing_array.ipynb](DSA/Medium/0665_non_decreasing_array.ipynb) |
+| 0666 | [Path Sum IV](https://leetcode.com/problems/path-sum-iv/) | [0666_path_sum_iv.ipynb](DSA/Medium/0666_path_sum_iv.ipynb) |
+| 0667 | [Beautiful Arrangement II](https://leetcode.com/problems/beautiful-arrangement-ii/) | [0667_beautiful_arrangement_ii.ipynb](DSA/Medium/0667_beautiful_arrangement_ii.ipynb) |
+| 0669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [0669_trim_a_binary_search_tree.ipynb](DSA/Medium/0669_trim_a_binary_search_tree.ipynb) |
+| 0670 | [Maximum Swap](https://leetcode.com/problems/maximum-swap/) | [0670_maximum_swap.ipynb](DSA/Medium/0670_maximum_swap.ipynb) |
+| 0672 | [Bulb Switcher II](https://leetcode.com/problems/bulb-switcher-ii/) | [0672_bulb_switcher_ii.ipynb](DSA/Medium/0672_bulb_switcher_ii.ipynb) |
+| 0673 | [Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/) | [0673_number_of_longest_increasing_subsequence.ipynb](DSA/Medium/0673_number_of_longest_increasing_subsequence.ipynb) |
+| 0676 | [Implement Magic Dictionary](https://leetcode.com/problems/implement-magic-dictionary/) | [0676_implement_magic_dictionary.ipynb](DSA/Medium/0676_implement_magic_dictionary.ipynb) |
+| 0677 | [Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/) | [0677_map_sum_pairs.ipynb](DSA/Medium/0677_map_sum_pairs.ipynb) |
+| 0678 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | [0678_valid_parenthesis_string.ipynb](DSA/Medium/0678_valid_parenthesis_string.ipynb) |
 | 4044 | [Count Good Cyclic Rotations](https://leetcode.com/problems/count-good-cyclic-rotations/) | [4044_count_good_cyclic_rotations.ipynb](DSA/Medium/4044_count_good_cyclic_rotations.ipynb) |
 | 4045 | [Count Robot Groups](https://leetcode.com/problems/count-robot-groups/) | [4045_count_robot_groups.ipynb](DSA/Medium/4045_count_robot_groups.ipynb) |
 | 4049 | [Count Values With Equally Spaced Occurrences II](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-ii/) | [4049_count_values_with_equally_spaced_occurrences_ii.ipynb](DSA/Medium/4049_count_values_with_equally_spaced_occurrences_ii.ipynb) |
