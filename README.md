@@ -15,9 +15,9 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 1177 notebook** — DSA/Easy: 753 · DSA/Medium: 203 · DSA/Hard: 208 · SQL: 11 · Shell: 2
+**Tổng: 1197 notebook** — DSA/Easy: 773 · DSA/Medium: 203 · DSA/Hard: 208 · SQL: 11 · Shell: 2
 
-## DSA — Easy — 753 bài
+## DSA — Easy — 773 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -760,6 +760,26 @@ Shell/                            bài Shell (Bash)
 | 3917 | [Count Indices With Opposite Parity](https://leetcode.com/problems/count-indices-with-opposite-parity/) | [3917_count_indices_with_opposite_parity.ipynb](DSA/Easy/3917_count_indices_with_opposite_parity.ipynb) |
 | 3921 | [Score Validator](https://leetcode.com/problems/score-validator/) | [3921_score_validator.ipynb](DSA/Easy/3921_score_validator.ipynb) |
 | 3925 | [Concatenate Array With Reverse](https://leetcode.com/problems/concatenate-array-with-reverse/) | [3925_concatenate_array_with_reverse.ipynb](DSA/Easy/3925_concatenate_array_with_reverse.ipynb) |
+| 3931 | [Check Adjacent Digit Differences](https://leetcode.com/problems/check-adjacent-digit-differences/) | [3931_check_adjacent_digit_differences.ipynb](DSA/Easy/3931_check_adjacent_digit_differences.ipynb) |
+| 3936 | [Minimum Swaps to Move Zeros to End](https://leetcode.com/problems/minimum-swaps-to-move-zeros-to-end/) | [3936_minimum_swaps_to_move_zeros_to_end.ipynb](DSA/Easy/3936_minimum_swaps_to_move_zeros_to_end.ipynb) |
+| 3940 | [Limit Occurrences in Sorted Array](https://leetcode.com/problems/limit-occurrences-in-sorted-array/) | [3940_limit_occurrences_in_sorted_array.ipynb](DSA/Easy/3940_limit_occurrences_in_sorted_array.ipynb) |
+| 3945 | [Digit Frequency Score](https://leetcode.com/problems/digit-frequency-score/) | [3945_digit_frequency_score.ipynb](DSA/Easy/3945_digit_frequency_score.ipynb) |
+| 3950 | [Exactly One Consecutive Set Bits Pair](https://leetcode.com/problems/exactly-one-consecutive-set-bits-pair/) | [3950_exactly_one_consecutive_set_bits_pair.ipynb](DSA/Easy/3950_exactly_one_consecutive_set_bits_pair.ipynb) |
+| 3954 | [Sum of Compatible Numbers in Range I](https://leetcode.com/problems/sum-of-compatible-numbers-in-range-i/) | [3954_sum_of_compatible_numbers_in_range_i.ipynb](DSA/Easy/3954_sum_of_compatible_numbers_in_range_i.ipynb) |
+| 3959 | [Check Good Integer](https://leetcode.com/problems/check-good-integer/) | [3959_check_good_integer.ipynb](DSA/Easy/3959_check_good_integer.ipynb) |
+| 3963 | [Create Grid With Exactly One Path](https://leetcode.com/problems/create-grid-with-exactly-one-path/) | [3963_create_grid_with_exactly_one_path.ipynb](DSA/Easy/3963_create_grid_with_exactly_one_path.ipynb) |
+| 3978 | [Unique Middle Element](https://leetcode.com/problems/unique-middle-element/) | [3978_unique_middle_element.ipynb](DSA/Easy/3978_unique_middle_element.ipynb) |
+| 3982 | [Sum of Integers with Maximum Digit Range](https://leetcode.com/problems/sum-of-integers-with-maximum-digit-range/) | [3982_sum_of_integers_with_maximum_digit_range.ipynb](DSA/Easy/3982_sum_of_integers_with_maximum_digit_range.ipynb) |
+| 3986 | [Number of Elapsed Seconds Between Two Times](https://leetcode.com/problems/number-of-elapsed-seconds-between-two-times/) | [3986_number_of_elapsed_seconds_between_two_times.ipynb](DSA/Easy/3986_number_of_elapsed_seconds_between_two_times.ipynb) |
+| 3992 | [Rearrange String to Avoid Character Pair](https://leetcode.com/problems/rearrange-string-to-avoid-character-pair/) | [3992_rearrange_string_to_avoid_character_pair.ipynb](DSA/Easy/3992_rearrange_string_to_avoid_character_pair.ipynb) |
+| 3996 | [Even Number of Knight Moves](https://leetcode.com/problems/even-number-of-knight-moves/) | [3996_even_number_of_knight_moves.ipynb](DSA/Easy/3996_even_number_of_knight_moves.ipynb) |
+| 4000 | [Largest Integer With Given Digit Sum](https://leetcode.com/problems/largest-integer-with-given-digit-sum/) | [4000_largest_integer_with_given_digit_sum.ipynb](DSA/Easy/4000_largest_integer_with_given_digit_sum.ipynb) |
+| 4006 | [Count Valid Prefixes](https://leetcode.com/problems/count-valid-prefixes/) | [4006_count_valid_prefixes.ipynb](DSA/Easy/4006_count_valid_prefixes.ipynb) |
+| 4010 | [Maximize Pair Strength Using GCD](https://leetcode.com/problems/maximize-pair-strength-using-gcd/) | [4010_maximize_pair_strength_using_gcd.ipynb](DSA/Easy/4010_maximize_pair_strength_using_gcd.ipynb) |
+| 4020 | [Elevator Requests I](https://leetcode.com/problems/elevator-requests-i/) | [4020_elevator_requests_i.ipynb](DSA/Easy/4020_elevator_requests_i.ipynb) |
+| 4024 | [Nearest Available Drone](https://leetcode.com/problems/nearest-available-drone/) | [4024_nearest_available_drone.ipynb](DSA/Easy/4024_nearest_available_drone.ipynb) |
+| 4030 | [Check ASCII Palindromic](https://leetcode.com/problems/check-ascii-palindromic/) | [4030_check_ascii_palindromic.ipynb](DSA/Easy/4030_check_ascii_palindromic.ipynb) |
+| 4038 | [Count Integers Appearing in a Single Block](https://leetcode.com/problems/count-integers-appearing-in-a-single-block/) | [4038_count_integers_appearing_in_a_single_block.ipynb](DSA/Easy/4038_count_integers_appearing_in_a_single_block.ipynb) |
 | 4043 | [Count Rotations With Exactly K Equal Adjacent Pairs](https://leetcode.com/problems/count-rotations-with-exactly-k-equal-adjacent-pairs/) | [4043_count_rotations_with_exactly_k_equal_adjacent_pairs.ipynb](DSA/Easy/4043_count_rotations_with_exactly_k_equal_adjacent_pairs.ipynb) |
 | 4048 | [Count Values With Equally Spaced Occurrences I](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-i/) | [4048_count_values_with_equally_spaced_occurrences_i.ipynb](DSA/Easy/4048_count_values_with_equally_spaced_occurrences_i.ipynb) |
 | 4052 | [Cyclically Shift Rows and Columns](https://leetcode.com/problems/cyclically-shift-rows-and-columns/) | [4052_cyclically_shift_rows_and_columns.ipynb](DSA/Easy/4052_cyclically_shift_rows_and_columns.ipynb) |

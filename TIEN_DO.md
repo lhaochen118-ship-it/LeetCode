@@ -380,3 +380,10 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 - Bỏ qua: không có (đã kiểm tra trước: 20 ID chưa có file, chưa có trong Excel/TIEN_DO và không trùng với main)
 - Ghi chú: Bài Premium (đề viết theo hiểu biết): 3062. Ví dụ cần đối chiếu với đề gốc: 3062, 3095 (ví dụ 4 tự dựng), 3114 (ví dụ 3 tự dựng), 3090 (ví dụ 3 tự dựng), 3079 (ví dụ 3 tự dựng), 3042 (ràng buộc độ dài từ). 3110 và 3142 dùng `itertools.pairwise` (Python ≥ 3.10). Đợt này chỉ chạy 1 agent theo yêu cầu. Đã gộp main (đợt 38…) trước khi ghi.
 - ID tiếp theo (sau 3146): tra Excel (Easy chưa có, ID > 3146; hiện là 3151); đợt 25 (2475–2566) vẫn dở, xem mục Đợt 25.
+
+### Đợt 39 — 19/11/2026
+
+- Đã xong: 3931, 3936, 3940, 3945, 3950, 3954, 3959, 3963, 3978, 3982, 3986, 3992, 3996, 4000, 4006, 4010, 4020, 4024, 4030, 4038
+- Lỗi: không có
+- Bỏ qua: không có
+- Ghi chú: Đề lấy từ leetcode.doocs.org (bản diễn giải), nên đối chiếu từng chữ với đề gốc: 3950 (cặp bit liền kề tính chồng lấn), 3954 (tên method sumOfGoodIntegers), 3963 (cách chấm đáp án hợp lệ), 3992 (cách hiểu đề). Slug suy ra từ tên bài.
