@@ -15,7 +15,7 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 1497 notebook** — DSA/Easy: 833 · DSA/Medium: 383 · DSA/Hard: 268 · SQL: 11 · Shell: 2
+**Tổng: 1517 notebook** — DSA/Easy: 833 · DSA/Medium: 403 · DSA/Hard: 268 · SQL: 11 · Shell: 2
 
 ## DSA — Easy — 833 bài
 
@@ -855,7 +855,7 @@ Shell/                            bài Shell (Bash)
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [4097_minimum_value_of_merged_integers.ipynb](DSA/Easy/4097_minimum_value_of_merged_integers.ipynb) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [4111_count_consistent_subarrays_i.ipynb](DSA/Easy/4111_count_consistent_subarrays_i.ipynb) |
 
-## DSA — Medium — 383 bài
+## DSA — Medium — 403 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -1223,6 +1223,26 @@ Shell/                            bài Shell (Bash)
 | 0676 | [Implement Magic Dictionary](https://leetcode.com/problems/implement-magic-dictionary/) | [0676_implement_magic_dictionary.ipynb](DSA/Medium/0676_implement_magic_dictionary.ipynb) |
 | 0677 | [Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/) | [0677_map_sum_pairs.ipynb](DSA/Medium/0677_map_sum_pairs.ipynb) |
 | 0678 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | [0678_valid_parenthesis_string.ipynb](DSA/Medium/0678_valid_parenthesis_string.ipynb) |
+| 0681 | [Next Closest Time](https://leetcode.com/problems/next-closest-time/) | [0681_next_closest_time.ipynb](DSA/Medium/0681_next_closest_time.ipynb) |
+| 0684 | [Redundant Connection](https://leetcode.com/problems/redundant-connection/) | [0684_redundant_connection.ipynb](DSA/Medium/0684_redundant_connection.ipynb) |
+| 0686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | [0686_repeated_string_match.ipynb](DSA/Medium/0686_repeated_string_match.ipynb) |
+| 0687 | [Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/) | [0687_longest_univalue_path.ipynb](DSA/Medium/0687_longest_univalue_path.ipynb) |
+| 0688 | [Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/) | [0688_knight_probability_in_chessboard.ipynb](DSA/Medium/0688_knight_probability_in_chessboard.ipynb) |
+| 0690 | [Employee Importance](https://leetcode.com/problems/employee-importance/) | [0690_employee_importance.ipynb](DSA/Medium/0690_employee_importance.ipynb) |
+| 0692 | [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | [0692_top_k_frequent_words.ipynb](DSA/Medium/0692_top_k_frequent_words.ipynb) |
+| 0694 | [Number of Distinct Islands](https://leetcode.com/problems/number-of-distinct-islands/) | [0694_number_of_distinct_islands.ipynb](DSA/Medium/0694_number_of_distinct_islands.ipynb) |
+| 0695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | [0695_max_area_of_island.ipynb](DSA/Medium/0695_max_area_of_island.ipynb) |
+| 0701 | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | [0701_insert_into_a_binary_search_tree.ipynb](DSA/Medium/0701_insert_into_a_binary_search_tree.ipynb) |
+| 0702 | [Search in a Sorted Array of Unknown Size](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/) | [0702_search_in_a_sorted_array_of_unknown_size.ipynb](DSA/Medium/0702_search_in_a_sorted_array_of_unknown_size.ipynb) |
+| 0707 | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | [0707_design_linked_list.ipynb](DSA/Medium/0707_design_linked_list.ipynb) |
+| 0708 | [Insert into a Sorted Circular Linked List](https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list/) | [0708_insert_into_a_sorted_circular_linked_list.ipynb](DSA/Medium/0708_insert_into_a_sorted_circular_linked_list.ipynb) |
+| 0712 | [Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/) | [0712_minimum_ascii_delete_sum_for_two_strings.ipynb](DSA/Medium/0712_minimum_ascii_delete_sum_for_two_strings.ipynb) |
+| 0713 | [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | [0713_subarray_product_less_than_k.ipynb](DSA/Medium/0713_subarray_product_less_than_k.ipynb) |
+| 0714 | [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | [0714_best_time_to_buy_and_sell_stock_with_transaction_fee.ipynb](DSA/Medium/0714_best_time_to_buy_and_sell_stock_with_transaction_fee.ipynb) |
+| 0718 | [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) | [0718_maximum_length_of_repeated_subarray.ipynb](DSA/Medium/0718_maximum_length_of_repeated_subarray.ipynb) |
+| 0720 | [Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/) | [0720_longest_word_in_dictionary.ipynb](DSA/Medium/0720_longest_word_in_dictionary.ipynb) |
+| 0721 | [Accounts Merge](https://leetcode.com/problems/accounts-merge/) | [0721_accounts_merge.ipynb](DSA/Medium/0721_accounts_merge.ipynb) |
+| 0722 | [Remove Comments](https://leetcode.com/problems/remove-comments/) | [0722_remove_comments.ipynb](DSA/Medium/0722_remove_comments.ipynb) |
 | 4044 | [Count Good Cyclic Rotations](https://leetcode.com/problems/count-good-cyclic-rotations/) | [4044_count_good_cyclic_rotations.ipynb](DSA/Medium/4044_count_good_cyclic_rotations.ipynb) |
 | 4045 | [Count Robot Groups](https://leetcode.com/problems/count-robot-groups/) | [4045_count_robot_groups.ipynb](DSA/Medium/4045_count_robot_groups.ipynb) |
 | 4049 | [Count Values With Equally Spaced Occurrences II](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-ii/) | [4049_count_values_with_equally_spaced_occurrences_ii.ipynb](DSA/Medium/4049_count_values_with_equally_spaced_occurrences_ii.ipynb) |
