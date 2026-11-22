@@ -15,7 +15,7 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 1737 notebook** — DSA/Easy: 833 · DSA/Medium: 583 · DSA/Hard: 308 · SQL: 11 · Shell: 2
+**Tổng: 1757 notebook** — DSA/Easy: 833 · DSA/Medium: 603 · DSA/Hard: 308 · SQL: 11 · Shell: 2
 
 ## DSA — Easy — 833 bài
 
@@ -855,7 +855,7 @@ Shell/                            bài Shell (Bash)
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [4097_minimum_value_of_merged_integers.ipynb](DSA/Easy/4097_minimum_value_of_merged_integers.ipynb) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [4111_count_consistent_subarrays_i.ipynb](DSA/Easy/4111_count_consistent_subarrays_i.ipynb) |
 
-## DSA — Medium — 583 bài
+## DSA — Medium — 603 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -1423,6 +1423,26 @@ Shell/                            bài Shell (Bash)
 | 1053 | [Previous Permutation With One Swap](https://leetcode.com/problems/previous-permutation-with-one-swap/) | [1053_previous_permutation_with_one_swap.ipynb](DSA/Medium/1053_previous_permutation_with_one_swap.ipynb) |
 | 1054 | [Distant Barcodes](https://leetcode.com/problems/distant-barcodes/) | [1054_distant_barcodes.ipynb](DSA/Medium/1054_distant_barcodes.ipynb) |
 | 1055 | [Shortest Way to Form String](https://leetcode.com/problems/shortest-way-to-form-string/) | [1055_shortest_way_to_form_string.ipynb](DSA/Medium/1055_shortest_way_to_form_string.ipynb) |
+| 1057 | [Campus Bikes](https://leetcode.com/problems/campus-bikes/) | [1057_campus_bikes.ipynb](DSA/Medium/1057_campus_bikes.ipynb) |
+| 1058 | [Minimize Rounding Error to Meet Target](https://leetcode.com/problems/minimize-rounding-error-to-meet-target/) | [1058_minimize_rounding_error_to_meet_target.ipynb](DSA/Medium/1058_minimize_rounding_error_to_meet_target.ipynb) |
+| 1059 | [All Paths from Source Lead to Destination](https://leetcode.com/problems/all-paths-from-source-lead-to-destination/) | [1059_all_paths_from_source_lead_to_destination.ipynb](DSA/Medium/1059_all_paths_from_source_lead_to_destination.ipynb) |
+| 1060 | [Missing Element in Sorted Array](https://leetcode.com/problems/missing-element-in-sorted-array/) | [1060_missing_element_in_sorted_array.ipynb](DSA/Medium/1060_missing_element_in_sorted_array.ipynb) |
+| 1061 | [Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/) | [1061_lexicographically_smallest_equivalent_string.ipynb](DSA/Medium/1061_lexicographically_smallest_equivalent_string.ipynb) |
+| 1062 | [Longest Repeating Substring](https://leetcode.com/problems/longest-repeating-substring/) | [1062_longest_repeating_substring.ipynb](DSA/Medium/1062_longest_repeating_substring.ipynb) |
+| 1066 | [Campus Bikes II](https://leetcode.com/problems/campus-bikes-ii/) | [1066_campus_bikes_ii.ipynb](DSA/Medium/1066_campus_bikes_ii.ipynb) |
+| 1072 | [Flip Columns For Maximum Number of Equal Rows](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/) | [1072_flip_columns_for_maximum_number_of_equal_rows.ipynb](DSA/Medium/1072_flip_columns_for_maximum_number_of_equal_rows.ipynb) |
+| 1073 | [Adding Two Negabinary Numbers](https://leetcode.com/problems/adding-two-negabinary-numbers/) | [1073_adding_two_negabinary_numbers.ipynb](DSA/Medium/1073_adding_two_negabinary_numbers.ipynb) |
+| 1079 | [Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/) | [1079_letter_tile_possibilities.ipynb](DSA/Medium/1079_letter_tile_possibilities.ipynb) |
+| 1080 | [Insufficient Nodes in Root to Leaf Paths](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/) | [1080_insufficient_nodes_in_root_to_leaf_paths.ipynb](DSA/Medium/1080_insufficient_nodes_in_root_to_leaf_paths.ipynb) |
+| 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) | [1081_smallest_subsequence_of_distinct_characters.ipynb](DSA/Medium/1081_smallest_subsequence_of_distinct_characters.ipynb) |
+| 1087 | [Brace Expansion](https://leetcode.com/problems/brace-expansion/) | [1087_brace_expansion.ipynb](DSA/Medium/1087_brace_expansion.ipynb) |
+| 1090 | [Largest Values From Labels](https://leetcode.com/problems/largest-values-from-labels/) | [1090_largest_values_from_labels.ipynb](DSA/Medium/1090_largest_values_from_labels.ipynb) |
+| 1091 | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | [1091_shortest_path_in_binary_matrix.ipynb](DSA/Medium/1091_shortest_path_in_binary_matrix.ipynb) |
+| 1093 | [Statistics from a Large Sample](https://leetcode.com/problems/statistics-from-a-large-sample/) | [1093_statistics_from_a_large_sample.ipynb](DSA/Medium/1093_statistics_from_a_large_sample.ipynb) |
+| 1094 | [Car Pooling](https://leetcode.com/problems/car-pooling/) | [1094_car_pooling.ipynb](DSA/Medium/1094_car_pooling.ipynb) |
+| 1100 | [Find K-Length Substrings With No Repeated Characters](https://leetcode.com/problems/find-k-length-substrings-with-no-repeated-characters/) | [1100_find_k_length_substrings_with_no_repeated_characters.ipynb](DSA/Medium/1100_find_k_length_substrings_with_no_repeated_characters.ipynb) |
+| 1101 | [The Earliest Moment When Everyone Become Friends](https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends/) | [1101_the_earliest_moment_when_everyone_become_friends.ipynb](DSA/Medium/1101_the_earliest_moment_when_everyone_become_friends.ipynb) |
+| 1102 | [Path With Maximum Minimum Value](https://leetcode.com/problems/path-with-maximum-minimum-value/) | [1102_path_with_maximum_minimum_value.ipynb](DSA/Medium/1102_path_with_maximum_minimum_value.ipynb) |
 | 4044 | [Count Good Cyclic Rotations](https://leetcode.com/problems/count-good-cyclic-rotations/) | [4044_count_good_cyclic_rotations.ipynb](DSA/Medium/4044_count_good_cyclic_rotations.ipynb) |
 | 4045 | [Count Robot Groups](https://leetcode.com/problems/count-robot-groups/) | [4045_count_robot_groups.ipynb](DSA/Medium/4045_count_robot_groups.ipynb) |
 | 4049 | [Count Values With Equally Spaced Occurrences II](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-ii/) | [4049_count_values_with_equally_spaced_occurrences_ii.ipynb](DSA/Medium/4049_count_values_with_equally_spaced_occurrences_ii.ipynb) |
