@@ -15,7 +15,7 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 1677 notebook** — DSA/Easy: 833 · DSA/Medium: 523 · DSA/Hard: 308 · SQL: 11 · Shell: 2
+**Tổng: 1697 notebook** — DSA/Easy: 833 · DSA/Medium: 543 · DSA/Hard: 308 · SQL: 11 · Shell: 2
 
 ## DSA — Easy — 833 bài
 
@@ -855,7 +855,7 @@ Shell/                            bài Shell (Bash)
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [4097_minimum_value_of_merged_integers.ipynb](DSA/Easy/4097_minimum_value_of_merged_integers.ipynb) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [4111_count_consistent_subarrays_i.ipynb](DSA/Easy/4111_count_consistent_subarrays_i.ipynb) |
 
-## DSA — Medium — 523 bài
+## DSA — Medium — 543 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -1363,6 +1363,26 @@ Shell/                            bài Shell (Bash)
 | 0949 | [Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/) | [0949_largest_time_for_given_digits.ipynb](DSA/Medium/0949_largest_time_for_given_digits.ipynb) |
 | 0950 | [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | [0950_reveal_cards_in_increasing_order.ipynb](DSA/Medium/0950_reveal_cards_in_increasing_order.ipynb) |
 | 0951 | [Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/) | [0951_flip_equivalent_binary_trees.ipynb](DSA/Medium/0951_flip_equivalent_binary_trees.ipynb) |
+| 0954 | [Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/) | [0954_array_of_doubled_pairs.ipynb](DSA/Medium/0954_array_of_doubled_pairs.ipynb) |
+| 0955 | [Delete Columns to Make Sorted II](https://leetcode.com/problems/delete-columns-to-make-sorted-ii/) | [0955_delete_columns_to_make_sorted_ii.ipynb](DSA/Medium/0955_delete_columns_to_make_sorted_ii.ipynb) |
+| 0957 | [Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/) | [0957_prison_cells_after_n_days.ipynb](DSA/Medium/0957_prison_cells_after_n_days.ipynb) |
+| 0958 | [Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) | [0958_check_completeness_of_a_binary_tree.ipynb](DSA/Medium/0958_check_completeness_of_a_binary_tree.ipynb) |
+| 0959 | [Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes/) | [0959_regions_cut_by_slashes.ipynb](DSA/Medium/0959_regions_cut_by_slashes.ipynb) |
+| 0962 | [Maximum Width Ramp](https://leetcode.com/problems/maximum-width-ramp/) | [0962_maximum_width_ramp.ipynb](DSA/Medium/0962_maximum_width_ramp.ipynb) |
+| 0963 | [Minimum Area Rectangle II](https://leetcode.com/problems/minimum-area-rectangle-ii/) | [0963_minimum_area_rectangle_ii.ipynb](DSA/Medium/0963_minimum_area_rectangle_ii.ipynb) |
+| 0966 | [Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/) | [0966_vowel_spellchecker.ipynb](DSA/Medium/0966_vowel_spellchecker.ipynb) |
+| 0967 | [Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/) | [0967_numbers_with_same_consecutive_differences.ipynb](DSA/Medium/0967_numbers_with_same_consecutive_differences.ipynb) |
+| 0969 | [Pancake Sorting](https://leetcode.com/problems/pancake-sorting/) | [0969_pancake_sorting.ipynb](DSA/Medium/0969_pancake_sorting.ipynb) |
+| 0970 | [Powerful Integers](https://leetcode.com/problems/powerful-integers/) | [0970_powerful_integers.ipynb](DSA/Medium/0970_powerful_integers.ipynb) |
+| 0971 | [Flip Binary Tree To Match Preorder Traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/) | [0971_flip_binary_tree_to_match_preorder_traversal.ipynb](DSA/Medium/0971_flip_binary_tree_to_match_preorder_traversal.ipynb) |
+| 0973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [0973_k_closest_points_to_origin.ipynb](DSA/Medium/0973_k_closest_points_to_origin.ipynb) |
+| 0974 | [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/) | [0974_subarray_sums_divisible_by_k.ipynb](DSA/Medium/0974_subarray_sums_divisible_by_k.ipynb) |
+| 0978 | [Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/) | [0978_longest_turbulent_subarray.ipynb](DSA/Medium/0978_longest_turbulent_subarray.ipynb) |
+| 0979 | [Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/) | [0979_distribute_coins_in_binary_tree.ipynb](DSA/Medium/0979_distribute_coins_in_binary_tree.ipynb) |
+| 0981 | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | [0981_time_based_key_value_store.ipynb](DSA/Medium/0981_time_based_key_value_store.ipynb) |
+| 0983 | [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/) | [0983_minimum_cost_for_tickets.ipynb](DSA/Medium/0983_minimum_cost_for_tickets.ipynb) |
+| 0984 | [String Without AAA or BBB](https://leetcode.com/problems/string-without-aaa-or-bbb/) | [0984_string_without_aaa_or_bbb.ipynb](DSA/Medium/0984_string_without_aaa_or_bbb.ipynb) |
+| 0985 | [Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/) | [0985_sum_of_even_numbers_after_queries.ipynb](DSA/Medium/0985_sum_of_even_numbers_after_queries.ipynb) |
 | 4044 | [Count Good Cyclic Rotations](https://leetcode.com/problems/count-good-cyclic-rotations/) | [4044_count_good_cyclic_rotations.ipynb](DSA/Medium/4044_count_good_cyclic_rotations.ipynb) |
 | 4045 | [Count Robot Groups](https://leetcode.com/problems/count-robot-groups/) | [4045_count_robot_groups.ipynb](DSA/Medium/4045_count_robot_groups.ipynb) |
 | 4049 | [Count Values With Equally Spaced Occurrences II](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-ii/) | [4049_count_values_with_equally_spaced_occurrences_ii.ipynb](DSA/Medium/4049_count_values_with_equally_spaced_occurrences_ii.ipynb) |
