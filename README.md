@@ -15,7 +15,7 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 1637 notebook** — DSA/Easy: 833 · DSA/Medium: 483 · DSA/Hard: 308 · SQL: 11 · Shell: 2
+**Tổng: 1657 notebook** — DSA/Easy: 833 · DSA/Medium: 503 · DSA/Hard: 308 · SQL: 11 · Shell: 2
 
 ## DSA — Easy — 833 bài
 
@@ -855,7 +855,7 @@ Shell/                            bài Shell (Bash)
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [4097_minimum_value_of_merged_integers.ipynb](DSA/Easy/4097_minimum_value_of_merged_integers.ipynb) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [4111_count_consistent_subarrays_i.ipynb](DSA/Easy/4111_count_consistent_subarrays_i.ipynb) |
 
-## DSA — Medium — 483 bài
+## DSA — Medium — 503 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -1323,6 +1323,26 @@ Shell/                            bài Shell (Bash)
 | 0870 | [Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/) | [0870_advantage_shuffle.ipynb](DSA/Medium/0870_advantage_shuffle.ipynb) |
 | 0873 | [Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/) | [0873_length_of_longest_fibonacci_subsequence.ipynb](DSA/Medium/0873_length_of_longest_fibonacci_subsequence.ipynb) |
 | 0874 | [Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/) | [0874_walking_robot_simulation.ipynb](DSA/Medium/0874_walking_robot_simulation.ipynb) |
+| 0875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | [0875_koko_eating_bananas.ipynb](DSA/Medium/0875_koko_eating_bananas.ipynb) |
+| 0877 | [Stone Game](https://leetcode.com/problems/stone-game/) | [0877_stone_game.ipynb](DSA/Medium/0877_stone_game.ipynb) |
+| 0880 | [Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/) | [0880_decoded_string_at_index.ipynb](DSA/Medium/0880_decoded_string_at_index.ipynb) |
+| 0881 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | [0881_boats_to_save_people.ipynb](DSA/Medium/0881_boats_to_save_people.ipynb) |
+| 0885 | [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/) | [0885_spiral_matrix_iii.ipynb](DSA/Medium/0885_spiral_matrix_iii.ipynb) |
+| 0886 | [Possible Bipartition](https://leetcode.com/problems/possible-bipartition/) | [0886_possible_bipartition.ipynb](DSA/Medium/0886_possible_bipartition.ipynb) |
+| 0889 | [Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/) | [0889_construct_binary_tree_from_preorder_and_postorder_traversal.ipynb](DSA/Medium/0889_construct_binary_tree_from_preorder_and_postorder_traversal.ipynb) |
+| 0890 | [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/) | [0890_find_and_replace_pattern.ipynb](DSA/Medium/0890_find_and_replace_pattern.ipynb) |
+| 0893 | [Groups of Special-Equivalent Strings](https://leetcode.com/problems/groups-of-special-equivalent-strings/) | [0893_groups_of_special_equivalent_strings.ipynb](DSA/Medium/0893_groups_of_special_equivalent_strings.ipynb) |
+| 0894 | [All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees/) | [0894_all_possible_full_binary_trees.ipynb](DSA/Medium/0894_all_possible_full_binary_trees.ipynb) |
+| 0898 | [Bitwise ORs of Subarrays](https://leetcode.com/problems/bitwise-ors-of-subarrays/) | [0898_bitwise_ors_of_subarrays.ipynb](DSA/Medium/0898_bitwise_ors_of_subarrays.ipynb) |
+| 0900 | [RLE Iterator](https://leetcode.com/problems/rle-iterator/) | [0900_rle_iterator.ipynb](DSA/Medium/0900_rle_iterator.ipynb) |
+| 0901 | [Online Stock Span](https://leetcode.com/problems/online-stock-span/) | [0901_online_stock_span.ipynb](DSA/Medium/0901_online_stock_span.ipynb) |
+| 0904 | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | [0904_fruit_into_baskets.ipynb](DSA/Medium/0904_fruit_into_baskets.ipynb) |
+| 0907 | [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) | [0907_sum_of_subarray_minimums.ipynb](DSA/Medium/0907_sum_of_subarray_minimums.ipynb) |
+| 0909 | [Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/) | [0909_snakes_and_ladders.ipynb](DSA/Medium/0909_snakes_and_ladders.ipynb) |
+| 0910 | [Smallest Range II](https://leetcode.com/problems/smallest-range-ii/) | [0910_smallest_range_ii.ipynb](DSA/Medium/0910_smallest_range_ii.ipynb) |
+| 0911 | [Online Election](https://leetcode.com/problems/online-election/) | [0911_online_election.ipynb](DSA/Medium/0911_online_election.ipynb) |
+| 0912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | [0912_sort_an_array.ipynb](DSA/Medium/0912_sort_an_array.ipynb) |
+| 0915 | [Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals/) | [0915_partition_array_into_disjoint_intervals.ipynb](DSA/Medium/0915_partition_array_into_disjoint_intervals.ipynb) |
 | 4044 | [Count Good Cyclic Rotations](https://leetcode.com/problems/count-good-cyclic-rotations/) | [4044_count_good_cyclic_rotations.ipynb](DSA/Medium/4044_count_good_cyclic_rotations.ipynb) |
 | 4045 | [Count Robot Groups](https://leetcode.com/problems/count-robot-groups/) | [4045_count_robot_groups.ipynb](DSA/Medium/4045_count_robot_groups.ipynb) |
 | 4049 | [Count Values With Equally Spaced Occurrences II](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-ii/) | [4049_count_values_with_equally_spaced_occurrences_ii.ipynb](DSA/Medium/4049_count_values_with_equally_spaced_occurrences_ii.ipynb) |

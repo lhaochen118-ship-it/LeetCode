@@ -583,3 +583,12 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 - Ghi chú: Không có bài Premium. Đề lấy từ bản doocs vì LeetCode GraphQL không truy cập được. Không có ví dụ cần đối chiếu đặc biệt. 0842, 0870 nhiều đáp án đúng nên test bằng hàm kiểm tra tính hợp lệ; 0863 so sánh sau khi sort; 0865 so sánh nút theo danh tính (`is`); 0853 oracle mô phỏng sự kiện bằng `Fraction`; 0852 dùng `bisect_left` với `key` (Python ≥ 3.10); 0855 chỉ dùng stdlib (`heapq` xóa lười + `bisect` thay `SortedList`). 0856, 0858, 0861 chỉ ~31.5–34k ký tự (trên ngưỡng 18.000). Lớp TreeNode tự dựng trong notebook. Chỉ chạy 2 agent cùng lúc. Đã tự kiểm tra lại 20 file: 79–95 cell, 31.544–56.926 ký tự, đủ mục 1–20, không lỗi/stderr. Đã gộp main (đến Hard 13) trước khi ghi.
 - Số đếm sau đợt: xem README/Excel (README = số file DSA + 13; Excel = số "Đã có notebook").
 - ID Medium tiếp theo (tra Excel, chưa có): 875, 877, 880, 881, 885, 886, 889, 890, 893, 894, … (đang được 2 agent làm).
+
+### Đợt 49 (Medium, tính từ đầu danh sách) — 22/11/2026
+
+- Đã xong (Medium): 0875, 0877, 0880, 0881, 0885, 0886, 0889, 0890, 0893, 0894, 0898, 0900, 0901, 0904, 0907, 0909, 0910, 0911, 0912, 0915
+- Lỗi: không có
+- Bỏ qua: không có (đã pull main và kiểm tra trước: 20 ID chưa có file ở bất kỳ thư mục nào, chưa có trong Excel/TIEN_DO; không trùng với khung chat khác; mỗi agent còn kiểm tra `origin/main` trước khi viết từng bài)
+- Ghi chú: Không có bài Premium. Đề lấy từ bản doocs vì LeetCode GraphQL không truy cập được. Không có ví dụ cần đối chiếu đặc biệt. 0889, 0890, 0894 nhiều đáp án/thứ tự nên test bằng hàm kiểm tra tính hợp lệ hoặc so sánh sau khi sort (0894: so tập cây qua tuần tự hóa). 0877: đáp án luôn `True` (cách nộp `return True`, kèm DP tổng quát và oracle minimax). 0912: các cách nộp (merge, quick 3 phần, heap, counting) không dùng `sorted`/`.sort`/`heapq`/`bisect`; cách nộp chính là heap sort tự cài; `sorted` chỉ làm oracle trong test. 0900, 0901, 0911: bài thiết kế lớp, có bộ chạy chuỗi lệnh `run_ops`. 0875 và 0898 hơi ngắn (~32k ký tự, trên ngưỡng 18.000). Lớp TreeNode tự dựng trong notebook. Chỉ chạy 2 agent cùng lúc. Đã tự kiểm tra lại 20 file: 75–90 cell, 32.062–49.508 ký tự, đủ mục 1–20, không lỗi/stderr. Đã gộp main trước khi ghi.
+- Số đếm sau đợt: xem README/Excel (README = số file DSA + 13; Excel = số "Đã có notebook").
+- ID Medium tiếp theo (tra Excel, chưa có): 916, 918, 919, 921, 923, 926, 930, 931, 932, 934, … (đang được 2 agent làm).
