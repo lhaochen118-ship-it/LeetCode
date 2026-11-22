@@ -7,9 +7,12 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 ## Trạng thái hiện tại
 
 <!--STATUS-->
-- Cập nhật: 19/11/2026, sau đợt 25 (đã làm bù) — các đợt 26–29 xong; đợt 30–34 do khung chat khác, đợt 35–37 do phiên này
-- ID tiếp theo: 2942 (Easy, đợt 30)
-- Số bài DSA còn lại: 2854
+- Cập nhật: 22/11/2026, sau đợt 54 (Medium) và đợt Hard 14
+- Easy: 833/833 — đã xong toàn bộ
+- Medium: 603/1958 — ID Medium tiếp theo: 1104, 1105, 1109, 1110, 1111, 1123, 1124, 1129, 1130, 1131, …
+- Hard: 308/920 — làm từ cuối danh sách đếm lên, đã xong đến 3609; ID Hard tiếp theo: 3605, 3600, 3594, 3590, 3585, …
+- Tổng DSA: 1744/3711 (47,0%) — số bài DSA còn lại: 1967 (Medium 1355, Hard 612)
+- Ngoài DSA: SQL 11, Shell 2 — README: 1757 notebook
 <!--/STATUS-->
 
 ## Nhật ký các đợt
