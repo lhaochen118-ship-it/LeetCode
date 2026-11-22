@@ -592,3 +592,12 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 - Ghi chú: Không có bài Premium. Đề lấy từ bản doocs vì LeetCode GraphQL không truy cập được. Không có ví dụ cần đối chiếu đặc biệt. 0889, 0890, 0894 nhiều đáp án/thứ tự nên test bằng hàm kiểm tra tính hợp lệ hoặc so sánh sau khi sort (0894: so tập cây qua tuần tự hóa). 0877: đáp án luôn `True` (cách nộp `return True`, kèm DP tổng quát và oracle minimax). 0912: các cách nộp (merge, quick 3 phần, heap, counting) không dùng `sorted`/`.sort`/`heapq`/`bisect`; cách nộp chính là heap sort tự cài; `sorted` chỉ làm oracle trong test. 0900, 0901, 0911: bài thiết kế lớp, có bộ chạy chuỗi lệnh `run_ops`. 0875 và 0898 hơi ngắn (~32k ký tự, trên ngưỡng 18.000). Lớp TreeNode tự dựng trong notebook. Chỉ chạy 2 agent cùng lúc. Đã tự kiểm tra lại 20 file: 75–90 cell, 32.062–49.508 ký tự, đủ mục 1–20, không lỗi/stderr. Đã gộp main trước khi ghi.
 - Số đếm sau đợt: xem README/Excel (README = số file DSA + 13; Excel = số "Đã có notebook").
 - ID Medium tiếp theo (tra Excel, chưa có): 916, 918, 919, 921, 923, 926, 930, 931, 932, 934, … (đang được 2 agent làm).
+
+### Đợt 50 (Medium, tính từ đầu danh sách) — 22/11/2026
+
+- Đã xong (Medium): 0916, 0918, 0919, 0921, 0923, 0926, 0930, 0931, 0932, 0934, 0935, 0937, 0939, 0945, 0946, 0947, 0948, 0949, 0950, 0951
+- Lỗi: không có
+- Bỏ qua: không có (đã pull main và kiểm tra trước: 20 ID chưa có file ở bất kỳ thư mục nào, chưa có trong Excel/TIEN_DO; không trùng với khung chat khác; mỗi agent còn kiểm tra `origin/main` trước khi viết từng bài)
+- Ghi chú: Không có bài Premium. Đề lấy từ bản doocs vì LeetCode GraphQL không truy cập được. Không có ví dụ cần đối chiếu đặc biệt. 0916 so sánh sau khi sort; 0932 nhiều đáp án nên test bằng hàm kiểm tra tính hợp lệ (output n=4/5 khác đáp án mẫu nhưng hợp lệ); 0950 đáp án duy nhất (vét cạn n ≤ 8) nhưng vẫn có hàm mô phỏng `reveals_increasing`; 0937 so sánh đúng thứ tự (digit-log giữ thứ tự gốc). 0919, 0951: bài/ cây có tự dựng TreeNode, `build_tree` kiểu LeetCode, `run_ops`. 0923 build chậm (~60 giây) vì vét cạn 59.840 bộ. 0926 hơi ngắn (~30.9k ký tự, trên ngưỡng 18.000). Chỉ chạy 2 agent cùng lúc. Đã tự kiểm tra lại 20 file: 78–92 cell, 30.911–56.777 ký tự, đủ mục 1–20, không lỗi/stderr. Đã gộp main trước khi ghi.
+- Số đếm sau đợt: xem README/Excel (README = số file DSA + 13; Excel = số "Đã có notebook").
+- ID Medium tiếp theo (tra Excel, chưa có): 954, 955, 957, 958, 959 (đã xong trong thư mục tạm), 962, 963, 966, 967, 969, 970, 971, 973, 974, 978, … (đang được 2 agent làm).

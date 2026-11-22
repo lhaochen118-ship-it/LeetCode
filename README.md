@@ -15,7 +15,7 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 1657 notebook** — DSA/Easy: 833 · DSA/Medium: 503 · DSA/Hard: 308 · SQL: 11 · Shell: 2
+**Tổng: 1677 notebook** — DSA/Easy: 833 · DSA/Medium: 523 · DSA/Hard: 308 · SQL: 11 · Shell: 2
 
 ## DSA — Easy — 833 bài
 
@@ -855,7 +855,7 @@ Shell/                            bài Shell (Bash)
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [4097_minimum_value_of_merged_integers.ipynb](DSA/Easy/4097_minimum_value_of_merged_integers.ipynb) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [4111_count_consistent_subarrays_i.ipynb](DSA/Easy/4111_count_consistent_subarrays_i.ipynb) |
 
-## DSA — Medium — 503 bài
+## DSA — Medium — 523 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -1343,6 +1343,26 @@ Shell/                            bài Shell (Bash)
 | 0911 | [Online Election](https://leetcode.com/problems/online-election/) | [0911_online_election.ipynb](DSA/Medium/0911_online_election.ipynb) |
 | 0912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | [0912_sort_an_array.ipynb](DSA/Medium/0912_sort_an_array.ipynb) |
 | 0915 | [Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals/) | [0915_partition_array_into_disjoint_intervals.ipynb](DSA/Medium/0915_partition_array_into_disjoint_intervals.ipynb) |
+| 0916 | [Word Subsets](https://leetcode.com/problems/word-subsets/) | [0916_word_subsets.ipynb](DSA/Medium/0916_word_subsets.ipynb) |
+| 0918 | [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/) | [0918_maximum_sum_circular_subarray.ipynb](DSA/Medium/0918_maximum_sum_circular_subarray.ipynb) |
+| 0919 | [Complete Binary Tree Inserter](https://leetcode.com/problems/complete-binary-tree-inserter/) | [0919_complete_binary_tree_inserter.ipynb](DSA/Medium/0919_complete_binary_tree_inserter.ipynb) |
+| 0921 | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | [0921_minimum_add_to_make_parentheses_valid.ipynb](DSA/Medium/0921_minimum_add_to_make_parentheses_valid.ipynb) |
+| 0923 | [3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/) | [0923_3sum_with_multiplicity.ipynb](DSA/Medium/0923_3sum_with_multiplicity.ipynb) |
+| 0926 | [Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/) | [0926_flip_string_to_monotone_increasing.ipynb](DSA/Medium/0926_flip_string_to_monotone_increasing.ipynb) |
+| 0930 | [Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) | [0930_binary_subarrays_with_sum.ipynb](DSA/Medium/0930_binary_subarrays_with_sum.ipynb) |
+| 0931 | [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | [0931_minimum_falling_path_sum.ipynb](DSA/Medium/0931_minimum_falling_path_sum.ipynb) |
+| 0932 | [Beautiful Array](https://leetcode.com/problems/beautiful-array/) | [0932_beautiful_array.ipynb](DSA/Medium/0932_beautiful_array.ipynb) |
+| 0934 | [Shortest Bridge](https://leetcode.com/problems/shortest-bridge/) | [0934_shortest_bridge.ipynb](DSA/Medium/0934_shortest_bridge.ipynb) |
+| 0935 | [Knight Dialer](https://leetcode.com/problems/knight-dialer/) | [0935_knight_dialer.ipynb](DSA/Medium/0935_knight_dialer.ipynb) |
+| 0937 | [Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/) | [0937_reorder_data_in_log_files.ipynb](DSA/Medium/0937_reorder_data_in_log_files.ipynb) |
+| 0939 | [Minimum Area Rectangle](https://leetcode.com/problems/minimum-area-rectangle/) | [0939_minimum_area_rectangle.ipynb](DSA/Medium/0939_minimum_area_rectangle.ipynb) |
+| 0945 | [Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/) | [0945_minimum_increment_to_make_array_unique.ipynb](DSA/Medium/0945_minimum_increment_to_make_array_unique.ipynb) |
+| 0946 | [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | [0946_validate_stack_sequences.ipynb](DSA/Medium/0946_validate_stack_sequences.ipynb) |
+| 0947 | [Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/) | [0947_most_stones_removed_with_same_row_or_column.ipynb](DSA/Medium/0947_most_stones_removed_with_same_row_or_column.ipynb) |
+| 0948 | [Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/) | [0948_bag_of_tokens.ipynb](DSA/Medium/0948_bag_of_tokens.ipynb) |
+| 0949 | [Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/) | [0949_largest_time_for_given_digits.ipynb](DSA/Medium/0949_largest_time_for_given_digits.ipynb) |
+| 0950 | [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | [0950_reveal_cards_in_increasing_order.ipynb](DSA/Medium/0950_reveal_cards_in_increasing_order.ipynb) |
+| 0951 | [Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/) | [0951_flip_equivalent_binary_trees.ipynb](DSA/Medium/0951_flip_equivalent_binary_trees.ipynb) |
 | 4044 | [Count Good Cyclic Rotations](https://leetcode.com/problems/count-good-cyclic-rotations/) | [4044_count_good_cyclic_rotations.ipynb](DSA/Medium/4044_count_good_cyclic_rotations.ipynb) |
 | 4045 | [Count Robot Groups](https://leetcode.com/problems/count-robot-groups/) | [4045_count_robot_groups.ipynb](DSA/Medium/4045_count_robot_groups.ipynb) |
 | 4049 | [Count Values With Equally Spaced Occurrences II](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-ii/) | [4049_count_values_with_equally_spaced_occurrences_ii.ipynb](DSA/Medium/4049_count_values_with_equally_spaced_occurrences_ii.ipynb) |
