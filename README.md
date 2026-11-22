@@ -15,7 +15,7 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 1497 notebook** — DSA/Easy: 833 · DSA/Medium: 383 · DSA/Hard: 268 · SQL: 11 · Shell: 2
+**Tổng: 1557 notebook** — DSA/Easy: 833 · DSA/Medium: 443 · DSA/Hard: 268 · SQL: 11 · Shell: 2
 
 ## DSA — Easy — 833 bài
 
@@ -855,7 +855,7 @@ Shell/                            bài Shell (Bash)
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [4097_minimum_value_of_merged_integers.ipynb](DSA/Easy/4097_minimum_value_of_merged_integers.ipynb) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [4111_count_consistent_subarrays_i.ipynb](DSA/Easy/4111_count_consistent_subarrays_i.ipynb) |
 
-## DSA — Medium — 383 bài
+## DSA — Medium — 443 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -1223,6 +1223,66 @@ Shell/                            bài Shell (Bash)
 | 0676 | [Implement Magic Dictionary](https://leetcode.com/problems/implement-magic-dictionary/) | [0676_implement_magic_dictionary.ipynb](DSA/Medium/0676_implement_magic_dictionary.ipynb) |
 | 0677 | [Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/) | [0677_map_sum_pairs.ipynb](DSA/Medium/0677_map_sum_pairs.ipynb) |
 | 0678 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | [0678_valid_parenthesis_string.ipynb](DSA/Medium/0678_valid_parenthesis_string.ipynb) |
+| 0681 | [Next Closest Time](https://leetcode.com/problems/next-closest-time/) | [0681_next_closest_time.ipynb](DSA/Medium/0681_next_closest_time.ipynb) |
+| 0684 | [Redundant Connection](https://leetcode.com/problems/redundant-connection/) | [0684_redundant_connection.ipynb](DSA/Medium/0684_redundant_connection.ipynb) |
+| 0686 | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | [0686_repeated_string_match.ipynb](DSA/Medium/0686_repeated_string_match.ipynb) |
+| 0687 | [Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/) | [0687_longest_univalue_path.ipynb](DSA/Medium/0687_longest_univalue_path.ipynb) |
+| 0688 | [Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/) | [0688_knight_probability_in_chessboard.ipynb](DSA/Medium/0688_knight_probability_in_chessboard.ipynb) |
+| 0690 | [Employee Importance](https://leetcode.com/problems/employee-importance/) | [0690_employee_importance.ipynb](DSA/Medium/0690_employee_importance.ipynb) |
+| 0692 | [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | [0692_top_k_frequent_words.ipynb](DSA/Medium/0692_top_k_frequent_words.ipynb) |
+| 0694 | [Number of Distinct Islands](https://leetcode.com/problems/number-of-distinct-islands/) | [0694_number_of_distinct_islands.ipynb](DSA/Medium/0694_number_of_distinct_islands.ipynb) |
+| 0695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | [0695_max_area_of_island.ipynb](DSA/Medium/0695_max_area_of_island.ipynb) |
+| 0701 | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | [0701_insert_into_a_binary_search_tree.ipynb](DSA/Medium/0701_insert_into_a_binary_search_tree.ipynb) |
+| 0702 | [Search in a Sorted Array of Unknown Size](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/) | [0702_search_in_a_sorted_array_of_unknown_size.ipynb](DSA/Medium/0702_search_in_a_sorted_array_of_unknown_size.ipynb) |
+| 0707 | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | [0707_design_linked_list.ipynb](DSA/Medium/0707_design_linked_list.ipynb) |
+| 0708 | [Insert into a Sorted Circular Linked List](https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list/) | [0708_insert_into_a_sorted_circular_linked_list.ipynb](DSA/Medium/0708_insert_into_a_sorted_circular_linked_list.ipynb) |
+| 0712 | [Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/) | [0712_minimum_ascii_delete_sum_for_two_strings.ipynb](DSA/Medium/0712_minimum_ascii_delete_sum_for_two_strings.ipynb) |
+| 0713 | [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | [0713_subarray_product_less_than_k.ipynb](DSA/Medium/0713_subarray_product_less_than_k.ipynb) |
+| 0714 | [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | [0714_best_time_to_buy_and_sell_stock_with_transaction_fee.ipynb](DSA/Medium/0714_best_time_to_buy_and_sell_stock_with_transaction_fee.ipynb) |
+| 0718 | [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) | [0718_maximum_length_of_repeated_subarray.ipynb](DSA/Medium/0718_maximum_length_of_repeated_subarray.ipynb) |
+| 0720 | [Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/) | [0720_longest_word_in_dictionary.ipynb](DSA/Medium/0720_longest_word_in_dictionary.ipynb) |
+| 0721 | [Accounts Merge](https://leetcode.com/problems/accounts-merge/) | [0721_accounts_merge.ipynb](DSA/Medium/0721_accounts_merge.ipynb) |
+| 0722 | [Remove Comments](https://leetcode.com/problems/remove-comments/) | [0722_remove_comments.ipynb](DSA/Medium/0722_remove_comments.ipynb) |
+| 0723 | [Candy Crush](https://leetcode.com/problems/candy-crush/) | [0723_candy_crush.ipynb](DSA/Medium/0723_candy_crush.ipynb) |
+| 0725 | [Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/) | [0725_split_linked_list_in_parts.ipynb](DSA/Medium/0725_split_linked_list_in_parts.ipynb) |
+| 0729 | [My Calendar I](https://leetcode.com/problems/my-calendar-i/) | [0729_my_calendar_i.ipynb](DSA/Medium/0729_my_calendar_i.ipynb) |
+| 0731 | [My Calendar II](https://leetcode.com/problems/my-calendar-ii/) | [0731_my_calendar_ii.ipynb](DSA/Medium/0731_my_calendar_ii.ipynb) |
+| 0735 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | [0735_asteroid_collision.ipynb](DSA/Medium/0735_asteroid_collision.ipynb) |
+| 0737 | [Sentence Similarity II](https://leetcode.com/problems/sentence-similarity-ii/) | [0737_sentence_similarity_ii.ipynb](DSA/Medium/0737_sentence_similarity_ii.ipynb) |
+| 0738 | [Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits/) | [0738_monotone_increasing_digits.ipynb](DSA/Medium/0738_monotone_increasing_digits.ipynb) |
+| 0739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [0739_daily_temperatures.ipynb](DSA/Medium/0739_daily_temperatures.ipynb) |
+| 0740 | [Delete and Earn](https://leetcode.com/problems/delete-and-earn/) | [0740_delete_and_earn.ipynb](DSA/Medium/0740_delete_and_earn.ipynb) |
+| 0742 | [Closest Leaf in a Binary Tree](https://leetcode.com/problems/closest-leaf-in-a-binary-tree/) | [0742_closest_leaf_in_a_binary_tree.ipynb](DSA/Medium/0742_closest_leaf_in_a_binary_tree.ipynb) |
+| 0743 | [Network Delay Time](https://leetcode.com/problems/network-delay-time/) | [0743_network_delay_time.ipynb](DSA/Medium/0743_network_delay_time.ipynb) |
+| 0750 | [Number Of Corner Rectangles](https://leetcode.com/problems/number-of-corner-rectangles/) | [0750_number_of_corner_rectangles.ipynb](DSA/Medium/0750_number_of_corner_rectangles.ipynb) |
+| 0751 | [IP to CIDR](https://leetcode.com/problems/ip-to-cidr/) | [0751_ip_to_cidr.ipynb](DSA/Medium/0751_ip_to_cidr.ipynb) |
+| 0752 | [Open the Lock](https://leetcode.com/problems/open-the-lock/) | [0752_open_the_lock.ipynb](DSA/Medium/0752_open_the_lock.ipynb) |
+| 0754 | [Reach a Number](https://leetcode.com/problems/reach-a-number/) | [0754_reach_a_number.ipynb](DSA/Medium/0754_reach_a_number.ipynb) |
+| 0755 | [Pour Water](https://leetcode.com/problems/pour-water/) | [0755_pour_water.ipynb](DSA/Medium/0755_pour_water.ipynb) |
+| 0756 | [Pyramid Transition Matrix](https://leetcode.com/problems/pyramid-transition-matrix/) | [0756_pyramid_transition_matrix.ipynb](DSA/Medium/0756_pyramid_transition_matrix.ipynb) |
+| 0763 | [Partition Labels](https://leetcode.com/problems/partition-labels/) | [0763_partition_labels.ipynb](DSA/Medium/0763_partition_labels.ipynb) |
+| 0767 | [Reorganize String](https://leetcode.com/problems/reorganize-string/) | [0767_reorganize_string.ipynb](DSA/Medium/0767_reorganize_string.ipynb) |
+| 0775 | [Global and Local Inversions](https://leetcode.com/problems/global-and-local-inversions/) | [0775_global_and_local_inversions.ipynb](DSA/Medium/0775_global_and_local_inversions.ipynb) |
+| 0776 | [Split BST](https://leetcode.com/problems/split-bst/) | [0776_split_bst.ipynb](DSA/Medium/0776_split_bst.ipynb) |
+| 0777 | [Swap Adjacent in LR String](https://leetcode.com/problems/swap-adjacent-in-lr-string/) | [0777_swap_adjacent_in_lr_string.ipynb](DSA/Medium/0777_swap_adjacent_in_lr_string.ipynb) |
+| 0781 | [Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest/) | [0781_rabbits_in_forest.ipynb](DSA/Medium/0781_rabbits_in_forest.ipynb) |
+| 0784 | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) | [0784_letter_case_permutation.ipynb](DSA/Medium/0784_letter_case_permutation.ipynb) |
+| 0787 | [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | [0787_cheapest_flights_within_k_stops.ipynb](DSA/Medium/0787_cheapest_flights_within_k_stops.ipynb) |
+| 0788 | [Rotated Digits](https://leetcode.com/problems/rotated-digits/) | [0788_rotated_digits.ipynb](DSA/Medium/0788_rotated_digits.ipynb) |
+| 0789 | [Escape The Ghosts](https://leetcode.com/problems/escape-the-ghosts/) | [0789_escape_the_ghosts.ipynb](DSA/Medium/0789_escape_the_ghosts.ipynb) |
+| 0791 | [Custom Sort String](https://leetcode.com/problems/custom-sort-string/) | [0791_custom_sort_string.ipynb](DSA/Medium/0791_custom_sort_string.ipynb) |
+| 0794 | [Valid Tic-Tac-Toe State](https://leetcode.com/problems/valid-tic-tac-toe-state/) | [0794_valid_tic_tac_toe_state.ipynb](DSA/Medium/0794_valid_tic_tac_toe_state.ipynb) |
+| 0795 | [Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/) | [0795_number_of_subarrays_with_bounded_maximum.ipynb](DSA/Medium/0795_number_of_subarrays_with_bounded_maximum.ipynb) |
+| 0797 | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) | [0797_all_paths_from_source_to_target.ipynb](DSA/Medium/0797_all_paths_from_source_to_target.ipynb) |
+| 0799 | [Champagne Tower](https://leetcode.com/problems/champagne-tower/) | [0799_champagne_tower.ipynb](DSA/Medium/0799_champagne_tower.ipynb) |
+| 0802 | [Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/) | [0802_find_eventual_safe_states.ipynb](DSA/Medium/0802_find_eventual_safe_states.ipynb) |
+| 0811 | [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/) | [0811_subdomain_visit_count.ipynb](DSA/Medium/0811_subdomain_visit_count.ipynb) |
+| 0814 | [Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/) | [0814_binary_tree_pruning.ipynb](DSA/Medium/0814_binary_tree_pruning.ipynb) |
+| 0817 | [Linked List Components](https://leetcode.com/problems/linked-list-components/) | [0817_linked_list_components.ipynb](DSA/Medium/0817_linked_list_components.ipynb) |
+| 0822 | [Card Flipping Game](https://leetcode.com/problems/card-flipping-game/) | [0822_card_flipping_game.ipynb](DSA/Medium/0822_card_flipping_game.ipynb) |
+| 0825 | [Friends Of Appropriate Ages](https://leetcode.com/problems/friends-of-appropriate-ages/) | [0825_friends_of_appropriate_ages.ipynb](DSA/Medium/0825_friends_of_appropriate_ages.ipynb) |
+| 0831 | [Masking Personal Information](https://leetcode.com/problems/masking-personal-information/) | [0831_masking_personal_information.ipynb](DSA/Medium/0831_masking_personal_information.ipynb) |
+| 0833 | [Find And Replace in String](https://leetcode.com/problems/find-and-replace-in-string/) | [0833_find_and_replace_in_string.ipynb](DSA/Medium/0833_find_and_replace_in_string.ipynb) |
 | 4044 | [Count Good Cyclic Rotations](https://leetcode.com/problems/count-good-cyclic-rotations/) | [4044_count_good_cyclic_rotations.ipynb](DSA/Medium/4044_count_good_cyclic_rotations.ipynb) |
 | 4045 | [Count Robot Groups](https://leetcode.com/problems/count-robot-groups/) | [4045_count_robot_groups.ipynb](DSA/Medium/4045_count_robot_groups.ipynb) |
 | 4049 | [Count Values With Equally Spaced Occurrences II](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-ii/) | [4049_count_values_with_equally_spaced_occurrences_ii.ipynb](DSA/Medium/4049_count_values_with_equally_spaced_occurrences_ii.ipynb) |
