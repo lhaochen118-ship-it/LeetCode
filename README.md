@@ -15,7 +15,7 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 1617 notebook** — DSA/Easy: 833 · DSA/Medium: 463 · DSA/Hard: 308 · SQL: 11 · Shell: 2
+**Tổng: 1637 notebook** — DSA/Easy: 833 · DSA/Medium: 483 · DSA/Hard: 308 · SQL: 11 · Shell: 2
 
 ## DSA — Easy — 833 bài
 
@@ -855,7 +855,7 @@ Shell/                            bài Shell (Bash)
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [4097_minimum_value_of_merged_integers.ipynb](DSA/Easy/4097_minimum_value_of_merged_integers.ipynb) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [4111_count_consistent_subarrays_i.ipynb](DSA/Easy/4111_count_consistent_subarrays_i.ipynb) |
 
-## DSA — Medium — 463 bài
+## DSA — Medium — 483 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -1303,6 +1303,26 @@ Shell/                            bài Shell (Bash)
 | 0837 | [New 21 Game](https://leetcode.com/problems/new-21-game/) | [0837_new_21_game.ipynb](DSA/Medium/0837_new_21_game.ipynb) |
 | 0838 | [Push Dominoes](https://leetcode.com/problems/push-dominoes/) | [0838_push_dominoes.ipynb](DSA/Medium/0838_push_dominoes.ipynb) |
 | 0840 | [Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/) | [0840_magic_squares_in_grid.ipynb](DSA/Medium/0840_magic_squares_in_grid.ipynb) |
+| 0841 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) | [0841_keys_and_rooms.ipynb](DSA/Medium/0841_keys_and_rooms.ipynb) |
+| 0842 | [Split Array into Fibonacci Sequence](https://leetcode.com/problems/split-array-into-fibonacci-sequence/) | [0842_split_array_into_fibonacci_sequence.ipynb](DSA/Medium/0842_split_array_into_fibonacci_sequence.ipynb) |
+| 0845 | [Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/) | [0845_longest_mountain_in_array.ipynb](DSA/Medium/0845_longest_mountain_in_array.ipynb) |
+| 0846 | [Hand of Straights](https://leetcode.com/problems/hand-of-straights/) | [0846_hand_of_straights.ipynb](DSA/Medium/0846_hand_of_straights.ipynb) |
+| 0848 | [Shifting Letters](https://leetcode.com/problems/shifting-letters/) | [0848_shifting_letters.ipynb](DSA/Medium/0848_shifting_letters.ipynb) |
+| 0849 | [Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/) | [0849_maximize_distance_to_closest_person.ipynb](DSA/Medium/0849_maximize_distance_to_closest_person.ipynb) |
+| 0851 | [Loud and Rich](https://leetcode.com/problems/loud-and-rich/) | [0851_loud_and_rich.ipynb](DSA/Medium/0851_loud_and_rich.ipynb) |
+| 0852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | [0852_peak_index_in_a_mountain_array.ipynb](DSA/Medium/0852_peak_index_in_a_mountain_array.ipynb) |
+| 0853 | [Car Fleet](https://leetcode.com/problems/car-fleet/) | [0853_car_fleet.ipynb](DSA/Medium/0853_car_fleet.ipynb) |
+| 0855 | [Exam Room](https://leetcode.com/problems/exam-room/) | [0855_exam_room.ipynb](DSA/Medium/0855_exam_room.ipynb) |
+| 0856 | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | [0856_score_of_parentheses.ipynb](DSA/Medium/0856_score_of_parentheses.ipynb) |
+| 0858 | [Mirror Reflection](https://leetcode.com/problems/mirror-reflection/) | [0858_mirror_reflection.ipynb](DSA/Medium/0858_mirror_reflection.ipynb) |
+| 0861 | [Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix/) | [0861_score_after_flipping_matrix.ipynb](DSA/Medium/0861_score_after_flipping_matrix.ipynb) |
+| 0863 | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | [0863_all_nodes_distance_k_in_binary_tree.ipynb](DSA/Medium/0863_all_nodes_distance_k_in_binary_tree.ipynb) |
+| 0865 | [Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/) | [0865_smallest_subtree_with_all_the_deepest_nodes.ipynb](DSA/Medium/0865_smallest_subtree_with_all_the_deepest_nodes.ipynb) |
+| 0866 | [Prime Palindrome](https://leetcode.com/problems/prime-palindrome/) | [0866_prime_palindrome.ipynb](DSA/Medium/0866_prime_palindrome.ipynb) |
+| 0869 | [Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/) | [0869_reordered_power_of_2.ipynb](DSA/Medium/0869_reordered_power_of_2.ipynb) |
+| 0870 | [Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/) | [0870_advantage_shuffle.ipynb](DSA/Medium/0870_advantage_shuffle.ipynb) |
+| 0873 | [Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/) | [0873_length_of_longest_fibonacci_subsequence.ipynb](DSA/Medium/0873_length_of_longest_fibonacci_subsequence.ipynb) |
+| 0874 | [Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/) | [0874_walking_robot_simulation.ipynb](DSA/Medium/0874_walking_robot_simulation.ipynb) |
 | 4044 | [Count Good Cyclic Rotations](https://leetcode.com/problems/count-good-cyclic-rotations/) | [4044_count_good_cyclic_rotations.ipynb](DSA/Medium/4044_count_good_cyclic_rotations.ipynb) |
 | 4045 | [Count Robot Groups](https://leetcode.com/problems/count-robot-groups/) | [4045_count_robot_groups.ipynb](DSA/Medium/4045_count_robot_groups.ipynb) |
 | 4049 | [Count Values With Equally Spaced Occurrences II](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-ii/) | [4049_count_values_with_equally_spaced_occurrences_ii.ipynb](DSA/Medium/4049_count_values_with_equally_spaced_occurrences_ii.ipynb) |
