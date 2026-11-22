@@ -15,7 +15,7 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 1717 notebook** — DSA/Easy: 833 · DSA/Medium: 563 · DSA/Hard: 308 · SQL: 11 · Shell: 2
+**Tổng: 1737 notebook** — DSA/Easy: 833 · DSA/Medium: 583 · DSA/Hard: 308 · SQL: 11 · Shell: 2
 
 ## DSA — Easy — 833 bài
 
@@ -855,7 +855,7 @@ Shell/                            bài Shell (Bash)
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [4097_minimum_value_of_merged_integers.ipynb](DSA/Easy/4097_minimum_value_of_merged_integers.ipynb) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [4111_count_consistent_subarrays_i.ipynb](DSA/Easy/4111_count_consistent_subarrays_i.ipynb) |
 
-## DSA — Medium — 563 bài
+## DSA — Medium — 583 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -1403,6 +1403,26 @@ Shell/                            bài Shell (Bash)
 | 1019 | [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/) | [1019_next_greater_node_in_linked_list.ipynb](DSA/Medium/1019_next_greater_node_in_linked_list.ipynb) |
 | 1020 | [Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/) | [1020_number_of_enclaves.ipynb](DSA/Medium/1020_number_of_enclaves.ipynb) |
 | 1023 | [Camelcase Matching](https://leetcode.com/problems/camelcase-matching/) | [1023_camelcase_matching.ipynb](DSA/Medium/1023_camelcase_matching.ipynb) |
+| 1024 | [Video Stitching](https://leetcode.com/problems/video-stitching/) | [1024_video_stitching.ipynb](DSA/Medium/1024_video_stitching.ipynb) |
+| 1026 | [Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) | [1026_maximum_difference_between_node_and_ancestor.ipynb](DSA/Medium/1026_maximum_difference_between_node_and_ancestor.ipynb) |
+| 1027 | [Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence/) | [1027_longest_arithmetic_subsequence.ipynb](DSA/Medium/1027_longest_arithmetic_subsequence.ipynb) |
+| 1029 | [Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/) | [1029_two_city_scheduling.ipynb](DSA/Medium/1029_two_city_scheduling.ipynb) |
+| 1031 | [Maximum Sum of Two Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/) | [1031_maximum_sum_of_two_non_overlapping_subarrays.ipynb](DSA/Medium/1031_maximum_sum_of_two_non_overlapping_subarrays.ipynb) |
+| 1033 | [Moving Stones Until Consecutive](https://leetcode.com/problems/moving-stones-until-consecutive/) | [1033_moving_stones_until_consecutive.ipynb](DSA/Medium/1033_moving_stones_until_consecutive.ipynb) |
+| 1034 | [Coloring A Border](https://leetcode.com/problems/coloring-a-border/) | [1034_coloring_a_border.ipynb](DSA/Medium/1034_coloring_a_border.ipynb) |
+| 1035 | [Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/) | [1035_uncrossed_lines.ipynb](DSA/Medium/1035_uncrossed_lines.ipynb) |
+| 1038 | [Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/) | [1038_binary_search_tree_to_greater_sum_tree.ipynb](DSA/Medium/1038_binary_search_tree_to_greater_sum_tree.ipynb) |
+| 1039 | [Minimum Score Triangulation of Polygon](https://leetcode.com/problems/minimum-score-triangulation-of-polygon/) | [1039_minimum_score_triangulation_of_polygon.ipynb](DSA/Medium/1039_minimum_score_triangulation_of_polygon.ipynb) |
+| 1040 | [Moving Stones Until Consecutive II](https://leetcode.com/problems/moving-stones-until-consecutive-ii/) | [1040_moving_stones_until_consecutive_ii.ipynb](DSA/Medium/1040_moving_stones_until_consecutive_ii.ipynb) |
+| 1041 | [Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/) | [1041_robot_bounded_in_circle.ipynb](DSA/Medium/1041_robot_bounded_in_circle.ipynb) |
+| 1042 | [Flower Planting With No Adjacent](https://leetcode.com/problems/flower-planting-with-no-adjacent/) | [1042_flower_planting_with_no_adjacent.ipynb](DSA/Medium/1042_flower_planting_with_no_adjacent.ipynb) |
+| 1043 | [Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/) | [1043_partition_array_for_maximum_sum.ipynb](DSA/Medium/1043_partition_array_for_maximum_sum.ipynb) |
+| 1048 | [Longest String Chain](https://leetcode.com/problems/longest-string-chain/) | [1048_longest_string_chain.ipynb](DSA/Medium/1048_longest_string_chain.ipynb) |
+| 1049 | [Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii/) | [1049_last_stone_weight_ii.ipynb](DSA/Medium/1049_last_stone_weight_ii.ipynb) |
+| 1052 | [Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/) | [1052_grumpy_bookstore_owner.ipynb](DSA/Medium/1052_grumpy_bookstore_owner.ipynb) |
+| 1053 | [Previous Permutation With One Swap](https://leetcode.com/problems/previous-permutation-with-one-swap/) | [1053_previous_permutation_with_one_swap.ipynb](DSA/Medium/1053_previous_permutation_with_one_swap.ipynb) |
+| 1054 | [Distant Barcodes](https://leetcode.com/problems/distant-barcodes/) | [1054_distant_barcodes.ipynb](DSA/Medium/1054_distant_barcodes.ipynb) |
+| 1055 | [Shortest Way to Form String](https://leetcode.com/problems/shortest-way-to-form-string/) | [1055_shortest_way_to_form_string.ipynb](DSA/Medium/1055_shortest_way_to_form_string.ipynb) |
 | 4044 | [Count Good Cyclic Rotations](https://leetcode.com/problems/count-good-cyclic-rotations/) | [4044_count_good_cyclic_rotations.ipynb](DSA/Medium/4044_count_good_cyclic_rotations.ipynb) |
 | 4045 | [Count Robot Groups](https://leetcode.com/problems/count-robot-groups/) | [4045_count_robot_groups.ipynb](DSA/Medium/4045_count_robot_groups.ipynb) |
 | 4049 | [Count Values With Equally Spaced Occurrences II](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-ii/) | [4049_count_values_with_equally_spaced_occurrences_ii.ipynb](DSA/Medium/4049_count_values_with_equally_spaced_occurrences_ii.ipynb) |
