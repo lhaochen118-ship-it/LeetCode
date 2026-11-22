@@ -15,7 +15,7 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 1597 notebook** — DSA/Easy: 833 · DSA/Medium: 463 · DSA/Hard: 288 · SQL: 11 · Shell: 2
+**Tổng: 1617 notebook** — DSA/Easy: 833 · DSA/Medium: 463 · DSA/Hard: 308 · SQL: 11 · Shell: 2
 
 ## DSA — Easy — 833 bài
 
@@ -1323,7 +1323,7 @@ Shell/                            bài Shell (Bash)
 | 4112 | [Maximize Score After Zeroing Subtrees](https://leetcode.com/problems/maximize-score-after-zeroing-subtrees/) | [4112_maximize_score_after_zeroing_subtrees.ipynb](DSA/Medium/4112_maximize_score_after_zeroing_subtrees.ipynb) |
 | 4113 | [Game of Divisible Sums](https://leetcode.com/problems/game-of-divisible-sums/) | [4113_game_of_divisible_sums.ipynb](DSA/Medium/4113_game_of_divisible_sums.ipynb) |
 
-## DSA — Hard — 288 bài
+## DSA — Hard — 308 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -1495,6 +1495,26 @@ Shell/                            bài Shell (Bash)
 | 0854 | [K-Similar Strings](https://leetcode.com/problems/k-similar-strings/) | [0854_k_similar_strings.ipynb](DSA/Hard/0854_k_similar_strings.ipynb) |
 | 0857 | [Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/) | [0857_minimum_cost_to_hire_k_workers.ipynb](DSA/Hard/0857_minimum_cost_to_hire_k_workers.ipynb) |
 | 0862 | [Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/) | [0862_shortest_subarray_with_sum_at_least_k.ipynb](DSA/Hard/0862_shortest_subarray_with_sum_at_least_k.ipynb) |
+| 3609 | [Minimum Moves to Reach Target in Grid](https://leetcode.com/problems/minimum-moves-to-reach-target-in-grid/) | [3609_minimum_moves_to_reach_target_in_grid.ipynb](DSA/Hard/3609_minimum_moves_to_reach_target_in_grid.ipynb) |
+| 3614 | [Process String with Special Operations II](https://leetcode.com/problems/process-string-with-special-operations-ii/) | [3614_process_string_with_special_operations_ii.ipynb](DSA/Hard/3614_process_string_with_special_operations_ii.ipynb) |
+| 3615 | [Longest Palindromic Path in Graph](https://leetcode.com/problems/longest-palindromic-path-in-graph/) | [3615_longest_palindromic_path_in_graph.ipynb](DSA/Hard/3615_longest_palindromic_path_in_graph.ipynb) |
+| 3620 | [Network Recovery Pathways](https://leetcode.com/problems/network-recovery-pathways/) | [3620_network_recovery_pathways.ipynb](DSA/Hard/3620_network_recovery_pathways.ipynb) |
+| 3621 | [Number of Integers With Popcount-Depth Equal to K I](https://leetcode.com/problems/number-of-integers-with-popcount-depth-equal-to-k-i/) | [3621_number_of_integers_with_popcount_depth_equal_to_k_i.ipynb](DSA/Hard/3621_number_of_integers_with_popcount_depth_equal_to_k_i.ipynb) |
+| 3624 | [Number of Integers With Popcount-Depth Equal to K II](https://leetcode.com/problems/number-of-integers-with-popcount-depth-equal-to-k-ii/) | [3624_number_of_integers_with_popcount_depth_equal_to_k_ii.ipynb](DSA/Hard/3624_number_of_integers_with_popcount_depth_equal_to_k_ii.ipynb) |
+| 3625 | [Count Number of Trapezoids II](https://leetcode.com/problems/count-number-of-trapezoids-ii/) | [3625_count_number_of_trapezoids_ii.ipynb](DSA/Hard/3625_count_number_of_trapezoids_ii.ipynb) |
+| 3630 | [Partition Array for Maximum XOR and AND](https://leetcode.com/problems/partition-array-for-maximum-xor-and-and/) | [3630_partition_array_for_maximum_xor_and_and.ipynb](DSA/Hard/3630_partition_array_for_maximum_xor_and_and.ipynb) |
+| 3632 | [Subarrays with XOR at Least K](https://leetcode.com/problems/subarrays-with-xor-at-least-k/) | [3632_subarrays_with_xor_at_least_k.ipynb](DSA/Hard/3632_subarrays_with_xor_at_least_k.ipynb) |
+| 3636 | [Threshold Majority Queries](https://leetcode.com/problems/threshold-majority-queries/) | [3636_threshold_majority_queries.ipynb](DSA/Hard/3636_threshold_majority_queries.ipynb) |
+| 3640 | [Trionic Array II](https://leetcode.com/problems/trionic-array-ii/) | [3640_trionic_array_ii.ipynb](DSA/Hard/3640_trionic_array_ii.ipynb) |
+| 3646 | [Next Special Palindrome Number](https://leetcode.com/problems/next-special-palindrome-number/) | [3646_next_special_palindrome_number.ipynb](DSA/Hard/3646_next_special_palindrome_number.ipynb) |
+| 3651 | [Minimum Cost Path with Teleportations](https://leetcode.com/problems/minimum-cost-path-with-teleportations/) | [3651_minimum_cost_path_with_teleportations.ipynb](DSA/Hard/3651_minimum_cost_path_with_teleportations.ipynb) |
+| 3655 | [XOR After Range Multiplication Queries II](https://leetcode.com/problems/xor-after-range-multiplication-queries-ii/) | [3655_xor_after_range_multiplication_queries_ii.ipynb](DSA/Hard/3655_xor_after_range_multiplication_queries_ii.ipynb) |
+| 3661 | [Maximum Walls Destroyed by Robots](https://leetcode.com/problems/maximum-walls-destroyed-by-robots/) | [3661_maximum_walls_destroyed_by_robots.ipynb](DSA/Hard/3661_maximum_walls_destroyed_by_robots.ipynb) |
+| 3666 | [Minimum Operations to Equalize Binary String](https://leetcode.com/problems/minimum-operations-to-equalize-binary-string/) | [3666_minimum_operations_to_equalize_binary_string.ipynb](DSA/Hard/3666_minimum_operations_to_equalize_binary_string.ipynb) |
+| 3671 | [Sum of Beautiful Subsequences](https://leetcode.com/problems/sum-of-beautiful-subsequences/) | [3671_sum_of_beautiful_subsequences.ipynb](DSA/Hard/3671_sum_of_beautiful_subsequences.ipynb) |
+| 3677 | [Count Binary Palindromic Numbers](https://leetcode.com/problems/count-binary-palindromic-numbers/) | [3677_count_binary_palindromic_numbers.ipynb](DSA/Hard/3677_count_binary_palindromic_numbers.ipynb) |
+| 3681 | [Maximum XOR of Subsequences](https://leetcode.com/problems/maximum-xor-of-subsequences/) | [3681_maximum_xor_of_subsequences.ipynb](DSA/Hard/3681_maximum_xor_of_subsequences.ipynb) |
+| 3686 | [Number of Stable Subsequences](https://leetcode.com/problems/number-of-stable-subsequences/) | [3686_number_of_stable_subsequences.ipynb](DSA/Hard/3686_number_of_stable_subsequences.ipynb) |
 | 3691 | [Maximum Total Subarray Value II](https://leetcode.com/problems/maximum-total-subarray-value-ii/) | [3691_maximum_total_subarray_value_ii.ipynb](DSA/Hard/3691_maximum_total_subarray_value_ii.ipynb) |
 | 3695 | [Maximize Alternating Sum Using Swaps](https://leetcode.com/problems/maximize-alternating-sum-using-swaps/) | [3695_maximize_alternating_sum_using_swaps.ipynb](DSA/Hard/3695_maximize_alternating_sum_using_swaps.ipynb) |
 | 3699 | [Number of ZigZag Arrays I](https://leetcode.com/problems/number-of-zigzag-arrays-i/) | [3699_number_of_zigzag_arrays_i.ipynb](DSA/Hard/3699_number_of_zigzag_arrays_i.ipynb) |
