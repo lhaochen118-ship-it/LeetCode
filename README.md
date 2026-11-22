@@ -15,7 +15,7 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 1697 notebook** — DSA/Easy: 833 · DSA/Medium: 543 · DSA/Hard: 308 · SQL: 11 · Shell: 2
+**Tổng: 1717 notebook** — DSA/Easy: 833 · DSA/Medium: 563 · DSA/Hard: 308 · SQL: 11 · Shell: 2
 
 ## DSA — Easy — 833 bài
 
@@ -855,7 +855,7 @@ Shell/                            bài Shell (Bash)
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [4097_minimum_value_of_merged_integers.ipynb](DSA/Easy/4097_minimum_value_of_merged_integers.ipynb) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [4111_count_consistent_subarrays_i.ipynb](DSA/Easy/4111_count_consistent_subarrays_i.ipynb) |
 
-## DSA — Medium — 543 bài
+## DSA — Medium — 563 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -1383,6 +1383,26 @@ Shell/                            bài Shell (Bash)
 | 0983 | [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/) | [0983_minimum_cost_for_tickets.ipynb](DSA/Medium/0983_minimum_cost_for_tickets.ipynb) |
 | 0984 | [String Without AAA or BBB](https://leetcode.com/problems/string-without-aaa-or-bbb/) | [0984_string_without_aaa_or_bbb.ipynb](DSA/Medium/0984_string_without_aaa_or_bbb.ipynb) |
 | 0985 | [Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/) | [0985_sum_of_even_numbers_after_queries.ipynb](DSA/Medium/0985_sum_of_even_numbers_after_queries.ipynb) |
+| 0986 | [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) | [0986_interval_list_intersections.ipynb](DSA/Medium/0986_interval_list_intersections.ipynb) |
+| 0988 | [Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/) | [0988_smallest_string_starting_from_leaf.ipynb](DSA/Medium/0988_smallest_string_starting_from_leaf.ipynb) |
+| 0990 | [Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/) | [0990_satisfiability_of_equality_equations.ipynb](DSA/Medium/0990_satisfiability_of_equality_equations.ipynb) |
+| 0991 | [Broken Calculator](https://leetcode.com/problems/broken-calculator/) | [0991_broken_calculator.ipynb](DSA/Medium/0991_broken_calculator.ipynb) |
+| 0994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | [0994_rotting_oranges.ipynb](DSA/Medium/0994_rotting_oranges.ipynb) |
+| 0998 | [Maximum Binary Tree II](https://leetcode.com/problems/maximum-binary-tree-ii/) | [0998_maximum_binary_tree_ii.ipynb](DSA/Medium/0998_maximum_binary_tree_ii.ipynb) |
+| 1003 | [Check If Word Is Valid After Substitutions](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/) | [1003_check_if_word_is_valid_after_substitutions.ipynb](DSA/Medium/1003_check_if_word_is_valid_after_substitutions.ipynb) |
+| 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | [1004_max_consecutive_ones_iii.ipynb](DSA/Medium/1004_max_consecutive_ones_iii.ipynb) |
+| 1006 | [Clumsy Factorial](https://leetcode.com/problems/clumsy-factorial/) | [1006_clumsy_factorial.ipynb](DSA/Medium/1006_clumsy_factorial.ipynb) |
+| 1007 | [Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/) | [1007_minimum_domino_rotations_for_equal_row.ipynb](DSA/Medium/1007_minimum_domino_rotations_for_equal_row.ipynb) |
+| 1008 | [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | [1008_construct_binary_search_tree_from_preorder_traversal.ipynb](DSA/Medium/1008_construct_binary_search_tree_from_preorder_traversal.ipynb) |
+| 1010 | [Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/) | [1010_pairs_of_songs_with_total_durations_divisible_by_60.ipynb](DSA/Medium/1010_pairs_of_songs_with_total_durations_divisible_by_60.ipynb) |
+| 1011 | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | [1011_capacity_to_ship_packages_within_d_days.ipynb](DSA/Medium/1011_capacity_to_ship_packages_within_d_days.ipynb) |
+| 1014 | [Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/) | [1014_best_sightseeing_pair.ipynb](DSA/Medium/1014_best_sightseeing_pair.ipynb) |
+| 1015 | [Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/) | [1015_smallest_integer_divisible_by_k.ipynb](DSA/Medium/1015_smallest_integer_divisible_by_k.ipynb) |
+| 1016 | [Binary String With Substrings Representing 1 To N](https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n/) | [1016_binary_string_with_substrings_representing_1_to_n.ipynb](DSA/Medium/1016_binary_string_with_substrings_representing_1_to_n.ipynb) |
+| 1017 | [Convert to Base -2](https://leetcode.com/problems/convert-to-base-2/) | [1017_convert_to_base_2.ipynb](DSA/Medium/1017_convert_to_base_2.ipynb) |
+| 1019 | [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/) | [1019_next_greater_node_in_linked_list.ipynb](DSA/Medium/1019_next_greater_node_in_linked_list.ipynb) |
+| 1020 | [Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/) | [1020_number_of_enclaves.ipynb](DSA/Medium/1020_number_of_enclaves.ipynb) |
+| 1023 | [Camelcase Matching](https://leetcode.com/problems/camelcase-matching/) | [1023_camelcase_matching.ipynb](DSA/Medium/1023_camelcase_matching.ipynb) |
 | 4044 | [Count Good Cyclic Rotations](https://leetcode.com/problems/count-good-cyclic-rotations/) | [4044_count_good_cyclic_rotations.ipynb](DSA/Medium/4044_count_good_cyclic_rotations.ipynb) |
 | 4045 | [Count Robot Groups](https://leetcode.com/problems/count-robot-groups/) | [4045_count_robot_groups.ipynb](DSA/Medium/4045_count_robot_groups.ipynb) |
 | 4049 | [Count Values With Equally Spaced Occurrences II](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-ii/) | [4049_count_values_with_equally_spaced_occurrences_ii.ipynb](DSA/Medium/4049_count_values_with_equally_spaced_occurrences_ii.ipynb) |
