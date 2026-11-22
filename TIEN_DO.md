@@ -539,3 +539,11 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 - Bỏ qua: không có (đã pull main và kiểm tra trước: 20 ID chưa có file ở bất kỳ thư mục nào, chưa có trong Excel/TIEN_DO; không trùng với khung chat khác)
 - Ghi chú: Bài Premium (đề viết theo hiểu biết, đối chiếu lại nếu có tài khoản Premium): 0723, 0737, 0742, 0750, 0751, 0755. Đề lấy từ bản doocs vì LeetCode GraphQL không truy cập được. Cần đối chiếu: 0742 (ba ví dụ gốc có hình cây, vẽ lại bằng chữ), 0723 (các bàn cờ tự dựng; hai ví dụ lấy từ doocs), 0737 (cả 3 ví dụ và ràng buộc), 0750/0751/0755 (đề viết theo hiểu biết; ca tính tay tự dựng), 0731/0735/0756 (một số ví dụ tự đặt, ghi chú trong notebook). 0742 và 0751 và 0767 nhiều đáp án đúng nên test bằng hàm kiểm tra tính hợp lệ. 0740: tự cài memo bằng dict vì `lru_cache` gây RecursionError ở độ sâu 10^4 trên Python 3.13 (đã ghi chú). 0729: dùng `bisect` thay `SortedDict` (chỉ stdlib). Lớp TreeNode/ListNode tự dựng trong notebook. Chỉ chạy 2 agent cùng lúc; đã tự kiểm tra lại 20 file: 66–105 cell, 34.250–57.340 ký tự, đủ mục 1–20, không lỗi/stderr. Đã gộp main trước khi ghi.
 - Số đếm sau đợt: xem README/Excel (README = số file; Excel = số "Đã có notebook").
+
+### Đợt 46 (Medium, tính từ đầu danh sách) — 22/11/2026
+
+- Đã xong (Medium): 0776, 0777, 0781, 0784, 0787, 0788, 0789, 0791, 0794, 0795, 0797, 0799, 0802, 0811, 0814, 0817, 0822, 0825, 0831, 0833
+- Lỗi: không có
+- Bỏ qua: không có (đã pull main và kiểm tra trước: 20 ID chưa có file ở bất kỳ thư mục nào, chưa có trong Excel/TIEN_DO; không trùng với khung chat khác)
+- Ghi chú: Bài Premium (đề viết theo hiểu biết, đối chiếu lại nếu có tài khoản Premium): 0776 (cách LeetCode kiểm tra đáp án cần đối chiếu). Đề lấy từ bản doocs vì LeetCode GraphQL không truy cập được. Cần đối chiếu: 0794 (ví dụ 4–6 tự đặt), 0795 (ví dụ 3–4 tự đặt). 0776, 0784, 0791, 0797, 0802, 0811 nhiều đáp án/thứ tự khác nhau nên test bằng hàm chuẩn hóa (sort) hoặc kiểm tra tính hợp lệ. 0799 kết quả số thực: so sánh có sai số 1e-9 và đối chiếu chính xác bằng Fraction. Lớp TreeNode/ListNode tự dựng trong notebook. Chỉ chạy 2 agent cùng lúc; đã tự kiểm tra lại 20 file: 69–103 cell, 36.531–54.449 ký tự, đủ mục 1–20, không lỗi/stderr. Đã gộp main trước khi ghi.
+- Số đếm sau đợt: xem README/Excel (README = số file; Excel = số "Đã có notebook").
