@@ -15,7 +15,7 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 1557 notebook** — DSA/Easy: 833 · DSA/Medium: 443 · DSA/Hard: 268 · SQL: 11 · Shell: 2
+**Tổng: 1577 notebook** — DSA/Easy: 833 · DSA/Medium: 443 · DSA/Hard: 288 · SQL: 11 · Shell: 2
 
 ## DSA — Easy — 833 bài
 
@@ -1303,7 +1303,7 @@ Shell/                            bài Shell (Bash)
 | 4112 | [Maximize Score After Zeroing Subtrees](https://leetcode.com/problems/maximize-score-after-zeroing-subtrees/) | [4112_maximize_score_after_zeroing_subtrees.ipynb](DSA/Medium/4112_maximize_score_after_zeroing_subtrees.ipynb) |
 | 4113 | [Game of Divisible Sums](https://leetcode.com/problems/game-of-divisible-sums/) | [4113_game_of_divisible_sums.ipynb](DSA/Medium/4113_game_of_divisible_sums.ipynb) |
 
-## DSA — Hard — 268 bài
+## DSA — Hard — 288 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -1475,6 +1475,26 @@ Shell/                            bài Shell (Bash)
 | 0854 | [K-Similar Strings](https://leetcode.com/problems/k-similar-strings/) | [0854_k_similar_strings.ipynb](DSA/Hard/0854_k_similar_strings.ipynb) |
 | 0857 | [Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/) | [0857_minimum_cost_to_hire_k_workers.ipynb](DSA/Hard/0857_minimum_cost_to_hire_k_workers.ipynb) |
 | 0862 | [Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/) | [0862_shortest_subarray_with_sum_at_least_k.ipynb](DSA/Hard/0862_shortest_subarray_with_sum_at_least_k.ipynb) |
+| 3691 | [Maximum Total Subarray Value II](https://leetcode.com/problems/maximum-total-subarray-value-ii/) | [3691_maximum_total_subarray_value_ii.ipynb](DSA/Hard/3691_maximum_total_subarray_value_ii.ipynb) |
+| 3695 | [Maximize Alternating Sum Using Swaps](https://leetcode.com/problems/maximize-alternating-sum-using-swaps/) | [3695_maximize_alternating_sum_using_swaps.ipynb](DSA/Hard/3695_maximize_alternating_sum_using_swaps.ipynb) |
+| 3699 | [Number of ZigZag Arrays I](https://leetcode.com/problems/number-of-zigzag-arrays-i/) | [3699_number_of_zigzag_arrays_i.ipynb](DSA/Hard/3699_number_of_zigzag_arrays_i.ipynb) |
+| 3700 | [Number of ZigZag Arrays II](https://leetcode.com/problems/number-of-zigzag-arrays-ii/) | [3700_number_of_zigzag_arrays_ii.ipynb](DSA/Hard/3700_number_of_zigzag_arrays_ii.ipynb) |
+| 3704 | [Count No-Zero Pairs That Sum to N](https://leetcode.com/problems/count-no-zero-pairs-that-sum-to-n/) | [3704_count_no_zero_pairs_that_sum_to_n.ipynb](DSA/Hard/3704_count_no_zero_pairs_that_sum_to_n.ipynb) |
+| 3710 | [Maximum Partition Factor](https://leetcode.com/problems/maximum-partition-factor/) | [3710_maximum_partition_factor.ipynb](DSA/Hard/3710_maximum_partition_factor.ipynb) |
+| 3715 | [Sum of Perfect Square Ancestors](https://leetcode.com/problems/sum-of-perfect-square-ancestors/) | [3715_sum_of_perfect_square_ancestors.ipynb](DSA/Hard/3715_sum_of_perfect_square_ancestors.ipynb) |
+| 3721 | [Longest Balanced Subarray II](https://leetcode.com/problems/longest-balanced-subarray-ii/) | [3721_longest_balanced_subarray_ii.ipynb](DSA/Hard/3721_longest_balanced_subarray_ii.ipynb) |
+| 3725 | [Count Ways to Choose Coprime Integers from Rows](https://leetcode.com/problems/count-ways-to-choose-coprime-integers-from-rows/) | [3725_count_ways_to_choose_coprime_integers_from_rows.ipynb](DSA/Hard/3725_count_ways_to_choose_coprime_integers_from_rows.ipynb) |
+| 3729 | [Count Distinct Subarrays Divisible by K in Sorted Array](https://leetcode.com/problems/count-distinct-subarrays-divisible-by-k-in-sorted-array/) | [3729_count_distinct_subarrays_divisible_by_k_in_sorted_array.ipynb](DSA/Hard/3729_count_distinct_subarrays_divisible_by_k_in_sorted_array.ipynb) |
+| 3734 | [Lexicographically Smallest Palindromic Permutation Greater Than Target](https://leetcode.com/problems/lexicographically-smallest-palindromic-permutation-greater-than-target/) | [3734_lexicographically_smallest_palindromic_permutation_greater_than_target.ipynb](DSA/Hard/3734_lexicographically_smallest_palindromic_permutation_greater_than_target.ipynb) |
+| 3735 | [Lexicographically Smallest String After Reverse II](https://leetcode.com/problems/lexicographically-smallest-string-after-reverse-ii/) | [3735_lexicographically_smallest_string_after_reverse_ii.ipynb](DSA/Hard/3735_lexicographically_smallest_string_after_reverse_ii.ipynb) |
+| 3739 | [Count Subarrays With Majority Element II](https://leetcode.com/problems/count-subarrays-with-majority-element-ii/) | [3739_count_subarrays_with_majority_element_ii.ipynb](DSA/Hard/3739_count_subarrays_with_majority_element_ii.ipynb) |
+| 3743 | [Maximize Cyclic Partition Score](https://leetcode.com/problems/maximize-cyclic-partition-score/) | [3743_maximize_cyclic_partition_score.ipynb](DSA/Hard/3743_maximize_cyclic_partition_score.ipynb) |
+| 3748 | [Count Stable Subarrays](https://leetcode.com/problems/count-stable-subarrays/) | [3748_count_stable_subarrays.ipynb](DSA/Hard/3748_count_stable_subarrays.ipynb) |
+| 3749 | [Evaluate Valid Expressions](https://leetcode.com/problems/evaluate-valid-expressions/) | [3749_evaluate_valid_expressions.ipynb](DSA/Hard/3749_evaluate_valid_expressions.ipynb) |
+| 3753 | [Total Waviness of Numbers in Range II](https://leetcode.com/problems/total-waviness-of-numbers-in-range-ii/) | [3753_total_waviness_of_numbers_in_range_ii.ipynb](DSA/Hard/3753_total_waviness_of_numbers_in_range_ii.ipynb) |
+| 3757 | [Number of Effective Subsequences](https://leetcode.com/problems/number-of-effective-subsequences/) | [3757_number_of_effective_subsequences.ipynb](DSA/Hard/3757_number_of_effective_subsequences.ipynb) |
+| 3762 | [Minimum Operations to Equalize Subarrays](https://leetcode.com/problems/minimum-operations-to-equalize-subarrays/) | [3762_minimum_operations_to_equalize_subarrays.ipynb](DSA/Hard/3762_minimum_operations_to_equalize_subarrays.ipynb) |
+| 3768 | [Minimum Inversion Count in Subarrays of Fixed Length](https://leetcode.com/problems/minimum-inversion-count-in-subarrays-of-fixed-length/) | [3768_minimum_inversion_count_in_subarrays_of_fixed_length.ipynb](DSA/Hard/3768_minimum_inversion_count_in_subarrays_of_fixed_length.ipynb) |
 | 3772 | [Maximum Subgraph Score in a Tree](https://leetcode.com/problems/maximum-subgraph-score-in-a-tree/) | [3772_maximum_subgraph_score_in_a_tree.ipynb](DSA/Hard/3772_maximum_subgraph_score_in_a_tree.ipynb) |
 | 3777 | [Minimum Deletions to Make Alternating Substring](https://leetcode.com/problems/minimum-deletions-to-make-alternating-substring/) | [3777_minimum_deletions_to_make_alternating_substring.ipynb](DSA/Hard/3777_minimum_deletions_to_make_alternating_substring.ipynb) |
 | 3782 | [Last Remaining Integer After Alternating Deletion Operations](https://leetcode.com/problems/last-remaining-integer-after-alternating-deletion-operations/) | [3782_last_remaining_integer_after_alternating_deletion_operations.ipynb](DSA/Hard/3782_last_remaining_integer_after_alternating_deletion_operations.ipynb) |
