@@ -15,7 +15,7 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 1861 notebook** — DSA/Easy: 833 · DSA/Medium: 664 · DSA/Hard: 349 · SQL: 13 · Shell: 2
+**Tổng: 1881 notebook** — DSA/Easy: 833 · DSA/Medium: 684 · DSA/Hard: 349 · SQL: 13 · Shell: 2
 
 ## DSA — Easy — 833 bài
 
@@ -855,7 +855,7 @@ Shell/                            bài Shell (Bash)
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [4097_minimum_value_of_merged_integers.ipynb](DSA/Easy/4097_minimum_value_of_merged_integers.ipynb) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [4111_count_consistent_subarrays_i.ipynb](DSA/Easy/4111_count_consistent_subarrays_i.ipynb) |
 
-## DSA — Medium — 664 bài
+## DSA — Medium — 684 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -1504,6 +1504,26 @@ Shell/                            bài Shell (Bash)
 | 1248 | [Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/) | [1248_count_number_of_nice_subarrays.ipynb](DSA/Medium/1248_count_number_of_nice_subarrays.ipynb) |
 | 1249 | [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | [1249_minimum_remove_to_make_valid_parentheses.ipynb](DSA/Medium/1249_minimum_remove_to_make_valid_parentheses.ipynb) |
 | 1253 | [Reconstruct a 2-Row Binary Matrix](https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix/) | [1253_reconstruct_a_2_row_binary_matrix.ipynb](DSA/Medium/1253_reconstruct_a_2_row_binary_matrix.ipynb) |
+| 1254 | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) | [1254_number_of_closed_islands.ipynb](DSA/Medium/1254_number_of_closed_islands.ipynb) |
+| 1256 | [Encode Number](https://leetcode.com/problems/encode-number/) | [1256_encode_number.ipynb](DSA/Medium/1256_encode_number.ipynb) |
+| 1257 | [Smallest Common Region](https://leetcode.com/problems/smallest-common-region/) | [1257_smallest_common_region.ipynb](DSA/Medium/1257_smallest_common_region.ipynb) |
+| 1258 | [Synonymous Sentences](https://leetcode.com/problems/synonymous-sentences/) | [1258_synonymous_sentences.ipynb](DSA/Medium/1258_synonymous_sentences.ipynb) |
+| 1261 | [Find Elements in a Contaminated Binary Tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/) | [1261_find_elements_in_a_contaminated_binary_tree.ipynb](DSA/Medium/1261_find_elements_in_a_contaminated_binary_tree.ipynb) |
+| 1262 | [Greatest Sum Divisible by Three](https://leetcode.com/problems/greatest-sum-divisible-by-three/) | [1262_greatest_sum_divisible_by_three.ipynb](DSA/Medium/1262_greatest_sum_divisible_by_three.ipynb) |
+| 1265 | [Print Immutable Linked List in Reverse](https://leetcode.com/problems/print-immutable-linked-list-in-reverse/) | [1265_print_immutable_linked_list_in_reverse.ipynb](DSA/Medium/1265_print_immutable_linked_list_in_reverse.ipynb) |
+| 1267 | [Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/) | [1267_count_servers_that_communicate.ipynb](DSA/Medium/1267_count_servers_that_communicate.ipynb) |
+| 1268 | [Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/) | [1268_search_suggestions_system.ipynb](DSA/Medium/1268_search_suggestions_system.ipynb) |
+| 1272 | [Remove Interval](https://leetcode.com/problems/remove-interval/) | [1272_remove_interval.ipynb](DSA/Medium/1272_remove_interval.ipynb) |
+| 1273 | [Delete Tree Nodes](https://leetcode.com/problems/delete-tree-nodes/) | [1273_delete_tree_nodes.ipynb](DSA/Medium/1273_delete_tree_nodes.ipynb) |
+| 1276 | [Number of Burgers with No Waste of Ingredients](https://leetcode.com/problems/number-of-burgers-with-no-waste-of-ingredients/) | [1276_number_of_burgers_with_no_waste_of_ingredients.ipynb](DSA/Medium/1276_number_of_burgers_with_no_waste_of_ingredients.ipynb) |
+| 1277 | [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) | [1277_count_square_submatrices_with_all_ones.ipynb](DSA/Medium/1277_count_square_submatrices_with_all_ones.ipynb) |
+| 1282 | [Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/) | [1282_group_the_people_given_the_group_size_they_belong_to.ipynb](DSA/Medium/1282_group_the_people_given_the_group_size_they_belong_to.ipynb) |
+| 1283 | [Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) | [1283_find_the_smallest_divisor_given_a_threshold.ipynb](DSA/Medium/1283_find_the_smallest_divisor_given_a_threshold.ipynb) |
+| 1286 | [Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/) | [1286_iterator_for_combination.ipynb](DSA/Medium/1286_iterator_for_combination.ipynb) |
+| 1288 | [Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/) | [1288_remove_covered_intervals.ipynb](DSA/Medium/1288_remove_covered_intervals.ipynb) |
+| 1291 | [Sequential Digits](https://leetcode.com/problems/sequential-digits/) | [1291_sequential_digits.ipynb](DSA/Medium/1291_sequential_digits.ipynb) |
+| 1292 | [Maximum Side Length of a Square with Sum Less than or Equal to Threshold](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/) | [1292_maximum_side_length_of_a_square_with_sum_less_than_or_equal_to_threshold.ipynb](DSA/Medium/1292_maximum_side_length_of_a_square_with_sum_less_than_or_equal_to_threshold.ipynb) |
+| 1296 | [Divide Array in Sets of K Consecutive Numbers](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/) | [1296_divide_array_in_sets_of_k_consecutive_numbers.ipynb](DSA/Medium/1296_divide_array_in_sets_of_k_consecutive_numbers.ipynb) |
 | 4044 | [Count Good Cyclic Rotations](https://leetcode.com/problems/count-good-cyclic-rotations/) | [4044_count_good_cyclic_rotations.ipynb](DSA/Medium/4044_count_good_cyclic_rotations.ipynb) |
 | 4045 | [Count Robot Groups](https://leetcode.com/problems/count-robot-groups/) | [4045_count_robot_groups.ipynb](DSA/Medium/4045_count_robot_groups.ipynb) |
 | 4049 | [Count Values With Equally Spaced Occurrences II](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-ii/) | [4049_count_values_with_equally_spaced_occurrences_ii.ipynb](DSA/Medium/4049_count_values_with_equally_spaced_occurrences_ii.ipynb) |

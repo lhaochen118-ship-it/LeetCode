@@ -7,12 +7,12 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 ## Trạng thái hiện tại
 
 <!--STATUS-->
-- Cập nhật: 23/11/2026, sau Đợt Hard 16
+- Cập nhật: 23/11/2026, sau đợt 58 (Medium)
 - Easy: 833/833 — đã xong toàn bộ
-- Medium: 664/1958 — ID Medium tiếp theo: 1254, 1256, 1257, 1258, 1261, 1262, 1265, 1267, 1268, 1272, …
+- Medium: 684/1958 — ID Medium tiếp theo: 1297, 1300, 1302, 1305, 1306, 1310, 1311, 1314, 1315, 1318, …
 - Hard: 349/920 — làm từ cuối danh sách đếm lên; ID Hard tiếp theo: 3470, 3464, 3463, 3459, 3455, …
-- Tổng DSA: 1846/3711 (49,7%) — số bài DSA còn lại: 1865 (Medium 1294, Hard 571)
-- Ngoài DSA: SQL 13, Shell 2 — README: 1861 notebook
+- Tổng DSA: 1866/3711 (50,3%) — số bài DSA còn lại: 1845 (Medium 1274, Hard 571)
+- Ngoài DSA: SQL 13, Shell 2 — README: 1881 notebook
 <!--/STATUS-->
 
 ## Nhật ký các đợt
@@ -687,3 +687,12 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 - Ghi chú: Tên bài, slug, skeleton Python3 và đề lấy từ LeetCode GraphQL. Bài Premium (đối chiếu lại nếu có tài khoản Premium): 3526 Range XOR Queries with Subarray Reversals — doocs không có code, tên hàm `getResults(self, nums, queries)` là **suy đoán**, cần đối chiếu; 3506 Find Time Required to Eliminate Bacterial Strains — đề và chữ ký `minEliminationTime(self, timeReq, splitTime)` lấy từ doocs. Ca chậm: 3526 treap ngầm (lazy đảo + XOR) ~4,8 s với n = q = 10^5 (kèm bản chia căn); 3530 DP bitmask thuần Python ~10 s ở n = 22 rất ít cạnh, bản vector hóa numpy ~1 s. 3474: tối ưu từ điển của tham lam được chứng minh; tính hợp lệ (đổi vị trí tự do phải nhất không phá cửa sổ F trước) chứng minh một phần, phần còn lại kiểm chứng bằng DP automaton KMP độc lập + vét cạn + 20.000 bộ ngẫu nhiên (0 vi phạm) — notebook ghi rõ điều này. 3480: bài tập 5 (bỏ đúng hai cặp, top-3) khớp vét cạn. 3486: so sánh cửa sổ trượt có hoàn tác (tăng ~bình phương trên cây "chổi") với lời giải top-2 `O(n)`. 3495 ngắn nhất đợt (18.402 ký tự, vẫn ≥ 18.000). Ví dụ/ca biên tự dựng đều kiểm chứng bằng vét cạn; các "code sai" ở mục 13 đều có phản ví dụ chạy thật (nhiều cái tìm tự động bằng seed cố định). Làm tuần tự trong phiên (1 luồng, không dùng agent). Đã tự kiểm tra lại 20 file: 51–58 cell, 18.402–31.791 ký tự, đủ mục 1–20, chạy sạch trên kernel mới, không lỗi/stderr, cell TODO không bị gọi. Đã gộp main (đến đợt 57) trước khi ghi.
 - Số đếm sau đợt: DSA 1.846 (Easy 833 · Medium 664 · Hard 349), SQL 13, Shell 2 → README 1.861 = số file; Excel 1.846 "Đã có notebook" ở sheet DSA (1.861 tính cả "Ngoai DSA").
 - ID Hard tiếp theo (tính từ cuối đếm lên, tra Excel, chưa có): 3470, 3464, 3463, 3459, 3455, 3454, 3449, 3448, 3445, 3444, 3441, 3435, 3430, 3426, 3425, 3420, 3416, 3414, 3410, 3406. Còn 571 bài Hard chưa có.
+
+### Đợt 58 (Medium, tính từ đầu danh sách) — 23/11/2026
+
+- Đã xong (Medium): 1254, 1256, 1257, 1258, 1261, 1262, 1265, 1267, 1268, 1272, 1273, 1276, 1277, 1282, 1283, 1286, 1288, 1291, 1292, 1296
+- Lỗi: không có
+- Bỏ qua: không có (đã pull main và kiểm tra trước khi làm và ngay trước khi chép: các ID chưa có file ở bất kỳ thư mục nào, chưa có trong Excel/TIEN_DO)
+- Ghi chú: Bài Premium (đề lấy từ doocs, chữ ký đã đối chiếu lời giải Python của doocs; đối chiếu lại nếu có tài khoản Premium): 1256, 1257, 1258, 1265, 1272, 1273. 1256: bảng mã trong đề gốc là hình ảnh, bảng trong notebook dựng lại khớp hai ví dụ chính thức — đối chiếu lại đề gốc. 1268: ví dụ 3, 4 tự dựng (kiểm chứng bằng brute force) — đối chiếu lại đề gốc. Bản giả lập: 1261 (TreeNode + bộ chạy chuỗi lệnh FindElements), 1265 (ImmutableListNode giả lập, cấm sửa nút, bắt output bằng redirect_stdout), 1286 (bộ chạy chuỗi lệnh CombinationIterator, đối chiếu itertools.combinations). 1273: ràng buộc không bảo đảm `parent[i] < i` nên code nộp dùng BFS + duyệt ngược; cách duyệt ngược chỉ số có phản ví dụ chạy thật. Nhiều đáp án đúng nên test bằng hàm kiểm tra hợp lệ / so sau chuẩn hóa: 1272, 1282. 1296 đối chiếu với vét cạn độc lập. Đề lấy từ LeetCode GraphQL (bài Premium lấy từ doocs). Chạy 1 agent tại một thời điểm, 2 lượt × 10 bài (lượt 1 bị gián đoạn do hết giới hạn usage, chạy tiếp sau khi reset). Đã tự kiểm tra lại 20 file: 56–77 cell, 24.102–46.015 ký tự, đủ mục 1–20, chạy sạch trên kernel mới, không lỗi/stderr, cell TODO không bị gọi. Đã gộp main (đến Đợt Hard 16) trước khi ghi.
+- Số đếm sau đợt: DSA 1.866 (Easy 833 · Medium 684 · Hard 349), SQL 13, Shell 2 → README 1.881 = số file; Excel 1.866 "Đã có notebook" ở sheet DSA (1.881 tính cả "Ngoai DSA").
+- ID Medium tiếp theo (tra Excel, chưa có): 1297, 1300, 1302, 1305, 1306, 1310, 1311, 1314, 1315, 1318, 1319, 1324, 1325, 1328, 1329, 1333, 1334, 1338, 1339, 1343. Còn 1.274 bài Medium chưa có.
