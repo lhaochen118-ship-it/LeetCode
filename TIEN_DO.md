@@ -7,12 +7,12 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 ## Trạng thái hiện tại
 
 <!--STATUS-->
-- Cập nhật: 23/11/2026, sau khi nhập zip "LeetCode_24_notebook_tieng_Viet_dot_1_den_8" (đợt 55)
+- Cập nhật: 23/11/2026, sau đợt 56 (Medium)
 - Easy: 833/833 — đã xong toàn bộ
-- Medium: 624/1958 — ID Medium tiếp theo: 1156, 1161, 1162, 1166, 1167, 1169, 1170, 1171, 1177, 1181, …
-- Hard: 309/920 — làm từ cuối danh sách đếm lên, đã xong đến 3609; ID Hard tiếp theo: 3605, 3600, 3594, 3590, 3585, … (1136 đã có từ zip)
-- Tổng DSA: 1766/3711 (47,6%) — số bài DSA còn lại: 1945 (Medium 1334, Hard 611)
-- Ngoài DSA: SQL 13, Shell 2 — README: 1781 notebook
+- Medium: 644/1958 — ID Medium tiếp theo: 1214, 1215, 1218, 1219, 1222, 1227, 1229, 1230, 1233, 1234, …
+- Hard: 309/920 — làm từ cuối danh sách đếm lên; ID Hard tiếp theo: 3605, 3600, 3594, 3590, 3585, …
+- Tổng DSA: 1786/3711 (48,1%) — số bài DSA còn lại: 1925 (Medium 1314, Hard 611)
+- Ngoài DSA: SQL 13, Shell 2 — README: 1801 notebook
 <!--/STATUS-->
 
 ## Nhật ký các đợt
@@ -651,3 +651,12 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 - Ghi chú: Notebook do người dùng cung cấp qua zip, giữ nguyên nội dung, chỉ đổi tên file về dạng `<ID 4 chữ số>_<slug>.ipynb`. Đã kiểm tra: 24 file JSON hợp lệ, 38–53 cell, 16.496–23.040 ký tự, mọi cell code đã chạy, không có output lỗi/stderr. Bài Premium: 1135, 1136, 1151, 1152 (đối chiếu lại nếu có tài khoản Premium). PDF `LeetCode_DSA_Python_3711.pdf` được tạo lại từ Excel (trạng thái "Có ipynb"/"Chưa có file" theo file thật).
 - Số đếm sau đợt: DSA 1.766 (Easy 833 · Medium 624 · Hard 309), SQL 13, Shell 2 → README 1.781 = số file; Excel 1.766 "Đã có notebook" ở sheet DSA.
 - ID Medium tiếp theo (tra Excel, chưa có): 1156, 1161, 1162, 1166, 1167, 1169, 1170, 1171, 1177, 1181, 1182, 1186, 1190, 1191, 1197, 1198, 1201, 1202, 1208, 1209.
+
+### Đợt 56 (Medium, tính từ đầu danh sách) — 23/11/2026
+
+- Đã xong (Medium): 1156, 1161, 1162, 1166, 1167, 1169, 1170, 1171, 1177, 1181, 1182, 1186, 1190, 1191, 1197, 1198, 1201, 1202, 1208, 1209
+- Lỗi: không có
+- Bỏ qua: không có (đã pull main và kiểm tra trước: các ID chưa có file ở bất kỳ thư mục nào, chưa có trong Excel/TIEN_DO)
+- Ghi chú: Bài Premium (đề lấy từ doocs/viết theo hiểu biết, đối chiếu lại nếu có tài khoản Premium): 1166, 1167, 1181, 1182, 1197, 1198 — chữ ký hàm suy ra từ lời giải tham khảo. 1166 có thêm lớp bọc chỉ để mô phỏng chuỗi lệnh. Nhiều đáp án đúng nên test bằng hàm kiểm tra hợp lệ / so sau khi sort: 1169, 1171. 1197: công thức O(1) và đệ quy có nhớ kiểm chứng với BFS trên ~180.000 ô (notebook chạy ~17 giây). 1209 bài tập 5 cố định quy tắc xóa chạy trái nhất trước. Đề lấy từ LeetCode GraphQL (bài Premium lấy từ doocs). Chạy 2 agent song song, mỗi agent 10 bài. Đã tự kiểm tra lại 20 file: 55–68 cell, 21.663–31.166 ký tự, đủ mục 1–20, chạy sạch trên kernel mới, không lỗi/stderr.
+- Số đếm sau đợt: DSA 1.786 (Easy 833 · Medium 644 · Hard 309), SQL 13, Shell 2 → README 1.801 = số file.
+- ID Medium tiếp theo (tra Excel, chưa có): 1214, 1215, 1218, 1219, 1222, 1227, 1229, 1230, 1233, 1234, 1236, 1237, 1238, 1239, 1244, 1245, 1247, 1248, 1249, 1253.

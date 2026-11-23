@@ -15,7 +15,7 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 1781 notebook** — DSA/Easy: 833 · DSA/Medium: 624 · DSA/Hard: 309 · SQL: 13 · Shell: 2
+**Tổng: 1801 notebook** — DSA/Easy: 833 · DSA/Medium: 644 · DSA/Hard: 309 · SQL: 13 · Shell: 2
 
 ## DSA — Easy — 833 bài
 
@@ -855,7 +855,7 @@ Shell/                            bài Shell (Bash)
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [4097_minimum_value_of_merged_integers.ipynb](DSA/Easy/4097_minimum_value_of_merged_integers.ipynb) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [4111_count_consistent_subarrays_i.ipynb](DSA/Easy/4111_count_consistent_subarrays_i.ipynb) |
 
-## DSA — Medium — 624 bài
+## DSA — Medium — 644 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -1464,6 +1464,26 @@ Shell/                            bài Shell (Bash)
 | 1151 | [Minimum Swaps to Group All 1's Together](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together/) | [1151_minimum_swaps_to_group_all_1s_together.ipynb](DSA/Medium/1151_minimum_swaps_to_group_all_1s_together.ipynb) |
 | 1152 | [Analyze User Website Visit Pattern](https://leetcode.com/problems/analyze-user-website-visit-pattern/) | [1152_analyze_user_website_visit_pattern.ipynb](DSA/Medium/1152_analyze_user_website_visit_pattern.ipynb) |
 | 1155 | [Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/) | [1155_number_of_dice_rolls_with_target_sum.ipynb](DSA/Medium/1155_number_of_dice_rolls_with_target_sum.ipynb) |
+| 1156 | [Swap For Longest Repeated Character Substring](https://leetcode.com/problems/swap-for-longest-repeated-character-substring/) | [1156_swap_for_longest_repeated_character_substring.ipynb](DSA/Medium/1156_swap_for_longest_repeated_character_substring.ipynb) |
+| 1161 | [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) | [1161_maximum_level_sum_of_a_binary_tree.ipynb](DSA/Medium/1161_maximum_level_sum_of_a_binary_tree.ipynb) |
+| 1162 | [As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/) | [1162_as_far_from_land_as_possible.ipynb](DSA/Medium/1162_as_far_from_land_as_possible.ipynb) |
+| 1166 | [Design File System](https://leetcode.com/problems/design-file-system/) | [1166_design_file_system.ipynb](DSA/Medium/1166_design_file_system.ipynb) |
+| 1167 | [Minimum Cost to Connect Sticks](https://leetcode.com/problems/minimum-cost-to-connect-sticks/) | [1167_minimum_cost_to_connect_sticks.ipynb](DSA/Medium/1167_minimum_cost_to_connect_sticks.ipynb) |
+| 1169 | [Invalid Transactions](https://leetcode.com/problems/invalid-transactions/) | [1169_invalid_transactions.ipynb](DSA/Medium/1169_invalid_transactions.ipynb) |
+| 1170 | [Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/) | [1170_compare_strings_by_frequency_of_the_smallest_character.ipynb](DSA/Medium/1170_compare_strings_by_frequency_of_the_smallest_character.ipynb) |
+| 1171 | [Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/) | [1171_remove_zero_sum_consecutive_nodes_from_linked_list.ipynb](DSA/Medium/1171_remove_zero_sum_consecutive_nodes_from_linked_list.ipynb) |
+| 1177 | [Can Make Palindrome from Substring](https://leetcode.com/problems/can-make-palindrome-from-substring/) | [1177_can_make_palindrome_from_substring.ipynb](DSA/Medium/1177_can_make_palindrome_from_substring.ipynb) |
+| 1181 | [Before and After Puzzle](https://leetcode.com/problems/before-and-after-puzzle/) | [1181_before_and_after_puzzle.ipynb](DSA/Medium/1181_before_and_after_puzzle.ipynb) |
+| 1182 | [Shortest Distance to Target Color](https://leetcode.com/problems/shortest-distance-to-target-color/) | [1182_shortest_distance_to_target_color.ipynb](DSA/Medium/1182_shortest_distance_to_target_color.ipynb) |
+| 1186 | [Maximum Subarray Sum with One Deletion](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/) | [1186_maximum_subarray_sum_with_one_deletion.ipynb](DSA/Medium/1186_maximum_subarray_sum_with_one_deletion.ipynb) |
+| 1190 | [Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | [1190_reverse_substrings_between_each_pair_of_parentheses.ipynb](DSA/Medium/1190_reverse_substrings_between_each_pair_of_parentheses.ipynb) |
+| 1191 | [K-Concatenation Maximum Sum](https://leetcode.com/problems/k-concatenation-maximum-sum/) | [1191_k_concatenation_maximum_sum.ipynb](DSA/Medium/1191_k_concatenation_maximum_sum.ipynb) |
+| 1197 | [Minimum Knight Moves](https://leetcode.com/problems/minimum-knight-moves/) | [1197_minimum_knight_moves.ipynb](DSA/Medium/1197_minimum_knight_moves.ipynb) |
+| 1198 | [Find Smallest Common Element in All Rows](https://leetcode.com/problems/find-smallest-common-element-in-all-rows/) | [1198_find_smallest_common_element_in_all_rows.ipynb](DSA/Medium/1198_find_smallest_common_element_in_all_rows.ipynb) |
+| 1201 | [Ugly Number III](https://leetcode.com/problems/ugly-number-iii/) | [1201_ugly_number_iii.ipynb](DSA/Medium/1201_ugly_number_iii.ipynb) |
+| 1202 | [Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/) | [1202_smallest_string_with_swaps.ipynb](DSA/Medium/1202_smallest_string_with_swaps.ipynb) |
+| 1208 | [Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget/) | [1208_get_equal_substrings_within_budget.ipynb](DSA/Medium/1208_get_equal_substrings_within_budget.ipynb) |
+| 1209 | [Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/) | [1209_remove_all_adjacent_duplicates_in_string_ii.ipynb](DSA/Medium/1209_remove_all_adjacent_duplicates_in_string_ii.ipynb) |
 | 4044 | [Count Good Cyclic Rotations](https://leetcode.com/problems/count-good-cyclic-rotations/) | [4044_count_good_cyclic_rotations.ipynb](DSA/Medium/4044_count_good_cyclic_rotations.ipynb) |
 | 4045 | [Count Robot Groups](https://leetcode.com/problems/count-robot-groups/) | [4045_count_robot_groups.ipynb](DSA/Medium/4045_count_robot_groups.ipynb) |
 | 4049 | [Count Values With Equally Spaced Occurrences II](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-ii/) | [4049_count_values_with_equally_spaced_occurrences_ii.ipynb](DSA/Medium/4049_count_values_with_equally_spaced_occurrences_ii.ipynb) |
