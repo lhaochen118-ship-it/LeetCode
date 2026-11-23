@@ -15,7 +15,7 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 1801 notebook** — DSA/Easy: 833 · DSA/Medium: 644 · DSA/Hard: 309 · SQL: 13 · Shell: 2
+**Tổng: 1821 notebook** — DSA/Easy: 833 · DSA/Medium: 644 · DSA/Hard: 329 · SQL: 13 · Shell: 2
 
 ## DSA — Easy — 833 bài
 
@@ -1504,7 +1504,7 @@ Shell/                            bài Shell (Bash)
 | 4112 | [Maximize Score After Zeroing Subtrees](https://leetcode.com/problems/maximize-score-after-zeroing-subtrees/) | [4112_maximize_score_after_zeroing_subtrees.ipynb](DSA/Medium/4112_maximize_score_after_zeroing_subtrees.ipynb) |
 | 4113 | [Game of Divisible Sums](https://leetcode.com/problems/game-of-divisible-sums/) | [4113_game_of_divisible_sums.ipynb](DSA/Medium/4113_game_of_divisible_sums.ipynb) |
 
-## DSA — Hard — 309 bài
+## DSA — Hard — 329 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -1677,6 +1677,26 @@ Shell/                            bài Shell (Bash)
 | 0857 | [Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/) | [0857_minimum_cost_to_hire_k_workers.ipynb](DSA/Hard/0857_minimum_cost_to_hire_k_workers.ipynb) |
 | 0862 | [Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/) | [0862_shortest_subarray_with_sum_at_least_k.ipynb](DSA/Hard/0862_shortest_subarray_with_sum_at_least_k.ipynb) |
 | 1136 | [Parallel Courses](https://leetcode.com/problems/parallel-courses/) | [1136_parallel_courses.ipynb](DSA/Hard/1136_parallel_courses.ipynb) |
+| 3534 | [Path Existence Queries in a Graph II](https://leetcode.com/problems/path-existence-queries-in-a-graph-ii/) | [3534_path_existence_queries_in_a_graph_ii.ipynb](DSA/Hard/3534_path_existence_queries_in_a_graph_ii.ipynb) |
+| 3538 | [Merge Operations for Minimum Travel Time](https://leetcode.com/problems/merge-operations-for-minimum-travel-time/) | [3538_merge_operations_for_minimum_travel_time.ipynb](DSA/Hard/3538_merge_operations_for_minimum_travel_time.ipynb) |
+| 3539 | [Find Sum of Array Product of Magical Sequences](https://leetcode.com/problems/find-sum-of-array-product-of-magical-sequences/) | [3539_find_sum_of_array_product_of_magical_sequences.ipynb](DSA/Hard/3539_find_sum_of_array_product_of_magical_sequences.ipynb) |
+| 3544 | [Subtree Inversion Sum](https://leetcode.com/problems/subtree-inversion-sum/) | [3544_subtree_inversion_sum.ipynb](DSA/Hard/3544_subtree_inversion_sum.ipynb) |
+| 3547 | [Maximum Sum of Edge Values in a Graph](https://leetcode.com/problems/maximum-sum-of-edge-values-in-a-graph/) | [3547_maximum_sum_of_edge_values_in_a_graph.ipynb](DSA/Hard/3547_maximum_sum_of_edge_values_in_a_graph.ipynb) |
+| 3548 | [Equal Sum Grid Partition II](https://leetcode.com/problems/equal-sum-grid-partition-ii/) | [3548_equal_sum_grid_partition_ii.ipynb](DSA/Hard/3548_equal_sum_grid_partition_ii.ipynb) |
+| 3549 | [Multiply Two Polynomials](https://leetcode.com/problems/multiply-two-polynomials/) | [3549_multiply_two_polynomials.ipynb](DSA/Hard/3549_multiply_two_polynomials.ipynb) |
+| 3553 | [Minimum Weighted Subgraph With the Required Paths II](https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths-ii/) | [3553_minimum_weighted_subgraph_with_the_required_paths_ii.ipynb](DSA/Hard/3553_minimum_weighted_subgraph_with_the_required_paths_ii.ipynb) |
+| 3559 | [Number of Ways to Assign Edge Weights II](https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-ii/) | [3559_number_of_ways_to_assign_edge_weights_ii.ipynb](DSA/Hard/3559_number_of_ways_to_assign_edge_weights_ii.ipynb) |
+| 3562 | [Maximum Profit from Trading Stocks with Discounts](https://leetcode.com/problems/maximum-profit-from-trading-stocks-with-discounts/) | [3562_maximum_profit_from_trading_stocks_with_discounts.ipynb](DSA/Hard/3562_maximum_profit_from_trading_stocks_with_discounts.ipynb) |
+| 3563 | [Lexicographically Smallest String After Adjacent Removals](https://leetcode.com/problems/lexicographically-smallest-string-after-adjacent-removals/) | [3563_lexicographically_smallest_string_after_adjacent_removals.ipynb](DSA/Hard/3563_lexicographically_smallest_string_after_adjacent_removals.ipynb) |
+| 3569 | [Maximize Count of Distinct Primes After Split](https://leetcode.com/problems/maximize-count-of-distinct-primes-after-split/) | [3569_maximize_count_of_distinct_primes_after_split.ipynb](DSA/Hard/3569_maximize_count_of_distinct_primes_after_split.ipynb) |
+| 3574 | [Maximize Subarray GCD Score](https://leetcode.com/problems/maximize-subarray-gcd-score/) | [3574_maximize_subarray_gcd_score.ipynb](DSA/Hard/3574_maximize_subarray_gcd_score.ipynb) |
+| 3575 | [Maximum Good Subtree Score](https://leetcode.com/problems/maximum-good-subtree-score/) | [3575_maximum_good_subtree_score.ipynb](DSA/Hard/3575_maximum_good_subtree_score.ipynb) |
+| 3579 | [Minimum Steps to Convert String with Operations](https://leetcode.com/problems/minimum-steps-to-convert-string-with-operations/) | [3579_minimum_steps_to_convert_string_with_operations.ipynb](DSA/Hard/3579_minimum_steps_to_convert_string_with_operations.ipynb) |
+| 3585 | [Find Weighted Median Node in Tree](https://leetcode.com/problems/find-weighted-median-node-in-tree/) | [3585_find_weighted_median_node_in_tree.ipynb](DSA/Hard/3585_find_weighted_median_node_in_tree.ipynb) |
+| 3590 | [Kth Smallest Path XOR Sum](https://leetcode.com/problems/kth-smallest-path-xor-sum/) | [3590_kth_smallest_path_xor_sum.ipynb](DSA/Hard/3590_kth_smallest_path_xor_sum.ipynb) |
+| 3594 | [Minimum Time to Transport All Individuals](https://leetcode.com/problems/minimum-time-to-transport-all-individuals/) | [3594_minimum_time_to_transport_all_individuals.ipynb](DSA/Hard/3594_minimum_time_to_transport_all_individuals.ipynb) |
+| 3600 | [Maximize Spanning Tree Stability with Upgrades](https://leetcode.com/problems/maximize-spanning-tree-stability-with-upgrades/) | [3600_maximize_spanning_tree_stability_with_upgrades.ipynb](DSA/Hard/3600_maximize_spanning_tree_stability_with_upgrades.ipynb) |
+| 3605 | [Minimum Stability Factor of Array](https://leetcode.com/problems/minimum-stability-factor-of-array/) | [3605_minimum_stability_factor_of_array.ipynb](DSA/Hard/3605_minimum_stability_factor_of_array.ipynb) |
 | 3609 | [Minimum Moves to Reach Target in Grid](https://leetcode.com/problems/minimum-moves-to-reach-target-in-grid/) | [3609_minimum_moves_to_reach_target_in_grid.ipynb](DSA/Hard/3609_minimum_moves_to_reach_target_in_grid.ipynb) |
 | 3614 | [Process String with Special Operations II](https://leetcode.com/problems/process-string-with-special-operations-ii/) | [3614_process_string_with_special_operations_ii.ipynb](DSA/Hard/3614_process_string_with_special_operations_ii.ipynb) |
 | 3615 | [Longest Palindromic Path in Graph](https://leetcode.com/problems/longest-palindromic-path-in-graph/) | [3615_longest_palindromic_path_in_graph.ipynb](DSA/Hard/3615_longest_palindromic_path_in_graph.ipynb) |

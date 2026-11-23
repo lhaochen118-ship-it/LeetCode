@@ -7,12 +7,12 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 ## Trạng thái hiện tại
 
 <!--STATUS-->
-- Cập nhật: 23/11/2026, sau đợt 56 (Medium)
+- Cập nhật: 23/11/2026, sau đợt 56 (Medium) và Đợt Hard 15
 - Easy: 833/833 — đã xong toàn bộ
 - Medium: 644/1958 — ID Medium tiếp theo: 1214, 1215, 1218, 1219, 1222, 1227, 1229, 1230, 1233, 1234, …
-- Hard: 309/920 — làm từ cuối danh sách đếm lên; ID Hard tiếp theo: 3605, 3600, 3594, 3590, 3585, …
-- Tổng DSA: 1786/3711 (48,1%) — số bài DSA còn lại: 1925 (Medium 1314, Hard 611)
-- Ngoài DSA: SQL 13, Shell 2 — README: 1801 notebook
+- Hard: 329/920 — làm từ cuối danh sách đếm lên, đã xong liên tục từ cuối đến 3534; ID Hard tiếp theo: 3533, 3530, 3526, 3525, 3519, …
+- Tổng DSA: 1806/3711 (48,7%) — số bài DSA còn lại: 1905 (Medium 1314, Hard 591)
+- Ngoài DSA: SQL 13, Shell 2 — README: 1821 notebook
 <!--/STATUS-->
 
 ## Nhật ký các đợt
@@ -660,3 +660,12 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 - Ghi chú: Bài Premium (đề lấy từ doocs/viết theo hiểu biết, đối chiếu lại nếu có tài khoản Premium): 1166, 1167, 1181, 1182, 1197, 1198 — chữ ký hàm suy ra từ lời giải tham khảo. 1166 có thêm lớp bọc chỉ để mô phỏng chuỗi lệnh. Nhiều đáp án đúng nên test bằng hàm kiểm tra hợp lệ / so sau khi sort: 1169, 1171. 1197: công thức O(1) và đệ quy có nhớ kiểm chứng với BFS trên ~180.000 ô (notebook chạy ~17 giây). 1209 bài tập 5 cố định quy tắc xóa chạy trái nhất trước. Đề lấy từ LeetCode GraphQL (bài Premium lấy từ doocs). Chạy 2 agent song song, mỗi agent 10 bài. Đã tự kiểm tra lại 20 file: 55–68 cell, 21.663–31.166 ký tự, đủ mục 1–20, chạy sạch trên kernel mới, không lỗi/stderr.
 - Số đếm sau đợt: DSA 1.786 (Easy 833 · Medium 644 · Hard 309), SQL 13, Shell 2 → README 1.801 = số file.
 - ID Medium tiếp theo (tra Excel, chưa có): 1214, 1215, 1218, 1219, 1222, 1227, 1229, 1230, 1233, 1234, 1236, 1237, 1238, 1239, 1244, 1245, 1247, 1248, 1249, 1253.
+
+### Đợt Hard 15 (nhóm Hard, tính từ cuối danh sách đếm lên) — 23/11/2026
+
+- Đã xong (Hard): 3605, 3600, 3594, 3590, 3585, 3579, 3575, 3574, 3569, 3563, 3562, 3559, 3553, 3549, 3548, 3547, 3544, 3539, 3538, 3534
+- Lỗi: không có
+- Bỏ qua: không có (đã pull main và kiểm tra trước khi làm và ngay trước khi chép: 20 ID chưa có file trên `origin/main`, chưa có trong Excel/TIEN_DO; không trùng với khung chat Medium)
+- Ghi chú: Tên bài, slug, skeleton Python3 và đề lấy từ LeetCode GraphQL. Bài Premium (đối chiếu lại nếu có tài khoản Premium): 3549 Multiply Two Polynomials — đề và chữ ký `multiply(self, poly1, poly2)` lấy từ doocs. 3549: lời giải nộp dùng thế Kronecker (đóng gói hệ số vào số nguyên lớn, chính xác, ~0,35 s với 5·10^4 × 5·10^4), kèm Karatsuba, FFT số phức (~0,9 s) và NTT ở bài tập. 3594: Dijkstra trên trạng thái (mask, giai đoạn, bờ) — `floor` của số thực tính đúng như đề (nhân trực tiếp `time × mul`); ca n = 12 ~0,6–0,9 s. 3590: gộp nhỏ vào lớn bằng danh sách sắp + `bisect` (thay `SortedList`), kèm Sack + Fenwick. 3547: chứng minh dãy núi tối ưu bằng đổi sang `Σd²` và đếm số lần vượt ngưỡng; bài tập 4 kiểm tra giả thuyết "xen kẽ lớn–nhỏ cho min" và cho thấy giả thuyết sai từ n = 5. 3579: công thức chi phí đoạn (`#lệch − #cặp hoán đổi ngược`, có/không đảo) kiểm chứng bằng BFS mọi chuỗi thao tác. 3538: kiểm chứng bằng mô phỏng mọi dãy thao tác gộp nguyên văn đề. Ví dụ/ca biên tự dựng đều kiểm chứng bằng vét cạn; các "code sai" ở mục 13 đều có phản ví dụ chạy thật (một số tìm tự động bằng seed cố định). Làm tuần tự trong phiên (1 luồng, không dùng agent). Đã tự kiểm tra lại 20 file: 53–61 cell, 22.234–36.842 ký tự, đủ mục 1–20, chạy sạch trên kernel mới (mỗi notebook ≤ 6 s), không lỗi/stderr, cell TODO không bị gọi. Đã gộp main (đến đợt 56) trước khi ghi.
+- Số đếm sau đợt: DSA 1.806 (Easy 833 · Medium 644 · Hard 329), SQL 13, Shell 2 → README 1.821 = số file; Excel 1.806 "Đã có notebook" ở sheet DSA (1.821 tính cả "Ngoai DSA").
+- ID Hard tiếp theo (tính từ cuối đếm lên, tra Excel, chưa có): 3533, 3530, 3526, 3525, 3519, 3518, 3515, 3510, 3509, 3506, 3505, 3504, 3501, 3500, 3495, 3490, 3486, 3485, 3480, 3474. Còn 591 bài Hard chưa có.
