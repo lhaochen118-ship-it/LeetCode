@@ -15,7 +15,7 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 1841 notebook** — DSA/Easy: 833 · DSA/Medium: 664 · DSA/Hard: 329 · SQL: 13 · Shell: 2
+**Tổng: 1861 notebook** — DSA/Easy: 833 · DSA/Medium: 664 · DSA/Hard: 349 · SQL: 13 · Shell: 2
 
 ## DSA — Easy — 833 bài
 
@@ -1524,7 +1524,7 @@ Shell/                            bài Shell (Bash)
 | 4112 | [Maximize Score After Zeroing Subtrees](https://leetcode.com/problems/maximize-score-after-zeroing-subtrees/) | [4112_maximize_score_after_zeroing_subtrees.ipynb](DSA/Medium/4112_maximize_score_after_zeroing_subtrees.ipynb) |
 | 4113 | [Game of Divisible Sums](https://leetcode.com/problems/game-of-divisible-sums/) | [4113_game_of_divisible_sums.ipynb](DSA/Medium/4113_game_of_divisible_sums.ipynb) |
 
-## DSA — Hard — 329 bài
+## DSA — Hard — 349 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -1697,6 +1697,26 @@ Shell/                            bài Shell (Bash)
 | 0857 | [Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/) | [0857_minimum_cost_to_hire_k_workers.ipynb](DSA/Hard/0857_minimum_cost_to_hire_k_workers.ipynb) |
 | 0862 | [Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/) | [0862_shortest_subarray_with_sum_at_least_k.ipynb](DSA/Hard/0862_shortest_subarray_with_sum_at_least_k.ipynb) |
 | 1136 | [Parallel Courses](https://leetcode.com/problems/parallel-courses/) | [1136_parallel_courses.ipynb](DSA/Hard/1136_parallel_courses.ipynb) |
+| 3474 | [Lexicographically Smallest Generated String](https://leetcode.com/problems/lexicographically-smallest-generated-string/) | [3474_lexicographically_smallest_generated_string.ipynb](DSA/Hard/3474_lexicographically_smallest_generated_string.ipynb) |
+| 3480 | [Maximize Subarrays After Removing One Conflicting Pair](https://leetcode.com/problems/maximize-subarrays-after-removing-one-conflicting-pair/) | [3480_maximize_subarrays_after_removing_one_conflicting_pair.ipynb](DSA/Hard/3480_maximize_subarrays_after_removing_one_conflicting_pair.ipynb) |
+| 3485 | [Longest Common Prefix of K Strings After Removal](https://leetcode.com/problems/longest-common-prefix-of-k-strings-after-removal/) | [3485_longest_common_prefix_of_k_strings_after_removal.ipynb](DSA/Hard/3485_longest_common_prefix_of_k_strings_after_removal.ipynb) |
+| 3486 | [Longest Special Path II](https://leetcode.com/problems/longest-special-path-ii/) | [3486_longest_special_path_ii.ipynb](DSA/Hard/3486_longest_special_path_ii.ipynb) |
+| 3490 | [Count Beautiful Numbers](https://leetcode.com/problems/count-beautiful-numbers/) | [3490_count_beautiful_numbers.ipynb](DSA/Hard/3490_count_beautiful_numbers.ipynb) |
+| 3495 | [Minimum Operations to Make Array Elements Zero](https://leetcode.com/problems/minimum-operations-to-make-array-elements-zero/) | [3495_minimum_operations_to_make_array_elements_zero.ipynb](DSA/Hard/3495_minimum_operations_to_make_array_elements_zero.ipynb) |
+| 3500 | [Minimum Cost to Divide Array Into Subarrays](https://leetcode.com/problems/minimum-cost-to-divide-array-into-subarrays/) | [3500_minimum_cost_to_divide_array_into_subarrays.ipynb](DSA/Hard/3500_minimum_cost_to_divide_array_into_subarrays.ipynb) |
+| 3501 | [Maximize Active Section with Trade II](https://leetcode.com/problems/maximize-active-section-with-trade-ii/) | [3501_maximize_active_section_with_trade_ii.ipynb](DSA/Hard/3501_maximize_active_section_with_trade_ii.ipynb) |
+| 3504 | [Longest Palindrome After Substring Concatenation II](https://leetcode.com/problems/longest-palindrome-after-substring-concatenation-ii/) | [3504_longest_palindrome_after_substring_concatenation_ii.ipynb](DSA/Hard/3504_longest_palindrome_after_substring_concatenation_ii.ipynb) |
+| 3505 | [Minimum Operations to Make Elements Within K Subarrays Equal](https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal/) | [3505_minimum_operations_to_make_elements_within_k_subarrays_equal.ipynb](DSA/Hard/3505_minimum_operations_to_make_elements_within_k_subarrays_equal.ipynb) |
+| 3506 | [Find Time Required to Eliminate Bacterial Strains](https://leetcode.com/problems/find-time-required-to-eliminate-bacterial-strains/) | [3506_find_time_required_to_eliminate_bacterial_strains.ipynb](DSA/Hard/3506_find_time_required_to_eliminate_bacterial_strains.ipynb) |
+| 3509 | [Maximum Product of Subsequences With an Alternating Sum Equal to K](https://leetcode.com/problems/maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k/) | [3509_maximum_product_of_subsequences_with_an_alternating_sum_equal_to_k.ipynb](DSA/Hard/3509_maximum_product_of_subsequences_with_an_alternating_sum_equal_to_k.ipynb) |
+| 3510 | [Minimum Pair Removal to Sort Array II](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-ii/) | [3510_minimum_pair_removal_to_sort_array_ii.ipynb](DSA/Hard/3510_minimum_pair_removal_to_sort_array_ii.ipynb) |
+| 3515 | [Shortest Path in a Weighted Tree](https://leetcode.com/problems/shortest-path-in-a-weighted-tree/) | [3515_shortest_path_in_a_weighted_tree.ipynb](DSA/Hard/3515_shortest_path_in_a_weighted_tree.ipynb) |
+| 3518 | [Smallest Palindromic Rearrangement II](https://leetcode.com/problems/smallest-palindromic-rearrangement-ii/) | [3518_smallest_palindromic_rearrangement_ii.ipynb](DSA/Hard/3518_smallest_palindromic_rearrangement_ii.ipynb) |
+| 3519 | [Count Numbers with Non-Decreasing Digits ](https://leetcode.com/problems/count-numbers-with-non-decreasing-digits/) | [3519_count_numbers_with_non_decreasing_digits.ipynb](DSA/Hard/3519_count_numbers_with_non_decreasing_digits.ipynb) |
+| 3525 | [Find X Value of Array II](https://leetcode.com/problems/find-x-value-of-array-ii/) | [3525_find_x_value_of_array_ii.ipynb](DSA/Hard/3525_find_x_value_of_array_ii.ipynb) |
+| 3526 | [Range XOR Queries with Subarray Reversals](https://leetcode.com/problems/range-xor-queries-with-subarray-reversals/) | [3526_range_xor_queries_with_subarray_reversals.ipynb](DSA/Hard/3526_range_xor_queries_with_subarray_reversals.ipynb) |
+| 3530 | [Maximum Profit from Valid Topological Order in DAG](https://leetcode.com/problems/maximum-profit-from-valid-topological-order-in-dag/) | [3530_maximum_profit_from_valid_topological_order_in_dag.ipynb](DSA/Hard/3530_maximum_profit_from_valid_topological_order_in_dag.ipynb) |
+| 3533 | [Concatenated Divisibility](https://leetcode.com/problems/concatenated-divisibility/) | [3533_concatenated_divisibility.ipynb](DSA/Hard/3533_concatenated_divisibility.ipynb) |
 | 3534 | [Path Existence Queries in a Graph II](https://leetcode.com/problems/path-existence-queries-in-a-graph-ii/) | [3534_path_existence_queries_in_a_graph_ii.ipynb](DSA/Hard/3534_path_existence_queries_in_a_graph_ii.ipynb) |
 | 3538 | [Merge Operations for Minimum Travel Time](https://leetcode.com/problems/merge-operations-for-minimum-travel-time/) | [3538_merge_operations_for_minimum_travel_time.ipynb](DSA/Hard/3538_merge_operations_for_minimum_travel_time.ipynb) |
 | 3539 | [Find Sum of Array Product of Magical Sequences](https://leetcode.com/problems/find-sum-of-array-product-of-magical-sequences/) | [3539_find_sum_of_array_product_of_magical_sequences.ipynb](DSA/Hard/3539_find_sum_of_array_product_of_magical_sequences.ipynb) |
