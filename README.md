@@ -15,7 +15,7 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 1901 notebook** — DSA/Easy: 833 · DSA/Medium: 684 · DSA/Hard: 369 · SQL: 13 · Shell: 2
+**Tổng: 1921 notebook** — DSA/Easy: 833 · DSA/Medium: 704 · DSA/Hard: 369 · SQL: 13 · Shell: 2
 
 ## DSA — Easy — 833 bài
 
@@ -855,7 +855,7 @@ Shell/                            bài Shell (Bash)
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [4097_minimum_value_of_merged_integers.ipynb](DSA/Easy/4097_minimum_value_of_merged_integers.ipynb) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [4111_count_consistent_subarrays_i.ipynb](DSA/Easy/4111_count_consistent_subarrays_i.ipynb) |
 
-## DSA — Medium — 684 bài
+## DSA — Medium — 704 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -1524,6 +1524,26 @@ Shell/                            bài Shell (Bash)
 | 1291 | [Sequential Digits](https://leetcode.com/problems/sequential-digits/) | [1291_sequential_digits.ipynb](DSA/Medium/1291_sequential_digits.ipynb) |
 | 1292 | [Maximum Side Length of a Square with Sum Less than or Equal to Threshold](https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/) | [1292_maximum_side_length_of_a_square_with_sum_less_than_or_equal_to_threshold.ipynb](DSA/Medium/1292_maximum_side_length_of_a_square_with_sum_less_than_or_equal_to_threshold.ipynb) |
 | 1296 | [Divide Array in Sets of K Consecutive Numbers](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/) | [1296_divide_array_in_sets_of_k_consecutive_numbers.ipynb](DSA/Medium/1296_divide_array_in_sets_of_k_consecutive_numbers.ipynb) |
+| 1297 | [Maximum Number of Occurrences of a Substring](https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring/) | [1297_maximum_number_of_occurrences_of_a_substring.ipynb](DSA/Medium/1297_maximum_number_of_occurrences_of_a_substring.ipynb) |
+| 1300 | [Sum of Mutated Array Closest to Target](https://leetcode.com/problems/sum-of-mutated-array-closest-to-target/) | [1300_sum_of_mutated_array_closest_to_target.ipynb](DSA/Medium/1300_sum_of_mutated_array_closest_to_target.ipynb) |
+| 1302 | [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/) | [1302_deepest_leaves_sum.ipynb](DSA/Medium/1302_deepest_leaves_sum.ipynb) |
+| 1305 | [All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/) | [1305_all_elements_in_two_binary_search_trees.ipynb](DSA/Medium/1305_all_elements_in_two_binary_search_trees.ipynb) |
+| 1306 | [Jump Game III](https://leetcode.com/problems/jump-game-iii/) | [1306_jump_game_iii.ipynb](DSA/Medium/1306_jump_game_iii.ipynb) |
+| 1310 | [XOR Queries of a Subarray](https://leetcode.com/problems/xor-queries-of-a-subarray/) | [1310_xor_queries_of_a_subarray.ipynb](DSA/Medium/1310_xor_queries_of_a_subarray.ipynb) |
+| 1311 | [Get Watched Videos by Your Friends](https://leetcode.com/problems/get-watched-videos-by-your-friends/) | [1311_get_watched_videos_by_your_friends.ipynb](DSA/Medium/1311_get_watched_videos_by_your_friends.ipynb) |
+| 1314 | [Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/) | [1314_matrix_block_sum.ipynb](DSA/Medium/1314_matrix_block_sum.ipynb) |
+| 1315 | [Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/) | [1315_sum_of_nodes_with_even_valued_grandparent.ipynb](DSA/Medium/1315_sum_of_nodes_with_even_valued_grandparent.ipynb) |
+| 1318 | [Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/) | [1318_minimum_flips_to_make_a_or_b_equal_to_c.ipynb](DSA/Medium/1318_minimum_flips_to_make_a_or_b_equal_to_c.ipynb) |
+| 1319 | [Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) | [1319_number_of_operations_to_make_network_connected.ipynb](DSA/Medium/1319_number_of_operations_to_make_network_connected.ipynb) |
+| 1324 | [Print Words Vertically](https://leetcode.com/problems/print-words-vertically/) | [1324_print_words_vertically.ipynb](DSA/Medium/1324_print_words_vertically.ipynb) |
+| 1325 | [Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/) | [1325_delete_leaves_with_a_given_value.ipynb](DSA/Medium/1325_delete_leaves_with_a_given_value.ipynb) |
+| 1328 | [Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/) | [1328_break_a_palindrome.ipynb](DSA/Medium/1328_break_a_palindrome.ipynb) |
+| 1329 | [Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/) | [1329_sort_the_matrix_diagonally.ipynb](DSA/Medium/1329_sort_the_matrix_diagonally.ipynb) |
+| 1333 | [Filter Restaurants by Vegan-Friendly, Price and Distance](https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance/) | [1333_filter_restaurants_by_vegan_friendly_price_and_distance.ipynb](DSA/Medium/1333_filter_restaurants_by_vegan_friendly_price_and_distance.ipynb) |
+| 1334 | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | [1334_find_the_city_with_the_smallest_number_of_neighbors_at_a_threshold_distance.ipynb](DSA/Medium/1334_find_the_city_with_the_smallest_number_of_neighbors_at_a_threshold_distance.ipynb) |
+| 1338 | [Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/) | [1338_reduce_array_size_to_the_half.ipynb](DSA/Medium/1338_reduce_array_size_to_the_half.ipynb) |
+| 1339 | [Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/) | [1339_maximum_product_of_splitted_binary_tree.ipynb](DSA/Medium/1339_maximum_product_of_splitted_binary_tree.ipynb) |
+| 1343 | [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | [1343_number_of_sub_arrays_of_size_k_and_average_greater_than_or_equal_to_threshold.ipynb](DSA/Medium/1343_number_of_sub_arrays_of_size_k_and_average_greater_than_or_equal_to_threshold.ipynb) |
 | 4044 | [Count Good Cyclic Rotations](https://leetcode.com/problems/count-good-cyclic-rotations/) | [4044_count_good_cyclic_rotations.ipynb](DSA/Medium/4044_count_good_cyclic_rotations.ipynb) |
 | 4045 | [Count Robot Groups](https://leetcode.com/problems/count-robot-groups/) | [4045_count_robot_groups.ipynb](DSA/Medium/4045_count_robot_groups.ipynb) |
 | 4049 | [Count Values With Equally Spaced Occurrences II](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-ii/) | [4049_count_values_with_equally_spaced_occurrences_ii.ipynb](DSA/Medium/4049_count_values_with_equally_spaced_occurrences_ii.ipynb) |
