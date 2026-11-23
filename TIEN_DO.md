@@ -7,12 +7,12 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 ## Trạng thái hiện tại
 
 <!--STATUS-->
-- Cập nhật: 23/11/2026, sau đợt 57 (Medium)
+- Cập nhật: 23/11/2026, sau Đợt Hard 16
 - Easy: 833/833 — đã xong toàn bộ
 - Medium: 664/1958 — ID Medium tiếp theo: 1254, 1256, 1257, 1258, 1261, 1262, 1265, 1267, 1268, 1272, …
-- Hard: 329/920 — làm từ cuối danh sách đếm lên; ID Hard tiếp theo: 3533, 3530, 3526, 3525, 3519, …
-- Tổng DSA: 1826/3711 (49,2%) — số bài DSA còn lại: 1885 (Medium 1294, Hard 591)
-- Ngoài DSA: SQL 13, Shell 2 — README: 1841 notebook
+- Hard: 349/920 — làm từ cuối danh sách đếm lên; ID Hard tiếp theo: 3470, 3464, 3463, 3459, 3455, …
+- Tổng DSA: 1846/3711 (49,7%) — số bài DSA còn lại: 1865 (Medium 1294, Hard 571)
+- Ngoài DSA: SQL 13, Shell 2 — README: 1861 notebook
 <!--/STATUS-->
 
 ## Nhật ký các đợt
@@ -678,3 +678,12 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 - Ghi chú: Bài Premium (đề lấy từ doocs, chữ ký đã đối chiếu doocs; đối chiếu lại nếu có tài khoản Premium): 1214, 1215, 1229, 1230, 1236, 1244, 1245. 1244 là bài thiết kế (class Leaderboard, top(K)), chỉ dùng stdlib (bisect thay SortedList). 1237 là bài tương tác: CustomFunction giả lập bằng vài công thức minh họa, không phải 9 hàm thật của judge. Nhiều đáp án/thứ tự tùy ý nên test bằng hàm kiểm tra hợp lệ hoặc so sau khi sort: 1222, 1233, 1236, 1237, 1238, 1249, 1253. 1227 kiểm chứng bằng Fraction + Monte Carlo seed cố định. 1247 công thức kiểm chứng bằng BFS với n ≤ 4. Đề lấy từ LeetCode GraphQL (bài Premium lấy từ doocs). Chạy 2 agent song song, mỗi agent 10 bài. Đã tự kiểm tra lại 20 file: 60–70 cell, 24.170–35.785 ký tự, đủ mục 1–20, chạy sạch trên kernel mới, không lỗi/stderr.
 - Số đếm sau đợt: DSA 1.826 (Easy 833 · Medium 664 · Hard 329), SQL 13, Shell 2 → README 1.841 = số file.
 - ID Medium tiếp theo (tra Excel, chưa có): 1254, 1256, 1257, 1258, 1261, 1262, 1265, 1267, 1268, 1272, 1273, 1276, 1277, 1282, 1283, 1286, 1288, 1291, 1292, 1296.
+
+### Đợt Hard 16 (nhóm Hard, tính từ cuối danh sách đếm lên) — 23/11/2026
+
+- Đã xong (Hard): 3533, 3530, 3526, 3525, 3519, 3518, 3515, 3510, 3509, 3506, 3505, 3504, 3501, 3500, 3495, 3490, 3486, 3485, 3480, 3474
+- Lỗi: không có
+- Bỏ qua: không có (đã pull main và kiểm tra trước khi làm và ngay trước khi chép: 20 ID chưa có file trên `origin/main`, chưa có trong Excel/TIEN_DO; không trùng với khung chat Medium)
+- Ghi chú: Tên bài, slug, skeleton Python3 và đề lấy từ LeetCode GraphQL. Bài Premium (đối chiếu lại nếu có tài khoản Premium): 3526 Range XOR Queries with Subarray Reversals — doocs không có code, tên hàm `getResults(self, nums, queries)` là **suy đoán**, cần đối chiếu; 3506 Find Time Required to Eliminate Bacterial Strains — đề và chữ ký `minEliminationTime(self, timeReq, splitTime)` lấy từ doocs. Ca chậm: 3526 treap ngầm (lazy đảo + XOR) ~4,8 s với n = q = 10^5 (kèm bản chia căn); 3530 DP bitmask thuần Python ~10 s ở n = 22 rất ít cạnh, bản vector hóa numpy ~1 s. 3474: tối ưu từ điển của tham lam được chứng minh; tính hợp lệ (đổi vị trí tự do phải nhất không phá cửa sổ F trước) chứng minh một phần, phần còn lại kiểm chứng bằng DP automaton KMP độc lập + vét cạn + 20.000 bộ ngẫu nhiên (0 vi phạm) — notebook ghi rõ điều này. 3480: bài tập 5 (bỏ đúng hai cặp, top-3) khớp vét cạn. 3486: so sánh cửa sổ trượt có hoàn tác (tăng ~bình phương trên cây "chổi") với lời giải top-2 `O(n)`. 3495 ngắn nhất đợt (18.402 ký tự, vẫn ≥ 18.000). Ví dụ/ca biên tự dựng đều kiểm chứng bằng vét cạn; các "code sai" ở mục 13 đều có phản ví dụ chạy thật (nhiều cái tìm tự động bằng seed cố định). Làm tuần tự trong phiên (1 luồng, không dùng agent). Đã tự kiểm tra lại 20 file: 51–58 cell, 18.402–31.791 ký tự, đủ mục 1–20, chạy sạch trên kernel mới, không lỗi/stderr, cell TODO không bị gọi. Đã gộp main (đến đợt 57) trước khi ghi.
+- Số đếm sau đợt: DSA 1.846 (Easy 833 · Medium 664 · Hard 349), SQL 13, Shell 2 → README 1.861 = số file; Excel 1.846 "Đã có notebook" ở sheet DSA (1.861 tính cả "Ngoai DSA").
+- ID Hard tiếp theo (tính từ cuối đếm lên, tra Excel, chưa có): 3470, 3464, 3463, 3459, 3455, 3454, 3449, 3448, 3445, 3444, 3441, 3435, 3430, 3426, 3425, 3420, 3416, 3414, 3410, 3406. Còn 571 bài Hard chưa có.
