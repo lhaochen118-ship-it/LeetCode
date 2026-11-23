@@ -15,7 +15,7 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 1821 notebook** — DSA/Easy: 833 · DSA/Medium: 644 · DSA/Hard: 329 · SQL: 13 · Shell: 2
+**Tổng: 1841 notebook** — DSA/Easy: 833 · DSA/Medium: 664 · DSA/Hard: 329 · SQL: 13 · Shell: 2
 
 ## DSA — Easy — 833 bài
 
@@ -855,7 +855,7 @@ Shell/                            bài Shell (Bash)
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [4097_minimum_value_of_merged_integers.ipynb](DSA/Easy/4097_minimum_value_of_merged_integers.ipynb) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [4111_count_consistent_subarrays_i.ipynb](DSA/Easy/4111_count_consistent_subarrays_i.ipynb) |
 
-## DSA — Medium — 644 bài
+## DSA — Medium — 664 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -1484,6 +1484,26 @@ Shell/                            bài Shell (Bash)
 | 1202 | [Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/) | [1202_smallest_string_with_swaps.ipynb](DSA/Medium/1202_smallest_string_with_swaps.ipynb) |
 | 1208 | [Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget/) | [1208_get_equal_substrings_within_budget.ipynb](DSA/Medium/1208_get_equal_substrings_within_budget.ipynb) |
 | 1209 | [Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/) | [1209_remove_all_adjacent_duplicates_in_string_ii.ipynb](DSA/Medium/1209_remove_all_adjacent_duplicates_in_string_ii.ipynb) |
+| 1214 | [Two Sum BSTs](https://leetcode.com/problems/two-sum-bsts/) | [1214_two_sum_bsts.ipynb](DSA/Medium/1214_two_sum_bsts.ipynb) |
+| 1215 | [Stepping Numbers](https://leetcode.com/problems/stepping-numbers/) | [1215_stepping_numbers.ipynb](DSA/Medium/1215_stepping_numbers.ipynb) |
+| 1218 | [Longest Arithmetic Subsequence of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/) | [1218_longest_arithmetic_subsequence_of_given_difference.ipynb](DSA/Medium/1218_longest_arithmetic_subsequence_of_given_difference.ipynb) |
+| 1219 | [Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/) | [1219_path_with_maximum_gold.ipynb](DSA/Medium/1219_path_with_maximum_gold.ipynb) |
+| 1222 | [Queens That Can Attack the King](https://leetcode.com/problems/queens-that-can-attack-the-king/) | [1222_queens_that_can_attack_the_king.ipynb](DSA/Medium/1222_queens_that_can_attack_the_king.ipynb) |
+| 1227 | [Airplane Seat Assignment Probability](https://leetcode.com/problems/airplane-seat-assignment-probability/) | [1227_airplane_seat_assignment_probability.ipynb](DSA/Medium/1227_airplane_seat_assignment_probability.ipynb) |
+| 1229 | [Meeting Scheduler](https://leetcode.com/problems/meeting-scheduler/) | [1229_meeting_scheduler.ipynb](DSA/Medium/1229_meeting_scheduler.ipynb) |
+| 1230 | [Toss Strange Coins](https://leetcode.com/problems/toss-strange-coins/) | [1230_toss_strange_coins.ipynb](DSA/Medium/1230_toss_strange_coins.ipynb) |
+| 1233 | [Remove Sub-Folders from the Filesystem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/) | [1233_remove_sub_folders_from_the_filesystem.ipynb](DSA/Medium/1233_remove_sub_folders_from_the_filesystem.ipynb) |
+| 1234 | [Replace the Substring for Balanced String](https://leetcode.com/problems/replace-the-substring-for-balanced-string/) | [1234_replace_the_substring_for_balanced_string.ipynb](DSA/Medium/1234_replace_the_substring_for_balanced_string.ipynb) |
+| 1236 | [Web Crawler](https://leetcode.com/problems/web-crawler/) | [1236_web_crawler.ipynb](DSA/Medium/1236_web_crawler.ipynb) |
+| 1237 | [Find Positive Integer Solution for a Given Equation](https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/) | [1237_find_positive_integer_solution_for_a_given_equation.ipynb](DSA/Medium/1237_find_positive_integer_solution_for_a_given_equation.ipynb) |
+| 1238 | [Circular Permutation in Binary Representation](https://leetcode.com/problems/circular-permutation-in-binary-representation/) | [1238_circular_permutation_in_binary_representation.ipynb](DSA/Medium/1238_circular_permutation_in_binary_representation.ipynb) |
+| 1239 | [Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | [1239_maximum_length_of_a_concatenated_string_with_unique_characters.ipynb](DSA/Medium/1239_maximum_length_of_a_concatenated_string_with_unique_characters.ipynb) |
+| 1244 | [Design A Leaderboard](https://leetcode.com/problems/design-a-leaderboard/) | [1244_design_a_leaderboard.ipynb](DSA/Medium/1244_design_a_leaderboard.ipynb) |
+| 1245 | [Tree Diameter](https://leetcode.com/problems/tree-diameter/) | [1245_tree_diameter.ipynb](DSA/Medium/1245_tree_diameter.ipynb) |
+| 1247 | [Minimum Swaps to Make Strings Equal](https://leetcode.com/problems/minimum-swaps-to-make-strings-equal/) | [1247_minimum_swaps_to_make_strings_equal.ipynb](DSA/Medium/1247_minimum_swaps_to_make_strings_equal.ipynb) |
+| 1248 | [Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/) | [1248_count_number_of_nice_subarrays.ipynb](DSA/Medium/1248_count_number_of_nice_subarrays.ipynb) |
+| 1249 | [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | [1249_minimum_remove_to_make_valid_parentheses.ipynb](DSA/Medium/1249_minimum_remove_to_make_valid_parentheses.ipynb) |
+| 1253 | [Reconstruct a 2-Row Binary Matrix](https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix/) | [1253_reconstruct_a_2_row_binary_matrix.ipynb](DSA/Medium/1253_reconstruct_a_2_row_binary_matrix.ipynb) |
 | 4044 | [Count Good Cyclic Rotations](https://leetcode.com/problems/count-good-cyclic-rotations/) | [4044_count_good_cyclic_rotations.ipynb](DSA/Medium/4044_count_good_cyclic_rotations.ipynb) |
 | 4045 | [Count Robot Groups](https://leetcode.com/problems/count-robot-groups/) | [4045_count_robot_groups.ipynb](DSA/Medium/4045_count_robot_groups.ipynb) |
 | 4049 | [Count Values With Equally Spaced Occurrences II](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-ii/) | [4049_count_values_with_equally_spaced_occurrences_ii.ipynb](DSA/Medium/4049_count_values_with_equally_spaced_occurrences_ii.ipynb) |

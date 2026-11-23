@@ -7,12 +7,12 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 ## Trạng thái hiện tại
 
 <!--STATUS-->
-- Cập nhật: 23/11/2026, sau đợt 56 (Medium) và Đợt Hard 15
+- Cập nhật: 23/11/2026, sau đợt 57 (Medium)
 - Easy: 833/833 — đã xong toàn bộ
-- Medium: 644/1958 — ID Medium tiếp theo: 1214, 1215, 1218, 1219, 1222, 1227, 1229, 1230, 1233, 1234, …
-- Hard: 329/920 — làm từ cuối danh sách đếm lên, đã xong liên tục từ cuối đến 3534; ID Hard tiếp theo: 3533, 3530, 3526, 3525, 3519, …
-- Tổng DSA: 1806/3711 (48,7%) — số bài DSA còn lại: 1905 (Medium 1314, Hard 591)
-- Ngoài DSA: SQL 13, Shell 2 — README: 1821 notebook
+- Medium: 664/1958 — ID Medium tiếp theo: 1254, 1256, 1257, 1258, 1261, 1262, 1265, 1267, 1268, 1272, …
+- Hard: 329/920 — làm từ cuối danh sách đếm lên; ID Hard tiếp theo: 3533, 3530, 3526, 3525, 3519, …
+- Tổng DSA: 1826/3711 (49,2%) — số bài DSA còn lại: 1885 (Medium 1294, Hard 591)
+- Ngoài DSA: SQL 13, Shell 2 — README: 1841 notebook
 <!--/STATUS-->
 
 ## Nhật ký các đợt
@@ -669,3 +669,12 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 - Ghi chú: Tên bài, slug, skeleton Python3 và đề lấy từ LeetCode GraphQL. Bài Premium (đối chiếu lại nếu có tài khoản Premium): 3549 Multiply Two Polynomials — đề và chữ ký `multiply(self, poly1, poly2)` lấy từ doocs. 3549: lời giải nộp dùng thế Kronecker (đóng gói hệ số vào số nguyên lớn, chính xác, ~0,35 s với 5·10^4 × 5·10^4), kèm Karatsuba, FFT số phức (~0,9 s) và NTT ở bài tập. 3594: Dijkstra trên trạng thái (mask, giai đoạn, bờ) — `floor` của số thực tính đúng như đề (nhân trực tiếp `time × mul`); ca n = 12 ~0,6–0,9 s. 3590: gộp nhỏ vào lớn bằng danh sách sắp + `bisect` (thay `SortedList`), kèm Sack + Fenwick. 3547: chứng minh dãy núi tối ưu bằng đổi sang `Σd²` và đếm số lần vượt ngưỡng; bài tập 4 kiểm tra giả thuyết "xen kẽ lớn–nhỏ cho min" và cho thấy giả thuyết sai từ n = 5. 3579: công thức chi phí đoạn (`#lệch − #cặp hoán đổi ngược`, có/không đảo) kiểm chứng bằng BFS mọi chuỗi thao tác. 3538: kiểm chứng bằng mô phỏng mọi dãy thao tác gộp nguyên văn đề. Ví dụ/ca biên tự dựng đều kiểm chứng bằng vét cạn; các "code sai" ở mục 13 đều có phản ví dụ chạy thật (một số tìm tự động bằng seed cố định). Làm tuần tự trong phiên (1 luồng, không dùng agent). Đã tự kiểm tra lại 20 file: 53–61 cell, 22.234–36.842 ký tự, đủ mục 1–20, chạy sạch trên kernel mới (mỗi notebook ≤ 6 s), không lỗi/stderr, cell TODO không bị gọi. Đã gộp main (đến đợt 56) trước khi ghi.
 - Số đếm sau đợt: DSA 1.806 (Easy 833 · Medium 644 · Hard 329), SQL 13, Shell 2 → README 1.821 = số file; Excel 1.806 "Đã có notebook" ở sheet DSA (1.821 tính cả "Ngoai DSA").
 - ID Hard tiếp theo (tính từ cuối đếm lên, tra Excel, chưa có): 3533, 3530, 3526, 3525, 3519, 3518, 3515, 3510, 3509, 3506, 3505, 3504, 3501, 3500, 3495, 3490, 3486, 3485, 3480, 3474. Còn 591 bài Hard chưa có.
+
+### Đợt 57 (Medium, tính từ đầu danh sách) — 23/11/2026
+
+- Đã xong (Medium): 1214, 1215, 1218, 1219, 1222, 1227, 1229, 1230, 1233, 1234, 1236, 1237, 1238, 1239, 1244, 1245, 1247, 1248, 1249, 1253
+- Lỗi: không có
+- Bỏ qua: không có (đã pull main và kiểm tra trước: các ID chưa có file ở bất kỳ thư mục nào, chưa có trong Excel/TIEN_DO)
+- Ghi chú: Bài Premium (đề lấy từ doocs, chữ ký đã đối chiếu doocs; đối chiếu lại nếu có tài khoản Premium): 1214, 1215, 1229, 1230, 1236, 1244, 1245. 1244 là bài thiết kế (class Leaderboard, top(K)), chỉ dùng stdlib (bisect thay SortedList). 1237 là bài tương tác: CustomFunction giả lập bằng vài công thức minh họa, không phải 9 hàm thật của judge. Nhiều đáp án/thứ tự tùy ý nên test bằng hàm kiểm tra hợp lệ hoặc so sau khi sort: 1222, 1233, 1236, 1237, 1238, 1249, 1253. 1227 kiểm chứng bằng Fraction + Monte Carlo seed cố định. 1247 công thức kiểm chứng bằng BFS với n ≤ 4. Đề lấy từ LeetCode GraphQL (bài Premium lấy từ doocs). Chạy 2 agent song song, mỗi agent 10 bài. Đã tự kiểm tra lại 20 file: 60–70 cell, 24.170–35.785 ký tự, đủ mục 1–20, chạy sạch trên kernel mới, không lỗi/stderr.
+- Số đếm sau đợt: DSA 1.826 (Easy 833 · Medium 664 · Hard 329), SQL 13, Shell 2 → README 1.841 = số file.
+- ID Medium tiếp theo (tra Excel, chưa có): 1254, 1256, 1257, 1258, 1261, 1262, 1265, 1267, 1268, 1272, 1273, 1276, 1277, 1282, 1283, 1286, 1288, 1291, 1292, 1296.
