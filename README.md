@@ -15,7 +15,7 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 1757 notebook** — DSA/Easy: 833 · DSA/Medium: 603 · DSA/Hard: 308 · SQL: 11 · Shell: 2
+**Tổng: 1781 notebook** — DSA/Easy: 833 · DSA/Medium: 624 · DSA/Hard: 309 · SQL: 13 · Shell: 2
 
 ## DSA — Easy — 833 bài
 
@@ -855,7 +855,7 @@ Shell/                            bài Shell (Bash)
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [4097_minimum_value_of_merged_integers.ipynb](DSA/Easy/4097_minimum_value_of_merged_integers.ipynb) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [4111_count_consistent_subarrays_i.ipynb](DSA/Easy/4111_count_consistent_subarrays_i.ipynb) |
 
-## DSA — Medium — 603 bài
+## DSA — Medium — 624 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -1443,6 +1443,27 @@ Shell/                            bài Shell (Bash)
 | 1100 | [Find K-Length Substrings With No Repeated Characters](https://leetcode.com/problems/find-k-length-substrings-with-no-repeated-characters/) | [1100_find_k_length_substrings_with_no_repeated_characters.ipynb](DSA/Medium/1100_find_k_length_substrings_with_no_repeated_characters.ipynb) |
 | 1101 | [The Earliest Moment When Everyone Become Friends](https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends/) | [1101_the_earliest_moment_when_everyone_become_friends.ipynb](DSA/Medium/1101_the_earliest_moment_when_everyone_become_friends.ipynb) |
 | 1102 | [Path With Maximum Minimum Value](https://leetcode.com/problems/path-with-maximum-minimum-value/) | [1102_path_with_maximum_minimum_value.ipynb](DSA/Medium/1102_path_with_maximum_minimum_value.ipynb) |
+| 1104 | [Path In Zigzag Labelled Binary Tree](https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/) | [1104_path_in_zigzag_labelled_binary_tree.ipynb](DSA/Medium/1104_path_in_zigzag_labelled_binary_tree.ipynb) |
+| 1105 | [Filling Bookcase Shelves](https://leetcode.com/problems/filling-bookcase-shelves/) | [1105_filling_bookcase_shelves.ipynb](DSA/Medium/1105_filling_bookcase_shelves.ipynb) |
+| 1109 | [Corporate Flight Bookings](https://leetcode.com/problems/corporate-flight-bookings/) | [1109_corporate_flight_bookings.ipynb](DSA/Medium/1109_corporate_flight_bookings.ipynb) |
+| 1110 | [Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/) | [1110_delete_nodes_and_return_forest.ipynb](DSA/Medium/1110_delete_nodes_and_return_forest.ipynb) |
+| 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) | [1111_maximum_nesting_depth_of_two_valid_parentheses_strings.ipynb](DSA/Medium/1111_maximum_nesting_depth_of_two_valid_parentheses_strings.ipynb) |
+| 1123 | [Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/) | [1123_lowest_common_ancestor_of_deepest_leaves.ipynb](DSA/Medium/1123_lowest_common_ancestor_of_deepest_leaves.ipynb) |
+| 1124 | [Longest Well-Performing Interval](https://leetcode.com/problems/longest-well-performing-interval/) | [1124_longest_well_performing_interval.ipynb](DSA/Medium/1124_longest_well_performing_interval.ipynb) |
+| 1129 | [Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/) | [1129_shortest_path_with_alternating_colors.ipynb](DSA/Medium/1129_shortest_path_with_alternating_colors.ipynb) |
+| 1130 | [Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/) | [1130_minimum_cost_tree_from_leaf_values.ipynb](DSA/Medium/1130_minimum_cost_tree_from_leaf_values.ipynb) |
+| 1131 | [Maximum of Absolute Value Expression](https://leetcode.com/problems/maximum-of-absolute-value-expression/) | [1131_maximum_of_absolute_value_expression.ipynb](DSA/Medium/1131_maximum_of_absolute_value_expression.ipynb) |
+| 1135 | [Connecting Cities With Minimum Cost](https://leetcode.com/problems/connecting-cities-with-minimum-cost/) | [1135_connecting_cities_with_minimum_cost.ipynb](DSA/Medium/1135_connecting_cities_with_minimum_cost.ipynb) |
+| 1138 | [Alphabet Board Path](https://leetcode.com/problems/alphabet-board-path/) | [1138_alphabet_board_path.ipynb](DSA/Medium/1138_alphabet_board_path.ipynb) |
+| 1139 | [Largest 1-Bordered Square](https://leetcode.com/problems/largest-1-bordered-square/) | [1139_largest_1_bordered_square.ipynb](DSA/Medium/1139_largest_1_bordered_square.ipynb) |
+| 1140 | [Stone Game II](https://leetcode.com/problems/stone-game-ii/) | [1140_stone_game_ii.ipynb](DSA/Medium/1140_stone_game_ii.ipynb) |
+| 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [1143_longest_common_subsequence.ipynb](DSA/Medium/1143_longest_common_subsequence.ipynb) |
+| 1144 | [Decrease Elements To Make Array Zigzag](https://leetcode.com/problems/decrease-elements-to-make-array-zigzag/) | [1144_decrease_elements_to_make_array_zigzag.ipynb](DSA/Medium/1144_decrease_elements_to_make_array_zigzag.ipynb) |
+| 1145 | [Binary Tree Coloring Game](https://leetcode.com/problems/binary-tree-coloring-game/) | [1145_binary_tree_coloring_game.ipynb](DSA/Medium/1145_binary_tree_coloring_game.ipynb) |
+| 1146 | [Snapshot Array](https://leetcode.com/problems/snapshot-array/) | [1146_snapshot_array.ipynb](DSA/Medium/1146_snapshot_array.ipynb) |
+| 1151 | [Minimum Swaps to Group All 1's Together](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together/) | [1151_minimum_swaps_to_group_all_1s_together.ipynb](DSA/Medium/1151_minimum_swaps_to_group_all_1s_together.ipynb) |
+| 1152 | [Analyze User Website Visit Pattern](https://leetcode.com/problems/analyze-user-website-visit-pattern/) | [1152_analyze_user_website_visit_pattern.ipynb](DSA/Medium/1152_analyze_user_website_visit_pattern.ipynb) |
+| 1155 | [Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/) | [1155_number_of_dice_rolls_with_target_sum.ipynb](DSA/Medium/1155_number_of_dice_rolls_with_target_sum.ipynb) |
 | 4044 | [Count Good Cyclic Rotations](https://leetcode.com/problems/count-good-cyclic-rotations/) | [4044_count_good_cyclic_rotations.ipynb](DSA/Medium/4044_count_good_cyclic_rotations.ipynb) |
 | 4045 | [Count Robot Groups](https://leetcode.com/problems/count-robot-groups/) | [4045_count_robot_groups.ipynb](DSA/Medium/4045_count_robot_groups.ipynb) |
 | 4049 | [Count Values With Equally Spaced Occurrences II](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-ii/) | [4049_count_values_with_equally_spaced_occurrences_ii.ipynb](DSA/Medium/4049_count_values_with_equally_spaced_occurrences_ii.ipynb) |
@@ -1463,7 +1484,7 @@ Shell/                            bài Shell (Bash)
 | 4112 | [Maximize Score After Zeroing Subtrees](https://leetcode.com/problems/maximize-score-after-zeroing-subtrees/) | [4112_maximize_score_after_zeroing_subtrees.ipynb](DSA/Medium/4112_maximize_score_after_zeroing_subtrees.ipynb) |
 | 4113 | [Game of Divisible Sums](https://leetcode.com/problems/game-of-divisible-sums/) | [4113_game_of_divisible_sums.ipynb](DSA/Medium/4113_game_of_divisible_sums.ipynb) |
 
-## DSA — Hard — 308 bài
+## DSA — Hard — 309 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -1635,6 +1656,7 @@ Shell/                            bài Shell (Bash)
 | 0854 | [K-Similar Strings](https://leetcode.com/problems/k-similar-strings/) | [0854_k_similar_strings.ipynb](DSA/Hard/0854_k_similar_strings.ipynb) |
 | 0857 | [Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/) | [0857_minimum_cost_to_hire_k_workers.ipynb](DSA/Hard/0857_minimum_cost_to_hire_k_workers.ipynb) |
 | 0862 | [Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/) | [0862_shortest_subarray_with_sum_at_least_k.ipynb](DSA/Hard/0862_shortest_subarray_with_sum_at_least_k.ipynb) |
+| 1136 | [Parallel Courses](https://leetcode.com/problems/parallel-courses/) | [1136_parallel_courses.ipynb](DSA/Hard/1136_parallel_courses.ipynb) |
 | 3609 | [Minimum Moves to Reach Target in Grid](https://leetcode.com/problems/minimum-moves-to-reach-target-in-grid/) | [3609_minimum_moves_to_reach_target_in_grid.ipynb](DSA/Hard/3609_minimum_moves_to_reach_target_in_grid.ipynb) |
 | 3614 | [Process String with Special Operations II](https://leetcode.com/problems/process-string-with-special-operations-ii/) | [3614_process_string_with_special_operations_ii.ipynb](DSA/Hard/3614_process_string_with_special_operations_ii.ipynb) |
 | 3615 | [Longest Palindromic Path in Graph](https://leetcode.com/problems/longest-palindromic-path-in-graph/) | [3615_longest_palindromic_path_in_graph.ipynb](DSA/Hard/3615_longest_palindromic_path_in_graph.ipynb) |
@@ -1776,7 +1798,7 @@ Shell/                            bài Shell (Bash)
 | 4109 | [Count Valid Suffix Sorts II](https://leetcode.com/problems/count-valid-suffix-sorts-ii/) | [4109_count_valid_suffix_sorts_ii.ipynb](DSA/Hard/4109_count_valid_suffix_sorts_ii.ipynb) |
 | 4114 | [Count Consistent Subarrays II](https://leetcode.com/problems/count-consistent-subarrays-ii/) | [4114_count_consistent_subarrays_ii.ipynb](DSA/Hard/4114_count_consistent_subarrays_ii.ipynb) |
 
-## SQL (Database) — 11 bài
+## SQL (Database) — 13 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -1791,6 +1813,8 @@ Shell/                            bài Shell (Bash)
 | 0184 | [Department Highest Salary](https://leetcode.com/problems/department-highest-salary/) | [0184_department_highest_salary.ipynb](SQL/0184_department_highest_salary.ipynb) |
 | 0185 | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/) | [0185_department_top_three_salaries.ipynb](SQL/0185_department_top_three_salaries.ipynb) |
 | 0262 | [Trips and Users](https://leetcode.com/problems/trips-and-users/) | [0262_trips_and_users.ipynb](SQL/0262_trips_and_users.ipynb) |
+| 1132 | [Reported Posts II](https://leetcode.com/problems/reported-posts-ii/) | [1132_reported_posts_ii.ipynb](SQL/1132_reported_posts_ii.ipynb) |
+| 1149 | [Article Views II](https://leetcode.com/problems/article-views-ii/) | [1149_article_views_ii.ipynb](SQL/1149_article_views_ii.ipynb) |
 
 ## Shell (Bash) — 2 bài
 
