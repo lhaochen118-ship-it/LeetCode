@@ -15,7 +15,7 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 1881 notebook** — DSA/Easy: 833 · DSA/Medium: 684 · DSA/Hard: 349 · SQL: 13 · Shell: 2
+**Tổng: 1901 notebook** — DSA/Easy: 833 · DSA/Medium: 684 · DSA/Hard: 369 · SQL: 13 · Shell: 2
 
 ## DSA — Easy — 833 bài
 
@@ -1544,7 +1544,7 @@ Shell/                            bài Shell (Bash)
 | 4112 | [Maximize Score After Zeroing Subtrees](https://leetcode.com/problems/maximize-score-after-zeroing-subtrees/) | [4112_maximize_score_after_zeroing_subtrees.ipynb](DSA/Medium/4112_maximize_score_after_zeroing_subtrees.ipynb) |
 | 4113 | [Game of Divisible Sums](https://leetcode.com/problems/game-of-divisible-sums/) | [4113_game_of_divisible_sums.ipynb](DSA/Medium/4113_game_of_divisible_sums.ipynb) |
 
-## DSA — Hard — 349 bài
+## DSA — Hard — 369 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -1717,6 +1717,26 @@ Shell/                            bài Shell (Bash)
 | 0857 | [Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/) | [0857_minimum_cost_to_hire_k_workers.ipynb](DSA/Hard/0857_minimum_cost_to_hire_k_workers.ipynb) |
 | 0862 | [Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/) | [0862_shortest_subarray_with_sum_at_least_k.ipynb](DSA/Hard/0862_shortest_subarray_with_sum_at_least_k.ipynb) |
 | 1136 | [Parallel Courses](https://leetcode.com/problems/parallel-courses/) | [1136_parallel_courses.ipynb](DSA/Hard/1136_parallel_courses.ipynb) |
+| 3406 | [Find the Lexicographically Largest String From the Box II](https://leetcode.com/problems/find-the-lexicographically-largest-string-from-the-box-ii/) | [3406_find_the_lexicographically_largest_string_from_the_box_ii.ipynb](DSA/Hard/3406_find_the_lexicographically_largest_string_from_the_box_ii.ipynb) |
+| 3410 | [Maximize Subarray Sum After Removing All Occurrences of One Element](https://leetcode.com/problems/maximize-subarray-sum-after-removing-all-occurrences-of-one-element/) | [3410_maximize_subarray_sum_after_removing_all_occurrences_of_one_element.ipynb](DSA/Hard/3410_maximize_subarray_sum_after_removing_all_occurrences_of_one_element.ipynb) |
+| 3414 | [Maximum Score of Non-overlapping Intervals](https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals/) | [3414_maximum_score_of_non_overlapping_intervals.ipynb](DSA/Hard/3414_maximum_score_of_non_overlapping_intervals.ipynb) |
+| 3416 | [Subsequences with a Unique Middle Mode II](https://leetcode.com/problems/subsequences-with-a-unique-middle-mode-ii/) | [3416_subsequences_with_a_unique_middle_mode_ii.ipynb](DSA/Hard/3416_subsequences_with_a_unique_middle_mode_ii.ipynb) |
+| 3420 | [Count Non-Decreasing Subarrays After K Operations](https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/) | [3420_count_non_decreasing_subarrays_after_k_operations.ipynb](DSA/Hard/3420_count_non_decreasing_subarrays_after_k_operations.ipynb) |
+| 3425 | [Longest Special Path](https://leetcode.com/problems/longest-special-path/) | [3425_longest_special_path.ipynb](DSA/Hard/3425_longest_special_path.ipynb) |
+| 3426 | [Manhattan Distances of All Arrangements of Pieces](https://leetcode.com/problems/manhattan-distances-of-all-arrangements-of-pieces/) | [3426_manhattan_distances_of_all_arrangements_of_pieces.ipynb](DSA/Hard/3426_manhattan_distances_of_all_arrangements_of_pieces.ipynb) |
+| 3430 | [Maximum and Minimum Sums of at Most Size K Subarrays](https://leetcode.com/problems/maximum-and-minimum-sums-of-at-most-size-k-subarrays/) | [3430_maximum_and_minimum_sums_of_at_most_size_k_subarrays.ipynb](DSA/Hard/3430_maximum_and_minimum_sums_of_at_most_size_k_subarrays.ipynb) |
+| 3435 | [Frequencies of Shortest Supersequences](https://leetcode.com/problems/frequencies-of-shortest-supersequences/) | [3435_frequencies_of_shortest_supersequences.ipynb](DSA/Hard/3435_frequencies_of_shortest_supersequences.ipynb) |
+| 3441 | [Minimum Cost Good Caption](https://leetcode.com/problems/minimum-cost-good-caption/) | [3441_minimum_cost_good_caption.ipynb](DSA/Hard/3441_minimum_cost_good_caption.ipynb) |
+| 3444 | [Minimum Increments for Target Multiples in an Array](https://leetcode.com/problems/minimum-increments-for-target-multiples-in-an-array/) | [3444_minimum_increments_for_target_multiples_in_an_array.ipynb](DSA/Hard/3444_minimum_increments_for_target_multiples_in_an_array.ipynb) |
+| 3445 | [Maximum Difference Between Even and Odd Frequency II](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-ii/) | [3445_maximum_difference_between_even_and_odd_frequency_ii.ipynb](DSA/Hard/3445_maximum_difference_between_even_and_odd_frequency_ii.ipynb) |
+| 3448 | [Count Substrings Divisible By Last Digit](https://leetcode.com/problems/count-substrings-divisible-by-last-digit/) | [3448_count_substrings_divisible_by_last_digit.ipynb](DSA/Hard/3448_count_substrings_divisible_by_last_digit.ipynb) |
+| 3449 | [Maximize the Minimum Game Score](https://leetcode.com/problems/maximize-the-minimum-game-score/) | [3449_maximize_the_minimum_game_score.ipynb](DSA/Hard/3449_maximize_the_minimum_game_score.ipynb) |
+| 3454 | [Separate Squares II](https://leetcode.com/problems/separate-squares-ii/) | [3454_separate_squares_ii.ipynb](DSA/Hard/3454_separate_squares_ii.ipynb) |
+| 3455 | [Shortest Matching Substring](https://leetcode.com/problems/shortest-matching-substring/) | [3455_shortest_matching_substring.ipynb](DSA/Hard/3455_shortest_matching_substring.ipynb) |
+| 3459 | [Length of Longest V-Shaped Diagonal Segment](https://leetcode.com/problems/length-of-longest-v-shaped-diagonal-segment/) | [3459_length_of_longest_v_shaped_diagonal_segment.ipynb](DSA/Hard/3459_length_of_longest_v_shaped_diagonal_segment.ipynb) |
+| 3463 | [Check If Digits Are Equal in String After Operations II](https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-ii/) | [3463_check_if_digits_are_equal_in_string_after_operations_ii.ipynb](DSA/Hard/3463_check_if_digits_are_equal_in_string_after_operations_ii.ipynb) |
+| 3464 | [Maximize the Distance Between Points on a Square](https://leetcode.com/problems/maximize-the-distance-between-points-on-a-square/) | [3464_maximize_the_distance_between_points_on_a_square.ipynb](DSA/Hard/3464_maximize_the_distance_between_points_on_a_square.ipynb) |
+| 3470 | [Permutations IV](https://leetcode.com/problems/permutations-iv/) | [3470_permutations_iv.ipynb](DSA/Hard/3470_permutations_iv.ipynb) |
 | 3474 | [Lexicographically Smallest Generated String](https://leetcode.com/problems/lexicographically-smallest-generated-string/) | [3474_lexicographically_smallest_generated_string.ipynb](DSA/Hard/3474_lexicographically_smallest_generated_string.ipynb) |
 | 3480 | [Maximize Subarrays After Removing One Conflicting Pair](https://leetcode.com/problems/maximize-subarrays-after-removing-one-conflicting-pair/) | [3480_maximize_subarrays_after_removing_one_conflicting_pair.ipynb](DSA/Hard/3480_maximize_subarrays_after_removing_one_conflicting_pair.ipynb) |
 | 3485 | [Longest Common Prefix of K Strings After Removal](https://leetcode.com/problems/longest-common-prefix-of-k-strings-after-removal/) | [3485_longest_common_prefix_of_k_strings_after_removal.ipynb](DSA/Hard/3485_longest_common_prefix_of_k_strings_after_removal.ipynb) |

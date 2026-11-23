@@ -7,12 +7,12 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 ## Trạng thái hiện tại
 
 <!--STATUS-->
-- Cập nhật: 23/11/2026, sau đợt 58 (Medium)
+- Cập nhật: 24/11/2026, sau Đợt Hard 17
 - Easy: 833/833 — đã xong toàn bộ
 - Medium: 684/1958 — ID Medium tiếp theo: 1297, 1300, 1302, 1305, 1306, 1310, 1311, 1314, 1315, 1318, …
-- Hard: 349/920 — làm từ cuối danh sách đếm lên; ID Hard tiếp theo: 3470, 3464, 3463, 3459, 3455, …
-- Tổng DSA: 1866/3711 (50,3%) — số bài DSA còn lại: 1845 (Medium 1274, Hard 571)
-- Ngoài DSA: SQL 13, Shell 2 — README: 1881 notebook
+- Hard: 369/920 — làm từ cuối danh sách đếm lên; ID Hard tiếp theo: 3405, 3399, 3398, 3395, 3389, …
+- Tổng DSA: 1886/3711 (50,8%) — số bài DSA còn lại: 1825 (Medium 1274, Hard 551)
+- Ngoài DSA: SQL 13, Shell 2 — README: 1901 notebook
 <!--/STATUS-->
 
 ## Nhật ký các đợt
@@ -696,3 +696,12 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 - Ghi chú: Bài Premium (đề lấy từ doocs, chữ ký đã đối chiếu lời giải Python của doocs; đối chiếu lại nếu có tài khoản Premium): 1256, 1257, 1258, 1265, 1272, 1273. 1256: bảng mã trong đề gốc là hình ảnh, bảng trong notebook dựng lại khớp hai ví dụ chính thức — đối chiếu lại đề gốc. 1268: ví dụ 3, 4 tự dựng (kiểm chứng bằng brute force) — đối chiếu lại đề gốc. Bản giả lập: 1261 (TreeNode + bộ chạy chuỗi lệnh FindElements), 1265 (ImmutableListNode giả lập, cấm sửa nút, bắt output bằng redirect_stdout), 1286 (bộ chạy chuỗi lệnh CombinationIterator, đối chiếu itertools.combinations). 1273: ràng buộc không bảo đảm `parent[i] < i` nên code nộp dùng BFS + duyệt ngược; cách duyệt ngược chỉ số có phản ví dụ chạy thật. Nhiều đáp án đúng nên test bằng hàm kiểm tra hợp lệ / so sau chuẩn hóa: 1272, 1282. 1296 đối chiếu với vét cạn độc lập. Đề lấy từ LeetCode GraphQL (bài Premium lấy từ doocs). Chạy 1 agent tại một thời điểm, 2 lượt × 10 bài (lượt 1 bị gián đoạn do hết giới hạn usage, chạy tiếp sau khi reset). Đã tự kiểm tra lại 20 file: 56–77 cell, 24.102–46.015 ký tự, đủ mục 1–20, chạy sạch trên kernel mới, không lỗi/stderr, cell TODO không bị gọi. Đã gộp main (đến Đợt Hard 16) trước khi ghi.
 - Số đếm sau đợt: DSA 1.866 (Easy 833 · Medium 684 · Hard 349), SQL 13, Shell 2 → README 1.881 = số file; Excel 1.866 "Đã có notebook" ở sheet DSA (1.881 tính cả "Ngoai DSA").
 - ID Medium tiếp theo (tra Excel, chưa có): 1297, 1300, 1302, 1305, 1306, 1310, 1311, 1314, 1315, 1318, 1319, 1324, 1325, 1328, 1329, 1333, 1334, 1338, 1339, 1343. Còn 1.274 bài Medium chưa có.
+
+### Đợt Hard 17 (nhóm Hard, tính từ cuối danh sách đếm lên) — 24/11/2026
+
+- Đã xong (Hard): 3470, 3464, 3463, 3459, 3455, 3454, 3449, 3448, 3445, 3444, 3441, 3435, 3430, 3426, 3425, 3420, 3416, 3414, 3410, 3406
+- Lỗi: không có
+- Bỏ qua: không có (đã pull main và kiểm tra trước khi làm và ngay trước khi chép: 20 ID chưa có file trên `origin/main`, chưa có trong Excel/TIEN_DO; không trùng với khung chat Medium)
+- Ghi chú: Tên bài, slug, skeleton Python3 và đề lấy từ LeetCode GraphQL. Bài Premium (đối chiếu lại nếu có tài khoản Premium): 3416 Subsequences with a Unique Middle Mode II — đề theo doocs, doocs không hiển thị mã nên tên hàm `subsequencesWithMiddleMode(self, nums)` **suy ra từ bản I (LC 3395)**; 3406 Find the Lexicographically Largest String From the Box II — đề và chữ ký `answerString(self, word, numFriends)` lấy từ mã trên doocs (trùng bản I LC 3403). 3416: lời giải `O(n)` duy trì các tổng Σcl·cr, Σcl·cr², Σcl²·cr khi dịch tâm, đối chiếu vét cạn và bản `O(n·D)`. 3449 (tham lam nảy qua lại) có lập luận trao đổi và đối chiếu vét cạn mọi dãy bước + dựng đường đi cụ thể. 3410 dùng khối theo lần xuất hiện + sparse table (cây phân đoạn theo gợi ý đề để so sánh). 3454 dùng quét + cây phân đoạn đếm phủ, kiểm chứng bằng đếm ô đơn vị (Fraction). 3464: chứng minh tương đương Manhattan ↔ cung khi `d ≤ side` và kiểm chứng bằng máy; bài tập 5 tìm phản ví dụ cho `k = 3`. 3441: DP hậu tố + dựng tham lam, kiểm chứng chi phí bằng DP khối 3–5; lỗi 4 minh họa dựng ngược (DP tiền tố) cho xâu không nhỏ nhất. Ví dụ/ca biên tự dựng đều kiểm chứng bằng vét cạn (đã sửa các giá trị tính tay sai trước khi chạy); các "code sai" ở mục 13 đều có phản ví dụ chạy thật (nhiều cái tìm tự động bằng seed cố định). Làm tuần tự trong phiên (1 luồng, không dùng agent). Đã tự kiểm tra lại 20 file: 47–54 cell, 18.488–29.385 ký tự, đủ mục 1–20, chạy sạch trên kernel mới (mỗi notebook ≤ 7 s), không lỗi/stderr, cell TODO không bị gọi. Đã gộp main (đến đợt 58) trước khi ghi.
+- Số đếm sau đợt: DSA 1.886 (Easy 833 · Medium 684 · Hard 369), SQL 13, Shell 2 → README 1.901 = số file; Excel 1.886 "Đã có notebook" ở sheet DSA (1.901 tính cả "Ngoai DSA").
+- ID Hard tiếp theo (tính từ cuối đếm lên, tra Excel, chưa có): 3405, 3399, 3398, 3395, 3389, 3385, 3383, 3382, 3378, 3373, 3369, 3367, 3363, 3359, 3357, 3352, 3351, 3348, 3347, 3343. Còn 551 bài Hard chưa có.
