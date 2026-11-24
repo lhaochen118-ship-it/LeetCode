@@ -7,12 +7,12 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 ## Trạng thái hiện tại
 
 <!--STATUS-->
-- Cập nhật: 24/11/2026, sau Đợt Hard 18
+- Cập nhật: 24/11/2026, sau đợt 62 (Medium)
 - Easy: 833/833 — đã xong toàn bộ
-- Medium: 744/1958 — ID Medium tiếp theo: 1438, 1441, 1442, 1443, 1447, 1448, 1451, 1452, 1456, 1457, …
+- Medium: 764/1958 — ID Medium tiếp theo: 1485, 1487, 1488, 1490, 1492, 1493, 1497, 1498, 1500, 1503, …
 - Hard: 389/920 — làm từ cuối danh sách đếm lên; ID Hard tiếp theo: 3337, 3336, 3333, 3329, 3327, …
-- Tổng DSA: 1966/3711 (53,0%) — số bài DSA còn lại: 1745 (Medium 1214, Hard 531)
-- Ngoài DSA: SQL 13, Shell 2 — README: 1981 notebook
+- Tổng DSA: 1986/3711 (53,5%) — số bài DSA còn lại: 1725 (Medium 1194, Hard 531)
+- Ngoài DSA: SQL 13, Shell 2 — README: 2001 notebook
 <!--/STATUS-->
 
 ## Nhật ký các đợt
@@ -741,3 +741,12 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 - Ghi chú: Tên bài, slug, skeleton Python3 và đề lấy từ LeetCode GraphQL. Bài Premium (đề theo doocs, đối chiếu lại nếu có tài khoản Premium): 3385 Minimum Time to Break Locks II — chữ ký `findMinimumTime(self, strength)` **suy ra** (mã doocs đặt tên tham số `a`), lời giải thuật toán Hungarian `O(n³)` đối chiếu vét cạn hoán vị; 3383 Minimum Runes to Add to Cast Spell — chữ ký `minRunesToAdd(self, n, crystals, flowFrom, flowTo)` lấy từ mã doocs (đếm thành phần liên thông mạnh nguồn không chứa crystal); 3369 Design an Array Statistics Tracker — lớp `StatisticsTracker` theo mã doocs, ràng buộc trên doocs bị cắt nên giả định `≤ 10^5` thao tác; 3359 Find Sorted Submatrices With Maximum Element at Most K — doocs không hiển thị mã nên chữ ký `countSubmatrices(self, grid, k)` **suy ra**. 3343: code nộp có tạo biến `velunexorai` theo yêu cầu trong đề. 3348 có kiểm chứng vét cạn rằng hậu tố tham lam (gom 9, 8 rồi 6/4/3/2, sắp tăng, đệm 1) là hậu tố nhỏ nhất. 3357 chứng minh và kiểm chứng nhận xét chỉ cần thử cặp `(lo + d, hi − d)`. Ví dụ/ca biên tự dựng đều kiểm chứng bằng vét cạn (đã sửa các giá trị tính tay sai trước khi chạy); các "code sai" ở mục 13 đều có phản ví dụ chạy thật (nhiều cái tìm tự động bằng seed cố định). Làm tuần tự trong phiên (1 luồng, không dùng agent). Đã tự kiểm tra lại 20 file: 46–55 cell, 18.062–26.428 ký tự, đủ mục 1–20, chạy sạch trên kernel mới (mỗi notebook ≤ 14 s), không lỗi/stderr, cell TODO không bị gọi. Đã gộp main (đến đợt 61) trước khi ghi.
 - Số đếm sau đợt: DSA 1.966 (Easy 833 · Medium 744 · Hard 389), SQL 13, Shell 2 → README 1.981 = số file; Excel 1.966 "Đã có notebook" ở sheet DSA (1.981 tính cả "Ngoai DSA").
 - ID Hard tiếp theo (tính từ cuối đếm lên, tra Excel, chưa có): 3337, 3336, 3333, 3329, 3327, 3321, 3320, 3317, 3313, 3312, 3311, 3307, 3303, 3299, 3298, 3292, 3288, 3287, 3283, 3279. Còn 531 bài Hard chưa có.
+
+### Đợt 62 (Medium, tính từ đầu danh sách) — 24/11/2026
+
+- Đã xong (Medium): 1438, 1441, 1442, 1443, 1447, 1448, 1451, 1452, 1456, 1457, 1461, 1462, 1465, 1466, 1471, 1472, 1476, 1477, 1481, 1482
+- Lỗi: không có
+- Bỏ qua: không có (đã pull main và kiểm tra trước khi làm và ngay trước khi chép: các ID chưa có file ở bất kỳ thư mục nào, chưa có trong Excel/TIEN_DO)
+- Ghi chú: Không có bài Premium; độ khó LeetCode trùng danh mục. Đề lấy từ LeetCode GraphQL. Bài thiết kế (bộ chạy chuỗi lệnh giả lập): 1472, 1476. Nhiều đáp án / thứ tự tùy ý nên test bằng hàm kiểm tra hợp lệ hoặc so sau sort: 1441, 1447 (đếm khớp Σφ), 1471. 1443 coi đồ thị vô hướng, không giả định đỉnh cha có nhãn nhỏ hơn. Bài cây tự dựng TreeNode + build_tree: 1448, 1457. Ví dụ ngoài đề đều kiểm chứng bằng brute force, không có ví dụ cần đối chiếu lại đề gốc. Chạy 1 agent tại một thời điểm, 2 lượt × 10 bài (lượt 1 bị gián đoạn do hết giới hạn usage, chạy tiếp sau khi reset). Đã tự kiểm tra lại 20 file: 59–71 cell, 23.472–34.484 ký tự, đủ mục 1–20, chạy sạch trên kernel mới, không lỗi/stderr, cell TODO không bị gọi. Đã gộp main (đến Đợt Hard 18) trước khi ghi.
+- Số đếm sau đợt: DSA 1.986 (Easy 833 · Medium 764 · Hard 389), SQL 13, Shell 2 → README 2.001 = số file; Excel 1.986 "Đã có notebook" ở sheet DSA (2.001 tính cả "Ngoai DSA").
+- ID Medium tiếp theo (tra Excel, chưa có): 1485, 1487, 1488, 1490, 1492, 1493, 1497, 1498, 1500, 1503, 1504, 1506, 1508, 1509, 1513, 1514, 1519, 1522, 1524, 1525. Còn 1.194 bài Medium chưa có.
