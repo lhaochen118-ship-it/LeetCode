@@ -7,12 +7,12 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 ## Trạng thái hiện tại
 
 <!--STATUS-->
-- Cập nhật: 24/11/2026, sau Đợt Hard 19
+- Cập nhật: 24/11/2026, sau Đợt Hard 20
 - Easy: 833/833 — đã xong toàn bộ
 - Medium: 764/1958 — ID Medium tiếp theo: 1485, 1487, 1488, 1490, 1492, 1493, 1497, 1498, 1500, 1503, …
-- Hard: 409/920 — làm từ cuối danh sách đếm lên; ID Hard tiếp theo: 3277, 3276, 3273, 3272, 3269, …
-- Tổng DSA: 2006/3711 (54,1%) — số bài DSA còn lại: 1705 (Medium 1194, Hard 511)
-- Ngoài DSA: SQL 13, Shell 2 — README: 2021 notebook
+- Hard: 429/920 — làm từ cuối danh sách đếm lên; ID Hard tiếp theo: 3219, 3213, 3209, 3203, 3197, …
+- Tổng DSA: 2026/3711 (54,6%) — số bài DSA còn lại: 1685 (Medium 1194, Hard 491)
+- Ngoài DSA: SQL 13, Shell 2 — README: 2041 notebook
 <!--/STATUS-->
 
 ## Nhật ký các đợt
@@ -759,3 +759,12 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 - Ghi chú: Tên bài, slug, skeleton Python3 và đề lấy từ LeetCode GraphQL. Bài Premium (đề, ví dụ, ràng buộc và chữ ký lấy từ mã trên doocs — đối chiếu lại nếu có tài khoản Premium): 3329 `numberOfSubstrings(self, s, k)`, 3313 `lastMarkedNodes(self, edges)` (code nộp dùng BFS lặp thay DFS đệ quy của doocs), 3299 `getSum(self, nums)`, 3279 `maxArea(self, height, positions, directions)`. Bài nhiều đáp án được test bằng hàm kiểm tra hợp lệ: 3313 (độ lệch tâm), 3311 (tập cạnh của lưới). 3321: notebook dùng `sortedcontainers.SortedList` nếu có, nếu không dùng bản danh sách phân khối tự viết (LeetCode có sẵn thư viện); có thêm cách Fenwick offline không cần thư viện. 3336 nộp bằng nghịch đảo Möbius 2 chiều (DP `(g1, g2)` dùng để đối chiếu). 3292 nộp bằng Aho–Corasick + nhận xét `f` không giảm (chọn mảnh dài nhất kết thúc tại mỗi vị trí). Ví dụ/ca biên tự dựng đều kiểm chứng bằng vét cạn (đã sửa các giá trị tính tay sai trước khi chạy); các "code sai" ở mục 13 đều có phản ví dụ chạy thật (nhiều cái tìm tự động bằng seed cố định ngay trong notebook). Làm tuần tự trong phiên (1 luồng, không dùng agent). Đã tự kiểm tra lại 20 file: 45–49 cell, 18.002–26.352 ký tự, đủ mục 1–20, chạy sạch trên kernel mới (mỗi notebook ≤ 11 s), không lỗi/stderr, cell TODO không bị gọi. Đã gộp main (đến đợt 62) trước khi ghi.
 - Số đếm sau đợt: DSA 2.006 (Easy 833 · Medium 764 · Hard 409), SQL 13, Shell 2 → README 2.021 = số file; Excel 2.006 "Đã có notebook" ở sheet DSA (2.021 tính cả "Ngoai DSA").
 - ID Hard tiếp theo (tính từ cuối đếm lên, tra Excel, chưa có): 3277, 3276, 3273, 3272, 3269, 3267, 3266, 3261, 3260, 3257, 3256, 3251, 3250, 3245, 3244, 3241, 3235, 3231, 3229, 3225. Còn 511 bài Hard chưa có.
+
+### Đợt Hard 20 (nhóm Hard, tính từ cuối danh sách đếm lên) — 24/11/2026
+
+- Đã xong (Hard): 3277, 3276, 3273, 3272, 3269, 3267, 3266, 3261, 3260, 3257, 3256, 3251, 3250, 3245, 3244, 3241, 3235, 3231, 3229, 3225
+- Lỗi: không có
+- Bỏ qua: không có (đã pull main và kiểm tra trước khi làm và ngay trước khi chép: 20 ID chưa có file trên `origin/main`, chưa có trong Excel/TIEN_DO)
+- Ghi chú: Tên bài, slug, skeleton Python3 và đề lấy từ LeetCode GraphQL. Bài Premium (đề, ví dụ, ràng buộc và chữ ký lấy từ mã trên doocs — đối chiếu lại nếu có tài khoản Premium): 3269 `minLargest(self, nums1, nums2)`, 3231 `minOperations(self, nums)`. 3256/3250 (bản dễ) dựng từ notebook bản khó 3257/3251 rồi chỉnh đề, ràng buộc và test riêng. 3245 nộp bằng Fenwick đếm/tổng độ dài các đoạn "xấu" trên vòng; 3235 đối chiếu bằng oracle lưới (loại các cấu hình suy biến tiếp xúc); 3229 có thêm cách "tổng bước lên của d" (½ tổng biến thiên); 3225 nộp DP `O(n³)` với suffix/prefix max (đối chiếu với DP `O(n⁴)` và DP pick/skip). Ví dụ/ca biên tự dựng đều kiểm chứng bằng vét cạn; các "code sai" ở mục 13 đều có phản ví dụ chạy thật. Làm tuần tự trong phiên (1 luồng, không dùng agent). Đã tự kiểm tra lại 20 file: 45–51 cell, 18.124–25.864 ký tự, đủ mục 1–20, chạy sạch trên kernel mới, không lỗi/stderr, cell TODO không bị gọi. Đã gộp main trước khi ghi.
+- Số đếm sau đợt: DSA 2.026 (Easy 833 · Medium 764 · Hard 429), SQL 13, Shell 2 → README 2.041 = số file; Excel 2.026 "Đã có notebook" ở sheet DSA (2.041 tính cả "Ngoai DSA").
+- ID Hard tiếp theo (tính từ cuối đếm lên, tra Excel, chưa có): 3219, 3213, 3209, 3203, 3197, 3193, 3187, 3181, 3177, 3171, 3165, 3161, 3154, 3149, 3145, 3141, 3139, 3134, 3130, 3123. Còn 491 bài Hard chưa có.

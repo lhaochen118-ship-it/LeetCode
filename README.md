@@ -15,7 +15,7 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 2021 notebook** — DSA/Easy: 833 · DSA/Medium: 764 · DSA/Hard: 409 · SQL: 13 · Shell: 2
+**Tổng: 2041 notebook** — DSA/Easy: 833 · DSA/Medium: 764 · DSA/Hard: 429 · SQL: 13 · Shell: 2
 
 ## DSA — Easy — 833 bài
 
@@ -1624,7 +1624,7 @@ Shell/                            bài Shell (Bash)
 | 4112 | [Maximize Score After Zeroing Subtrees](https://leetcode.com/problems/maximize-score-after-zeroing-subtrees/) | [4112_maximize_score_after_zeroing_subtrees.ipynb](DSA/Medium/4112_maximize_score_after_zeroing_subtrees.ipynb) |
 | 4113 | [Game of Divisible Sums](https://leetcode.com/problems/game-of-divisible-sums/) | [4113_game_of_divisible_sums.ipynb](DSA/Medium/4113_game_of_divisible_sums.ipynb) |
 
-## DSA — Hard — 409 bài
+## DSA — Hard — 429 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -1797,6 +1797,26 @@ Shell/                            bài Shell (Bash)
 | 0857 | [Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/) | [0857_minimum_cost_to_hire_k_workers.ipynb](DSA/Hard/0857_minimum_cost_to_hire_k_workers.ipynb) |
 | 0862 | [Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/) | [0862_shortest_subarray_with_sum_at_least_k.ipynb](DSA/Hard/0862_shortest_subarray_with_sum_at_least_k.ipynb) |
 | 1136 | [Parallel Courses](https://leetcode.com/problems/parallel-courses/) | [1136_parallel_courses.ipynb](DSA/Hard/1136_parallel_courses.ipynb) |
+| 3225 | [Maximum Score From Grid Operations](https://leetcode.com/problems/maximum-score-from-grid-operations/) | [3225_maximum_score_from_grid_operations.ipynb](DSA/Hard/3225_maximum_score_from_grid_operations.ipynb) |
+| 3229 | [Minimum Operations to Make Array Equal to Target](https://leetcode.com/problems/minimum-operations-to-make-array-equal-to-target/) | [3229_minimum_operations_to_make_array_equal_to_target.ipynb](DSA/Hard/3229_minimum_operations_to_make_array_equal_to_target.ipynb) |
+| 3231 | [Minimum Number of Increasing Subsequence to Be Removed](https://leetcode.com/problems/minimum-number-of-increasing-subsequence-to-be-removed/) | [3231_minimum_number_of_increasing_subsequence_to_be_removed.ipynb](DSA/Hard/3231_minimum_number_of_increasing_subsequence_to_be_removed.ipynb) |
+| 3235 | [Check if the Rectangle Corner Is Reachable](https://leetcode.com/problems/check-if-the-rectangle-corner-is-reachable/) | [3235_check_if_the_rectangle_corner_is_reachable.ipynb](DSA/Hard/3235_check_if_the_rectangle_corner_is_reachable.ipynb) |
+| 3241 | [Time Taken to Mark All Nodes](https://leetcode.com/problems/time-taken-to-mark-all-nodes/) | [3241_time_taken_to_mark_all_nodes.ipynb](DSA/Hard/3241_time_taken_to_mark_all_nodes.ipynb) |
+| 3244 | [Shortest Distance After Road Addition Queries II](https://leetcode.com/problems/shortest-distance-after-road-addition-queries-ii/) | [3244_shortest_distance_after_road_addition_queries_ii.ipynb](DSA/Hard/3244_shortest_distance_after_road_addition_queries_ii.ipynb) |
+| 3245 | [Alternating Groups III](https://leetcode.com/problems/alternating-groups-iii/) | [3245_alternating_groups_iii.ipynb](DSA/Hard/3245_alternating_groups_iii.ipynb) |
+| 3250 | [Find the Count of Monotonic Pairs I](https://leetcode.com/problems/find-the-count-of-monotonic-pairs-i/) | [3250_find_the_count_of_monotonic_pairs_i.ipynb](DSA/Hard/3250_find_the_count_of_monotonic_pairs_i.ipynb) |
+| 3251 | [Find the Count of Monotonic Pairs II](https://leetcode.com/problems/find-the-count-of-monotonic-pairs-ii/) | [3251_find_the_count_of_monotonic_pairs_ii.ipynb](DSA/Hard/3251_find_the_count_of_monotonic_pairs_ii.ipynb) |
+| 3256 | [Maximum Value Sum by Placing Three Rooks I](https://leetcode.com/problems/maximum-value-sum-by-placing-three-rooks-i/) | [3256_maximum_value_sum_by_placing_three_rooks_i.ipynb](DSA/Hard/3256_maximum_value_sum_by_placing_three_rooks_i.ipynb) |
+| 3257 | [Maximum Value Sum by Placing Three Rooks II](https://leetcode.com/problems/maximum-value-sum-by-placing-three-rooks-ii/) | [3257_maximum_value_sum_by_placing_three_rooks_ii.ipynb](DSA/Hard/3257_maximum_value_sum_by_placing_three_rooks_ii.ipynb) |
+| 3260 | [Find the Largest Palindrome Divisible by K](https://leetcode.com/problems/find-the-largest-palindrome-divisible-by-k/) | [3260_find_the_largest_palindrome_divisible_by_k.ipynb](DSA/Hard/3260_find_the_largest_palindrome_divisible_by_k.ipynb) |
+| 3261 | [Count Substrings That Satisfy K-Constraint II](https://leetcode.com/problems/count-substrings-that-satisfy-k-constraint-ii/) | [3261_count_substrings_that_satisfy_k_constraint_ii.ipynb](DSA/Hard/3261_count_substrings_that_satisfy_k_constraint_ii.ipynb) |
+| 3266 | [Final Array State After K Multiplication Operations II](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-ii/) | [3266_final_array_state_after_k_multiplication_operations_ii.ipynb](DSA/Hard/3266_final_array_state_after_k_multiplication_operations_ii.ipynb) |
+| 3267 | [Count Almost Equal Pairs II](https://leetcode.com/problems/count-almost-equal-pairs-ii/) | [3267_count_almost_equal_pairs_ii.ipynb](DSA/Hard/3267_count_almost_equal_pairs_ii.ipynb) |
+| 3269 | [Constructing Two Increasing Arrays](https://leetcode.com/problems/constructing-two-increasing-arrays/) | [3269_constructing_two_increasing_arrays.ipynb](DSA/Hard/3269_constructing_two_increasing_arrays.ipynb) |
+| 3272 | [Find the Count of Good Integers](https://leetcode.com/problems/find-the-count-of-good-integers/) | [3272_find_the_count_of_good_integers.ipynb](DSA/Hard/3272_find_the_count_of_good_integers.ipynb) |
+| 3273 | [Minimum Amount of Damage Dealt to Bob](https://leetcode.com/problems/minimum-amount-of-damage-dealt-to-bob/) | [3273_minimum_amount_of_damage_dealt_to_bob.ipynb](DSA/Hard/3273_minimum_amount_of_damage_dealt_to_bob.ipynb) |
+| 3276 | [Select Cells in Grid With Maximum Score](https://leetcode.com/problems/select-cells-in-grid-with-maximum-score/) | [3276_select_cells_in_grid_with_maximum_score.ipynb](DSA/Hard/3276_select_cells_in_grid_with_maximum_score.ipynb) |
+| 3277 | [Maximum XOR Score Subarray Queries](https://leetcode.com/problems/maximum-xor-score-subarray-queries/) | [3277_maximum_xor_score_subarray_queries.ipynb](DSA/Hard/3277_maximum_xor_score_subarray_queries.ipynb) |
 | 3279 | [Maximum Total Area Occupied by Pistons](https://leetcode.com/problems/maximum-total-area-occupied-by-pistons/) | [3279_maximum_total_area_occupied_by_pistons.ipynb](DSA/Hard/3279_maximum_total_area_occupied_by_pistons.ipynb) |
 | 3283 | [Maximum Number of Moves to Kill All Pawns](https://leetcode.com/problems/maximum-number-of-moves-to-kill-all-pawns/) | [3283_maximum_number_of_moves_to_kill_all_pawns.ipynb](DSA/Hard/3283_maximum_number_of_moves_to_kill_all_pawns.ipynb) |
 | 3287 | [Find the Maximum Sequence Value of Array](https://leetcode.com/problems/find-the-maximum-sequence-value-of-array/) | [3287_find_the_maximum_sequence_value_of_array.ipynb](DSA/Hard/3287_find_the_maximum_sequence_value_of_array.ipynb) |
