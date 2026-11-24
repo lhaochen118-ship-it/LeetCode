@@ -7,12 +7,12 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 ## Trạng thái hiện tại
 
 <!--STATUS-->
-- Cập nhật: 24/11/2026, sau Đợt Hard 20
+- Cập nhật: 24/11/2026, sau Đợt Hard 21
 - Easy: 833/833 — đã xong toàn bộ
 - Medium: 764/1958 — ID Medium tiếp theo: 1485, 1487, 1488, 1490, 1492, 1493, 1497, 1498, 1500, 1503, …
-- Hard: 429/920 — làm từ cuối danh sách đếm lên; ID Hard tiếp theo: 3219, 3213, 3209, 3203, 3197, …
-- Tổng DSA: 2026/3711 (54,6%) — số bài DSA còn lại: 1685 (Medium 1194, Hard 491)
-- Ngoài DSA: SQL 13, Shell 2 — README: 2041 notebook
+- Hard: 449/920 — làm từ cuối danh sách đếm lên; ID Hard tiếp theo: 3117, 3116, 3113, 3108, 3104, …
+- Tổng DSA: 2046/3711 (55,1%) — số bài DSA còn lại: 1665 (Medium 1194, Hard 471)
+- Ngoài DSA: SQL 13, Shell 2 — README: 2061 notebook
 <!--/STATUS-->
 
 ## Nhật ký các đợt
@@ -768,3 +768,12 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 - Ghi chú: Tên bài, slug, skeleton Python3 và đề lấy từ LeetCode GraphQL. Bài Premium (đề, ví dụ, ràng buộc và chữ ký lấy từ mã trên doocs — đối chiếu lại nếu có tài khoản Premium): 3269 `minLargest(self, nums1, nums2)`, 3231 `minOperations(self, nums)`. 3256/3250 (bản dễ) dựng từ notebook bản khó 3257/3251 rồi chỉnh đề, ràng buộc và test riêng. 3245 nộp bằng Fenwick đếm/tổng độ dài các đoạn "xấu" trên vòng; 3235 đối chiếu bằng oracle lưới (loại các cấu hình suy biến tiếp xúc); 3229 có thêm cách "tổng bước lên của d" (½ tổng biến thiên); 3225 nộp DP `O(n³)` với suffix/prefix max (đối chiếu với DP `O(n⁴)` và DP pick/skip). Ví dụ/ca biên tự dựng đều kiểm chứng bằng vét cạn; các "code sai" ở mục 13 đều có phản ví dụ chạy thật. Làm tuần tự trong phiên (1 luồng, không dùng agent). Đã tự kiểm tra lại 20 file: 45–51 cell, 18.124–25.864 ký tự, đủ mục 1–20, chạy sạch trên kernel mới, không lỗi/stderr, cell TODO không bị gọi. Đã gộp main trước khi ghi.
 - Số đếm sau đợt: DSA 2.026 (Easy 833 · Medium 764 · Hard 429), SQL 13, Shell 2 → README 2.041 = số file; Excel 2.026 "Đã có notebook" ở sheet DSA (2.041 tính cả "Ngoai DSA").
 - ID Hard tiếp theo (tính từ cuối đếm lên, tra Excel, chưa có): 3219, 3213, 3209, 3203, 3197, 3193, 3187, 3181, 3177, 3171, 3165, 3161, 3154, 3149, 3145, 3141, 3139, 3134, 3130, 3123. Còn 491 bài Hard chưa có.
+
+### Đợt Hard 21 (nhóm Hard, tính từ cuối danh sách đếm lên) — 24/11/2026
+
+- Đã xong (Hard): 3219, 3213, 3209, 3203, 3197, 3193, 3187, 3181, 3177, 3171, 3165, 3161, 3154, 3149, 3145, 3141, 3139, 3134, 3130, 3123
+- Lỗi: không có
+- Bỏ qua: không có (đã pull main và kiểm tra trước khi làm và ngay trước khi chép: 20 ID chưa có file trên `origin/main`, chưa có trong Excel/TIEN_DO)
+- Ghi chú: Tên bài, slug, skeleton Python3 và đề lấy từ LeetCode GraphQL. Bài Premium (đề, ví dụ, ràng buộc và chữ ký lấy từ doocs — đối chiếu lại nếu có tài khoản Premium): 3141 `maxHammingDistances(self, nums, m)`. 3213 nộp bằng Aho–Corasick + dictionary link (đối chiếu rolling hash theo độ dài); 3197 liệt kê 6 kiểu cắt guillotine (đối chiếu brute bộ ba hình chữ nhật và DP guillotine); 3165 segment tree 4 trạng thái biên (đối chiếu ma trận (max, +)); 3161 segment tree max + `bisect` (đối chiếu xử lý ngược thời gian DSU + Fenwick max); 3154 công thức `Σ C(j+1, 2^j − k)` (đối chiếu DFS có nhớ); 3139 duyệt đích `T ∈ [max, 2max]` (đối chiếu vét cạn trạng thái và điểm tới hạn). Ví dụ/ca biên tự dựng đều kiểm chứng bằng vét cạn (đã sửa các giá trị tính tay sai trước khi chạy); các "code sai" ở mục 13 đều có phản ví dụ chạy thật (một số tìm tự động bằng seed cố định ngay trong notebook; 3154 có thêm mục giải thích vì sao điều kiện "không xuống ở bậc 0" là thừa). Làm tuần tự trong phiên (1 luồng, không dùng agent). Đã tự kiểm tra lại 20 file: 45–51 cell, 18.803–28.326 ký tự, đủ mục 1–20, chạy sạch trên kernel mới, không lỗi/stderr, cell TODO không bị gọi. Đã gộp main trước khi ghi.
+- Số đếm sau đợt: DSA 2.046 (Easy 833 · Medium 764 · Hard 449), SQL 13, Shell 2 → README 2.061 = số file; Excel 2.046 "Đã có notebook" ở sheet DSA (2.061 tính cả "Ngoai DSA").
+- ID Hard tiếp theo (tính từ cuối đếm lên, tra Excel, chưa có): 3117, 3116, 3113, 3108, 3104, 3102, 3098, 3093, 3088, 3086, 3082, 3077, 3072, 3068, 3049, 3045, 3041, 3037, 3036, 3031. Còn 471 bài Hard chưa có.

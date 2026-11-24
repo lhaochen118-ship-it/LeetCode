@@ -15,7 +15,7 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 2041 notebook** — DSA/Easy: 833 · DSA/Medium: 764 · DSA/Hard: 429 · SQL: 13 · Shell: 2
+**Tổng: 2061 notebook** — DSA/Easy: 833 · DSA/Medium: 764 · DSA/Hard: 449 · SQL: 13 · Shell: 2
 
 ## DSA — Easy — 833 bài
 
@@ -1624,7 +1624,7 @@ Shell/                            bài Shell (Bash)
 | 4112 | [Maximize Score After Zeroing Subtrees](https://leetcode.com/problems/maximize-score-after-zeroing-subtrees/) | [4112_maximize_score_after_zeroing_subtrees.ipynb](DSA/Medium/4112_maximize_score_after_zeroing_subtrees.ipynb) |
 | 4113 | [Game of Divisible Sums](https://leetcode.com/problems/game-of-divisible-sums/) | [4113_game_of_divisible_sums.ipynb](DSA/Medium/4113_game_of_divisible_sums.ipynb) |
 
-## DSA — Hard — 429 bài
+## DSA — Hard — 449 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -1797,6 +1797,26 @@ Shell/                            bài Shell (Bash)
 | 0857 | [Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/) | [0857_minimum_cost_to_hire_k_workers.ipynb](DSA/Hard/0857_minimum_cost_to_hire_k_workers.ipynb) |
 | 0862 | [Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/) | [0862_shortest_subarray_with_sum_at_least_k.ipynb](DSA/Hard/0862_shortest_subarray_with_sum_at_least_k.ipynb) |
 | 1136 | [Parallel Courses](https://leetcode.com/problems/parallel-courses/) | [1136_parallel_courses.ipynb](DSA/Hard/1136_parallel_courses.ipynb) |
+| 3123 | [Find Edges in Shortest Paths](https://leetcode.com/problems/find-edges-in-shortest-paths/) | [3123_find_edges_in_shortest_paths.ipynb](DSA/Hard/3123_find_edges_in_shortest_paths.ipynb) |
+| 3130 | [Find All Possible Stable Binary Arrays II](https://leetcode.com/problems/find-all-possible-stable-binary-arrays-ii/) | [3130_find_all_possible_stable_binary_arrays_ii.ipynb](DSA/Hard/3130_find_all_possible_stable_binary_arrays_ii.ipynb) |
+| 3134 | [Find the Median of the Uniqueness Array](https://leetcode.com/problems/find-the-median-of-the-uniqueness-array/) | [3134_find_the_median_of_the_uniqueness_array.ipynb](DSA/Hard/3134_find_the_median_of_the_uniqueness_array.ipynb) |
+| 3139 | [Minimum Cost to Equalize Array](https://leetcode.com/problems/minimum-cost-to-equalize-array/) | [3139_minimum_cost_to_equalize_array.ipynb](DSA/Hard/3139_minimum_cost_to_equalize_array.ipynb) |
+| 3141 | [Maximum Hamming Distances](https://leetcode.com/problems/maximum-hamming-distances/) | [3141_maximum_hamming_distances.ipynb](DSA/Hard/3141_maximum_hamming_distances.ipynb) |
+| 3145 | [Find Products of Elements of Big Array](https://leetcode.com/problems/find-products-of-elements-of-big-array/) | [3145_find_products_of_elements_of_big_array.ipynb](DSA/Hard/3145_find_products_of_elements_of_big_array.ipynb) |
+| 3149 | [Find the Minimum Cost Array Permutation](https://leetcode.com/problems/find-the-minimum-cost-array-permutation/) | [3149_find_the_minimum_cost_array_permutation.ipynb](DSA/Hard/3149_find_the_minimum_cost_array_permutation.ipynb) |
+| 3154 | [Find Number of Ways to Reach the K-th Stair](https://leetcode.com/problems/find-number-of-ways-to-reach-the-k-th-stair/) | [3154_find_number_of_ways_to_reach_the_k_th_stair.ipynb](DSA/Hard/3154_find_number_of_ways_to_reach_the_k_th_stair.ipynb) |
+| 3161 | [Block Placement Queries](https://leetcode.com/problems/block-placement-queries/) | [3161_block_placement_queries.ipynb](DSA/Hard/3161_block_placement_queries.ipynb) |
+| 3165 | [Maximum Sum of Subsequence With Non-adjacent Elements](https://leetcode.com/problems/maximum-sum-of-subsequence-with-non-adjacent-elements/) | [3165_maximum_sum_of_subsequence_with_non_adjacent_elements.ipynb](DSA/Hard/3165_maximum_sum_of_subsequence_with_non_adjacent_elements.ipynb) |
+| 3171 | [Find Subarray With Bitwise OR Closest to K](https://leetcode.com/problems/find-subarray-with-bitwise-or-closest-to-k/) | [3171_find_subarray_with_bitwise_or_closest_to_k.ipynb](DSA/Hard/3171_find_subarray_with_bitwise_or_closest_to_k.ipynb) |
+| 3177 | [Find the Maximum Length of a Good Subsequence II](https://leetcode.com/problems/find-the-maximum-length-of-a-good-subsequence-ii/) | [3177_find_the_maximum_length_of_a_good_subsequence_ii.ipynb](DSA/Hard/3177_find_the_maximum_length_of_a_good_subsequence_ii.ipynb) |
+| 3181 | [Maximum Total Reward Using Operations II](https://leetcode.com/problems/maximum-total-reward-using-operations-ii/) | [3181_maximum_total_reward_using_operations_ii.ipynb](DSA/Hard/3181_maximum_total_reward_using_operations_ii.ipynb) |
+| 3187 | [Peaks in Array](https://leetcode.com/problems/peaks-in-array/) | [3187_peaks_in_array.ipynb](DSA/Hard/3187_peaks_in_array.ipynb) |
+| 3193 | [Count the Number of Inversions](https://leetcode.com/problems/count-the-number-of-inversions/) | [3193_count_the_number_of_inversions.ipynb](DSA/Hard/3193_count_the_number_of_inversions.ipynb) |
+| 3197 | [Find the Minimum Area to Cover All Ones II](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-ii/) | [3197_find_the_minimum_area_to_cover_all_ones_ii.ipynb](DSA/Hard/3197_find_the_minimum_area_to_cover_all_ones_ii.ipynb) |
+| 3203 | [Find Minimum Diameter After Merging Two Trees](https://leetcode.com/problems/find-minimum-diameter-after-merging-two-trees/) | [3203_find_minimum_diameter_after_merging_two_trees.ipynb](DSA/Hard/3203_find_minimum_diameter_after_merging_two_trees.ipynb) |
+| 3209 | [Number of Subarrays With AND Value of K](https://leetcode.com/problems/number-of-subarrays-with-and-value-of-k/) | [3209_number_of_subarrays_with_and_value_of_k.ipynb](DSA/Hard/3209_number_of_subarrays_with_and_value_of_k.ipynb) |
+| 3213 | [Construct String with Minimum Cost](https://leetcode.com/problems/construct-string-with-minimum-cost/) | [3213_construct_string_with_minimum_cost.ipynb](DSA/Hard/3213_construct_string_with_minimum_cost.ipynb) |
+| 3219 | [Minimum Cost for Cutting Cake II](https://leetcode.com/problems/minimum-cost-for-cutting-cake-ii/) | [3219_minimum_cost_for_cutting_cake_ii.ipynb](DSA/Hard/3219_minimum_cost_for_cutting_cake_ii.ipynb) |
 | 3225 | [Maximum Score From Grid Operations](https://leetcode.com/problems/maximum-score-from-grid-operations/) | [3225_maximum_score_from_grid_operations.ipynb](DSA/Hard/3225_maximum_score_from_grid_operations.ipynb) |
 | 3229 | [Minimum Operations to Make Array Equal to Target](https://leetcode.com/problems/minimum-operations-to-make-array-equal-to-target/) | [3229_minimum_operations_to_make_array_equal_to_target.ipynb](DSA/Hard/3229_minimum_operations_to_make_array_equal_to_target.ipynb) |
 | 3231 | [Minimum Number of Increasing Subsequence to Be Removed](https://leetcode.com/problems/minimum-number-of-increasing-subsequence-to-be-removed/) | [3231_minimum_number_of_increasing_subsequence_to_be_removed.ipynb](DSA/Hard/3231_minimum_number_of_increasing_subsequence_to_be_removed.ipynb) |
