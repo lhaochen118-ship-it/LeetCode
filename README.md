@@ -15,7 +15,7 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 2001 notebook** — DSA/Easy: 833 · DSA/Medium: 764 · DSA/Hard: 389 · SQL: 13 · Shell: 2
+**Tổng: 2021 notebook** — DSA/Easy: 833 · DSA/Medium: 764 · DSA/Hard: 409 · SQL: 13 · Shell: 2
 
 ## DSA — Easy — 833 bài
 
@@ -1624,7 +1624,7 @@ Shell/                            bài Shell (Bash)
 | 4112 | [Maximize Score After Zeroing Subtrees](https://leetcode.com/problems/maximize-score-after-zeroing-subtrees/) | [4112_maximize_score_after_zeroing_subtrees.ipynb](DSA/Medium/4112_maximize_score_after_zeroing_subtrees.ipynb) |
 | 4113 | [Game of Divisible Sums](https://leetcode.com/problems/game-of-divisible-sums/) | [4113_game_of_divisible_sums.ipynb](DSA/Medium/4113_game_of_divisible_sums.ipynb) |
 
-## DSA — Hard — 389 bài
+## DSA — Hard — 409 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -1797,6 +1797,26 @@ Shell/                            bài Shell (Bash)
 | 0857 | [Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/) | [0857_minimum_cost_to_hire_k_workers.ipynb](DSA/Hard/0857_minimum_cost_to_hire_k_workers.ipynb) |
 | 0862 | [Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/) | [0862_shortest_subarray_with_sum_at_least_k.ipynb](DSA/Hard/0862_shortest_subarray_with_sum_at_least_k.ipynb) |
 | 1136 | [Parallel Courses](https://leetcode.com/problems/parallel-courses/) | [1136_parallel_courses.ipynb](DSA/Hard/1136_parallel_courses.ipynb) |
+| 3279 | [Maximum Total Area Occupied by Pistons](https://leetcode.com/problems/maximum-total-area-occupied-by-pistons/) | [3279_maximum_total_area_occupied_by_pistons.ipynb](DSA/Hard/3279_maximum_total_area_occupied_by_pistons.ipynb) |
+| 3283 | [Maximum Number of Moves to Kill All Pawns](https://leetcode.com/problems/maximum-number-of-moves-to-kill-all-pawns/) | [3283_maximum_number_of_moves_to_kill_all_pawns.ipynb](DSA/Hard/3283_maximum_number_of_moves_to_kill_all_pawns.ipynb) |
+| 3287 | [Find the Maximum Sequence Value of Array](https://leetcode.com/problems/find-the-maximum-sequence-value-of-array/) | [3287_find_the_maximum_sequence_value_of_array.ipynb](DSA/Hard/3287_find_the_maximum_sequence_value_of_array.ipynb) |
+| 3288 | [Length of the Longest Increasing Path](https://leetcode.com/problems/length-of-the-longest-increasing-path/) | [3288_length_of_the_longest_increasing_path.ipynb](DSA/Hard/3288_length_of_the_longest_increasing_path.ipynb) |
+| 3292 | [Minimum Number of Valid Strings to Form Target II](https://leetcode.com/problems/minimum-number-of-valid-strings-to-form-target-ii/) | [3292_minimum_number_of_valid_strings_to_form_target_ii.ipynb](DSA/Hard/3292_minimum_number_of_valid_strings_to_form_target_ii.ipynb) |
+| 3298 | [Count Substrings That Can Be Rearranged to Contain a String II](https://leetcode.com/problems/count-substrings-that-can-be-rearranged-to-contain-a-string-ii/) | [3298_count_substrings_that_can_be_rearranged_to_contain_a_string_ii.ipynb](DSA/Hard/3298_count_substrings_that_can_be_rearranged_to_contain_a_string_ii.ipynb) |
+| 3299 | [Sum of Consecutive Subsequences](https://leetcode.com/problems/sum-of-consecutive-subsequences/) | [3299_sum_of_consecutive_subsequences.ipynb](DSA/Hard/3299_sum_of_consecutive_subsequences.ipynb) |
+| 3303 | [Find the Occurrence of First Almost Equal Substring](https://leetcode.com/problems/find-the-occurrence-of-first-almost-equal-substring/) | [3303_find_the_occurrence_of_first_almost_equal_substring.ipynb](DSA/Hard/3303_find_the_occurrence_of_first_almost_equal_substring.ipynb) |
+| 3307 | [Find the K-th Character in String Game II](https://leetcode.com/problems/find-the-k-th-character-in-string-game-ii/) | [3307_find_the_k_th_character_in_string_game_ii.ipynb](DSA/Hard/3307_find_the_k_th_character_in_string_game_ii.ipynb) |
+| 3311 | [Construct 2D Grid Matching Graph Layout](https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/) | [3311_construct_2d_grid_matching_graph_layout.ipynb](DSA/Hard/3311_construct_2d_grid_matching_graph_layout.ipynb) |
+| 3312 | [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/) | [3312_sorted_gcd_pair_queries.ipynb](DSA/Hard/3312_sorted_gcd_pair_queries.ipynb) |
+| 3313 | [Find the Last Marked Nodes in Tree](https://leetcode.com/problems/find-the-last-marked-nodes-in-tree/) | [3313_find_the_last_marked_nodes_in_tree.ipynb](DSA/Hard/3313_find_the_last_marked_nodes_in_tree.ipynb) |
+| 3317 | [Find the Number of Possible Ways for an Event](https://leetcode.com/problems/find-the-number-of-possible-ways-for-an-event/) | [3317_find_the_number_of_possible_ways_for_an_event.ipynb](DSA/Hard/3317_find_the_number_of_possible_ways_for_an_event.ipynb) |
+| 3320 | [Count The Number of Winning Sequences](https://leetcode.com/problems/count-the-number-of-winning-sequences/) | [3320_count_the_number_of_winning_sequences.ipynb](DSA/Hard/3320_count_the_number_of_winning_sequences.ipynb) |
+| 3321 | [Find X-Sum of All K-Long Subarrays II](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-ii/) | [3321_find_x_sum_of_all_k_long_subarrays_ii.ipynb](DSA/Hard/3321_find_x_sum_of_all_k_long_subarrays_ii.ipynb) |
+| 3327 | [Check if DFS Strings Are Palindromes](https://leetcode.com/problems/check-if-dfs-strings-are-palindromes/) | [3327_check_if_dfs_strings_are_palindromes.ipynb](DSA/Hard/3327_check_if_dfs_strings_are_palindromes.ipynb) |
+| 3329 | [Count Substrings With K-Frequency Characters II](https://leetcode.com/problems/count-substrings-with-k-frequency-characters-ii/) | [3329_count_substrings_with_k_frequency_characters_ii.ipynb](DSA/Hard/3329_count_substrings_with_k_frequency_characters_ii.ipynb) |
+| 3333 | [Find the Original Typed String II](https://leetcode.com/problems/find-the-original-typed-string-ii/) | [3333_find_the_original_typed_string_ii.ipynb](DSA/Hard/3333_find_the_original_typed_string_ii.ipynb) |
+| 3336 | [Find the Number of Subsequences With Equal GCD](https://leetcode.com/problems/find-the-number-of-subsequences-with-equal-gcd/) | [3336_find_the_number_of_subsequences_with_equal_gcd.ipynb](DSA/Hard/3336_find_the_number_of_subsequences_with_equal_gcd.ipynb) |
+| 3337 | [Total Characters in String After Transformations II](https://leetcode.com/problems/total-characters-in-string-after-transformations-ii/) | [3337_total_characters_in_string_after_transformations_ii.ipynb](DSA/Hard/3337_total_characters_in_string_after_transformations_ii.ipynb) |
 | 3343 | [Count Number of Balanced Permutations](https://leetcode.com/problems/count-number-of-balanced-permutations/) | [3343_count_number_of_balanced_permutations.ipynb](DSA/Hard/3343_count_number_of_balanced_permutations.ipynb) |
 | 3347 | [Maximum Frequency of an Element After Performing Operations II](https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-ii/) | [3347_maximum_frequency_of_an_element_after_performing_operations_ii.ipynb](DSA/Hard/3347_maximum_frequency_of_an_element_after_performing_operations_ii.ipynb) |
 | 3348 | [Smallest Divisible Digit Product II](https://leetcode.com/problems/smallest-divisible-digit-product-ii/) | [3348_smallest_divisible_digit_product_ii.ipynb](DSA/Hard/3348_smallest_divisible_digit_product_ii.ipynb) |

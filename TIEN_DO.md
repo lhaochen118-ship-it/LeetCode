@@ -7,12 +7,12 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 ## Trạng thái hiện tại
 
 <!--STATUS-->
-- Cập nhật: 24/11/2026, sau đợt 62 (Medium)
+- Cập nhật: 24/11/2026, sau Đợt Hard 19
 - Easy: 833/833 — đã xong toàn bộ
 - Medium: 764/1958 — ID Medium tiếp theo: 1485, 1487, 1488, 1490, 1492, 1493, 1497, 1498, 1500, 1503, …
-- Hard: 389/920 — làm từ cuối danh sách đếm lên; ID Hard tiếp theo: 3337, 3336, 3333, 3329, 3327, …
-- Tổng DSA: 1986/3711 (53,5%) — số bài DSA còn lại: 1725 (Medium 1194, Hard 531)
-- Ngoài DSA: SQL 13, Shell 2 — README: 2001 notebook
+- Hard: 409/920 — làm từ cuối danh sách đếm lên; ID Hard tiếp theo: 3277, 3276, 3273, 3272, 3269, …
+- Tổng DSA: 2006/3711 (54,1%) — số bài DSA còn lại: 1705 (Medium 1194, Hard 511)
+- Ngoài DSA: SQL 13, Shell 2 — README: 2021 notebook
 <!--/STATUS-->
 
 ## Nhật ký các đợt
@@ -750,3 +750,12 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 - Ghi chú: Không có bài Premium; độ khó LeetCode trùng danh mục. Đề lấy từ LeetCode GraphQL. Bài thiết kế (bộ chạy chuỗi lệnh giả lập): 1472, 1476. Nhiều đáp án / thứ tự tùy ý nên test bằng hàm kiểm tra hợp lệ hoặc so sau sort: 1441, 1447 (đếm khớp Σφ), 1471. 1443 coi đồ thị vô hướng, không giả định đỉnh cha có nhãn nhỏ hơn. Bài cây tự dựng TreeNode + build_tree: 1448, 1457. Ví dụ ngoài đề đều kiểm chứng bằng brute force, không có ví dụ cần đối chiếu lại đề gốc. Chạy 1 agent tại một thời điểm, 2 lượt × 10 bài (lượt 1 bị gián đoạn do hết giới hạn usage, chạy tiếp sau khi reset). Đã tự kiểm tra lại 20 file: 59–71 cell, 23.472–34.484 ký tự, đủ mục 1–20, chạy sạch trên kernel mới, không lỗi/stderr, cell TODO không bị gọi. Đã gộp main (đến Đợt Hard 18) trước khi ghi.
 - Số đếm sau đợt: DSA 1.986 (Easy 833 · Medium 764 · Hard 389), SQL 13, Shell 2 → README 2.001 = số file; Excel 1.986 "Đã có notebook" ở sheet DSA (2.001 tính cả "Ngoai DSA").
 - ID Medium tiếp theo (tra Excel, chưa có): 1485, 1487, 1488, 1490, 1492, 1493, 1497, 1498, 1500, 1503, 1504, 1506, 1508, 1509, 1513, 1514, 1519, 1522, 1524, 1525. Còn 1.194 bài Medium chưa có.
+
+### Đợt Hard 19 (nhóm Hard, tính từ cuối danh sách đếm lên) — 24/11/2026
+
+- Đã xong (Hard): 3337, 3336, 3333, 3329, 3327, 3321, 3320, 3317, 3313, 3312, 3311, 3307, 3303, 3299, 3298, 3292, 3288, 3287, 3283, 3279
+- Lỗi: không có
+- Bỏ qua: không có (đã pull main và kiểm tra trước khi làm và ngay trước khi chép: 20 ID chưa có file trên `origin/main`, chưa có trong Excel/TIEN_DO; không trùng với khung chat Medium)
+- Ghi chú: Tên bài, slug, skeleton Python3 và đề lấy từ LeetCode GraphQL. Bài Premium (đề, ví dụ, ràng buộc và chữ ký lấy từ mã trên doocs — đối chiếu lại nếu có tài khoản Premium): 3329 `numberOfSubstrings(self, s, k)`, 3313 `lastMarkedNodes(self, edges)` (code nộp dùng BFS lặp thay DFS đệ quy của doocs), 3299 `getSum(self, nums)`, 3279 `maxArea(self, height, positions, directions)`. Bài nhiều đáp án được test bằng hàm kiểm tra hợp lệ: 3313 (độ lệch tâm), 3311 (tập cạnh của lưới). 3321: notebook dùng `sortedcontainers.SortedList` nếu có, nếu không dùng bản danh sách phân khối tự viết (LeetCode có sẵn thư viện); có thêm cách Fenwick offline không cần thư viện. 3336 nộp bằng nghịch đảo Möbius 2 chiều (DP `(g1, g2)` dùng để đối chiếu). 3292 nộp bằng Aho–Corasick + nhận xét `f` không giảm (chọn mảnh dài nhất kết thúc tại mỗi vị trí). Ví dụ/ca biên tự dựng đều kiểm chứng bằng vét cạn (đã sửa các giá trị tính tay sai trước khi chạy); các "code sai" ở mục 13 đều có phản ví dụ chạy thật (nhiều cái tìm tự động bằng seed cố định ngay trong notebook). Làm tuần tự trong phiên (1 luồng, không dùng agent). Đã tự kiểm tra lại 20 file: 45–49 cell, 18.002–26.352 ký tự, đủ mục 1–20, chạy sạch trên kernel mới (mỗi notebook ≤ 11 s), không lỗi/stderr, cell TODO không bị gọi. Đã gộp main (đến đợt 62) trước khi ghi.
+- Số đếm sau đợt: DSA 2.006 (Easy 833 · Medium 764 · Hard 409), SQL 13, Shell 2 → README 2.021 = số file; Excel 2.006 "Đã có notebook" ở sheet DSA (2.021 tính cả "Ngoai DSA").
+- ID Hard tiếp theo (tính từ cuối đếm lên, tra Excel, chưa có): 3277, 3276, 3273, 3272, 3269, 3267, 3266, 3261, 3260, 3257, 3256, 3251, 3250, 3245, 3244, 3241, 3235, 3231, 3229, 3225. Còn 511 bài Hard chưa có.
