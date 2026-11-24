@@ -15,7 +15,7 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 1981 notebook** — DSA/Easy: 833 · DSA/Medium: 744 · DSA/Hard: 389 · SQL: 13 · Shell: 2
+**Tổng: 2001 notebook** — DSA/Easy: 833 · DSA/Medium: 764 · DSA/Hard: 389 · SQL: 13 · Shell: 2
 
 ## DSA — Easy — 833 bài
 
@@ -855,7 +855,7 @@ Shell/                            bài Shell (Bash)
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [4097_minimum_value_of_merged_integers.ipynb](DSA/Easy/4097_minimum_value_of_merged_integers.ipynb) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [4111_count_consistent_subarrays_i.ipynb](DSA/Easy/4111_count_consistent_subarrays_i.ipynb) |
 
-## DSA — Medium — 744 bài
+## DSA — Medium — 764 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -1584,6 +1584,26 @@ Shell/                            bài Shell (Bash)
 | 1430 | [Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree](https://leetcode.com/problems/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree/) | [1430_check_if_a_string_is_a_valid_sequence_from_root_to_leaves_path_in_a_binary_tree.ipynb](DSA/Medium/1430_check_if_a_string_is_a_valid_sequence_from_root_to_leaves_path_in_a_binary_tree.ipynb) |
 | 1432 | [Max Difference You Can Get From Changing an Integer](https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/) | [1432_max_difference_you_can_get_from_changing_an_integer.ipynb](DSA/Medium/1432_max_difference_you_can_get_from_changing_an_integer.ipynb) |
 | 1433 | [Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string/) | [1433_check_if_a_string_can_break_another_string.ipynb](DSA/Medium/1433_check_if_a_string_can_break_another_string.ipynb) |
+| 1438 | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | [1438_longest_continuous_subarray_with_absolute_diff_less_than_or_equal_to_limit.ipynb](DSA/Medium/1438_longest_continuous_subarray_with_absolute_diff_less_than_or_equal_to_limit.ipynb) |
+| 1441 | [Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/) | [1441_build_an_array_with_stack_operations.ipynb](DSA/Medium/1441_build_an_array_with_stack_operations.ipynb) |
+| 1442 | [Count Triplets That Can Form Two Arrays of Equal XOR](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/) | [1442_count_triplets_that_can_form_two_arrays_of_equal_xor.ipynb](DSA/Medium/1442_count_triplets_that_can_form_two_arrays_of_equal_xor.ipynb) |
+| 1443 | [Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/) | [1443_minimum_time_to_collect_all_apples_in_a_tree.ipynb](DSA/Medium/1443_minimum_time_to_collect_all_apples_in_a_tree.ipynb) |
+| 1447 | [Simplified Fractions](https://leetcode.com/problems/simplified-fractions/) | [1447_simplified_fractions.ipynb](DSA/Medium/1447_simplified_fractions.ipynb) |
+| 1448 | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | [1448_count_good_nodes_in_binary_tree.ipynb](DSA/Medium/1448_count_good_nodes_in_binary_tree.ipynb) |
+| 1451 | [Rearrange Words in a Sentence](https://leetcode.com/problems/rearrange-words-in-a-sentence/) | [1451_rearrange_words_in_a_sentence.ipynb](DSA/Medium/1451_rearrange_words_in_a_sentence.ipynb) |
+| 1452 | [People Whose List of Favorite Companies Is Not a Subset of Another List](https://leetcode.com/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list/) | [1452_people_whose_list_of_favorite_companies_is_not_a_subset_of_another_list.ipynb](DSA/Medium/1452_people_whose_list_of_favorite_companies_is_not_a_subset_of_another_list.ipynb) |
+| 1456 | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | [1456_maximum_number_of_vowels_in_a_substring_of_given_length.ipynb](DSA/Medium/1456_maximum_number_of_vowels_in_a_substring_of_given_length.ipynb) |
+| 1457 | [Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/) | [1457_pseudo_palindromic_paths_in_a_binary_tree.ipynb](DSA/Medium/1457_pseudo_palindromic_paths_in_a_binary_tree.ipynb) |
+| 1461 | [Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/) | [1461_check_if_a_string_contains_all_binary_codes_of_size_k.ipynb](DSA/Medium/1461_check_if_a_string_contains_all_binary_codes_of_size_k.ipynb) |
+| 1462 | [Course Schedule IV](https://leetcode.com/problems/course-schedule-iv/) | [1462_course_schedule_iv.ipynb](DSA/Medium/1462_course_schedule_iv.ipynb) |
+| 1465 | [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/) | [1465_maximum_area_of_a_piece_of_cake_after_horizontal_and_vertical_cuts.ipynb](DSA/Medium/1465_maximum_area_of_a_piece_of_cake_after_horizontal_and_vertical_cuts.ipynb) |
+| 1466 | [Reorder Routes to Make All Paths Lead to the City Zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | [1466_reorder_routes_to_make_all_paths_lead_to_the_city_zero.ipynb](DSA/Medium/1466_reorder_routes_to_make_all_paths_lead_to_the_city_zero.ipynb) |
+| 1471 | [The k Strongest Values in an Array](https://leetcode.com/problems/the-k-strongest-values-in-an-array/) | [1471_the_k_strongest_values_in_an_array.ipynb](DSA/Medium/1471_the_k_strongest_values_in_an_array.ipynb) |
+| 1472 | [Design Browser History](https://leetcode.com/problems/design-browser-history/) | [1472_design_browser_history.ipynb](DSA/Medium/1472_design_browser_history.ipynb) |
+| 1476 | [Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/) | [1476_subrectangle_queries.ipynb](DSA/Medium/1476_subrectangle_queries.ipynb) |
+| 1477 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/) | [1477_find_two_non_overlapping_sub_arrays_each_with_target_sum.ipynb](DSA/Medium/1477_find_two_non_overlapping_sub_arrays_each_with_target_sum.ipynb) |
+| 1481 | [Least Number of Unique Integers after K Removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/) | [1481_least_number_of_unique_integers_after_k_removals.ipynb](DSA/Medium/1481_least_number_of_unique_integers_after_k_removals.ipynb) |
+| 1482 | [Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | [1482_minimum_number_of_days_to_make_m_bouquets.ipynb](DSA/Medium/1482_minimum_number_of_days_to_make_m_bouquets.ipynb) |
 | 4044 | [Count Good Cyclic Rotations](https://leetcode.com/problems/count-good-cyclic-rotations/) | [4044_count_good_cyclic_rotations.ipynb](DSA/Medium/4044_count_good_cyclic_rotations.ipynb) |
 | 4045 | [Count Robot Groups](https://leetcode.com/problems/count-robot-groups/) | [4045_count_robot_groups.ipynb](DSA/Medium/4045_count_robot_groups.ipynb) |
 | 4049 | [Count Values With Equally Spaced Occurrences II](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-ii/) | [4049_count_values_with_equally_spaced_occurrences_ii.ipynb](DSA/Medium/4049_count_values_with_equally_spaced_occurrences_ii.ipynb) |
