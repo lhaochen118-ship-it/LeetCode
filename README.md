@@ -15,7 +15,7 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 1921 notebook** — DSA/Easy: 833 · DSA/Medium: 704 · DSA/Hard: 369 · SQL: 13 · Shell: 2
+**Tổng: 1941 notebook** — DSA/Easy: 833 · DSA/Medium: 724 · DSA/Hard: 369 · SQL: 13 · Shell: 2
 
 ## DSA — Easy — 833 bài
 
@@ -855,7 +855,7 @@ Shell/                            bài Shell (Bash)
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [4097_minimum_value_of_merged_integers.ipynb](DSA/Easy/4097_minimum_value_of_merged_integers.ipynb) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [4111_count_consistent_subarrays_i.ipynb](DSA/Easy/4111_count_consistent_subarrays_i.ipynb) |
 
-## DSA — Medium — 704 bài
+## DSA — Medium — 724 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -1544,6 +1544,26 @@ Shell/                            bài Shell (Bash)
 | 1338 | [Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/) | [1338_reduce_array_size_to_the_half.ipynb](DSA/Medium/1338_reduce_array_size_to_the_half.ipynb) |
 | 1339 | [Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/) | [1339_maximum_product_of_splitted_binary_tree.ipynb](DSA/Medium/1339_maximum_product_of_splitted_binary_tree.ipynb) |
 | 1343 | [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | [1343_number_of_sub_arrays_of_size_k_and_average_greater_than_or_equal_to_threshold.ipynb](DSA/Medium/1343_number_of_sub_arrays_of_size_k_and_average_greater_than_or_equal_to_threshold.ipynb) |
+| 1344 | [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/) | [1344_angle_between_hands_of_a_clock.ipynb](DSA/Medium/1344_angle_between_hands_of_a_clock.ipynb) |
+| 1347 | [Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/) | [1347_minimum_number_of_steps_to_make_two_strings_anagram.ipynb](DSA/Medium/1347_minimum_number_of_steps_to_make_two_strings_anagram.ipynb) |
+| 1348 | [Tweet Counts Per Frequency](https://leetcode.com/problems/tweet-counts-per-frequency/) | [1348_tweet_counts_per_frequency.ipynb](DSA/Medium/1348_tweet_counts_per_frequency.ipynb) |
+| 1352 | [Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/) | [1352_product_of_the_last_k_numbers.ipynb](DSA/Medium/1352_product_of_the_last_k_numbers.ipynb) |
+| 1353 | [Maximum Number of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/) | [1353_maximum_number_of_events_that_can_be_attended.ipynb](DSA/Medium/1353_maximum_number_of_events_that_can_be_attended.ipynb) |
+| 1357 | [Apply Discount Every n Orders](https://leetcode.com/problems/apply-discount-every-n-orders/) | [1357_apply_discount_every_n_orders.ipynb](DSA/Medium/1357_apply_discount_every_n_orders.ipynb) |
+| 1358 | [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | [1358_number_of_substrings_containing_all_three_characters.ipynb](DSA/Medium/1358_number_of_substrings_containing_all_three_characters.ipynb) |
+| 1361 | [Validate Binary Tree Nodes](https://leetcode.com/problems/validate-binary-tree-nodes/) | [1361_validate_binary_tree_nodes.ipynb](DSA/Medium/1361_validate_binary_tree_nodes.ipynb) |
+| 1362 | [Closest Divisors](https://leetcode.com/problems/closest-divisors/) | [1362_closest_divisors.ipynb](DSA/Medium/1362_closest_divisors.ipynb) |
+| 1366 | [Rank Teams by Votes](https://leetcode.com/problems/rank-teams-by-votes/) | [1366_rank_teams_by_votes.ipynb](DSA/Medium/1366_rank_teams_by_votes.ipynb) |
+| 1367 | [Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/) | [1367_linked_list_in_binary_tree.ipynb](DSA/Medium/1367_linked_list_in_binary_tree.ipynb) |
+| 1371 | [Find the Longest Substring Containing Vowels in Even Counts](https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/) | [1371_find_the_longest_substring_containing_vowels_in_even_counts.ipynb](DSA/Medium/1371_find_the_longest_substring_containing_vowels_in_even_counts.ipynb) |
+| 1372 | [Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/) | [1372_longest_zigzag_path_in_a_binary_tree.ipynb](DSA/Medium/1372_longest_zigzag_path_in_a_binary_tree.ipynb) |
+| 1375 | [Number of Times Binary String Is Prefix-Aligned](https://leetcode.com/problems/number-of-times-binary-string-is-prefix-aligned/) | [1375_number_of_times_binary_string_is_prefix_aligned.ipynb](DSA/Medium/1375_number_of_times_binary_string_is_prefix_aligned.ipynb) |
+| 1376 | [Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/) | [1376_time_needed_to_inform_all_employees.ipynb](DSA/Medium/1376_time_needed_to_inform_all_employees.ipynb) |
+| 1381 | [Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/) | [1381_design_a_stack_with_increment_operation.ipynb](DSA/Medium/1381_design_a_stack_with_increment_operation.ipynb) |
+| 1382 | [Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/) | [1382_balance_a_binary_search_tree.ipynb](DSA/Medium/1382_balance_a_binary_search_tree.ipynb) |
+| 1386 | [Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/) | [1386_cinema_seat_allocation.ipynb](DSA/Medium/1386_cinema_seat_allocation.ipynb) |
+| 1387 | [Sort Integers by The Power Value](https://leetcode.com/problems/sort-integers-by-the-power-value/) | [1387_sort_integers_by_the_power_value.ipynb](DSA/Medium/1387_sort_integers_by_the_power_value.ipynb) |
+| 1390 | [Four Divisors](https://leetcode.com/problems/four-divisors/) | [1390_four_divisors.ipynb](DSA/Medium/1390_four_divisors.ipynb) |
 | 4044 | [Count Good Cyclic Rotations](https://leetcode.com/problems/count-good-cyclic-rotations/) | [4044_count_good_cyclic_rotations.ipynb](DSA/Medium/4044_count_good_cyclic_rotations.ipynb) |
 | 4045 | [Count Robot Groups](https://leetcode.com/problems/count-robot-groups/) | [4045_count_robot_groups.ipynb](DSA/Medium/4045_count_robot_groups.ipynb) |
 | 4049 | [Count Values With Equally Spaced Occurrences II](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-ii/) | [4049_count_values_with_equally_spaced_occurrences_ii.ipynb](DSA/Medium/4049_count_values_with_equally_spaced_occurrences_ii.ipynb) |

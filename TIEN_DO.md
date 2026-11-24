@@ -7,12 +7,12 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 ## Trạng thái hiện tại
 
 <!--STATUS-->
-- Cập nhật: 23/11/2026, sau đợt 59 (Medium)
+- Cập nhật: 24/11/2026, sau đợt 60 (Medium)
 - Easy: 833/833 — đã xong toàn bộ
-- Medium: 704/1958 — ID Medium tiếp theo: 1344, 1347, 1348, 1352, 1353, 1357, 1358, 1361, 1362, 1366, …
+- Medium: 724/1958 — ID Medium tiếp theo: 1391, 1395, 1396, 1400, 1401, 1404, 1405, 1409, 1410, 1414, …
 - Hard: 369/920 — làm từ cuối danh sách đếm lên; ID Hard tiếp theo: 3405, 3399, 3398, 3395, 3389, …
-- Tổng DSA: 1906/3711 (51,4%) — số bài DSA còn lại: 1805 (Medium 1254, Hard 551)
-- Ngoài DSA: SQL 13, Shell 2 — README: 1921 notebook
+- Tổng DSA: 1926/3711 (51,9%) — số bài DSA còn lại: 1785 (Medium 1234, Hard 551)
+- Ngoài DSA: SQL 13, Shell 2 — README: 1941 notebook
 <!--/STATUS-->
 
 ## Nhật ký các đợt
@@ -714,3 +714,12 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 - Ghi chú: Không có bài Premium; độ khó LeetCode trùng danh mục. Đề lấy từ LeetCode GraphQL. 1300: notebook coi đáp án có thể là 0 (ví dụ tự dựng `[5,5,5]`, target = 1 → 0, kiểm chứng bằng brute force) — đối chiếu lại đề gốc. 1311: một số đồ thị test tự dựng, kiểm chứng bằng Floyd–Warshall. Bài cây (1302, 1305, 1315, 1325, 1339) tự dựng TreeNode + hàm dựng cây từ mảng level-order. Test bằng hàm kiểm tra hợp lệ: 1324, 1329. Mọi ví dụ ngoài đề đều kiểm chứng bằng brute force. Chạy 1 agent tại một thời điểm, 2 lượt × 10 bài. Đã tự kiểm tra lại 20 file: 65–75 cell, 24.405–35.327 ký tự, đủ mục 1–20, chạy sạch trên kernel mới, không lỗi/stderr, cell TODO không bị gọi. Đã gộp main (đến Đợt Hard 17) trước khi ghi.
 - Số đếm sau đợt: DSA 1.906 (Easy 833 · Medium 704 · Hard 369), SQL 13, Shell 2 → README 1.921 = số file; Excel 1.906 "Đã có notebook" ở sheet DSA (1.921 tính cả "Ngoai DSA").
 - ID Medium tiếp theo (tra Excel, chưa có): 1344, 1347, 1348, 1352, 1353, 1357, 1358, 1361, 1362, 1366, 1367, 1371, 1372, 1375, 1376, 1381, 1382, 1386, 1387, 1390. Còn 1.254 bài Medium chưa có.
+
+### Đợt 60 (Medium, tính từ đầu danh sách) — 24/11/2026
+
+- Đã xong (Medium): 1344, 1347, 1348, 1352, 1353, 1357, 1358, 1361, 1362, 1366, 1367, 1371, 1372, 1375, 1376, 1381, 1382, 1386, 1387, 1390
+- Lỗi: không có (1357 lỗi assert ở lần chạy đầu do giá trị mong đợi tính tay sai trong test; đã sửa giá trị test, lời giải không đổi, chạy lại ĐẠT)
+- Bỏ qua: không có (đã pull main và kiểm tra trước khi làm và ngay trước khi chép: các ID chưa có file ở bất kỳ thư mục nào, chưa có trong Excel/TIEN_DO)
+- Ghi chú: Không có bài Premium; độ khó LeetCode trùng danh mục. Đề lấy từ LeetCode GraphQL. Bài thiết kế (bộ chạy chuỗi lệnh giả lập): 1348, 1352, 1357, 1381. 1357 so số thực với Fraction (sai số 1e-5); 1344 kiểm tra hết 720 input so với Fraction. 1376: 2 ví dụ bổ sung lấy từ phiên bản cũ của đề (kết quả 21 và 3), kiểm chứng bằng brute force — đối chiếu lại đề gốc. Nhiều đáp án nên test bằng hàm kiểm tra hợp lệ: 1362, 1382 (inorder giữ nguyên + cân bằng tại mọi nút; có thêm DSW). 1353 có phản ví dụ chạy thật cho tham lam sai. Bài cây tự dựng TreeNode/ListNode: 1361, 1367, 1372, 1382. Chạy 1 agent tại một thời điểm, 2 lượt × 10 bài (lượt 1 bị gián đoạn do hết giới hạn usage, chạy tiếp sau khi reset). Đã tự kiểm tra lại 20 file: 67–75 cell, 23.885–36.683 ký tự, đủ mục 1–20, chạy sạch trên kernel mới, không lỗi/stderr, cell TODO không bị gọi. Đã gộp main trước khi ghi.
+- Số đếm sau đợt: DSA 1.926 (Easy 833 · Medium 724 · Hard 369), SQL 13, Shell 2 → README 1.941 = số file; Excel 1.926 "Đã có notebook" ở sheet DSA (1.941 tính cả "Ngoai DSA").
+- ID Medium tiếp theo (tra Excel, chưa có): 1391, 1395, 1396, 1400, 1401, 1404, 1405, 1409, 1410, 1414, 1415, 1418, 1419, 1423, 1424, 1428, 1429, 1430, 1432, 1433. Còn 1.234 bài Medium chưa có.
