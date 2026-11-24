@@ -7,12 +7,12 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 ## Trạng thái hiện tại
 
 <!--STATUS-->
-- Cập nhật: 24/11/2026, sau đợt 60 (Medium)
+- Cập nhật: 24/11/2026, sau đợt 61 (Medium)
 - Easy: 833/833 — đã xong toàn bộ
-- Medium: 724/1958 — ID Medium tiếp theo: 1391, 1395, 1396, 1400, 1401, 1404, 1405, 1409, 1410, 1414, …
+- Medium: 744/1958 — ID Medium tiếp theo: 1438, 1441, 1442, 1443, 1447, 1448, 1451, 1452, 1456, 1457, …
 - Hard: 369/920 — làm từ cuối danh sách đếm lên; ID Hard tiếp theo: 3405, 3399, 3398, 3395, 3389, …
-- Tổng DSA: 1926/3711 (51,9%) — số bài DSA còn lại: 1785 (Medium 1234, Hard 551)
-- Ngoài DSA: SQL 13, Shell 2 — README: 1941 notebook
+- Tổng DSA: 1946/3711 (52,4%) — số bài DSA còn lại: 1765 (Medium 1214, Hard 551)
+- Ngoài DSA: SQL 13, Shell 2 — README: 1961 notebook
 <!--/STATUS-->
 
 ## Nhật ký các đợt
@@ -723,3 +723,12 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 - Ghi chú: Không có bài Premium; độ khó LeetCode trùng danh mục. Đề lấy từ LeetCode GraphQL. Bài thiết kế (bộ chạy chuỗi lệnh giả lập): 1348, 1352, 1357, 1381. 1357 so số thực với Fraction (sai số 1e-5); 1344 kiểm tra hết 720 input so với Fraction. 1376: 2 ví dụ bổ sung lấy từ phiên bản cũ của đề (kết quả 21 và 3), kiểm chứng bằng brute force — đối chiếu lại đề gốc. Nhiều đáp án nên test bằng hàm kiểm tra hợp lệ: 1362, 1382 (inorder giữ nguyên + cân bằng tại mọi nút; có thêm DSW). 1353 có phản ví dụ chạy thật cho tham lam sai. Bài cây tự dựng TreeNode/ListNode: 1361, 1367, 1372, 1382. Chạy 1 agent tại một thời điểm, 2 lượt × 10 bài (lượt 1 bị gián đoạn do hết giới hạn usage, chạy tiếp sau khi reset). Đã tự kiểm tra lại 20 file: 67–75 cell, 23.885–36.683 ký tự, đủ mục 1–20, chạy sạch trên kernel mới, không lỗi/stderr, cell TODO không bị gọi. Đã gộp main trước khi ghi.
 - Số đếm sau đợt: DSA 1.926 (Easy 833 · Medium 724 · Hard 369), SQL 13, Shell 2 → README 1.941 = số file; Excel 1.926 "Đã có notebook" ở sheet DSA (1.941 tính cả "Ngoai DSA").
 - ID Medium tiếp theo (tra Excel, chưa có): 1391, 1395, 1396, 1400, 1401, 1404, 1405, 1409, 1410, 1414, 1415, 1418, 1419, 1423, 1424, 1428, 1429, 1430, 1432, 1433. Còn 1.234 bài Medium chưa có.
+
+### Đợt 61 (Medium, tính từ đầu danh sách) — 24/11/2026
+
+- Đã xong (Medium): 1391, 1395, 1396, 1400, 1401, 1404, 1405, 1409, 1410, 1414, 1415, 1418, 1419, 1423, 1424, 1428, 1429, 1430, 1432, 1433
+- Lỗi: không có
+- Bỏ qua: không có (đã pull main và kiểm tra trước khi làm và ngay trước khi chép: các ID chưa có file ở bất kỳ thư mục nào, chưa có trong Excel/TIEN_DO)
+- Ghi chú: Bài Premium (đề lấy từ doocs, chữ ký đã đối chiếu lời giải Python của doocs; đối chiếu lại nếu có tài khoản Premium): 1428 (`leftMostColumnWithOne(self, binaryMatrix)`, lớp BinaryMatrix giả lập có đếm và giới hạn 1000 lần gọi `get`), 1429 (`FirstUnique(nums)` / `showFirstUnique()` / `add(value)`, bộ chạy chuỗi lệnh giả lập), 1430 (`isValidSequence(self, root, arr)`). Bài thiết kế khác: 1396 (bộ chạy lệnh giả lập, số thực so với sai số 1e-5). 1410: ví dụ tự dựng `"&amp;gt;"` → `"&gt;"` (đối chiếu chéo giữa các cách giải) — đối chiếu lại đề gốc. Nhiều đáp án nên test bằng hàm kiểm tra hợp lệ: 1400 (phép dựng palindrome; công thức kiểm chứng bằng brute force mọi chuỗi độ dài ≤ 6 trên {a,b,c}), 1405 (`is_happy` + so độ dài với DP/brute force). Không bài nào lệch độ khó. Đề lấy từ LeetCode GraphQL (bài Premium lấy từ doocs). Chạy 1 agent tại một thời điểm, 2 lượt × 10 bài. Đã tự kiểm tra lại 20 file: 57–75 cell, 24.938–41.861 ký tự, đủ mục 1–20, chạy sạch trên kernel mới, không lỗi/stderr, cell TODO không bị gọi. Đã gộp main trước khi ghi.
+- Số đếm sau đợt: DSA 1.946 (Easy 833 · Medium 744 · Hard 369), SQL 13, Shell 2 → README 1.961 = số file; Excel 1.946 "Đã có notebook" ở sheet DSA (1.961 tính cả "Ngoai DSA").
+- ID Medium tiếp theo (tra Excel, chưa có): 1438, 1441, 1442, 1443, 1447, 1448, 1451, 1452, 1456, 1457, 1461, 1462, 1465, 1466, 1471, 1472, 1476, 1477, 1481, 1482. Còn 1.214 bài Medium chưa có.

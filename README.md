@@ -15,7 +15,7 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 1941 notebook** — DSA/Easy: 833 · DSA/Medium: 724 · DSA/Hard: 369 · SQL: 13 · Shell: 2
+**Tổng: 1961 notebook** — DSA/Easy: 833 · DSA/Medium: 744 · DSA/Hard: 369 · SQL: 13 · Shell: 2
 
 ## DSA — Easy — 833 bài
 
@@ -855,7 +855,7 @@ Shell/                            bài Shell (Bash)
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [4097_minimum_value_of_merged_integers.ipynb](DSA/Easy/4097_minimum_value_of_merged_integers.ipynb) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [4111_count_consistent_subarrays_i.ipynb](DSA/Easy/4111_count_consistent_subarrays_i.ipynb) |
 
-## DSA — Medium — 724 bài
+## DSA — Medium — 744 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -1564,6 +1564,26 @@ Shell/                            bài Shell (Bash)
 | 1386 | [Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation/) | [1386_cinema_seat_allocation.ipynb](DSA/Medium/1386_cinema_seat_allocation.ipynb) |
 | 1387 | [Sort Integers by The Power Value](https://leetcode.com/problems/sort-integers-by-the-power-value/) | [1387_sort_integers_by_the_power_value.ipynb](DSA/Medium/1387_sort_integers_by_the_power_value.ipynb) |
 | 1390 | [Four Divisors](https://leetcode.com/problems/four-divisors/) | [1390_four_divisors.ipynb](DSA/Medium/1390_four_divisors.ipynb) |
+| 1391 | [Check if There is a Valid Path in a Grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/) | [1391_check_if_there_is_a_valid_path_in_a_grid.ipynb](DSA/Medium/1391_check_if_there_is_a_valid_path_in_a_grid.ipynb) |
+| 1395 | [Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/) | [1395_count_number_of_teams.ipynb](DSA/Medium/1395_count_number_of_teams.ipynb) |
+| 1396 | [Design Underground System](https://leetcode.com/problems/design-underground-system/) | [1396_design_underground_system.ipynb](DSA/Medium/1396_design_underground_system.ipynb) |
+| 1400 | [Construct K Palindrome Strings](https://leetcode.com/problems/construct-k-palindrome-strings/) | [1400_construct_k_palindrome_strings.ipynb](DSA/Medium/1400_construct_k_palindrome_strings.ipynb) |
+| 1401 | [Circle and Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping/) | [1401_circle_and_rectangle_overlapping.ipynb](DSA/Medium/1401_circle_and_rectangle_overlapping.ipynb) |
+| 1404 | [Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | [1404_number_of_steps_to_reduce_a_number_in_binary_representation_to_one.ipynb](DSA/Medium/1404_number_of_steps_to_reduce_a_number_in_binary_representation_to_one.ipynb) |
+| 1405 | [Longest Happy String](https://leetcode.com/problems/longest-happy-string/) | [1405_longest_happy_string.ipynb](DSA/Medium/1405_longest_happy_string.ipynb) |
+| 1409 | [Queries on a Permutation With Key](https://leetcode.com/problems/queries-on-a-permutation-with-key/) | [1409_queries_on_a_permutation_with_key.ipynb](DSA/Medium/1409_queries_on_a_permutation_with_key.ipynb) |
+| 1410 | [HTML Entity Parser](https://leetcode.com/problems/html-entity-parser/) | [1410_html_entity_parser.ipynb](DSA/Medium/1410_html_entity_parser.ipynb) |
+| 1414 | [Find the Minimum Number of Fibonacci Numbers Whose Sum Is K](https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/) | [1414_find_the_minimum_number_of_fibonacci_numbers_whose_sum_is_k.ipynb](DSA/Medium/1414_find_the_minimum_number_of_fibonacci_numbers_whose_sum_is_k.ipynb) |
+| 1415 | [The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | [1415_the_k_th_lexicographical_string_of_all_happy_strings_of_length_n.ipynb](DSA/Medium/1415_the_k_th_lexicographical_string_of_all_happy_strings_of_length_n.ipynb) |
+| 1418 | [Display Table of Food Orders in a Restaurant](https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant/) | [1418_display_table_of_food_orders_in_a_restaurant.ipynb](DSA/Medium/1418_display_table_of_food_orders_in_a_restaurant.ipynb) |
+| 1419 | [Minimum Number of Frogs Croaking](https://leetcode.com/problems/minimum-number-of-frogs-croaking/) | [1419_minimum_number_of_frogs_croaking.ipynb](DSA/Medium/1419_minimum_number_of_frogs_croaking.ipynb) |
+| 1423 | [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | [1423_maximum_points_you_can_obtain_from_cards.ipynb](DSA/Medium/1423_maximum_points_you_can_obtain_from_cards.ipynb) |
+| 1424 | [Diagonal Traverse II](https://leetcode.com/problems/diagonal-traverse-ii/) | [1424_diagonal_traverse_ii.ipynb](DSA/Medium/1424_diagonal_traverse_ii.ipynb) |
+| 1428 | [Leftmost Column with at Least a One](https://leetcode.com/problems/leftmost-column-with-at-least-a-one/) | [1428_leftmost_column_with_at_least_a_one.ipynb](DSA/Medium/1428_leftmost_column_with_at_least_a_one.ipynb) |
+| 1429 | [First Unique Number](https://leetcode.com/problems/first-unique-number/) | [1429_first_unique_number.ipynb](DSA/Medium/1429_first_unique_number.ipynb) |
+| 1430 | [Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree](https://leetcode.com/problems/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree/) | [1430_check_if_a_string_is_a_valid_sequence_from_root_to_leaves_path_in_a_binary_tree.ipynb](DSA/Medium/1430_check_if_a_string_is_a_valid_sequence_from_root_to_leaves_path_in_a_binary_tree.ipynb) |
+| 1432 | [Max Difference You Can Get From Changing an Integer](https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/) | [1432_max_difference_you_can_get_from_changing_an_integer.ipynb](DSA/Medium/1432_max_difference_you_can_get_from_changing_an_integer.ipynb) |
+| 1433 | [Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string/) | [1433_check_if_a_string_can_break_another_string.ipynb](DSA/Medium/1433_check_if_a_string_can_break_another_string.ipynb) |
 | 4044 | [Count Good Cyclic Rotations](https://leetcode.com/problems/count-good-cyclic-rotations/) | [4044_count_good_cyclic_rotations.ipynb](DSA/Medium/4044_count_good_cyclic_rotations.ipynb) |
 | 4045 | [Count Robot Groups](https://leetcode.com/problems/count-robot-groups/) | [4045_count_robot_groups.ipynb](DSA/Medium/4045_count_robot_groups.ipynb) |
 | 4049 | [Count Values With Equally Spaced Occurrences II](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-ii/) | [4049_count_values_with_equally_spaced_occurrences_ii.ipynb](DSA/Medium/4049_count_values_with_equally_spaced_occurrences_ii.ipynb) |
