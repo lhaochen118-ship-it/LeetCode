@@ -7,12 +7,12 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 ## Trạng thái hiện tại
 
 <!--STATUS-->
-- Cập nhật: 24/11/2026, sau đợt 61 (Medium)
+- Cập nhật: 24/11/2026, sau Đợt Hard 18
 - Easy: 833/833 — đã xong toàn bộ
 - Medium: 744/1958 — ID Medium tiếp theo: 1438, 1441, 1442, 1443, 1447, 1448, 1451, 1452, 1456, 1457, …
-- Hard: 369/920 — làm từ cuối danh sách đếm lên; ID Hard tiếp theo: 3405, 3399, 3398, 3395, 3389, …
-- Tổng DSA: 1946/3711 (52,4%) — số bài DSA còn lại: 1765 (Medium 1214, Hard 551)
-- Ngoài DSA: SQL 13, Shell 2 — README: 1961 notebook
+- Hard: 389/920 — làm từ cuối danh sách đếm lên; ID Hard tiếp theo: 3337, 3336, 3333, 3329, 3327, …
+- Tổng DSA: 1966/3711 (53,0%) — số bài DSA còn lại: 1745 (Medium 1214, Hard 531)
+- Ngoài DSA: SQL 13, Shell 2 — README: 1981 notebook
 <!--/STATUS-->
 
 ## Nhật ký các đợt
@@ -732,3 +732,12 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 - Ghi chú: Bài Premium (đề lấy từ doocs, chữ ký đã đối chiếu lời giải Python của doocs; đối chiếu lại nếu có tài khoản Premium): 1428 (`leftMostColumnWithOne(self, binaryMatrix)`, lớp BinaryMatrix giả lập có đếm và giới hạn 1000 lần gọi `get`), 1429 (`FirstUnique(nums)` / `showFirstUnique()` / `add(value)`, bộ chạy chuỗi lệnh giả lập), 1430 (`isValidSequence(self, root, arr)`). Bài thiết kế khác: 1396 (bộ chạy lệnh giả lập, số thực so với sai số 1e-5). 1410: ví dụ tự dựng `"&amp;gt;"` → `"&gt;"` (đối chiếu chéo giữa các cách giải) — đối chiếu lại đề gốc. Nhiều đáp án nên test bằng hàm kiểm tra hợp lệ: 1400 (phép dựng palindrome; công thức kiểm chứng bằng brute force mọi chuỗi độ dài ≤ 6 trên {a,b,c}), 1405 (`is_happy` + so độ dài với DP/brute force). Không bài nào lệch độ khó. Đề lấy từ LeetCode GraphQL (bài Premium lấy từ doocs). Chạy 1 agent tại một thời điểm, 2 lượt × 10 bài. Đã tự kiểm tra lại 20 file: 57–75 cell, 24.938–41.861 ký tự, đủ mục 1–20, chạy sạch trên kernel mới, không lỗi/stderr, cell TODO không bị gọi. Đã gộp main trước khi ghi.
 - Số đếm sau đợt: DSA 1.946 (Easy 833 · Medium 744 · Hard 369), SQL 13, Shell 2 → README 1.961 = số file; Excel 1.946 "Đã có notebook" ở sheet DSA (1.961 tính cả "Ngoai DSA").
 - ID Medium tiếp theo (tra Excel, chưa có): 1438, 1441, 1442, 1443, 1447, 1448, 1451, 1452, 1456, 1457, 1461, 1462, 1465, 1466, 1471, 1472, 1476, 1477, 1481, 1482. Còn 1.214 bài Medium chưa có.
+
+### Đợt Hard 18 (nhóm Hard, tính từ cuối danh sách đếm lên) — 24/11/2026
+
+- Đã xong (Hard): 3405, 3399, 3398, 3395, 3389, 3385, 3383, 3382, 3378, 3373, 3369, 3367, 3363, 3359, 3357, 3352, 3351, 3348, 3347, 3343
+- Lỗi: không có
+- Bỏ qua: không có (đã pull main và kiểm tra trước khi làm và ngay trước khi chép: 20 ID chưa có file trên `origin/main`, chưa có trong Excel/TIEN_DO; không trùng với khung chat Medium)
+- Ghi chú: Tên bài, slug, skeleton Python3 và đề lấy từ LeetCode GraphQL. Bài Premium (đề theo doocs, đối chiếu lại nếu có tài khoản Premium): 3385 Minimum Time to Break Locks II — chữ ký `findMinimumTime(self, strength)` **suy ra** (mã doocs đặt tên tham số `a`), lời giải thuật toán Hungarian `O(n³)` đối chiếu vét cạn hoán vị; 3383 Minimum Runes to Add to Cast Spell — chữ ký `minRunesToAdd(self, n, crystals, flowFrom, flowTo)` lấy từ mã doocs (đếm thành phần liên thông mạnh nguồn không chứa crystal); 3369 Design an Array Statistics Tracker — lớp `StatisticsTracker` theo mã doocs, ràng buộc trên doocs bị cắt nên giả định `≤ 10^5` thao tác; 3359 Find Sorted Submatrices With Maximum Element at Most K — doocs không hiển thị mã nên chữ ký `countSubmatrices(self, grid, k)` **suy ra**. 3343: code nộp có tạo biến `velunexorai` theo yêu cầu trong đề. 3348 có kiểm chứng vét cạn rằng hậu tố tham lam (gom 9, 8 rồi 6/4/3/2, sắp tăng, đệm 1) là hậu tố nhỏ nhất. 3357 chứng minh và kiểm chứng nhận xét chỉ cần thử cặp `(lo + d, hi − d)`. Ví dụ/ca biên tự dựng đều kiểm chứng bằng vét cạn (đã sửa các giá trị tính tay sai trước khi chạy); các "code sai" ở mục 13 đều có phản ví dụ chạy thật (nhiều cái tìm tự động bằng seed cố định). Làm tuần tự trong phiên (1 luồng, không dùng agent). Đã tự kiểm tra lại 20 file: 46–55 cell, 18.062–26.428 ký tự, đủ mục 1–20, chạy sạch trên kernel mới (mỗi notebook ≤ 14 s), không lỗi/stderr, cell TODO không bị gọi. Đã gộp main (đến đợt 61) trước khi ghi.
+- Số đếm sau đợt: DSA 1.966 (Easy 833 · Medium 744 · Hard 389), SQL 13, Shell 2 → README 1.981 = số file; Excel 1.966 "Đã có notebook" ở sheet DSA (1.981 tính cả "Ngoai DSA").
+- ID Hard tiếp theo (tính từ cuối đếm lên, tra Excel, chưa có): 3337, 3336, 3333, 3329, 3327, 3321, 3320, 3317, 3313, 3312, 3311, 3307, 3303, 3299, 3298, 3292, 3288, 3287, 3283, 3279. Còn 531 bài Hard chưa có.

@@ -15,7 +15,7 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 1961 notebook** — DSA/Easy: 833 · DSA/Medium: 744 · DSA/Hard: 369 · SQL: 13 · Shell: 2
+**Tổng: 1981 notebook** — DSA/Easy: 833 · DSA/Medium: 744 · DSA/Hard: 389 · SQL: 13 · Shell: 2
 
 ## DSA — Easy — 833 bài
 
@@ -1604,7 +1604,7 @@ Shell/                            bài Shell (Bash)
 | 4112 | [Maximize Score After Zeroing Subtrees](https://leetcode.com/problems/maximize-score-after-zeroing-subtrees/) | [4112_maximize_score_after_zeroing_subtrees.ipynb](DSA/Medium/4112_maximize_score_after_zeroing_subtrees.ipynb) |
 | 4113 | [Game of Divisible Sums](https://leetcode.com/problems/game-of-divisible-sums/) | [4113_game_of_divisible_sums.ipynb](DSA/Medium/4113_game_of_divisible_sums.ipynb) |
 
-## DSA — Hard — 369 bài
+## DSA — Hard — 389 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -1777,6 +1777,26 @@ Shell/                            bài Shell (Bash)
 | 0857 | [Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/) | [0857_minimum_cost_to_hire_k_workers.ipynb](DSA/Hard/0857_minimum_cost_to_hire_k_workers.ipynb) |
 | 0862 | [Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/) | [0862_shortest_subarray_with_sum_at_least_k.ipynb](DSA/Hard/0862_shortest_subarray_with_sum_at_least_k.ipynb) |
 | 1136 | [Parallel Courses](https://leetcode.com/problems/parallel-courses/) | [1136_parallel_courses.ipynb](DSA/Hard/1136_parallel_courses.ipynb) |
+| 3343 | [Count Number of Balanced Permutations](https://leetcode.com/problems/count-number-of-balanced-permutations/) | [3343_count_number_of_balanced_permutations.ipynb](DSA/Hard/3343_count_number_of_balanced_permutations.ipynb) |
+| 3347 | [Maximum Frequency of an Element After Performing Operations II](https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-ii/) | [3347_maximum_frequency_of_an_element_after_performing_operations_ii.ipynb](DSA/Hard/3347_maximum_frequency_of_an_element_after_performing_operations_ii.ipynb) |
+| 3348 | [Smallest Divisible Digit Product II](https://leetcode.com/problems/smallest-divisible-digit-product-ii/) | [3348_smallest_divisible_digit_product_ii.ipynb](DSA/Hard/3348_smallest_divisible_digit_product_ii.ipynb) |
+| 3351 | [Sum of Good Subsequences](https://leetcode.com/problems/sum-of-good-subsequences/) | [3351_sum_of_good_subsequences.ipynb](DSA/Hard/3351_sum_of_good_subsequences.ipynb) |
+| 3352 | [Count K-Reducible Numbers Less Than N](https://leetcode.com/problems/count-k-reducible-numbers-less-than-n/) | [3352_count_k_reducible_numbers_less_than_n.ipynb](DSA/Hard/3352_count_k_reducible_numbers_less_than_n.ipynb) |
+| 3357 | [Minimize the Maximum Adjacent Element Difference](https://leetcode.com/problems/minimize-the-maximum-adjacent-element-difference/) | [3357_minimize_the_maximum_adjacent_element_difference.ipynb](DSA/Hard/3357_minimize_the_maximum_adjacent_element_difference.ipynb) |
+| 3359 | [Find Sorted Submatrices With Maximum Element at Most K](https://leetcode.com/problems/find-sorted-submatrices-with-maximum-element-at-most-k/) | [3359_find_sorted_submatrices_with_maximum_element_at_most_k.ipynb](DSA/Hard/3359_find_sorted_submatrices_with_maximum_element_at_most_k.ipynb) |
+| 3363 | [Find the Maximum Number of Fruits Collected](https://leetcode.com/problems/find-the-maximum-number-of-fruits-collected/) | [3363_find_the_maximum_number_of_fruits_collected.ipynb](DSA/Hard/3363_find_the_maximum_number_of_fruits_collected.ipynb) |
+| 3367 | [Maximize Sum of Weights after Edge Removals](https://leetcode.com/problems/maximize-sum-of-weights-after-edge-removals/) | [3367_maximize_sum_of_weights_after_edge_removals.ipynb](DSA/Hard/3367_maximize_sum_of_weights_after_edge_removals.ipynb) |
+| 3369 | [Design an Array Statistics Tracker ](https://leetcode.com/problems/design-an-array-statistics-tracker/) | [3369_design_an_array_statistics_tracker.ipynb](DSA/Hard/3369_design_an_array_statistics_tracker.ipynb) |
+| 3373 | [Maximize the Number of Target Nodes After Connecting Trees II](https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii/) | [3373_maximize_the_number_of_target_nodes_after_connecting_trees_ii.ipynb](DSA/Hard/3373_maximize_the_number_of_target_nodes_after_connecting_trees_ii.ipynb) |
+| 3378 | [Count Connected Components in LCM Graph](https://leetcode.com/problems/count-connected-components-in-lcm-graph/) | [3378_count_connected_components_in_lcm_graph.ipynb](DSA/Hard/3378_count_connected_components_in_lcm_graph.ipynb) |
+| 3382 | [Maximum Area Rectangle With Point Constraints II](https://leetcode.com/problems/maximum-area-rectangle-with-point-constraints-ii/) | [3382_maximum_area_rectangle_with_point_constraints_ii.ipynb](DSA/Hard/3382_maximum_area_rectangle_with_point_constraints_ii.ipynb) |
+| 3383 | [Minimum Runes to Add to Cast Spell](https://leetcode.com/problems/minimum-runes-to-add-to-cast-spell/) | [3383_minimum_runes_to_add_to_cast_spell.ipynb](DSA/Hard/3383_minimum_runes_to_add_to_cast_spell.ipynb) |
+| 3385 | [Minimum Time to Break Locks II](https://leetcode.com/problems/minimum-time-to-break-locks-ii/) | [3385_minimum_time_to_break_locks_ii.ipynb](DSA/Hard/3385_minimum_time_to_break_locks_ii.ipynb) |
+| 3389 | [Minimum Operations to Make Character Frequencies Equal](https://leetcode.com/problems/minimum-operations-to-make-character-frequencies-equal/) | [3389_minimum_operations_to_make_character_frequencies_equal.ipynb](DSA/Hard/3389_minimum_operations_to_make_character_frequencies_equal.ipynb) |
+| 3395 | [Subsequences with a Unique Middle Mode I](https://leetcode.com/problems/subsequences-with-a-unique-middle-mode-i/) | [3395_subsequences_with_a_unique_middle_mode_i.ipynb](DSA/Hard/3395_subsequences_with_a_unique_middle_mode_i.ipynb) |
+| 3398 | [Smallest Substring With Identical Characters I](https://leetcode.com/problems/smallest-substring-with-identical-characters-i/) | [3398_smallest_substring_with_identical_characters_i.ipynb](DSA/Hard/3398_smallest_substring_with_identical_characters_i.ipynb) |
+| 3399 | [Smallest Substring With Identical Characters II](https://leetcode.com/problems/smallest-substring-with-identical-characters-ii/) | [3399_smallest_substring_with_identical_characters_ii.ipynb](DSA/Hard/3399_smallest_substring_with_identical_characters_ii.ipynb) |
+| 3405 | [Count the Number of Arrays with K Matching Adjacent Elements](https://leetcode.com/problems/count-the-number-of-arrays-with-k-matching-adjacent-elements/) | [3405_count_the_number_of_arrays_with_k_matching_adjacent_elements.ipynb](DSA/Hard/3405_count_the_number_of_arrays_with_k_matching_adjacent_elements.ipynb) |
 | 3406 | [Find the Lexicographically Largest String From the Box II](https://leetcode.com/problems/find-the-lexicographically-largest-string-from-the-box-ii/) | [3406_find_the_lexicographically_largest_string_from_the_box_ii.ipynb](DSA/Hard/3406_find_the_lexicographically_largest_string_from_the_box_ii.ipynb) |
 | 3410 | [Maximize Subarray Sum After Removing All Occurrences of One Element](https://leetcode.com/problems/maximize-subarray-sum-after-removing-all-occurrences-of-one-element/) | [3410_maximize_subarray_sum_after_removing_all_occurrences_of_one_element.ipynb](DSA/Hard/3410_maximize_subarray_sum_after_removing_all_occurrences_of_one_element.ipynb) |
 | 3414 | [Maximum Score of Non-overlapping Intervals](https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals/) | [3414_maximum_score_of_non_overlapping_intervals.ipynb](DSA/Hard/3414_maximum_score_of_non_overlapping_intervals.ipynb) |
