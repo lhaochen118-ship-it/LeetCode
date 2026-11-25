@@ -15,7 +15,7 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 2081 notebook** — DSA/Easy: 833 · DSA/Medium: 784 · DSA/Hard: 449 · SQL: 13 · Shell: 2
+**Tổng: 2101 notebook** — DSA/Easy: 833 · DSA/Medium: 804 · DSA/Hard: 449 · SQL: 13 · Shell: 2
 
 ## DSA — Easy — 833 bài
 
@@ -855,7 +855,7 @@ Shell/                            bài Shell (Bash)
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [4097_minimum_value_of_merged_integers.ipynb](DSA/Easy/4097_minimum_value_of_merged_integers.ipynb) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [4111_count_consistent_subarrays_i.ipynb](DSA/Easy/4111_count_consistent_subarrays_i.ipynb) |
 
-## DSA — Medium — 784 bài
+## DSA — Medium — 804 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -1624,6 +1624,26 @@ Shell/                            bài Shell (Bash)
 | 1522 | [Diameter of N-Ary Tree](https://leetcode.com/problems/diameter-of-n-ary-tree/) | [1522_diameter_of_n_ary_tree.ipynb](DSA/Medium/1522_diameter_of_n_ary_tree.ipynb) |
 | 1524 | [Number of Sub-arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) | [1524_number_of_sub_arrays_with_odd_sum.ipynb](DSA/Medium/1524_number_of_sub_arrays_with_odd_sum.ipynb) |
 | 1525 | [Number of Good Ways to Split a String](https://leetcode.com/problems/number-of-good-ways-to-split-a-string/) | [1525_number_of_good_ways_to_split_a_string.ipynb](DSA/Medium/1525_number_of_good_ways_to_split_a_string.ipynb) |
+| 1529 | [Minimum Suffix Flips](https://leetcode.com/problems/minimum-suffix-flips/) | [1529_minimum_suffix_flips.ipynb](DSA/Medium/1529_minimum_suffix_flips.ipynb) |
+| 1530 | [Number of Good Leaf Nodes Pairs](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/) | [1530_number_of_good_leaf_nodes_pairs.ipynb](DSA/Medium/1530_number_of_good_leaf_nodes_pairs.ipynb) |
+| 1533 | [Find the Index of the Large Integer](https://leetcode.com/problems/find-the-index-of-the-large-integer/) | [1533_find_the_index_of_the_large_integer.ipynb](DSA/Medium/1533_find_the_index_of_the_large_integer.ipynb) |
+| 1535 | [Find the Winner of an Array Game](https://leetcode.com/problems/find-the-winner-of-an-array-game/) | [1535_find_the_winner_of_an_array_game.ipynb](DSA/Medium/1535_find_the_winner_of_an_array_game.ipynb) |
+| 1536 | [Minimum Swaps to Arrange a Binary Grid](https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid/) | [1536_minimum_swaps_to_arrange_a_binary_grid.ipynb](DSA/Medium/1536_minimum_swaps_to_arrange_a_binary_grid.ipynb) |
+| 1538 | [Guess the Majority in a Hidden Array](https://leetcode.com/problems/guess-the-majority-in-a-hidden-array/) | [1538_guess_the_majority_in_a_hidden_array.ipynb](DSA/Medium/1538_guess_the_majority_in_a_hidden_array.ipynb) |
+| 1540 | [Can Convert String in K Moves](https://leetcode.com/problems/can-convert-string-in-k-moves/) | [1540_can_convert_string_in_k_moves.ipynb](DSA/Medium/1540_can_convert_string_in_k_moves.ipynb) |
+| 1541 | [Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) | [1541_minimum_insertions_to_balance_a_parentheses_string.ipynb](DSA/Medium/1541_minimum_insertions_to_balance_a_parentheses_string.ipynb) |
+| 1545 | [Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/) | [1545_find_kth_bit_in_nth_binary_string.ipynb](DSA/Medium/1545_find_kth_bit_in_nth_binary_string.ipynb) |
+| 1546 | [Maximum Number of Non-Overlapping Subarrays With Sum Equals Target](https://leetcode.com/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/) | [1546_maximum_number_of_non_overlapping_subarrays_with_sum_equals_target.ipynb](DSA/Medium/1546_maximum_number_of_non_overlapping_subarrays_with_sum_equals_target.ipynb) |
+| 1551 | [Minimum Operations to Make Array Equal](https://leetcode.com/problems/minimum-operations-to-make-array-equal/) | [1551_minimum_operations_to_make_array_equal.ipynb](DSA/Medium/1551_minimum_operations_to_make_array_equal.ipynb) |
+| 1552 | [Magnetic Force Between Two Balls](https://leetcode.com/problems/magnetic-force-between-two-balls/) | [1552_magnetic_force_between_two_balls.ipynb](DSA/Medium/1552_magnetic_force_between_two_balls.ipynb) |
+| 1554 | [Strings Differ by One Character](https://leetcode.com/problems/strings-differ-by-one-character/) | [1554_strings_differ_by_one_character.ipynb](DSA/Medium/1554_strings_differ_by_one_character.ipynb) |
+| 1557 | [Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/) | [1557_minimum_number_of_vertices_to_reach_all_nodes.ipynb](DSA/Medium/1557_minimum_number_of_vertices_to_reach_all_nodes.ipynb) |
+| 1558 | [Minimum Numbers of Function Calls to Make Target Array](https://leetcode.com/problems/minimum-numbers-of-function-calls-to-make-target-array/) | [1558_minimum_numbers_of_function_calls_to_make_target_array.ipynb](DSA/Medium/1558_minimum_numbers_of_function_calls_to_make_target_array.ipynb) |
+| 1559 | [Detect Cycles in 2D Grid](https://leetcode.com/problems/detect-cycles-in-2d-grid/) | [1559_detect_cycles_in_2d_grid.ipynb](DSA/Medium/1559_detect_cycles_in_2d_grid.ipynb) |
+| 1561 | [Maximum Number of Coins You Can Get](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/) | [1561_maximum_number_of_coins_you_can_get.ipynb](DSA/Medium/1561_maximum_number_of_coins_you_can_get.ipynb) |
+| 1562 | [Find Latest Group of Size M](https://leetcode.com/problems/find-latest-group-of-size-m/) | [1562_find_latest_group_of_size_m.ipynb](DSA/Medium/1562_find_latest_group_of_size_m.ipynb) |
+| 1564 | [Put Boxes Into the Warehouse I](https://leetcode.com/problems/put-boxes-into-the-warehouse-i/) | [1564_put_boxes_into_the_warehouse_i.ipynb](DSA/Medium/1564_put_boxes_into_the_warehouse_i.ipynb) |
+| 1567 | [Maximum Length of Subarray With Positive Product](https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product/) | [1567_maximum_length_of_subarray_with_positive_product.ipynb](DSA/Medium/1567_maximum_length_of_subarray_with_positive_product.ipynb) |
 | 4044 | [Count Good Cyclic Rotations](https://leetcode.com/problems/count-good-cyclic-rotations/) | [4044_count_good_cyclic_rotations.ipynb](DSA/Medium/4044_count_good_cyclic_rotations.ipynb) |
 | 4045 | [Count Robot Groups](https://leetcode.com/problems/count-robot-groups/) | [4045_count_robot_groups.ipynb](DSA/Medium/4045_count_robot_groups.ipynb) |
 | 4049 | [Count Values With Equally Spaced Occurrences II](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-ii/) | [4049_count_values_with_equally_spaced_occurrences_ii.ipynb](DSA/Medium/4049_count_values_with_equally_spaced_occurrences_ii.ipynb) |
