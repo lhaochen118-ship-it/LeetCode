@@ -7,12 +7,12 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 ## Trạng thái hiện tại
 
 <!--STATUS-->
-- Cập nhật: 24/11/2026, sau Đợt Hard 21
+- Cập nhật: 25/11/2026, sau đợt 63 (Medium)
 - Easy: 833/833 — đã xong toàn bộ
-- Medium: 764/1958 — ID Medium tiếp theo: 1485, 1487, 1488, 1490, 1492, 1493, 1497, 1498, 1500, 1503, …
+- Medium: 784/1958 — ID Medium tiếp theo: 1529, 1530, 1533, 1535, 1536, 1538, 1540, 1541, 1545, 1546, …
 - Hard: 449/920 — làm từ cuối danh sách đếm lên; ID Hard tiếp theo: 3117, 3116, 3113, 3108, 3104, …
-- Tổng DSA: 2046/3711 (55,1%) — số bài DSA còn lại: 1665 (Medium 1194, Hard 471)
-- Ngoài DSA: SQL 13, Shell 2 — README: 2061 notebook
+- Tổng DSA: 2066/3711 (55,7%) — số bài DSA còn lại: 1645 (Medium 1174, Hard 471)
+- Ngoài DSA: SQL 13, Shell 2 — README: 2081 notebook
 <!--/STATUS-->
 
 ## Nhật ký các đợt
@@ -777,3 +777,12 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 - Ghi chú: Tên bài, slug, skeleton Python3 và đề lấy từ LeetCode GraphQL. Bài Premium (đề, ví dụ, ràng buộc và chữ ký lấy từ doocs — đối chiếu lại nếu có tài khoản Premium): 3141 `maxHammingDistances(self, nums, m)`. 3213 nộp bằng Aho–Corasick + dictionary link (đối chiếu rolling hash theo độ dài); 3197 liệt kê 6 kiểu cắt guillotine (đối chiếu brute bộ ba hình chữ nhật và DP guillotine); 3165 segment tree 4 trạng thái biên (đối chiếu ma trận (max, +)); 3161 segment tree max + `bisect` (đối chiếu xử lý ngược thời gian DSU + Fenwick max); 3154 công thức `Σ C(j+1, 2^j − k)` (đối chiếu DFS có nhớ); 3139 duyệt đích `T ∈ [max, 2max]` (đối chiếu vét cạn trạng thái và điểm tới hạn). Ví dụ/ca biên tự dựng đều kiểm chứng bằng vét cạn (đã sửa các giá trị tính tay sai trước khi chạy); các "code sai" ở mục 13 đều có phản ví dụ chạy thật (một số tìm tự động bằng seed cố định ngay trong notebook; 3154 có thêm mục giải thích vì sao điều kiện "không xuống ở bậc 0" là thừa). Làm tuần tự trong phiên (1 luồng, không dùng agent). Đã tự kiểm tra lại 20 file: 45–51 cell, 18.803–28.326 ký tự, đủ mục 1–20, chạy sạch trên kernel mới, không lỗi/stderr, cell TODO không bị gọi. Đã gộp main trước khi ghi.
 - Số đếm sau đợt: DSA 2.046 (Easy 833 · Medium 764 · Hard 449), SQL 13, Shell 2 → README 2.061 = số file; Excel 2.046 "Đã có notebook" ở sheet DSA (2.061 tính cả "Ngoai DSA").
 - ID Hard tiếp theo (tính từ cuối đếm lên, tra Excel, chưa có): 3117, 3116, 3113, 3108, 3104, 3102, 3098, 3093, 3088, 3086, 3082, 3077, 3072, 3068, 3049, 3045, 3041, 3037, 3036, 3031. Còn 471 bài Hard chưa có.
+
+### Đợt 63 (Medium, tính từ đầu danh sách) — 25/11/2026
+
+- Đã xong (Medium): 1485, 1487, 1488, 1490, 1492, 1493, 1497, 1498, 1500, 1503, 1504, 1506, 1508, 1509, 1513, 1514, 1519, 1522, 1524, 1525
+- Lỗi: không có
+- Bỏ qua: không có (đã pull main và kiểm tra trước khi làm và ngay trước khi chép: các ID chưa có file ở bất kỳ thư mục nào, chưa có trong Excel/TIEN_DO)
+- Ghi chú: Bài Premium (đề lấy từ doocs, chữ ký đã đối chiếu lời giải Python của doocs; đối chiếu lại nếu có tài khoản Premium): 1485 (`copyRandomBinaryTree(self, root)`, lớp Node/NodeCopy), 1490 (`cloneTree(self, root)`), 1500 (`FileSharing(m)` / `join` / `leave` / `request`, bộ chạy lệnh giả lập), 1506 (`findRoot(self, tree)`, driver giả lập xáo trộn nút seed cố định), 1522 (`diameter(self, root)`). Bài clone kiểm tra bản sao không dùng chung nút/list nào với cây gốc (so `id()`). Ví dụ không có trong đề đã tải (kiểm chứng bằng brute force) — đối chiếu lại đề gốc: 1509 (`[6,6,0,1,1,4,6]` → 2), 1519 (ví dụ 4 tự dựng, cạnh ghi ngược chiều), 1525 (`"aaaaa"` → 4, `"acbadbaada"` → 2). Nhiều đáp án nên test bằng mô phỏng kiểm tra hợp lệ: 1487, 1488 (ca trả `[]` xác nhận bằng vét cạn). 1514 so số thực với sai số 1e-5; 1519 code nộp dùng DFS lặp. 1498 chạy ~15 giây do test brute force. Chạy 1 agent tại một thời điểm, 2 lượt × 10 bài (lượt 2 bị gián đoạn do hết giới hạn usage tuần, chạy tiếp sau khi reset). Đã tự kiểm tra lại 20 file: 58–71 cell, 21.092–40.778 ký tự (1509, 1513, 1524, 1525 dài 21–24 nghìn ký tự, trên mức tối thiểu 18.000), đủ mục 1–20, chạy sạch trên kernel mới, không lỗi/stderr, cell TODO không bị gọi. Đã gộp main (đến Đợt Hard 21) trước khi ghi.
+- Số đếm sau đợt: DSA 2.066 (Easy 833 · Medium 784 · Hard 449), SQL 13, Shell 2 → README 2.081 = số file; Excel 2.066 "Đã có notebook" ở sheet DSA (2.081 tính cả "Ngoai DSA").
+- ID Medium tiếp theo (tra Excel, chưa có): 1529, 1530, 1533, 1535, 1536, 1538, 1540, 1541, 1545, 1546, 1551, 1552, 1554, 1557, 1558, 1559, 1561, 1562, 1564, 1567. Còn 1.174 bài Medium chưa có.

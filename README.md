@@ -15,7 +15,7 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 2061 notebook** — DSA/Easy: 833 · DSA/Medium: 764 · DSA/Hard: 449 · SQL: 13 · Shell: 2
+**Tổng: 2081 notebook** — DSA/Easy: 833 · DSA/Medium: 784 · DSA/Hard: 449 · SQL: 13 · Shell: 2
 
 ## DSA — Easy — 833 bài
 
@@ -855,7 +855,7 @@ Shell/                            bài Shell (Bash)
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [4097_minimum_value_of_merged_integers.ipynb](DSA/Easy/4097_minimum_value_of_merged_integers.ipynb) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [4111_count_consistent_subarrays_i.ipynb](DSA/Easy/4111_count_consistent_subarrays_i.ipynb) |
 
-## DSA — Medium — 764 bài
+## DSA — Medium — 784 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -1604,6 +1604,26 @@ Shell/                            bài Shell (Bash)
 | 1477 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/) | [1477_find_two_non_overlapping_sub_arrays_each_with_target_sum.ipynb](DSA/Medium/1477_find_two_non_overlapping_sub_arrays_each_with_target_sum.ipynb) |
 | 1481 | [Least Number of Unique Integers after K Removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/) | [1481_least_number_of_unique_integers_after_k_removals.ipynb](DSA/Medium/1481_least_number_of_unique_integers_after_k_removals.ipynb) |
 | 1482 | [Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | [1482_minimum_number_of_days_to_make_m_bouquets.ipynb](DSA/Medium/1482_minimum_number_of_days_to_make_m_bouquets.ipynb) |
+| 1485 | [Clone Binary Tree With Random Pointer](https://leetcode.com/problems/clone-binary-tree-with-random-pointer/) | [1485_clone_binary_tree_with_random_pointer.ipynb](DSA/Medium/1485_clone_binary_tree_with_random_pointer.ipynb) |
+| 1487 | [Making File Names Unique](https://leetcode.com/problems/making-file-names-unique/) | [1487_making_file_names_unique.ipynb](DSA/Medium/1487_making_file_names_unique.ipynb) |
+| 1488 | [Avoid Flood in The City](https://leetcode.com/problems/avoid-flood-in-the-city/) | [1488_avoid_flood_in_the_city.ipynb](DSA/Medium/1488_avoid_flood_in_the_city.ipynb) |
+| 1490 | [Clone N-ary Tree](https://leetcode.com/problems/clone-n-ary-tree/) | [1490_clone_n_ary_tree.ipynb](DSA/Medium/1490_clone_n_ary_tree.ipynb) |
+| 1492 | [The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/) | [1492_the_kth_factor_of_n.ipynb](DSA/Medium/1492_the_kth_factor_of_n.ipynb) |
+| 1493 | [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/) | [1493_longest_subarray_of_1s_after_deleting_one_element.ipynb](DSA/Medium/1493_longest_subarray_of_1s_after_deleting_one_element.ipynb) |
+| 1497 | [Check If Array Pairs Are Divisible by k](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/) | [1497_check_if_array_pairs_are_divisible_by_k.ipynb](DSA/Medium/1497_check_if_array_pairs_are_divisible_by_k.ipynb) |
+| 1498 | [Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/) | [1498_number_of_subsequences_that_satisfy_the_given_sum_condition.ipynb](DSA/Medium/1498_number_of_subsequences_that_satisfy_the_given_sum_condition.ipynb) |
+| 1500 | [Design a File Sharing System](https://leetcode.com/problems/design-a-file-sharing-system/) | [1500_design_a_file_sharing_system.ipynb](DSA/Medium/1500_design_a_file_sharing_system.ipynb) |
+| 1503 | [Last Moment Before All Ants Fall Out of a Plank](https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/) | [1503_last_moment_before_all_ants_fall_out_of_a_plank.ipynb](DSA/Medium/1503_last_moment_before_all_ants_fall_out_of_a_plank.ipynb) |
+| 1504 | [Count Submatrices With All Ones](https://leetcode.com/problems/count-submatrices-with-all-ones/) | [1504_count_submatrices_with_all_ones.ipynb](DSA/Medium/1504_count_submatrices_with_all_ones.ipynb) |
+| 1506 | [Find Root of N-Ary Tree](https://leetcode.com/problems/find-root-of-n-ary-tree/) | [1506_find_root_of_n_ary_tree.ipynb](DSA/Medium/1506_find_root_of_n_ary_tree.ipynb) |
+| 1508 | [Range Sum of Sorted Subarray Sums](https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/) | [1508_range_sum_of_sorted_subarray_sums.ipynb](DSA/Medium/1508_range_sum_of_sorted_subarray_sums.ipynb) |
+| 1509 | [Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/) | [1509_minimum_difference_between_largest_and_smallest_value_in_three_moves.ipynb](DSA/Medium/1509_minimum_difference_between_largest_and_smallest_value_in_three_moves.ipynb) |
+| 1513 | [Number of Substrings With Only 1s](https://leetcode.com/problems/number-of-substrings-with-only-1s/) | [1513_number_of_substrings_with_only_1s.ipynb](DSA/Medium/1513_number_of_substrings_with_only_1s.ipynb) |
+| 1514 | [Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability/) | [1514_path_with_maximum_probability.ipynb](DSA/Medium/1514_path_with_maximum_probability.ipynb) |
+| 1519 | [Number of Nodes in the Sub-Tree With the Same Label](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/) | [1519_number_of_nodes_in_the_sub_tree_with_the_same_label.ipynb](DSA/Medium/1519_number_of_nodes_in_the_sub_tree_with_the_same_label.ipynb) |
+| 1522 | [Diameter of N-Ary Tree](https://leetcode.com/problems/diameter-of-n-ary-tree/) | [1522_diameter_of_n_ary_tree.ipynb](DSA/Medium/1522_diameter_of_n_ary_tree.ipynb) |
+| 1524 | [Number of Sub-arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/) | [1524_number_of_sub_arrays_with_odd_sum.ipynb](DSA/Medium/1524_number_of_sub_arrays_with_odd_sum.ipynb) |
+| 1525 | [Number of Good Ways to Split a String](https://leetcode.com/problems/number-of-good-ways-to-split-a-string/) | [1525_number_of_good_ways_to_split_a_string.ipynb](DSA/Medium/1525_number_of_good_ways_to_split_a_string.ipynb) |
 | 4044 | [Count Good Cyclic Rotations](https://leetcode.com/problems/count-good-cyclic-rotations/) | [4044_count_good_cyclic_rotations.ipynb](DSA/Medium/4044_count_good_cyclic_rotations.ipynb) |
 | 4045 | [Count Robot Groups](https://leetcode.com/problems/count-robot-groups/) | [4045_count_robot_groups.ipynb](DSA/Medium/4045_count_robot_groups.ipynb) |
 | 4049 | [Count Values With Equally Spaced Occurrences II](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-ii/) | [4049_count_values_with_equally_spaced_occurrences_ii.ipynb](DSA/Medium/4049_count_values_with_equally_spaced_occurrences_ii.ipynb) |
