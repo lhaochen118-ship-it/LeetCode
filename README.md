@@ -15,7 +15,7 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 2101 notebook** — DSA/Easy: 833 · DSA/Medium: 804 · DSA/Hard: 449 · SQL: 13 · Shell: 2
+**Tổng: 2121 notebook** — DSA/Easy: 833 · DSA/Medium: 824 · DSA/Hard: 449 · SQL: 13 · Shell: 2
 
 ## DSA — Easy — 833 bài
 
@@ -855,7 +855,7 @@ Shell/                            bài Shell (Bash)
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [4097_minimum_value_of_merged_integers.ipynb](DSA/Easy/4097_minimum_value_of_merged_integers.ipynb) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [4111_count_consistent_subarrays_i.ipynb](DSA/Easy/4111_count_consistent_subarrays_i.ipynb) |
 
-## DSA — Medium — 804 bài
+## DSA — Medium — 824 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -1644,6 +1644,26 @@ Shell/                            bài Shell (Bash)
 | 1562 | [Find Latest Group of Size M](https://leetcode.com/problems/find-latest-group-of-size-m/) | [1562_find_latest_group_of_size_m.ipynb](DSA/Medium/1562_find_latest_group_of_size_m.ipynb) |
 | 1564 | [Put Boxes Into the Warehouse I](https://leetcode.com/problems/put-boxes-into-the-warehouse-i/) | [1564_put_boxes_into_the_warehouse_i.ipynb](DSA/Medium/1564_put_boxes_into_the_warehouse_i.ipynb) |
 | 1567 | [Maximum Length of Subarray With Positive Product](https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product/) | [1567_maximum_length_of_subarray_with_positive_product.ipynb](DSA/Medium/1567_maximum_length_of_subarray_with_positive_product.ipynb) |
+| 1570 | [Dot Product of Two Sparse Vectors](https://leetcode.com/problems/dot-product-of-two-sparse-vectors/) | [1570_dot_product_of_two_sparse_vectors.ipynb](DSA/Medium/1570_dot_product_of_two_sparse_vectors.ipynb) |
+| 1573 | [Number of Ways to Split a String](https://leetcode.com/problems/number-of-ways-to-split-a-string/) | [1573_number_of_ways_to_split_a_string.ipynb](DSA/Medium/1573_number_of_ways_to_split_a_string.ipynb) |
+| 1574 | [Shortest Subarray to be Removed to Make Array Sorted](https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/) | [1574_shortest_subarray_to_be_removed_to_make_array_sorted.ipynb](DSA/Medium/1574_shortest_subarray_to_be_removed_to_make_array_sorted.ipynb) |
+| 1577 | [Number of Ways Where Square of Number Is Equal to Product of Two Numbers](https://leetcode.com/problems/number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/) | [1577_number_of_ways_where_square_of_number_is_equal_to_product_of_two_numbers.ipynb](DSA/Medium/1577_number_of_ways_where_square_of_number_is_equal_to_product_of_two_numbers.ipynb) |
+| 1578 | [Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) | [1578_minimum_time_to_make_rope_colorful.ipynb](DSA/Medium/1578_minimum_time_to_make_rope_colorful.ipynb) |
+| 1580 | [Put Boxes Into the Warehouse II](https://leetcode.com/problems/put-boxes-into-the-warehouse-ii/) | [1580_put_boxes_into_the_warehouse_ii.ipynb](DSA/Medium/1580_put_boxes_into_the_warehouse_ii.ipynb) |
+| 1583 | [Count Unhappy Friends](https://leetcode.com/problems/count-unhappy-friends/) | [1583_count_unhappy_friends.ipynb](DSA/Medium/1583_count_unhappy_friends.ipynb) |
+| 1584 | [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/) | [1584_min_cost_to_connect_all_points.ipynb](DSA/Medium/1584_min_cost_to_connect_all_points.ipynb) |
+| 1586 | [Binary Search Tree Iterator II](https://leetcode.com/problems/binary-search-tree-iterator-ii/) | [1586_binary_search_tree_iterator_ii.ipynb](DSA/Medium/1586_binary_search_tree_iterator_ii.ipynb) |
+| 1589 | [Maximum Sum Obtained of Any Permutation](https://leetcode.com/problems/maximum-sum-obtained-of-any-permutation/) | [1589_maximum_sum_obtained_of_any_permutation.ipynb](DSA/Medium/1589_maximum_sum_obtained_of_any_permutation.ipynb) |
+| 1590 | [Make Sum Divisible by P](https://leetcode.com/problems/make-sum-divisible-by-p/) | [1590_make_sum_divisible_by_p.ipynb](DSA/Medium/1590_make_sum_divisible_by_p.ipynb) |
+| 1593 | [Split a String Into the Max Number of Unique Substrings](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/) | [1593_split_a_string_into_the_max_number_of_unique_substrings.ipynb](DSA/Medium/1593_split_a_string_into_the_max_number_of_unique_substrings.ipynb) |
+| 1594 | [Maximum Non Negative Product in a Matrix](https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/) | [1594_maximum_non_negative_product_in_a_matrix.ipynb](DSA/Medium/1594_maximum_non_negative_product_in_a_matrix.ipynb) |
+| 1597 | [Build Binary Expression Tree From Infix Expression](https://leetcode.com/problems/build-binary-expression-tree-from-infix-expression/) | [1597_build_binary_expression_tree_from_infix_expression.ipynb](DSA/Medium/1597_build_binary_expression_tree_from_infix_expression.ipynb) |
+| 1599 | [Maximum Profit of Operating a Centennial Wheel](https://leetcode.com/problems/maximum-profit-of-operating-a-centennial-wheel/) | [1599_maximum_profit_of_operating_a_centennial_wheel.ipynb](DSA/Medium/1599_maximum_profit_of_operating_a_centennial_wheel.ipynb) |
+| 1600 | [Throne Inheritance](https://leetcode.com/problems/throne-inheritance/) | [1600_throne_inheritance.ipynb](DSA/Medium/1600_throne_inheritance.ipynb) |
+| 1602 | [Find Nearest Right Node in Binary Tree](https://leetcode.com/problems/find-nearest-right-node-in-binary-tree/) | [1602_find_nearest_right_node_in_binary_tree.ipynb](DSA/Medium/1602_find_nearest_right_node_in_binary_tree.ipynb) |
+| 1604 | [Alert Using Same Key-Card Three or More Times in a One Hour Period](https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/) | [1604_alert_using_same_key_card_three_or_more_times_in_a_one_hour_period.ipynb](DSA/Medium/1604_alert_using_same_key_card_three_or_more_times_in_a_one_hour_period.ipynb) |
+| 1605 | [Find Valid Matrix Given Row and Column Sums](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/) | [1605_find_valid_matrix_given_row_and_column_sums.ipynb](DSA/Medium/1605_find_valid_matrix_given_row_and_column_sums.ipynb) |
+| 1609 | [Even Odd Tree](https://leetcode.com/problems/even-odd-tree/) | [1609_even_odd_tree.ipynb](DSA/Medium/1609_even_odd_tree.ipynb) |
 | 4044 | [Count Good Cyclic Rotations](https://leetcode.com/problems/count-good-cyclic-rotations/) | [4044_count_good_cyclic_rotations.ipynb](DSA/Medium/4044_count_good_cyclic_rotations.ipynb) |
 | 4045 | [Count Robot Groups](https://leetcode.com/problems/count-robot-groups/) | [4045_count_robot_groups.ipynb](DSA/Medium/4045_count_robot_groups.ipynb) |
 | 4049 | [Count Values With Equally Spaced Occurrences II](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-ii/) | [4049_count_values_with_equally_spaced_occurrences_ii.ipynb](DSA/Medium/4049_count_values_with_equally_spaced_occurrences_ii.ipynb) |

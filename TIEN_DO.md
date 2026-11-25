@@ -7,12 +7,12 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 ## Trạng thái hiện tại
 
 <!--STATUS-->
-- Cập nhật: 25/11/2026, sau đợt 64 (Medium)
+- Cập nhật: 25/11/2026, sau đợt 65 (Medium)
 - Easy: 833/833 — đã xong toàn bộ
-- Medium: 804/1958 — ID Medium tiếp theo: 1570, 1573, 1574, 1577, 1578, 1580, 1583, 1584, 1586, 1589, …
+- Medium: 824/1958 — ID Medium tiếp theo: 1612, 1615, 1616, 1618, 1620, 1621, 1625, 1626, 1628, 1630, …
 - Hard: 449/920 — làm từ cuối danh sách đếm lên; ID Hard tiếp theo: 3117, 3116, 3113, 3108, 3104, …
-- Tổng DSA: 2086/3711 (56,2%) — số bài DSA còn lại: 1625 (Medium 1154, Hard 471)
-- Ngoài DSA: SQL 13, Shell 2 — README: 2101 notebook
+- Tổng DSA: 2106/3711 (56,8%) — số bài DSA còn lại: 1605 (Medium 1134, Hard 471)
+- Ngoài DSA: SQL 13, Shell 2 — README: 2121 notebook
 <!--/STATUS-->
 
 ## Nhật ký các đợt
@@ -795,3 +795,12 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 - Ghi chú: Bài Premium (đề lấy từ doocs, chữ ký đã đối chiếu lời giải Python của doocs; đối chiếu lại nếu có tài khoản Premium): 1533 (`getIndex(self, reader)`, ArrayReader giả lập compareSub/length, giới hạn 20 lần gọi), 1538 (`guessMajority(self, reader)`, ArrayReader giả lập query/length, giới hạn 2n; nhiều đáp án → test bằng hàm kiểm tra hợp lệ, hòa trả -1), 1554 (`differByOne(self, dict)`), 1564 (`maxBoxesInWarehouse(self, boxes, warehouse)`; hai ví dụ của LC 1580 trong bài tập 5 viết theo trí nhớ, đã khớp brute force — đối chiếu lại đề gốc). Ví dụ tự thêm (kiểm chứng bằng brute force/mô phỏng) — đối chiếu lại đề gốc: 1535, 1541, 1545, 1546 (mỗi bài 2 ví dụ). 1558: mô tả hàm `modify` trong đề gốc là hình ảnh, notebook viết lại bằng lời — đối chiếu lại đề gốc. 1557 thứ tự tùy ý → so sau sort + kiểm tra tính phủ. 1530 tự dựng TreeNode + build_tree. 1561 chạy ~9 giây do brute force. Chạy 1 agent tại một thời điểm, 2 lượt × 10 bài. Đã tự kiểm tra lại 20 file: 62–81 cell, 24.346–37.796 ký tự, đủ mục 1–20, chạy sạch trên kernel mới, không lỗi/stderr, cell TODO không bị gọi. Đã gộp main trước khi ghi.
 - Số đếm sau đợt: DSA 2.086 (Easy 833 · Medium 804 · Hard 449), SQL 13, Shell 2 → README 2.101 = số file; Excel 2.086 "Đã có notebook" ở sheet DSA (2.101 tính cả "Ngoai DSA").
 - ID Medium tiếp theo (tra Excel, chưa có): 1570, 1573, 1574, 1577, 1578, 1580, 1583, 1584, 1586, 1589, 1590, 1593, 1594, 1597, 1599, 1600, 1602, 1604, 1605, 1609. Còn 1.154 bài Medium chưa có.
+
+### Đợt 65 (Medium, tính từ đầu danh sách) — 25/11/2026
+
+- Đã xong (Medium): 1570, 1573, 1574, 1577, 1578, 1580, 1583, 1584, 1586, 1589, 1590, 1593, 1594, 1597, 1599, 1600, 1602, 1604, 1605, 1609
+- Lỗi: không có
+- Bỏ qua: không có (đã pull main và kiểm tra trước khi làm và ngay trước khi chép: các ID chưa có file ở bất kỳ thư mục nào, chưa có trong Excel/TIEN_DO)
+- Ghi chú: Bài Premium (đề lấy từ doocs; đối chiếu lại nếu có tài khoản Premium): 1570 (`SparseVector(nums)` / `dotProduct(vec)`), 1580 (`maxBoxesInWarehouse(self, boxes, warehouse)`), 1586 (`BSTIterator(root)` / `hasNext` / `next` / `hasPrev` / `prev`), 1602 (`findNearestRightNode(self, root, u)`), 1597 (xem dưới) — chữ ký đã đối chiếu lời giải Python của doocs. **1597: doocs không có code** → tên method `expTree(self, s)` lấy từ lời giải C++ công khai của walkccc/LeetCode, lớp `Node(val=" ", left, right)` viết theo hiểu biết — cần đối chiếu; LeetCode ghi Hard nhưng danh mục là Medium (lưu ở DSA/Medium, có chú thích ở cell đầu); test bằng hàm kiểm tra hợp lệ (inorder bỏ ngoặc, mỗi nút trong 2 con, giá trị Fraction, thay toán hạng ngẫu nhiên), có phản ví dụ chạy thật cho cây sai thứ tự ưu tiên/kết hợp. Bài thiết kế (bộ chạy chuỗi lệnh giả lập, đối chiếu brute force trên chuỗi lệnh ngẫu nhiên seed cố định): 1570, 1586, 1600. Nhiều đáp án nên test bằng hàm kiểm tra hợp lệ: 1580 (bài tập 5), 1605. 1583: 2 edge case tự dựng, kiểm chứng bằng brute force. Chạy 1 agent tại một thời điểm, 2 lượt × 10 bài (lượt 2 bị gián đoạn do hết giới hạn usage, chạy tiếp sau khi reset). Đã tự kiểm tra lại 20 file: 61–69 cell, 28.687–44.681 ký tự, đủ mục 1–20, chạy sạch trên kernel mới, không lỗi/stderr, cell TODO không bị gọi. Đã gộp main trước khi ghi.
+- Số đếm sau đợt: DSA 2.106 (Easy 833 · Medium 824 · Hard 449), SQL 13, Shell 2 → README 2.121 = số file; Excel 2.106 "Đã có notebook" ở sheet DSA (2.121 tính cả "Ngoai DSA").
+- ID Medium tiếp theo (tra Excel, chưa có): 1612, 1615, 1616, 1618, 1620, 1621, 1625, 1626, 1628, 1630, 1631, 1634, 1638, 1641, 1642, 1644, 1647, 1648, 1650, 1653. Còn 1.134 bài Medium chưa có. Đợt Medium tiếp theo: Đợt 66. (Phiên này dừng sau Đợt 65 theo yêu cầu.)
