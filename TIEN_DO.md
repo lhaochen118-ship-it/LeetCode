@@ -7,12 +7,13 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 ## Trạng thái hiện tại
 
 <!--STATUS-->
-- Cập nhật: 25/11/2026, sau đợt 65 (Medium)
+- Cập nhật: 27/11/2026, sau đợt 80 (Medium)
 - Easy: 833/833 — đã xong toàn bộ
-- Medium: 824/1958 — ID Medium tiếp theo: 1612, 1615, 1616, 1618, 1620, 1621, 1625, 1626, 1628, 1630, …
-- Hard: 449/920 — làm từ cuối danh sách đếm lên; ID Hard tiếp theo: 3117, 3116, 3113, 3108, 3104, …
-- Tổng DSA: 2106/3711 (56,8%) — số bài DSA còn lại: 1605 (Medium 1134, Hard 471)
-- Ngoài DSA: SQL 13, Shell 2 — README: 2121 notebook
+- Medium: 1124/1958 — ID Medium tiếp theo: 2244, 2245, 2249, 2250, 2256, 2257, 2260, 2261, 2265, 2266, …
+- Hard: 449/920 — làm sau khi hết Medium, theo ID tăng dần; ID Hard tiếp theo: 864, 871, 878, 879, 882, …
+- Tổng DSA: 2406/3711 (64,8%) — số bài DSA còn lại: 1305 (Medium 834, Hard 471)
+- Ngoài DSA: SQL 13, Shell 2 — README: 2421 notebook
+- Đề bài lấy từ bản doocs công khai (README_EN.md của github.com/doocs/leetcode).
 <!--/STATUS-->
 
 ## Nhật ký các đợt
@@ -930,3 +931,12 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 - Ghi chú: Đề lấy từ doocs (README_EN.md). Đợt này là batch 3, phần 4 (vị trí 261–280 trong danh sách Medium cố định). Bài Premium (đề lấy từ doocs, chữ ký đối chiếu lời giải Python của doocs; đối chiếu lại nếu có tài khoản Premium): 2168, 2174, 2184, 2189. Ví dụ tự dựng trong notebook đều kiểm chứng bằng brute force và có ghi "đối chiếu lại đề gốc". **Phiên này dừng sau đợt 79 theo yêu cầu.** Khối batch 3, phần 3 (ID Medium 2115–2155, 20 bài) CHƯA làm — phiên sau bắt đầu từ ID Medium tiếp theo ghi bên dưới (2115…), rồi tiếp từ 2242 trở đi. Đã có trên main: Medium liên tục 1612–2113, 2161–2241 (trừ các ID đã lọc). Đã tự kiểm tra lại 20 file: 55–71 cell, 22.843–30.769 ký tự, đủ mục 1–20, chạy sạch trên kernel mới, không lỗi/stderr, không cell chưa chạy. Đã gộp main trước khi ghi.
 - Số đếm sau đợt: DSA 2.386 (Easy 833 · Medium 1104 · Hard 449), SQL 13, Shell 2 → README 2.401 = số file; Excel 2.386 "Đã có notebook" ở sheet DSA (2.401 tính cả "Ngoai DSA").
 - ID Medium tiếp theo (tra Excel, chưa có trên main): 2115, 2116, 2120, 2121, 2125, 2126, 2128, 2130, 2131, 2134, 2135, 2137, 2139, 2140, 2145, 2146, 2149, 2150, 2152, 2155. Còn 854 bài Medium chưa có trên main.
+
+### Đợt 80 (Medium, tính từ đầu danh sách) — 27/11/2026
+
+- Đã xong (Medium): 2115, 2116, 2120, 2121, 2125, 2126, 2128, 2130, 2131, 2134, 2135, 2137, 2139, 2140, 2145, 2146, 2149, 2150, 2152, 2155
+- Lỗi: không có
+- Bỏ qua: không có (đã pull main và kiểm tra trước khi làm và ngay trước khi chép: các ID chưa có file ở bất kỳ thư mục nào, chưa có trong Excel/TIEN_DO)
+- Ghi chú: Đề lấy từ doocs (README_EN.md). Đợt này làm khối Medium 2115–2155 còn bỏ dở từ phiên trước. Bài Premium (đề lấy từ doocs, chữ ký đối chiếu lời giải Python của doocs; đối chiếu lại nếu có tài khoản Premium): 2128 (`removeOnes(self, grid)`), 2137 (`equalizeWater(self, buckets, loss)`), 2152 (`minimumLines(self, points)`). Ví dụ tự dựng (kiểm chứng bằng brute force) — đối chiếu lại đề gốc: 2131 (10 từ ["em","pe",…] → 14), 2137 (`[0,10]`, loss=50 → 10/3; `[7,7,7,8]`, loss=99 → 2108/301), 2140 (8 câu → 157), 2146 (`[[1,4,3],[2,1,1]]`, `[2,4]`, `[1,1]`, k=3 → `[[1,0],[0,1],[0,2]]`), 2152 (lưới 3x3 → 3). Một agent làm tuần tự cả đợt. Đã tự kiểm tra lại 20 file: 65–78 cell, 24.715–44.818 ký tự, đủ mục 1–20, chạy sạch trên kernel mới, không lỗi/stderr, không cell chưa chạy. Đã gộp main trước khi ghi.
+- Số đếm sau đợt: DSA 2.406 (Easy 833 · Medium 1124 · Hard 449), SQL 13, Shell 2 → README 2.421 = số file; Excel 2.406 "Đã có notebook" ở sheet DSA (2.421 tính cả "Ngoai DSA").
+- ID Medium tiếp theo (tra Excel, chưa có trên main): 2244, 2245, 2249, 2250, 2256, 2257, 2260, 2261, 2265, 2266, 2268, 2270, 2271, 2274, 2275, 2279, 2280, 2282, 2284, 2285. Còn 834 bài Medium, 471 bài Hard chưa có trên main.

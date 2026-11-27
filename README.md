@@ -15,7 +15,7 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 2401 notebook** — DSA/Easy: 833 · DSA/Medium: 1104 · DSA/Hard: 449 · SQL: 13 · Shell: 2
+**Tổng: 2421 notebook** — DSA/Easy: 833 · DSA/Medium: 1124 · DSA/Hard: 449 · SQL: 13 · Shell: 2
 
 ## DSA — Easy — 833 bài
 
@@ -855,7 +855,7 @@ Shell/                            bài Shell (Bash)
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [4097_minimum_value_of_merged_integers.ipynb](DSA/Easy/4097_minimum_value_of_merged_integers.ipynb) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [4111_count_consistent_subarrays_i.ipynb](DSA/Easy/4111_count_consistent_subarrays_i.ipynb) |
 
-## DSA — Medium — 1104 bài
+## DSA — Medium — 1124 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -1904,6 +1904,26 @@ Shell/                            bài Shell (Bash)
 | 2109 | [Adding Spaces to a String](https://leetcode.com/problems/adding-spaces-to-a-string/) | [2109_adding_spaces_to_a_string.ipynb](DSA/Medium/2109_adding_spaces_to_a_string.ipynb) |
 | 2110 | [Number of Smooth Descent Periods of a Stock](https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/) | [2110_number_of_smooth_descent_periods_of_a_stock.ipynb](DSA/Medium/2110_number_of_smooth_descent_periods_of_a_stock.ipynb) |
 | 2113 | [Elements in Array After Removing and Replacing Elements](https://leetcode.com/problems/elements-in-array-after-removing-and-replacing-elements/) | [2113_elements_in_array_after_removing_and_replacing_elements.ipynb](DSA/Medium/2113_elements_in_array_after_removing_and_replacing_elements.ipynb) |
+| 2115 | [Find All Possible Recipes from Given Supplies](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/) | [2115_find_all_possible_recipes_from_given_supplies.ipynb](DSA/Medium/2115_find_all_possible_recipes_from_given_supplies.ipynb) |
+| 2116 | [Check if a Parentheses String Can Be Valid](https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/) | [2116_check_if_a_parentheses_string_can_be_valid.ipynb](DSA/Medium/2116_check_if_a_parentheses_string_can_be_valid.ipynb) |
+| 2120 | [Execution of All Suffix Instructions Staying in a Grid](https://leetcode.com/problems/execution-of-all-suffix-instructions-staying-in-a-grid/) | [2120_execution_of_all_suffix_instructions_staying_in_a_grid.ipynb](DSA/Medium/2120_execution_of_all_suffix_instructions_staying_in_a_grid.ipynb) |
+| 2121 | [Intervals Between Identical Elements](https://leetcode.com/problems/intervals-between-identical-elements/) | [2121_intervals_between_identical_elements.ipynb](DSA/Medium/2121_intervals_between_identical_elements.ipynb) |
+| 2125 | [Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/) | [2125_number_of_laser_beams_in_a_bank.ipynb](DSA/Medium/2125_number_of_laser_beams_in_a_bank.ipynb) |
+| 2126 | [Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids/) | [2126_destroying_asteroids.ipynb](DSA/Medium/2126_destroying_asteroids.ipynb) |
+| 2128 | [Remove All Ones With Row and Column Flips](https://leetcode.com/problems/remove-all-ones-with-row-and-column-flips/) | [2128_remove_all_ones_with_row_and_column_flips.ipynb](DSA/Medium/2128_remove_all_ones_with_row_and_column_flips.ipynb) |
+| 2130 | [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | [2130_maximum_twin_sum_of_a_linked_list.ipynb](DSA/Medium/2130_maximum_twin_sum_of_a_linked_list.ipynb) |
+| 2131 | [Longest Palindrome by Concatenating Two Letter Words](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/) | [2131_longest_palindrome_by_concatenating_two_letter_words.ipynb](DSA/Medium/2131_longest_palindrome_by_concatenating_two_letter_words.ipynb) |
+| 2134 | [Minimum Swaps to Group All 1's Together II](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/) | [2134_minimum_swaps_to_group_all_1s_together_ii.ipynb](DSA/Medium/2134_minimum_swaps_to_group_all_1s_together_ii.ipynb) |
+| 2135 | [Count Words Obtained After Adding a Letter](https://leetcode.com/problems/count-words-obtained-after-adding-a-letter/) | [2135_count_words_obtained_after_adding_a_letter.ipynb](DSA/Medium/2135_count_words_obtained_after_adding_a_letter.ipynb) |
+| 2137 | [Pour Water Between Buckets to Make Water Levels Equal](https://leetcode.com/problems/pour-water-between-buckets-to-make-water-levels-equal/) | [2137_pour_water_between_buckets_to_make_water_levels_equal.ipynb](DSA/Medium/2137_pour_water_between_buckets_to_make_water_levels_equal.ipynb) |
+| 2139 | [Minimum Moves to Reach Target Score](https://leetcode.com/problems/minimum-moves-to-reach-target-score/) | [2139_minimum_moves_to_reach_target_score.ipynb](DSA/Medium/2139_minimum_moves_to_reach_target_score.ipynb) |
+| 2140 | [Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/) | [2140_solving_questions_with_brainpower.ipynb](DSA/Medium/2140_solving_questions_with_brainpower.ipynb) |
+| 2145 | [Count the Hidden Sequences](https://leetcode.com/problems/count-the-hidden-sequences/) | [2145_count_the_hidden_sequences.ipynb](DSA/Medium/2145_count_the_hidden_sequences.ipynb) |
+| 2146 | [K Highest Ranked Items Within a Price Range](https://leetcode.com/problems/k-highest-ranked-items-within-a-price-range/) | [2146_k_highest_ranked_items_within_a_price_range.ipynb](DSA/Medium/2146_k_highest_ranked_items_within_a_price_range.ipynb) |
+| 2149 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | [2149_rearrange_array_elements_by_sign.ipynb](DSA/Medium/2149_rearrange_array_elements_by_sign.ipynb) |
+| 2150 | [Find All Lonely Numbers in the Array](https://leetcode.com/problems/find-all-lonely-numbers-in-the-array/) | [2150_find_all_lonely_numbers_in_the_array.ipynb](DSA/Medium/2150_find_all_lonely_numbers_in_the_array.ipynb) |
+| 2152 | [Minimum Number of Lines to Cover Points](https://leetcode.com/problems/minimum-number-of-lines-to-cover-points/) | [2152_minimum_number_of_lines_to_cover_points.ipynb](DSA/Medium/2152_minimum_number_of_lines_to_cover_points.ipynb) |
+| 2155 | [All Divisions With the Highest Score of a Binary Array](https://leetcode.com/problems/all-divisions-with-the-highest-score-of-a-binary-array/) | [2155_all_divisions_with_the_highest_score_of_a_binary_array.ipynb](DSA/Medium/2155_all_divisions_with_the_highest_score_of_a_binary_array.ipynb) |
 | 2161 | [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/) | [2161_partition_array_according_to_given_pivot.ipynb](DSA/Medium/2161_partition_array_according_to_given_pivot.ipynb) |
 | 2162 | [Minimum Cost to Set Cooking Time](https://leetcode.com/problems/minimum-cost-to-set-cooking-time/) | [2162_minimum_cost_to_set_cooking_time.ipynb](DSA/Medium/2162_minimum_cost_to_set_cooking_time.ipynb) |
 | 2165 | [Smallest Value of the Rearranged Number](https://leetcode.com/problems/smallest-value-of-the-rearranged-number/) | [2165_smallest_value_of_the_rearranged_number.ipynb](DSA/Medium/2165_smallest_value_of_the_rearranged_number.ipynb) |
