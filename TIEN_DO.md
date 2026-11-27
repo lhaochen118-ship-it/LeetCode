@@ -912,3 +912,12 @@ Bài ghi ở dòng `- Lỗi:` (lỗi sau 2 lần thử) được tạm bỏ qua 
 - Ghi chú: Đề lấy từ doocs (README_EN.md). Đợt này là batch 3, phần 2 (vị trí 221–240 trong danh sách Medium cố định). Bài Premium (đề lấy từ doocs, chữ ký đối chiếu lời giải Python của doocs; đối chiếu lại nếu có tài khoản Premium): 2077, 2083, 2093, 2098, 2107, 2113. Ví dụ tự dựng trong notebook đều kiểm chứng bằng brute force và có ghi "đối chiếu lại đề gốc". Chạy song song nhiều agent theo batch. Đã tự kiểm tra lại 20 file: 48–77 cell, 22.107–32.639 ký tự, đủ mục 1–20, chạy sạch trên kernel mới, không lỗi/stderr, không cell chưa chạy. Đã gộp main trước khi ghi.
 - Số đếm sau đợt: DSA 2.346 (Easy 833 · Medium 1064 · Hard 449), SQL 13, Shell 2 → README 2.361 = số file; Excel 2.346 "Đã có notebook" ở sheet DSA (2.361 tính cả "Ngoai DSA").
 - ID Medium tiếp theo (tra Excel, chưa có trên main): 2038, 2039, 2043, 2044, 2046, 2048, 2049, 2052, 2054, 2055, 2058, 2059, 2061, 2063, 2064, 2067, 2069, 2070, 2074, 2075. Còn 894 bài Medium chưa có trên main.
+
+### Đợt 78 (Medium, tính từ đầu danh sách) — 27/11/2026
+
+- Đã xong (Medium): 2038, 2039, 2043, 2044, 2046, 2048, 2049, 2052, 2054, 2055, 2058, 2059, 2061, 2063, 2064, 2067, 2069, 2070, 2074, 2075
+- Lỗi: không có
+- Bỏ qua: không có (đã pull main và kiểm tra trước khi làm và ngay trước khi chép: các ID chưa có file ở bất kỳ thư mục nào, chưa có trong Excel/TIEN_DO)
+- Ghi chú: Đề lấy từ doocs (README_EN.md). Đợt này là batch 3, phần 1 (vị trí 201–220 trong danh sách Medium cố định). Bài Premium (đề lấy từ doocs, chữ ký đối chiếu lời giải Python của doocs; đối chiếu lại nếu có tài khoản Premium): 2046, 2052, 2061, 2067. Ví dụ tự dựng trong notebook đều kiểm chứng bằng brute force và có ghi "đối chiếu lại đề gốc". Chạy song song nhiều agent theo batch. Đã tự kiểm tra lại 20 file: 59–74 cell, 21.027–33.604 ký tự, đủ mục 1–20, chạy sạch trên kernel mới, không lỗi/stderr, không cell chưa chạy. Đã gộp main trước khi ghi.
+- Số đếm sau đợt: DSA 2.366 (Easy 833 · Medium 1084 · Hard 449), SQL 13, Shell 2 → README 2.381 = số file; Excel 2.366 "Đã có notebook" ở sheet DSA (2.381 tính cả "Ngoai DSA").
+- ID Medium tiếp theo (tra Excel, chưa có trên main): 2115, 2116, 2120, 2121, 2125, 2126, 2128, 2130, 2131, 2134, 2135, 2137, 2139, 2140, 2145, 2146, 2149, 2150, 2152, 2155. Còn 874 bài Medium chưa có trên main.

@@ -15,7 +15,7 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 2361 notebook** — DSA/Easy: 833 · DSA/Medium: 1064 · DSA/Hard: 449 · SQL: 13 · Shell: 2
+**Tổng: 2381 notebook** — DSA/Easy: 833 · DSA/Medium: 1084 · DSA/Hard: 449 · SQL: 13 · Shell: 2
 
 ## DSA — Easy — 833 bài
 
@@ -855,7 +855,7 @@ Shell/                            bài Shell (Bash)
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [4097_minimum_value_of_merged_integers.ipynb](DSA/Easy/4097_minimum_value_of_merged_integers.ipynb) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [4111_count_consistent_subarrays_i.ipynb](DSA/Easy/4111_count_consistent_subarrays_i.ipynb) |
 
-## DSA — Medium — 1064 bài
+## DSA — Medium — 1084 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -1864,6 +1864,26 @@ Shell/                            bài Shell (Bash)
 | 2033 | [Minimum Operations to Make a Uni-Value Grid](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/) | [2033_minimum_operations_to_make_a_uni_value_grid.ipynb](DSA/Medium/2033_minimum_operations_to_make_a_uni_value_grid.ipynb) |
 | 2034 | [Stock Price Fluctuation](https://leetcode.com/problems/stock-price-fluctuation/) | [2034_stock_price_fluctuation.ipynb](DSA/Medium/2034_stock_price_fluctuation.ipynb) |
 | 2036 | [Maximum Alternating Subarray Sum](https://leetcode.com/problems/maximum-alternating-subarray-sum/) | [2036_maximum_alternating_subarray_sum.ipynb](DSA/Medium/2036_maximum_alternating_subarray_sum.ipynb) |
+| 2038 | [Remove Colored Pieces if Both Neighbors are the Same Color](https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/) | [2038_remove_colored_pieces_if_both_neighbors_are_the_same_color.ipynb](DSA/Medium/2038_remove_colored_pieces_if_both_neighbors_are_the_same_color.ipynb) |
+| 2039 | [The Time When the Network Becomes Idle](https://leetcode.com/problems/the-time-when-the-network-becomes-idle/) | [2039_the_time_when_the_network_becomes_idle.ipynb](DSA/Medium/2039_the_time_when_the_network_becomes_idle.ipynb) |
+| 2043 | [Simple Bank System](https://leetcode.com/problems/simple-bank-system/) | [2043_simple_bank_system.ipynb](DSA/Medium/2043_simple_bank_system.ipynb) |
+| 2044 | [Count Number of Maximum Bitwise-OR Subsets](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/) | [2044_count_number_of_maximum_bitwise_or_subsets.ipynb](DSA/Medium/2044_count_number_of_maximum_bitwise_or_subsets.ipynb) |
+| 2046 | [Sort Linked List Already Sorted Using Absolute Values](https://leetcode.com/problems/sort-linked-list-already-sorted-using-absolute-values/) | [2046_sort_linked_list_already_sorted_using_absolute_values.ipynb](DSA/Medium/2046_sort_linked_list_already_sorted_using_absolute_values.ipynb) |
+| 2048 | [Next Greater Numerically Balanced Number](https://leetcode.com/problems/next-greater-numerically-balanced-number/) | [2048_next_greater_numerically_balanced_number.ipynb](DSA/Medium/2048_next_greater_numerically_balanced_number.ipynb) |
+| 2049 | [Count Nodes With the Highest Score](https://leetcode.com/problems/count-nodes-with-the-highest-score/) | [2049_count_nodes_with_the_highest_score.ipynb](DSA/Medium/2049_count_nodes_with_the_highest_score.ipynb) |
+| 2052 | [Minimum Cost to Separate Sentence Into Rows](https://leetcode.com/problems/minimum-cost-to-separate-sentence-into-rows/) | [2052_minimum_cost_to_separate_sentence_into_rows.ipynb](DSA/Medium/2052_minimum_cost_to_separate_sentence_into_rows.ipynb) |
+| 2054 | [Two Best Non-Overlapping Events](https://leetcode.com/problems/two-best-non-overlapping-events/) | [2054_two_best_non_overlapping_events.ipynb](DSA/Medium/2054_two_best_non_overlapping_events.ipynb) |
+| 2055 | [Plates Between Candles](https://leetcode.com/problems/plates-between-candles/) | [2055_plates_between_candles.ipynb](DSA/Medium/2055_plates_between_candles.ipynb) |
+| 2058 | [Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | [2058_find_the_minimum_and_maximum_number_of_nodes_between_critical_points.ipynb](DSA/Medium/2058_find_the_minimum_and_maximum_number_of_nodes_between_critical_points.ipynb) |
+| 2059 | [Minimum Operations to Convert Number](https://leetcode.com/problems/minimum-operations-to-convert-number/) | [2059_minimum_operations_to_convert_number.ipynb](DSA/Medium/2059_minimum_operations_to_convert_number.ipynb) |
+| 2061 | [Number of Spaces Cleaning Robot Cleaned](https://leetcode.com/problems/number-of-spaces-cleaning-robot-cleaned/) | [2061_number_of_spaces_cleaning_robot_cleaned.ipynb](DSA/Medium/2061_number_of_spaces_cleaning_robot_cleaned.ipynb) |
+| 2063 | [Vowels of All Substrings](https://leetcode.com/problems/vowels-of-all-substrings/) | [2063_vowels_of_all_substrings.ipynb](DSA/Medium/2063_vowels_of_all_substrings.ipynb) |
+| 2064 | [Minimized Maximum of Products Distributed to Any Store](https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/) | [2064_minimized_maximum_of_products_distributed_to_any_store.ipynb](DSA/Medium/2064_minimized_maximum_of_products_distributed_to_any_store.ipynb) |
+| 2067 | [Number of Equal Count Substrings](https://leetcode.com/problems/number-of-equal-count-substrings/) | [2067_number_of_equal_count_substrings.ipynb](DSA/Medium/2067_number_of_equal_count_substrings.ipynb) |
+| 2069 | [Walking Robot Simulation II](https://leetcode.com/problems/walking-robot-simulation-ii/) | [2069_walking_robot_simulation_ii.ipynb](DSA/Medium/2069_walking_robot_simulation_ii.ipynb) |
+| 2070 | [Most Beautiful Item for Each Query](https://leetcode.com/problems/most-beautiful-item-for-each-query/) | [2070_most_beautiful_item_for_each_query.ipynb](DSA/Medium/2070_most_beautiful_item_for_each_query.ipynb) |
+| 2074 | [Reverse Nodes in Even Length Groups](https://leetcode.com/problems/reverse-nodes-in-even-length-groups/) | [2074_reverse_nodes_in_even_length_groups.ipynb](DSA/Medium/2074_reverse_nodes_in_even_length_groups.ipynb) |
+| 2075 | [Decode the Slanted Ciphertext](https://leetcode.com/problems/decode-the-slanted-ciphertext/) | [2075_decode_the_slanted_ciphertext.ipynb](DSA/Medium/2075_decode_the_slanted_ciphertext.ipynb) |
 | 2077 | [Paths in Maze That Lead to Same Room](https://leetcode.com/problems/paths-in-maze-that-lead-to-same-room/) | [2077_paths_in_maze_that_lead_to_same_room.ipynb](DSA/Medium/2077_paths_in_maze_that_lead_to_same_room.ipynb) |
 | 2079 | [Watering Plants](https://leetcode.com/problems/watering-plants/) | [2079_watering_plants.ipynb](DSA/Medium/2079_watering_plants.ipynb) |
 | 2080 | [Range Frequency Queries](https://leetcode.com/problems/range-frequency-queries/) | [2080_range_frequency_queries.ipynb](DSA/Medium/2080_range_frequency_queries.ipynb) |
