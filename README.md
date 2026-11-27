@@ -15,7 +15,7 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 2161 notebook** — DSA/Easy: 833 · DSA/Medium: 864 · DSA/Hard: 449 · SQL: 13 · Shell: 2
+**Tổng: 2181 notebook** — DSA/Easy: 833 · DSA/Medium: 884 · DSA/Hard: 449 · SQL: 13 · Shell: 2
 
 ## DSA — Easy — 833 bài
 
@@ -855,7 +855,7 @@ Shell/                            bài Shell (Bash)
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [4097_minimum_value_of_merged_integers.ipynb](DSA/Easy/4097_minimum_value_of_merged_integers.ipynb) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [4111_count_consistent_subarrays_i.ipynb](DSA/Easy/4111_count_consistent_subarrays_i.ipynb) |
 
-## DSA — Medium — 864 bài
+## DSA — Medium — 884 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -1704,6 +1704,26 @@ Shell/                            bài Shell (Bash)
 | 1689 | [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/) | [1689_partitioning_into_minimum_number_of_deci_binary_numbers.ipynb](DSA/Medium/1689_partitioning_into_minimum_number_of_deci_binary_numbers.ipynb) |
 | 1690 | [Stone Game VII](https://leetcode.com/problems/stone-game-vii/) | [1690_stone_game_vii.ipynb](DSA/Medium/1690_stone_game_vii.ipynb) |
 | 1695 | [Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/) | [1695_maximum_erasure_value.ipynb](DSA/Medium/1695_maximum_erasure_value.ipynb) |
+| 1696 | [Jump Game VI](https://leetcode.com/problems/jump-game-vi/) | [1696_jump_game_vi.ipynb](DSA/Medium/1696_jump_game_vi.ipynb) |
+| 1698 | [Number of Distinct Substrings in a String](https://leetcode.com/problems/number-of-distinct-substrings-in-a-string/) | [1698_number_of_distinct_substrings_in_a_string.ipynb](DSA/Medium/1698_number_of_distinct_substrings_in_a_string.ipynb) |
+| 1701 | [Average Waiting Time](https://leetcode.com/problems/average-waiting-time/) | [1701_average_waiting_time.ipynb](DSA/Medium/1701_average_waiting_time.ipynb) |
+| 1702 | [Maximum Binary String After Change](https://leetcode.com/problems/maximum-binary-string-after-change/) | [1702_maximum_binary_string_after_change.ipynb](DSA/Medium/1702_maximum_binary_string_after_change.ipynb) |
+| 1705 | [Maximum Number of Eaten Apples](https://leetcode.com/problems/maximum-number-of-eaten-apples/) | [1705_maximum_number_of_eaten_apples.ipynb](DSA/Medium/1705_maximum_number_of_eaten_apples.ipynb) |
+| 1706 | [Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/) | [1706_where_will_the_ball_fall.ipynb](DSA/Medium/1706_where_will_the_ball_fall.ipynb) |
+| 1711 | [Count Good Meals](https://leetcode.com/problems/count-good-meals/) | [1711_count_good_meals.ipynb](DSA/Medium/1711_count_good_meals.ipynb) |
+| 1712 | [Ways to Split Array Into Three Subarrays](https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/) | [1712_ways_to_split_array_into_three_subarrays.ipynb](DSA/Medium/1712_ways_to_split_array_into_three_subarrays.ipynb) |
+| 1717 | [Maximum Score From Removing Substrings](https://leetcode.com/problems/maximum-score-from-removing-substrings/) | [1717_maximum_score_from_removing_substrings.ipynb](DSA/Medium/1717_maximum_score_from_removing_substrings.ipynb) |
+| 1718 | [Construct the Lexicographically Largest Valid Sequence](https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence/) | [1718_construct_the_lexicographically_largest_valid_sequence.ipynb](DSA/Medium/1718_construct_the_lexicographically_largest_valid_sequence.ipynb) |
+| 1721 | [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) | [1721_swapping_nodes_in_a_linked_list.ipynb](DSA/Medium/1721_swapping_nodes_in_a_linked_list.ipynb) |
+| 1722 | [Minimize Hamming Distance After Swap Operations](https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/) | [1722_minimize_hamming_distance_after_swap_operations.ipynb](DSA/Medium/1722_minimize_hamming_distance_after_swap_operations.ipynb) |
+| 1726 | [Tuple with Same Product](https://leetcode.com/problems/tuple-with-same-product/) | [1726_tuple_with_same_product.ipynb](DSA/Medium/1726_tuple_with_same_product.ipynb) |
+| 1727 | [Largest Submatrix With Rearrangements](https://leetcode.com/problems/largest-submatrix-with-rearrangements/) | [1727_largest_submatrix_with_rearrangements.ipynb](DSA/Medium/1727_largest_submatrix_with_rearrangements.ipynb) |
+| 1730 | [Shortest Path to Get Food](https://leetcode.com/problems/shortest-path-to-get-food/) | [1730_shortest_path_to_get_food.ipynb](DSA/Medium/1730_shortest_path_to_get_food.ipynb) |
+| 1733 | [Minimum Number of People to Teach](https://leetcode.com/problems/minimum-number-of-people-to-teach/) | [1733_minimum_number_of_people_to_teach.ipynb](DSA/Medium/1733_minimum_number_of_people_to_teach.ipynb) |
+| 1734 | [Decode XORed Permutation](https://leetcode.com/problems/decode-xored-permutation/) | [1734_decode_xored_permutation.ipynb](DSA/Medium/1734_decode_xored_permutation.ipynb) |
+| 1737 | [Change Minimum Characters to Satisfy One of Three Conditions](https://leetcode.com/problems/change-minimum-characters-to-satisfy-one-of-three-conditions/) | [1737_change_minimum_characters_to_satisfy_one_of_three_conditions.ipynb](DSA/Medium/1737_change_minimum_characters_to_satisfy_one_of_three_conditions.ipynb) |
+| 1738 | [Find Kth Largest XOR Coordinate Value](https://leetcode.com/problems/find-kth-largest-xor-coordinate-value/) | [1738_find_kth_largest_xor_coordinate_value.ipynb](DSA/Medium/1738_find_kth_largest_xor_coordinate_value.ipynb) |
+| 1740 | [Find Distance in a Binary Tree](https://leetcode.com/problems/find-distance-in-a-binary-tree/) | [1740_find_distance_in_a_binary_tree.ipynb](DSA/Medium/1740_find_distance_in_a_binary_tree.ipynb) |
 | 4044 | [Count Good Cyclic Rotations](https://leetcode.com/problems/count-good-cyclic-rotations/) | [4044_count_good_cyclic_rotations.ipynb](DSA/Medium/4044_count_good_cyclic_rotations.ipynb) |
 | 4045 | [Count Robot Groups](https://leetcode.com/problems/count-robot-groups/) | [4045_count_robot_groups.ipynb](DSA/Medium/4045_count_robot_groups.ipynb) |
 | 4049 | [Count Values With Equally Spaced Occurrences II](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-ii/) | [4049_count_values_with_equally_spaced_occurrences_ii.ipynb](DSA/Medium/4049_count_values_with_equally_spaced_occurrences_ii.ipynb) |
