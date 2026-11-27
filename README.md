@@ -15,7 +15,7 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 2221 notebook** — DSA/Easy: 833 · DSA/Medium: 924 · DSA/Hard: 449 · SQL: 13 · Shell: 2
+**Tổng: 2241 notebook** — DSA/Easy: 833 · DSA/Medium: 944 · DSA/Hard: 449 · SQL: 13 · Shell: 2
 
 ## DSA — Easy — 833 bài
 
@@ -855,7 +855,7 @@ Shell/                            bài Shell (Bash)
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [4097_minimum_value_of_merged_integers.ipynb](DSA/Easy/4097_minimum_value_of_merged_integers.ipynb) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [4111_count_consistent_subarrays_i.ipynb](DSA/Easy/4111_count_consistent_subarrays_i.ipynb) |
 
-## DSA — Medium — 924 bài
+## DSA — Medium — 944 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -1764,6 +1764,26 @@ Shell/                            bài Shell (Bash)
 | 1823 | [Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/) | [1823_find_the_winner_of_the_circular_game.ipynb](DSA/Medium/1823_find_the_winner_of_the_circular_game.ipynb) |
 | 1824 | [Minimum Sideway Jumps](https://leetcode.com/problems/minimum-sideway-jumps/) | [1824_minimum_sideway_jumps.ipynb](DSA/Medium/1824_minimum_sideway_jumps.ipynb) |
 | 1828 | [Queries on Number of Points Inside a Circle](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/) | [1828_queries_on_number_of_points_inside_a_circle.ipynb](DSA/Medium/1828_queries_on_number_of_points_inside_a_circle.ipynb) |
+| 1997 | [First Day Where You Have Been in All the Rooms](https://leetcode.com/problems/first-day-where-you-have-been-in-all-the-rooms/) | [1997_first_day_where_you_have_been_in_all_the_rooms.ipynb](DSA/Medium/1997_first_day_where_you_have_been_in_all_the_rooms.ipynb) |
+| 1999 | [Smallest Greater Multiple Made of Two Digits](https://leetcode.com/problems/smallest-greater-multiple-made-of-two-digits/) | [1999_smallest_greater_multiple_made_of_two_digits.ipynb](DSA/Medium/1999_smallest_greater_multiple_made_of_two_digits.ipynb) |
+| 2001 | [Number of Pairs of Interchangeable Rectangles](https://leetcode.com/problems/number-of-pairs-of-interchangeable-rectangles/) | [2001_number_of_pairs_of_interchangeable_rectangles.ipynb](DSA/Medium/2001_number_of_pairs_of_interchangeable_rectangles.ipynb) |
+| 2002 | [Maximum Product of the Length of Two Palindromic Subsequences](https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-subsequences/) | [2002_maximum_product_of_the_length_of_two_palindromic_subsequences.ipynb](DSA/Medium/2002_maximum_product_of_the_length_of_two_palindromic_subsequences.ipynb) |
+| 2007 | [Find Original Array From Doubled Array](https://leetcode.com/problems/find-original-array-from-doubled-array/) | [2007_find_original_array_from_doubled_array.ipynb](DSA/Medium/2007_find_original_array_from_doubled_array.ipynb) |
+| 2008 | [Maximum Earnings From Taxi](https://leetcode.com/problems/maximum-earnings-from-taxi/) | [2008_maximum_earnings_from_taxi.ipynb](DSA/Medium/2008_maximum_earnings_from_taxi.ipynb) |
+| 2012 | [Sum of Beauty in the Array](https://leetcode.com/problems/sum-of-beauty-in-the-array/) | [2012_sum_of_beauty_in_the_array.ipynb](DSA/Medium/2012_sum_of_beauty_in_the_array.ipynb) |
+| 2013 | [Detect Squares](https://leetcode.com/problems/detect-squares/) | [2013_detect_squares.ipynb](DSA/Medium/2013_detect_squares.ipynb) |
+| 2015 | [Average Height of Buildings in Each Segment](https://leetcode.com/problems/average-height-of-buildings-in-each-segment/) | [2015_average_height_of_buildings_in_each_segment.ipynb](DSA/Medium/2015_average_height_of_buildings_in_each_segment.ipynb) |
+| 2017 | [Grid Game](https://leetcode.com/problems/grid-game/) | [2017_grid_game.ipynb](DSA/Medium/2017_grid_game.ipynb) |
+| 2018 | [Check if Word Can Be Placed In Crossword](https://leetcode.com/problems/check-if-word-can-be-placed-in-crossword/) | [2018_check_if_word_can_be_placed_in_crossword.ipynb](DSA/Medium/2018_check_if_word_can_be_placed_in_crossword.ipynb) |
+| 2021 | [Brightest Position on Street](https://leetcode.com/problems/brightest-position-on-street/) | [2021_brightest_position_on_street.ipynb](DSA/Medium/2021_brightest_position_on_street.ipynb) |
+| 2023 | [Number of Pairs of Strings With Concatenation Equal to Target](https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/) | [2023_number_of_pairs_of_strings_with_concatenation_equal_to_target.ipynb](DSA/Medium/2023_number_of_pairs_of_strings_with_concatenation_equal_to_target.ipynb) |
+| 2024 | [Maximize the Confusion of an Exam](https://leetcode.com/problems/maximize-the-confusion-of-an-exam/) | [2024_maximize_the_confusion_of_an_exam.ipynb](DSA/Medium/2024_maximize_the_confusion_of_an_exam.ipynb) |
+| 2028 | [Find Missing Observations](https://leetcode.com/problems/find-missing-observations/) | [2028_find_missing_observations.ipynb](DSA/Medium/2028_find_missing_observations.ipynb) |
+| 2029 | [Stone Game IX](https://leetcode.com/problems/stone-game-ix/) | [2029_stone_game_ix.ipynb](DSA/Medium/2029_stone_game_ix.ipynb) |
+| 2031 | [Count Subarrays With More Ones Than Zeros](https://leetcode.com/problems/count-subarrays-with-more-ones-than-zeros/) | [2031_count_subarrays_with_more_ones_than_zeros.ipynb](DSA/Medium/2031_count_subarrays_with_more_ones_than_zeros.ipynb) |
+| 2033 | [Minimum Operations to Make a Uni-Value Grid](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/) | [2033_minimum_operations_to_make_a_uni_value_grid.ipynb](DSA/Medium/2033_minimum_operations_to_make_a_uni_value_grid.ipynb) |
+| 2034 | [Stock Price Fluctuation](https://leetcode.com/problems/stock-price-fluctuation/) | [2034_stock_price_fluctuation.ipynb](DSA/Medium/2034_stock_price_fluctuation.ipynb) |
+| 2036 | [Maximum Alternating Subarray Sum](https://leetcode.com/problems/maximum-alternating-subarray-sum/) | [2036_maximum_alternating_subarray_sum.ipynb](DSA/Medium/2036_maximum_alternating_subarray_sum.ipynb) |
 | 4044 | [Count Good Cyclic Rotations](https://leetcode.com/problems/count-good-cyclic-rotations/) | [4044_count_good_cyclic_rotations.ipynb](DSA/Medium/4044_count_good_cyclic_rotations.ipynb) |
 | 4045 | [Count Robot Groups](https://leetcode.com/problems/count-robot-groups/) | [4045_count_robot_groups.ipynb](DSA/Medium/4045_count_robot_groups.ipynb) |
 | 4049 | [Count Values With Equally Spaced Occurrences II](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-ii/) | [4049_count_values_with_equally_spaced_occurrences_ii.ipynb](DSA/Medium/4049_count_values_with_equally_spaced_occurrences_ii.ipynb) |
