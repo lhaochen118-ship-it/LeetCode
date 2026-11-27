@@ -15,7 +15,7 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 2201 notebook** — DSA/Easy: 833 · DSA/Medium: 904 · DSA/Hard: 449 · SQL: 13 · Shell: 2
+**Tổng: 2221 notebook** — DSA/Easy: 833 · DSA/Medium: 924 · DSA/Hard: 449 · SQL: 13 · Shell: 2
 
 ## DSA — Easy — 833 bài
 
@@ -855,7 +855,7 @@ Shell/                            bài Shell (Bash)
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [4097_minimum_value_of_merged_integers.ipynb](DSA/Easy/4097_minimum_value_of_merged_integers.ipynb) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [4111_count_consistent_subarrays_i.ipynb](DSA/Easy/4111_count_consistent_subarrays_i.ipynb) |
 
-## DSA — Medium — 904 bài
+## DSA — Medium — 924 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -1744,6 +1744,26 @@ Shell/                            bài Shell (Bash)
 | 1778 | [Shortest Path in a Hidden Grid](https://leetcode.com/problems/shortest-path-in-a-hidden-grid/) | [1778_shortest_path_in_a_hidden_grid.ipynb](DSA/Medium/1778_shortest_path_in_a_hidden_grid.ipynb) |
 | 1780 | [Check if Number is a Sum of Powers of Three](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/) | [1780_check_if_number_is_a_sum_of_powers_of_three.ipynb](DSA/Medium/1780_check_if_number_is_a_sum_of_powers_of_three.ipynb) |
 | 1781 | [Sum of Beauty of All Substrings](https://leetcode.com/problems/sum-of-beauty-of-all-substrings/) | [1781_sum_of_beauty_of_all_substrings.ipynb](DSA/Medium/1781_sum_of_beauty_of_all_substrings.ipynb) |
+| 1785 | [Minimum Elements to Add to Form a Given Sum](https://leetcode.com/problems/minimum-elements-to-add-to-form-a-given-sum/) | [1785_minimum_elements_to_add_to_form_a_given_sum.ipynb](DSA/Medium/1785_minimum_elements_to_add_to_form_a_given_sum.ipynb) |
+| 1786 | [Number of Restricted Paths From First to Last Node](https://leetcode.com/problems/number-of-restricted-paths-from-first-to-last-node/) | [1786_number_of_restricted_paths_from_first_to_last_node.ipynb](DSA/Medium/1786_number_of_restricted_paths_from_first_to_last_node.ipynb) |
+| 1792 | [Maximum Average Pass Ratio](https://leetcode.com/problems/maximum-average-pass-ratio/) | [1792_maximum_average_pass_ratio.ipynb](DSA/Medium/1792_maximum_average_pass_ratio.ipynb) |
+| 1794 | [Count Pairs of Equal Substrings With Minimum Difference](https://leetcode.com/problems/count-pairs-of-equal-substrings-with-minimum-difference/) | [1794_count_pairs_of_equal_substrings_with_minimum_difference.ipynb](DSA/Medium/1794_count_pairs_of_equal_substrings_with_minimum_difference.ipynb) |
+| 1797 | [Design Authentication Manager](https://leetcode.com/problems/design-authentication-manager/) | [1797_design_authentication_manager.ipynb](DSA/Medium/1797_design_authentication_manager.ipynb) |
+| 1798 | [Maximum Number of Consecutive Values You Can Make](https://leetcode.com/problems/maximum-number-of-consecutive-values-you-can-make/) | [1798_maximum_number_of_consecutive_values_you_can_make.ipynb](DSA/Medium/1798_maximum_number_of_consecutive_values_you_can_make.ipynb) |
+| 1801 | [Number of Orders in the Backlog](https://leetcode.com/problems/number-of-orders-in-the-backlog/) | [1801_number_of_orders_in_the_backlog.ipynb](DSA/Medium/1801_number_of_orders_in_the_backlog.ipynb) |
+| 1802 | [Maximum Value at a Given Index in a Bounded Array](https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/) | [1802_maximum_value_at_a_given_index_in_a_bounded_array.ipynb](DSA/Medium/1802_maximum_value_at_a_given_index_in_a_bounded_array.ipynb) |
+| 1804 | [Implement Trie II (Prefix Tree)](https://leetcode.com/problems/implement-trie-ii-prefix-tree/) | [1804_implement_trie_ii_prefix_tree.ipynb](DSA/Medium/1804_implement_trie_ii_prefix_tree.ipynb) |
+| 1806 | [Minimum Number of Operations to Reinitialize a Permutation](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/) | [1806_minimum_number_of_operations_to_reinitialize_a_permutation.ipynb](DSA/Medium/1806_minimum_number_of_operations_to_reinitialize_a_permutation.ipynb) |
+| 1807 | [Evaluate the Bracket Pairs of a String](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/) | [1807_evaluate_the_bracket_pairs_of_a_string.ipynb](DSA/Medium/1807_evaluate_the_bracket_pairs_of_a_string.ipynb) |
+| 1810 | [Minimum Path Cost in a Hidden Grid](https://leetcode.com/problems/minimum-path-cost-in-a-hidden-grid/) | [1810_minimum_path_cost_in_a_hidden_grid.ipynb](DSA/Medium/1810_minimum_path_cost_in_a_hidden_grid.ipynb) |
+| 1813 | [Sentence Similarity III](https://leetcode.com/problems/sentence-similarity-iii/) | [1813_sentence_similarity_iii.ipynb](DSA/Medium/1813_sentence_similarity_iii.ipynb) |
+| 1814 | [Count Nice Pairs in an Array](https://leetcode.com/problems/count-nice-pairs-in-an-array/) | [1814_count_nice_pairs_in_an_array.ipynb](DSA/Medium/1814_count_nice_pairs_in_an_array.ipynb) |
+| 1817 | [Finding the Users Active Minutes](https://leetcode.com/problems/finding-the-users-active-minutes/) | [1817_finding_the_users_active_minutes.ipynb](DSA/Medium/1817_finding_the_users_active_minutes.ipynb) |
+| 1818 | [Minimum Absolute Sum Difference](https://leetcode.com/problems/minimum-absolute-sum-difference/) | [1818_minimum_absolute_sum_difference.ipynb](DSA/Medium/1818_minimum_absolute_sum_difference.ipynb) |
+| 1820 | [Maximum Number of Accepted Invitations](https://leetcode.com/problems/maximum-number-of-accepted-invitations/) | [1820_maximum_number_of_accepted_invitations.ipynb](DSA/Medium/1820_maximum_number_of_accepted_invitations.ipynb) |
+| 1823 | [Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/) | [1823_find_the_winner_of_the_circular_game.ipynb](DSA/Medium/1823_find_the_winner_of_the_circular_game.ipynb) |
+| 1824 | [Minimum Sideway Jumps](https://leetcode.com/problems/minimum-sideway-jumps/) | [1824_minimum_sideway_jumps.ipynb](DSA/Medium/1824_minimum_sideway_jumps.ipynb) |
+| 1828 | [Queries on Number of Points Inside a Circle](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/) | [1828_queries_on_number_of_points_inside_a_circle.ipynb](DSA/Medium/1828_queries_on_number_of_points_inside_a_circle.ipynb) |
 | 4044 | [Count Good Cyclic Rotations](https://leetcode.com/problems/count-good-cyclic-rotations/) | [4044_count_good_cyclic_rotations.ipynb](DSA/Medium/4044_count_good_cyclic_rotations.ipynb) |
 | 4045 | [Count Robot Groups](https://leetcode.com/problems/count-robot-groups/) | [4045_count_robot_groups.ipynb](DSA/Medium/4045_count_robot_groups.ipynb) |
 | 4049 | [Count Values With Equally Spaced Occurrences II](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-ii/) | [4049_count_values_with_equally_spaced_occurrences_ii.ipynb](DSA/Medium/4049_count_values_with_equally_spaced_occurrences_ii.ipynb) |
