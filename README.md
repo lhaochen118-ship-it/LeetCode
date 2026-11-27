@@ -15,7 +15,7 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 2381 notebook** — DSA/Easy: 833 · DSA/Medium: 1084 · DSA/Hard: 449 · SQL: 13 · Shell: 2
+**Tổng: 2401 notebook** — DSA/Easy: 833 · DSA/Medium: 1104 · DSA/Hard: 449 · SQL: 13 · Shell: 2
 
 ## DSA — Easy — 833 bài
 
@@ -855,7 +855,7 @@ Shell/                            bài Shell (Bash)
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [4097_minimum_value_of_merged_integers.ipynb](DSA/Easy/4097_minimum_value_of_merged_integers.ipynb) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [4111_count_consistent_subarrays_i.ipynb](DSA/Easy/4111_count_consistent_subarrays_i.ipynb) |
 
-## DSA — Medium — 1084 bài
+## DSA — Medium — 1104 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -1904,6 +1904,26 @@ Shell/                            bài Shell (Bash)
 | 2109 | [Adding Spaces to a String](https://leetcode.com/problems/adding-spaces-to-a-string/) | [2109_adding_spaces_to_a_string.ipynb](DSA/Medium/2109_adding_spaces_to_a_string.ipynb) |
 | 2110 | [Number of Smooth Descent Periods of a Stock](https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/) | [2110_number_of_smooth_descent_periods_of_a_stock.ipynb](DSA/Medium/2110_number_of_smooth_descent_periods_of_a_stock.ipynb) |
 | 2113 | [Elements in Array After Removing and Replacing Elements](https://leetcode.com/problems/elements-in-array-after-removing-and-replacing-elements/) | [2113_elements_in_array_after_removing_and_replacing_elements.ipynb](DSA/Medium/2113_elements_in_array_after_removing_and_replacing_elements.ipynb) |
+| 2161 | [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/) | [2161_partition_array_according_to_given_pivot.ipynb](DSA/Medium/2161_partition_array_according_to_given_pivot.ipynb) |
+| 2162 | [Minimum Cost to Set Cooking Time](https://leetcode.com/problems/minimum-cost-to-set-cooking-time/) | [2162_minimum_cost_to_set_cooking_time.ipynb](DSA/Medium/2162_minimum_cost_to_set_cooking_time.ipynb) |
+| 2165 | [Smallest Value of the Rearranged Number](https://leetcode.com/problems/smallest-value-of-the-rearranged-number/) | [2165_smallest_value_of_the_rearranged_number.ipynb](DSA/Medium/2165_smallest_value_of_the_rearranged_number.ipynb) |
+| 2166 | [Design Bitset](https://leetcode.com/problems/design-bitset/) | [2166_design_bitset.ipynb](DSA/Medium/2166_design_bitset.ipynb) |
+| 2168 | [Unique Substrings With Equal Digit Frequency](https://leetcode.com/problems/unique-substrings-with-equal-digit-frequency/) | [2168_unique_substrings_with_equal_digit_frequency.ipynb](DSA/Medium/2168_unique_substrings_with_equal_digit_frequency.ipynb) |
+| 2170 | [Minimum Operations to Make the Array Alternating](https://leetcode.com/problems/minimum-operations-to-make-the-array-alternating/) | [2170_minimum_operations_to_make_the_array_alternating.ipynb](DSA/Medium/2170_minimum_operations_to_make_the_array_alternating.ipynb) |
+| 2171 | [Removing Minimum Number of Magic Beans](https://leetcode.com/problems/removing-minimum-number-of-magic-beans/) | [2171_removing_minimum_number_of_magic_beans.ipynb](DSA/Medium/2171_removing_minimum_number_of_magic_beans.ipynb) |
+| 2174 | [Remove All Ones With Row and Column Flips II](https://leetcode.com/problems/remove-all-ones-with-row-and-column-flips-ii/) | [2174_remove_all_ones_with_row_and_column_flips_ii.ipynb](DSA/Medium/2174_remove_all_ones_with_row_and_column_flips_ii.ipynb) |
+| 2177 | [Find Three Consecutive Integers That Sum to a Given Number](https://leetcode.com/problems/find-three-consecutive-integers-that-sum-to-a-given-number/) | [2177_find_three_consecutive_integers_that_sum_to_a_given_number.ipynb](DSA/Medium/2177_find_three_consecutive_integers_that_sum_to_a_given_number.ipynb) |
+| 2178 | [Maximum Split of Positive Even Integers](https://leetcode.com/problems/maximum-split-of-positive-even-integers/) | [2178_maximum_split_of_positive_even_integers.ipynb](DSA/Medium/2178_maximum_split_of_positive_even_integers.ipynb) |
+| 2181 | [Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/) | [2181_merge_nodes_in_between_zeros.ipynb](DSA/Medium/2181_merge_nodes_in_between_zeros.ipynb) |
+| 2182 | [Construct String With Repeat Limit](https://leetcode.com/problems/construct-string-with-repeat-limit/) | [2182_construct_string_with_repeat_limit.ipynb](DSA/Medium/2182_construct_string_with_repeat_limit.ipynb) |
+| 2184 | [Number of Ways to Build Sturdy Brick Wall](https://leetcode.com/problems/number-of-ways-to-build-sturdy-brick-wall/) | [2184_number_of_ways_to_build_sturdy_brick_wall.ipynb](DSA/Medium/2184_number_of_ways_to_build_sturdy_brick_wall.ipynb) |
+| 2186 | [Minimum Number of Steps to Make Two Strings Anagram II](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/) | [2186_minimum_number_of_steps_to_make_two_strings_anagram_ii.ipynb](DSA/Medium/2186_minimum_number_of_steps_to_make_two_strings_anagram_ii.ipynb) |
+| 2187 | [Minimum Time to Complete Trips](https://leetcode.com/problems/minimum-time-to-complete-trips/) | [2187_minimum_time_to_complete_trips.ipynb](DSA/Medium/2187_minimum_time_to_complete_trips.ipynb) |
+| 2189 | [Number of Ways to Build House of Cards](https://leetcode.com/problems/number-of-ways-to-build-house-of-cards/) | [2189_number_of_ways_to_build_house_of_cards.ipynb](DSA/Medium/2189_number_of_ways_to_build_house_of_cards.ipynb) |
+| 2191 | [Sort the Jumbled Numbers](https://leetcode.com/problems/sort-the-jumbled-numbers/) | [2191_sort_the_jumbled_numbers.ipynb](DSA/Medium/2191_sort_the_jumbled_numbers.ipynb) |
+| 2192 | [All Ancestors of a Node in a Directed Acyclic Graph](https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/) | [2192_all_ancestors_of_a_node_in_a_directed_acyclic_graph.ipynb](DSA/Medium/2192_all_ancestors_of_a_node_in_a_directed_acyclic_graph.ipynb) |
+| 2195 | [Append K Integers With Minimal Sum](https://leetcode.com/problems/append-k-integers-with-minimal-sum/) | [2195_append_k_integers_with_minimal_sum.ipynb](DSA/Medium/2195_append_k_integers_with_minimal_sum.ipynb) |
+| 2196 | [Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions/) | [2196_create_binary_tree_from_descriptions.ipynb](DSA/Medium/2196_create_binary_tree_from_descriptions.ipynb) |
 | 2198 | [Number of Single Divisor Triplets](https://leetcode.com/problems/number-of-single-divisor-triplets/) | [2198_number_of_single_divisor_triplets.ipynb](DSA/Medium/2198_number_of_single_divisor_triplets.ipynb) |
 | 2201 | [Count Artifacts That Can Be Extracted](https://leetcode.com/problems/count-artifacts-that-can-be-extracted/) | [2201_count_artifacts_that_can_be_extracted.ipynb](DSA/Medium/2201_count_artifacts_that_can_be_extracted.ipynb) |
 | 2202 | [Maximize the Topmost Element After K Moves](https://leetcode.com/problems/maximize-the-topmost-element-after-k-moves/) | [2202_maximize_the_topmost_element_after_k_moves.ipynb](DSA/Medium/2202_maximize_the_topmost_element_after_k_moves.ipynb) |
