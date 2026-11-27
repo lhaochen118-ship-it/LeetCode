@@ -15,7 +15,7 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 2121 notebook** — DSA/Easy: 833 · DSA/Medium: 824 · DSA/Hard: 449 · SQL: 13 · Shell: 2
+**Tổng: 2141 notebook** — DSA/Easy: 833 · DSA/Medium: 844 · DSA/Hard: 449 · SQL: 13 · Shell: 2
 
 ## DSA — Easy — 833 bài
 
@@ -855,7 +855,7 @@ Shell/                            bài Shell (Bash)
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [4097_minimum_value_of_merged_integers.ipynb](DSA/Easy/4097_minimum_value_of_merged_integers.ipynb) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [4111_count_consistent_subarrays_i.ipynb](DSA/Easy/4111_count_consistent_subarrays_i.ipynb) |
 
-## DSA — Medium — 824 bài
+## DSA — Medium — 844 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -1664,6 +1664,26 @@ Shell/                            bài Shell (Bash)
 | 1604 | [Alert Using Same Key-Card Three or More Times in a One Hour Period](https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/) | [1604_alert_using_same_key_card_three_or_more_times_in_a_one_hour_period.ipynb](DSA/Medium/1604_alert_using_same_key_card_three_or_more_times_in_a_one_hour_period.ipynb) |
 | 1605 | [Find Valid Matrix Given Row and Column Sums](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/) | [1605_find_valid_matrix_given_row_and_column_sums.ipynb](DSA/Medium/1605_find_valid_matrix_given_row_and_column_sums.ipynb) |
 | 1609 | [Even Odd Tree](https://leetcode.com/problems/even-odd-tree/) | [1609_even_odd_tree.ipynb](DSA/Medium/1609_even_odd_tree.ipynb) |
+| 1612 | [Check If Two Expression Trees are Equivalent](https://leetcode.com/problems/check-if-two-expression-trees-are-equivalent/) | [1612_check_if_two_expression_trees_are_equivalent.ipynb](DSA/Medium/1612_check_if_two_expression_trees_are_equivalent.ipynb) |
+| 1615 | [Maximal Network Rank](https://leetcode.com/problems/maximal-network-rank/) | [1615_maximal_network_rank.ipynb](DSA/Medium/1615_maximal_network_rank.ipynb) |
+| 1616 | [Split Two Strings to Make Palindrome](https://leetcode.com/problems/split-two-strings-to-make-palindrome/) | [1616_split_two_strings_to_make_palindrome.ipynb](DSA/Medium/1616_split_two_strings_to_make_palindrome.ipynb) |
+| 1618 | [Maximum Font to Fit a Sentence in a Screen](https://leetcode.com/problems/maximum-font-to-fit-a-sentence-in-a-screen/) | [1618_maximum_font_to_fit_a_sentence_in_a_screen.ipynb](DSA/Medium/1618_maximum_font_to_fit_a_sentence_in_a_screen.ipynb) |
+| 1620 | [Coordinate With Maximum Network Quality](https://leetcode.com/problems/coordinate-with-maximum-network-quality/) | [1620_coordinate_with_maximum_network_quality.ipynb](DSA/Medium/1620_coordinate_with_maximum_network_quality.ipynb) |
+| 1621 | [Number of Sets of K Non-Overlapping Line Segments](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/) | [1621_number_of_sets_of_k_non_overlapping_line_segments.ipynb](DSA/Medium/1621_number_of_sets_of_k_non_overlapping_line_segments.ipynb) |
+| 1625 | [Lexicographically Smallest String After Applying Operations](https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/) | [1625_lexicographically_smallest_string_after_applying_operations.ipynb](DSA/Medium/1625_lexicographically_smallest_string_after_applying_operations.ipynb) |
+| 1626 | [Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts/) | [1626_best_team_with_no_conflicts.ipynb](DSA/Medium/1626_best_team_with_no_conflicts.ipynb) |
+| 1628 | [Design an Expression Tree With Evaluate Function](https://leetcode.com/problems/design-an-expression-tree-with-evaluate-function/) | [1628_design_an_expression_tree_with_evaluate_function.ipynb](DSA/Medium/1628_design_an_expression_tree_with_evaluate_function.ipynb) |
+| 1630 | [Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays/) | [1630_arithmetic_subarrays.ipynb](DSA/Medium/1630_arithmetic_subarrays.ipynb) |
+| 1631 | [Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/) | [1631_path_with_minimum_effort.ipynb](DSA/Medium/1631_path_with_minimum_effort.ipynb) |
+| 1634 | [Add Two Polynomials Represented as Linked Lists](https://leetcode.com/problems/add-two-polynomials-represented-as-linked-lists/) | [1634_add_two_polynomials_represented_as_linked_lists.ipynb](DSA/Medium/1634_add_two_polynomials_represented_as_linked_lists.ipynb) |
+| 1638 | [Count Substrings That Differ by One Character](https://leetcode.com/problems/count-substrings-that-differ-by-one-character/) | [1638_count_substrings_that_differ_by_one_character.ipynb](DSA/Medium/1638_count_substrings_that_differ_by_one_character.ipynb) |
+| 1641 | [Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/) | [1641_count_sorted_vowel_strings.ipynb](DSA/Medium/1641_count_sorted_vowel_strings.ipynb) |
+| 1642 | [Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/) | [1642_furthest_building_you_can_reach.ipynb](DSA/Medium/1642_furthest_building_you_can_reach.ipynb) |
+| 1644 | [Lowest Common Ancestor of a Binary Tree II](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-ii/) | [1644_lowest_common_ancestor_of_a_binary_tree_ii.ipynb](DSA/Medium/1644_lowest_common_ancestor_of_a_binary_tree_ii.ipynb) |
+| 1647 | [Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/) | [1647_minimum_deletions_to_make_character_frequencies_unique.ipynb](DSA/Medium/1647_minimum_deletions_to_make_character_frequencies_unique.ipynb) |
+| 1648 | [Sell Diminishing-Valued Colored Balls](https://leetcode.com/problems/sell-diminishing-valued-colored-balls/) | [1648_sell_diminishing_valued_colored_balls.ipynb](DSA/Medium/1648_sell_diminishing_valued_colored_balls.ipynb) |
+| 1650 | [Lowest Common Ancestor of a Binary Tree III](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii/) | [1650_lowest_common_ancestor_of_a_binary_tree_iii.ipynb](DSA/Medium/1650_lowest_common_ancestor_of_a_binary_tree_iii.ipynb) |
+| 1653 | [Minimum Deletions to Make String Balanced](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/) | [1653_minimum_deletions_to_make_string_balanced.ipynb](DSA/Medium/1653_minimum_deletions_to_make_string_balanced.ipynb) |
 | 4044 | [Count Good Cyclic Rotations](https://leetcode.com/problems/count-good-cyclic-rotations/) | [4044_count_good_cyclic_rotations.ipynb](DSA/Medium/4044_count_good_cyclic_rotations.ipynb) |
 | 4045 | [Count Robot Groups](https://leetcode.com/problems/count-robot-groups/) | [4045_count_robot_groups.ipynb](DSA/Medium/4045_count_robot_groups.ipynb) |
 | 4049 | [Count Values With Equally Spaced Occurrences II](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-ii/) | [4049_count_values_with_equally_spaced_occurrences_ii.ipynb](DSA/Medium/4049_count_values_with_equally_spaced_occurrences_ii.ipynb) |
