@@ -15,7 +15,7 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 2301 notebook** — DSA/Easy: 833 · DSA/Medium: 1004 · DSA/Hard: 449 · SQL: 13 · Shell: 2
+**Tổng: 2321 notebook** — DSA/Easy: 833 · DSA/Medium: 1024 · DSA/Hard: 449 · SQL: 13 · Shell: 2
 
 ## DSA — Easy — 833 bài
 
@@ -855,7 +855,7 @@ Shell/                            bài Shell (Bash)
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [4097_minimum_value_of_merged_integers.ipynb](DSA/Easy/4097_minimum_value_of_merged_integers.ipynb) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [4111_count_consistent_subarrays_i.ipynb](DSA/Easy/4111_count_consistent_subarrays_i.ipynb) |
 
-## DSA — Medium — 1004 bài
+## DSA — Medium — 1024 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -1804,6 +1804,26 @@ Shell/                            bài Shell (Bash)
 | 1904 | [The Number of Full Rounds You Have Played](https://leetcode.com/problems/the-number-of-full-rounds-you-have-played/) | [1904_the_number_of_full_rounds_you_have_played.ipynb](DSA/Medium/1904_the_number_of_full_rounds_you_have_played.ipynb) |
 | 1905 | [Count Sub Islands](https://leetcode.com/problems/count-sub-islands/) | [1905_count_sub_islands.ipynb](DSA/Medium/1905_count_sub_islands.ipynb) |
 | 1906 | [Minimum Absolute Difference Queries](https://leetcode.com/problems/minimum-absolute-difference-queries/) | [1906_minimum_absolute_difference_queries.ipynb](DSA/Medium/1906_minimum_absolute_difference_queries.ipynb) |
+| 1908 | [Game of Nim](https://leetcode.com/problems/game-of-nim/) | [1908_game_of_nim.ipynb](DSA/Medium/1908_game_of_nim.ipynb) |
+| 1910 | [Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/) | [1910_remove_all_occurrences_of_a_substring.ipynb](DSA/Medium/1910_remove_all_occurrences_of_a_substring.ipynb) |
+| 1911 | [Maximum Alternating Subsequence Sum](https://leetcode.com/problems/maximum-alternating-subsequence-sum/) | [1911_maximum_alternating_subsequence_sum.ipynb](DSA/Medium/1911_maximum_alternating_subsequence_sum.ipynb) |
+| 1914 | [Cyclically Rotating a Grid](https://leetcode.com/problems/cyclically-rotating-a-grid/) | [1914_cyclically_rotating_a_grid.ipynb](DSA/Medium/1914_cyclically_rotating_a_grid.ipynb) |
+| 1915 | [Number of Wonderful Substrings](https://leetcode.com/problems/number-of-wonderful-substrings/) | [1915_number_of_wonderful_substrings.ipynb](DSA/Medium/1915_number_of_wonderful_substrings.ipynb) |
+| 1918 | [Kth Smallest Subarray Sum](https://leetcode.com/problems/kth-smallest-subarray-sum/) | [1918_kth_smallest_subarray_sum.ipynb](DSA/Medium/1918_kth_smallest_subarray_sum.ipynb) |
+| 1921 | [Eliminate Maximum Number of Monsters](https://leetcode.com/problems/eliminate-maximum-number-of-monsters/) | [1921_eliminate_maximum_number_of_monsters.ipynb](DSA/Medium/1921_eliminate_maximum_number_of_monsters.ipynb) |
+| 1922 | [Count Good Numbers](https://leetcode.com/problems/count-good-numbers/) | [1922_count_good_numbers.ipynb](DSA/Medium/1922_count_good_numbers.ipynb) |
+| 1926 | [Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/) | [1926_nearest_exit_from_entrance_in_maze.ipynb](DSA/Medium/1926_nearest_exit_from_entrance_in_maze.ipynb) |
+| 1927 | [Sum Game](https://leetcode.com/problems/sum-game/) | [1927_sum_game.ipynb](DSA/Medium/1927_sum_game.ipynb) |
+| 1930 | [Unique Length-3 Palindromic Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/) | [1930_unique_length_3_palindromic_subsequences.ipynb](DSA/Medium/1930_unique_length_3_palindromic_subsequences.ipynb) |
+| 1936 | [Add Minimum Number of Rungs](https://leetcode.com/problems/add-minimum-number-of-rungs/) | [1936_add_minimum_number_of_rungs.ipynb](DSA/Medium/1936_add_minimum_number_of_rungs.ipynb) |
+| 1937 | [Maximum Number of Points with Cost](https://leetcode.com/problems/maximum-number-of-points-with-cost/) | [1937_maximum_number_of_points_with_cost.ipynb](DSA/Medium/1937_maximum_number_of_points_with_cost.ipynb) |
+| 1940 | [Longest Common Subsequence Between Sorted Arrays](https://leetcode.com/problems/longest-common-subsequence-between-sorted-arrays/) | [1940_longest_common_subsequence_between_sorted_arrays.ipynb](DSA/Medium/1940_longest_common_subsequence_between_sorted_arrays.ipynb) |
+| 1942 | [The Number of the Smallest Unoccupied Chair](https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/) | [1942_the_number_of_the_smallest_unoccupied_chair.ipynb](DSA/Medium/1942_the_number_of_the_smallest_unoccupied_chair.ipynb) |
+| 1943 | [Describe the Painting](https://leetcode.com/problems/describe-the-painting/) | [1943_describe_the_painting.ipynb](DSA/Medium/1943_describe_the_painting.ipynb) |
+| 1946 | [Largest Number After Mutating Substring](https://leetcode.com/problems/largest-number-after-mutating-substring/) | [1946_largest_number_after_mutating_substring.ipynb](DSA/Medium/1946_largest_number_after_mutating_substring.ipynb) |
+| 1947 | [Maximum Compatibility Score Sum](https://leetcode.com/problems/maximum-compatibility-score-sum/) | [1947_maximum_compatibility_score_sum.ipynb](DSA/Medium/1947_maximum_compatibility_score_sum.ipynb) |
+| 1950 | [Maximum of Minimum Values in All Subarrays](https://leetcode.com/problems/maximum-of-minimum-values-in-all-subarrays/) | [1950_maximum_of_minimum_values_in_all_subarrays.ipynb](DSA/Medium/1950_maximum_of_minimum_values_in_all_subarrays.ipynb) |
+| 1953 | [Maximum Number of Weeks for Which You Can Work](https://leetcode.com/problems/maximum-number-of-weeks-for-which-you-can-work/) | [1953_maximum_number_of_weeks_for_which_you_can_work.ipynb](DSA/Medium/1953_maximum_number_of_weeks_for_which_you_can_work.ipynb) |
 | 1954 | [Minimum Garden Perimeter to Collect Enough Apples](https://leetcode.com/problems/minimum-garden-perimeter-to-collect-enough-apples/) | [1954_minimum_garden_perimeter_to_collect_enough_apples.ipynb](DSA/Medium/1954_minimum_garden_perimeter_to_collect_enough_apples.ipynb) |
 | 1958 | [Check if Move is Legal](https://leetcode.com/problems/check-if-move-is-legal/) | [1958_check_if_move_is_legal.ipynb](DSA/Medium/1958_check_if_move_is_legal.ipynb) |
 | 1959 | [Minimum Total Space Wasted With K Resizing Operations](https://leetcode.com/problems/minimum-total-space-wasted-with-k-resizing-operations/) | [1959_minimum_total_space_wasted_with_k_resizing_operations.ipynb](DSA/Medium/1959_minimum_total_space_wasted_with_k_resizing_operations.ipynb) |
