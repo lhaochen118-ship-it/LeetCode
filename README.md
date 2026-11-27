@@ -15,7 +15,7 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 2241 notebook** — DSA/Easy: 833 · DSA/Medium: 944 · DSA/Hard: 449 · SQL: 13 · Shell: 2
+**Tổng: 2261 notebook** — DSA/Easy: 833 · DSA/Medium: 964 · DSA/Hard: 449 · SQL: 13 · Shell: 2
 
 ## DSA — Easy — 833 bài
 
@@ -855,7 +855,7 @@ Shell/                            bài Shell (Bash)
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [4097_minimum_value_of_merged_integers.ipynb](DSA/Easy/4097_minimum_value_of_merged_integers.ipynb) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [4111_count_consistent_subarrays_i.ipynb](DSA/Easy/4111_count_consistent_subarrays_i.ipynb) |
 
-## DSA — Medium — 944 bài
+## DSA — Medium — 964 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -1764,6 +1764,26 @@ Shell/                            bài Shell (Bash)
 | 1823 | [Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/) | [1823_find_the_winner_of_the_circular_game.ipynb](DSA/Medium/1823_find_the_winner_of_the_circular_game.ipynb) |
 | 1824 | [Minimum Sideway Jumps](https://leetcode.com/problems/minimum-sideway-jumps/) | [1824_minimum_sideway_jumps.ipynb](DSA/Medium/1824_minimum_sideway_jumps.ipynb) |
 | 1828 | [Queries on Number of Points Inside a Circle](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/) | [1828_queries_on_number_of_points_inside_a_circle.ipynb](DSA/Medium/1828_queries_on_number_of_points_inside_a_circle.ipynb) |
+| 1871 | [Jump Game VII](https://leetcode.com/problems/jump-game-vii/) | [1871_jump_game_vii.ipynb](DSA/Medium/1871_jump_game_vii.ipynb) |
+| 1874 | [Minimize Product Sum of Two Arrays](https://leetcode.com/problems/minimize-product-sum-of-two-arrays/) | [1874_minimize_product_sum_of_two_arrays.ipynb](DSA/Medium/1874_minimize_product_sum_of_two_arrays.ipynb) |
+| 1877 | [Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/) | [1877_minimize_maximum_pair_sum_in_array.ipynb](DSA/Medium/1877_minimize_maximum_pair_sum_in_array.ipynb) |
+| 1878 | [Get Biggest Three Rhombus Sums in a Grid](https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/) | [1878_get_biggest_three_rhombus_sums_in_a_grid.ipynb](DSA/Medium/1878_get_biggest_three_rhombus_sums_in_a_grid.ipynb) |
+| 1881 | [Maximum Value after Insertion](https://leetcode.com/problems/maximum-value-after-insertion/) | [1881_maximum_value_after_insertion.ipynb](DSA/Medium/1881_maximum_value_after_insertion.ipynb) |
+| 1882 | [Process Tasks Using Servers](https://leetcode.com/problems/process-tasks-using-servers/) | [1882_process_tasks_using_servers.ipynb](DSA/Medium/1882_process_tasks_using_servers.ipynb) |
+| 1884 | [Egg Drop With 2 Eggs and N Floors](https://leetcode.com/problems/egg-drop-with-2-eggs-and-n-floors/) | [1884_egg_drop_with_2_eggs_and_n_floors.ipynb](DSA/Medium/1884_egg_drop_with_2_eggs_and_n_floors.ipynb) |
+| 1885 | [Count Pairs in Two Arrays](https://leetcode.com/problems/count-pairs-in-two-arrays/) | [1885_count_pairs_in_two_arrays.ipynb](DSA/Medium/1885_count_pairs_in_two_arrays.ipynb) |
+| 1887 | [Reduction Operations to Make the Array Elements Equal](https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/) | [1887_reduction_operations_to_make_the_array_elements_equal.ipynb](DSA/Medium/1887_reduction_operations_to_make_the_array_elements_equal.ipynb) |
+| 1888 | [Minimum Number of Flips to Make the Binary String Alternating](https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/) | [1888_minimum_number_of_flips_to_make_the_binary_string_alternating.ipynb](DSA/Medium/1888_minimum_number_of_flips_to_make_the_binary_string_alternating.ipynb) |
+| 1891 | [Cutting Ribbons](https://leetcode.com/problems/cutting-ribbons/) | [1891_cutting_ribbons.ipynb](DSA/Medium/1891_cutting_ribbons.ipynb) |
+| 1894 | [Find the Student that Will Replace the Chalk](https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/) | [1894_find_the_student_that_will_replace_the_chalk.ipynb](DSA/Medium/1894_find_the_student_that_will_replace_the_chalk.ipynb) |
+| 1895 | [Largest Magic Square](https://leetcode.com/problems/largest-magic-square/) | [1895_largest_magic_square.ipynb](DSA/Medium/1895_largest_magic_square.ipynb) |
+| 1898 | [Maximum Number of Removable Characters](https://leetcode.com/problems/maximum-number-of-removable-characters/) | [1898_maximum_number_of_removable_characters.ipynb](DSA/Medium/1898_maximum_number_of_removable_characters.ipynb) |
+| 1899 | [Merge Triplets to Form Target Triplet](https://leetcode.com/problems/merge-triplets-to-form-target-triplet/) | [1899_merge_triplets_to_form_target_triplet.ipynb](DSA/Medium/1899_merge_triplets_to_form_target_triplet.ipynb) |
+| 1901 | [Find a Peak Element II](https://leetcode.com/problems/find-a-peak-element-ii/) | [1901_find_a_peak_element_ii.ipynb](DSA/Medium/1901_find_a_peak_element_ii.ipynb) |
+| 1902 | [Depth of BST Given Insertion Order](https://leetcode.com/problems/depth-of-bst-given-insertion-order/) | [1902_depth_of_bst_given_insertion_order.ipynb](DSA/Medium/1902_depth_of_bst_given_insertion_order.ipynb) |
+| 1904 | [The Number of Full Rounds You Have Played](https://leetcode.com/problems/the-number-of-full-rounds-you-have-played/) | [1904_the_number_of_full_rounds_you_have_played.ipynb](DSA/Medium/1904_the_number_of_full_rounds_you_have_played.ipynb) |
+| 1905 | [Count Sub Islands](https://leetcode.com/problems/count-sub-islands/) | [1905_count_sub_islands.ipynb](DSA/Medium/1905_count_sub_islands.ipynb) |
+| 1906 | [Minimum Absolute Difference Queries](https://leetcode.com/problems/minimum-absolute-difference-queries/) | [1906_minimum_absolute_difference_queries.ipynb](DSA/Medium/1906_minimum_absolute_difference_queries.ipynb) |
 | 1997 | [First Day Where You Have Been in All the Rooms](https://leetcode.com/problems/first-day-where-you-have-been-in-all-the-rooms/) | [1997_first_day_where_you_have_been_in_all_the_rooms.ipynb](DSA/Medium/1997_first_day_where_you_have_been_in_all_the_rooms.ipynb) |
 | 1999 | [Smallest Greater Multiple Made of Two Digits](https://leetcode.com/problems/smallest-greater-multiple-made-of-two-digits/) | [1999_smallest_greater_multiple_made_of_two_digits.ipynb](DSA/Medium/1999_smallest_greater_multiple_made_of_two_digits.ipynb) |
 | 2001 | [Number of Pairs of Interchangeable Rectangles](https://leetcode.com/problems/number-of-pairs-of-interchangeable-rectangles/) | [2001_number_of_pairs_of_interchangeable_rectangles.ipynb](DSA/Medium/2001_number_of_pairs_of_interchangeable_rectangles.ipynb) |
