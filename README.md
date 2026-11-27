@@ -15,7 +15,7 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 2261 notebook** — DSA/Easy: 833 · DSA/Medium: 964 · DSA/Hard: 449 · SQL: 13 · Shell: 2
+**Tổng: 2281 notebook** — DSA/Easy: 833 · DSA/Medium: 984 · DSA/Hard: 449 · SQL: 13 · Shell: 2
 
 ## DSA — Easy — 833 bài
 
@@ -855,7 +855,7 @@ Shell/                            bài Shell (Bash)
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [4097_minimum_value_of_merged_integers.ipynb](DSA/Easy/4097_minimum_value_of_merged_integers.ipynb) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [4111_count_consistent_subarrays_i.ipynb](DSA/Easy/4111_count_consistent_subarrays_i.ipynb) |
 
-## DSA — Medium — 964 bài
+## DSA — Medium — 984 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -1764,6 +1764,26 @@ Shell/                            bài Shell (Bash)
 | 1823 | [Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/) | [1823_find_the_winner_of_the_circular_game.ipynb](DSA/Medium/1823_find_the_winner_of_the_circular_game.ipynb) |
 | 1824 | [Minimum Sideway Jumps](https://leetcode.com/problems/minimum-sideway-jumps/) | [1824_minimum_sideway_jumps.ipynb](DSA/Medium/1824_minimum_sideway_jumps.ipynb) |
 | 1828 | [Queries on Number of Points Inside a Circle](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/) | [1828_queries_on_number_of_points_inside_a_circle.ipynb](DSA/Medium/1828_queries_on_number_of_points_inside_a_circle.ipynb) |
+| 1829 | [Maximum XOR for Each Query](https://leetcode.com/problems/maximum-xor-for-each-query/) | [1829_maximum_xor_for_each_query.ipynb](DSA/Medium/1829_maximum_xor_for_each_query.ipynb) |
+| 1833 | [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/) | [1833_maximum_ice_cream_bars.ipynb](DSA/Medium/1833_maximum_ice_cream_bars.ipynb) |
+| 1834 | [Single-Threaded CPU](https://leetcode.com/problems/single-threaded-cpu/) | [1834_single_threaded_cpu.ipynb](DSA/Medium/1834_single_threaded_cpu.ipynb) |
+| 1836 | [Remove Duplicates From an Unsorted Linked List](https://leetcode.com/problems/remove-duplicates-from-an-unsorted-linked-list/) | [1836_remove_duplicates_from_an_unsorted_linked_list.ipynb](DSA/Medium/1836_remove_duplicates_from_an_unsorted_linked_list.ipynb) |
+| 1838 | [Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) | [1838_frequency_of_the_most_frequent_element.ipynb](DSA/Medium/1838_frequency_of_the_most_frequent_element.ipynb) |
+| 1839 | [Longest Substring Of All Vowels in Order](https://leetcode.com/problems/longest-substring-of-all-vowels-in-order/) | [1839_longest_substring_of_all_vowels_in_order.ipynb](DSA/Medium/1839_longest_substring_of_all_vowels_in_order.ipynb) |
+| 1845 | [Seat Reservation Manager](https://leetcode.com/problems/seat-reservation-manager/) | [1845_seat_reservation_manager.ipynb](DSA/Medium/1845_seat_reservation_manager.ipynb) |
+| 1846 | [Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/) | [1846_maximum_element_after_decreasing_and_rearranging.ipynb](DSA/Medium/1846_maximum_element_after_decreasing_and_rearranging.ipynb) |
+| 1849 | [Splitting a String Into Descending Consecutive Values](https://leetcode.com/problems/splitting-a-string-into-descending-consecutive-values/) | [1849_splitting_a_string_into_descending_consecutive_values.ipynb](DSA/Medium/1849_splitting_a_string_into_descending_consecutive_values.ipynb) |
+| 1850 | [Minimum Adjacent Swaps to Reach the Kth Smallest Number](https://leetcode.com/problems/minimum-adjacent-swaps-to-reach-the-kth-smallest-number/) | [1850_minimum_adjacent_swaps_to_reach_the_kth_smallest_number.ipynb](DSA/Medium/1850_minimum_adjacent_swaps_to_reach_the_kth_smallest_number.ipynb) |
+| 1852 | [Distinct Numbers in Each Subarray](https://leetcode.com/problems/distinct-numbers-in-each-subarray/) | [1852_distinct_numbers_in_each_subarray.ipynb](DSA/Medium/1852_distinct_numbers_in_each_subarray.ipynb) |
+| 1855 | [Maximum Distance Between a Pair of Values](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/) | [1855_maximum_distance_between_a_pair_of_values.ipynb](DSA/Medium/1855_maximum_distance_between_a_pair_of_values.ipynb) |
+| 1856 | [Maximum Subarray Min-Product](https://leetcode.com/problems/maximum-subarray-min-product/) | [1856_maximum_subarray_min_product.ipynb](DSA/Medium/1856_maximum_subarray_min_product.ipynb) |
+| 1858 | [Longest Word With All Prefixes](https://leetcode.com/problems/longest-word-with-all-prefixes/) | [1858_longest_word_with_all_prefixes.ipynb](DSA/Medium/1858_longest_word_with_all_prefixes.ipynb) |
+| 1860 | [Incremental Memory Leak](https://leetcode.com/problems/incremental-memory-leak/) | [1860_incremental_memory_leak.ipynb](DSA/Medium/1860_incremental_memory_leak.ipynb) |
+| 1861 | [Rotating the Box](https://leetcode.com/problems/rotating-the-box/) | [1861_rotating_the_box.ipynb](DSA/Medium/1861_rotating_the_box.ipynb) |
+| 1864 | [Minimum Number of Swaps to Make the Binary String Alternating](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-binary-string-alternating/) | [1864_minimum_number_of_swaps_to_make_the_binary_string_alternating.ipynb](DSA/Medium/1864_minimum_number_of_swaps_to_make_the_binary_string_alternating.ipynb) |
+| 1865 | [Finding Pairs With a Certain Sum](https://leetcode.com/problems/finding-pairs-with-a-certain-sum/) | [1865_finding_pairs_with_a_certain_sum.ipynb](DSA/Medium/1865_finding_pairs_with_a_certain_sum.ipynb) |
+| 1868 | [Product of Two Run-Length Encoded Arrays](https://leetcode.com/problems/product-of-two-run-length-encoded-arrays/) | [1868_product_of_two_run_length_encoded_arrays.ipynb](DSA/Medium/1868_product_of_two_run_length_encoded_arrays.ipynb) |
+| 1870 | [Minimum Speed to Arrive on Time](https://leetcode.com/problems/minimum-speed-to-arrive-on-time/) | [1870_minimum_speed_to_arrive_on_time.ipynb](DSA/Medium/1870_minimum_speed_to_arrive_on_time.ipynb) |
 | 1871 | [Jump Game VII](https://leetcode.com/problems/jump-game-vii/) | [1871_jump_game_vii.ipynb](DSA/Medium/1871_jump_game_vii.ipynb) |
 | 1874 | [Minimize Product Sum of Two Arrays](https://leetcode.com/problems/minimize-product-sum-of-two-arrays/) | [1874_minimize_product_sum_of_two_arrays.ipynb](DSA/Medium/1874_minimize_product_sum_of_two_arrays.ipynb) |
 | 1877 | [Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/) | [1877_minimize_maximum_pair_sum_in_array.ipynb](DSA/Medium/1877_minimize_maximum_pair_sum_in_array.ipynb) |
