@@ -15,7 +15,7 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 2141 notebook** — DSA/Easy: 833 · DSA/Medium: 844 · DSA/Hard: 449 · SQL: 13 · Shell: 2
+**Tổng: 2161 notebook** — DSA/Easy: 833 · DSA/Medium: 864 · DSA/Hard: 449 · SQL: 13 · Shell: 2
 
 ## DSA — Easy — 833 bài
 
@@ -855,7 +855,7 @@ Shell/                            bài Shell (Bash)
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [4097_minimum_value_of_merged_integers.ipynb](DSA/Easy/4097_minimum_value_of_merged_integers.ipynb) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [4111_count_consistent_subarrays_i.ipynb](DSA/Easy/4111_count_consistent_subarrays_i.ipynb) |
 
-## DSA — Medium — 844 bài
+## DSA — Medium — 864 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -1684,6 +1684,26 @@ Shell/                            bài Shell (Bash)
 | 1648 | [Sell Diminishing-Valued Colored Balls](https://leetcode.com/problems/sell-diminishing-valued-colored-balls/) | [1648_sell_diminishing_valued_colored_balls.ipynb](DSA/Medium/1648_sell_diminishing_valued_colored_balls.ipynb) |
 | 1650 | [Lowest Common Ancestor of a Binary Tree III](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii/) | [1650_lowest_common_ancestor_of_a_binary_tree_iii.ipynb](DSA/Medium/1650_lowest_common_ancestor_of_a_binary_tree_iii.ipynb) |
 | 1653 | [Minimum Deletions to Make String Balanced](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/) | [1653_minimum_deletions_to_make_string_balanced.ipynb](DSA/Medium/1653_minimum_deletions_to_make_string_balanced.ipynb) |
+| 1654 | [Minimum Jumps to Reach Home](https://leetcode.com/problems/minimum-jumps-to-reach-home/) | [1654_minimum_jumps_to_reach_home.ipynb](DSA/Medium/1654_minimum_jumps_to_reach_home.ipynb) |
+| 1657 | [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) | [1657_determine_if_two_strings_are_close.ipynb](DSA/Medium/1657_determine_if_two_strings_are_close.ipynb) |
+| 1658 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | [1658_minimum_operations_to_reduce_x_to_zero.ipynb](DSA/Medium/1658_minimum_operations_to_reduce_x_to_zero.ipynb) |
+| 1660 | [Correct a Binary Tree](https://leetcode.com/problems/correct-a-binary-tree/) | [1660_correct_a_binary_tree.ipynb](DSA/Medium/1660_correct_a_binary_tree.ipynb) |
+| 1663 | [Smallest String With A Given Numeric Value](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/) | [1663_smallest_string_with_a_given_numeric_value.ipynb](DSA/Medium/1663_smallest_string_with_a_given_numeric_value.ipynb) |
+| 1664 | [Ways to Make a Fair Array](https://leetcode.com/problems/ways-to-make-a-fair-array/) | [1664_ways_to_make_a_fair_array.ipynb](DSA/Medium/1664_ways_to_make_a_fair_array.ipynb) |
+| 1666 | [Change the Root of a Binary Tree](https://leetcode.com/problems/change-the-root-of-a-binary-tree/) | [1666_change_the_root_of_a_binary_tree.ipynb](DSA/Medium/1666_change_the_root_of_a_binary_tree.ipynb) |
+| 1669 | [Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/) | [1669_merge_in_between_linked_lists.ipynb](DSA/Medium/1669_merge_in_between_linked_lists.ipynb) |
+| 1670 | [Design Front Middle Back Queue](https://leetcode.com/problems/design-front-middle-back-queue/) | [1670_design_front_middle_back_queue.ipynb](DSA/Medium/1670_design_front_middle_back_queue.ipynb) |
+| 1673 | [Find the Most Competitive Subsequence](https://leetcode.com/problems/find-the-most-competitive-subsequence/) | [1673_find_the_most_competitive_subsequence.ipynb](DSA/Medium/1673_find_the_most_competitive_subsequence.ipynb) |
+| 1674 | [Minimum Moves to Make Array Complementary](https://leetcode.com/problems/minimum-moves-to-make-array-complementary/) | [1674_minimum_moves_to_make_array_complementary.ipynb](DSA/Medium/1674_minimum_moves_to_make_array_complementary.ipynb) |
+| 1676 | [Lowest Common Ancestor of a Binary Tree IV](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iv/) | [1676_lowest_common_ancestor_of_a_binary_tree_iv.ipynb](DSA/Medium/1676_lowest_common_ancestor_of_a_binary_tree_iv.ipynb) |
+| 1679 | [Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/) | [1679_max_number_of_k_sum_pairs.ipynb](DSA/Medium/1679_max_number_of_k_sum_pairs.ipynb) |
+| 1680 | [Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/) | [1680_concatenation_of_consecutive_binary_numbers.ipynb](DSA/Medium/1680_concatenation_of_consecutive_binary_numbers.ipynb) |
+| 1682 | [Longest Palindromic Subsequence II](https://leetcode.com/problems/longest-palindromic-subsequence-ii/) | [1682_longest_palindromic_subsequence_ii.ipynb](DSA/Medium/1682_longest_palindromic_subsequence_ii.ipynb) |
+| 1685 | [Sum of Absolute Differences in a Sorted Array](https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/) | [1685_sum_of_absolute_differences_in_a_sorted_array.ipynb](DSA/Medium/1685_sum_of_absolute_differences_in_a_sorted_array.ipynb) |
+| 1686 | [Stone Game VI](https://leetcode.com/problems/stone-game-vi/) | [1686_stone_game_vi.ipynb](DSA/Medium/1686_stone_game_vi.ipynb) |
+| 1689 | [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/) | [1689_partitioning_into_minimum_number_of_deci_binary_numbers.ipynb](DSA/Medium/1689_partitioning_into_minimum_number_of_deci_binary_numbers.ipynb) |
+| 1690 | [Stone Game VII](https://leetcode.com/problems/stone-game-vii/) | [1690_stone_game_vii.ipynb](DSA/Medium/1690_stone_game_vii.ipynb) |
+| 1695 | [Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/) | [1695_maximum_erasure_value.ipynb](DSA/Medium/1695_maximum_erasure_value.ipynb) |
 | 4044 | [Count Good Cyclic Rotations](https://leetcode.com/problems/count-good-cyclic-rotations/) | [4044_count_good_cyclic_rotations.ipynb](DSA/Medium/4044_count_good_cyclic_rotations.ipynb) |
 | 4045 | [Count Robot Groups](https://leetcode.com/problems/count-robot-groups/) | [4045_count_robot_groups.ipynb](DSA/Medium/4045_count_robot_groups.ipynb) |
 | 4049 | [Count Values With Equally Spaced Occurrences II](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-ii/) | [4049_count_values_with_equally_spaced_occurrences_ii.ipynb](DSA/Medium/4049_count_values_with_equally_spaced_occurrences_ii.ipynb) |
