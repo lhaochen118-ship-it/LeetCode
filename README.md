@@ -15,7 +15,7 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 2421 notebook** — DSA/Easy: 833 · DSA/Medium: 1124 · DSA/Hard: 449 · SQL: 13 · Shell: 2
+**Tổng: 2441 notebook** — DSA/Easy: 833 · DSA/Medium: 1144 · DSA/Hard: 449 · SQL: 13 · Shell: 2
 
 ## DSA — Easy — 833 bài
 
@@ -855,7 +855,7 @@ Shell/                            bài Shell (Bash)
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [4097_minimum_value_of_merged_integers.ipynb](DSA/Easy/4097_minimum_value_of_merged_integers.ipynb) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [4111_count_consistent_subarrays_i.ipynb](DSA/Easy/4111_count_consistent_subarrays_i.ipynb) |
 
-## DSA — Medium — 1124 bài
+## DSA — Medium — 1144 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -1964,6 +1964,26 @@ Shell/                            bài Shell (Bash)
 | 2237 | [Count Positions on Street With Required Brightness](https://leetcode.com/problems/count-positions-on-street-with-required-brightness/) | [2237_count_positions_on_street_with_required_brightness.ipynb](DSA/Medium/2237_count_positions_on_street_with_required_brightness.ipynb) |
 | 2240 | [Number of Ways to Buy Pens and Pencils](https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils/) | [2240_number_of_ways_to_buy_pens_and_pencils.ipynb](DSA/Medium/2240_number_of_ways_to_buy_pens_and_pencils.ipynb) |
 | 2241 | [Design an ATM Machine](https://leetcode.com/problems/design-an-atm-machine/) | [2241_design_an_atm_machine.ipynb](DSA/Medium/2241_design_an_atm_machine.ipynb) |
+| 2244 | [Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/) | [2244_minimum_rounds_to_complete_all_tasks.ipynb](DSA/Medium/2244_minimum_rounds_to_complete_all_tasks.ipynb) |
+| 2245 | [Maximum Trailing Zeros in a Cornered Path](https://leetcode.com/problems/maximum-trailing-zeros-in-a-cornered-path/) | [2245_maximum_trailing_zeros_in_a_cornered_path.ipynb](DSA/Medium/2245_maximum_trailing_zeros_in_a_cornered_path.ipynb) |
+| 2249 | [Count Lattice Points Inside a Circle](https://leetcode.com/problems/count-lattice-points-inside-a-circle/) | [2249_count_lattice_points_inside_a_circle.ipynb](DSA/Medium/2249_count_lattice_points_inside_a_circle.ipynb) |
+| 2250 | [Count Number of Rectangles Containing Each Point](https://leetcode.com/problems/count-number-of-rectangles-containing-each-point/) | [2250_count_number_of_rectangles_containing_each_point.ipynb](DSA/Medium/2250_count_number_of_rectangles_containing_each_point.ipynb) |
+| 2256 | [Minimum Average Difference](https://leetcode.com/problems/minimum-average-difference/) | [2256_minimum_average_difference.ipynb](DSA/Medium/2256_minimum_average_difference.ipynb) |
+| 2257 | [Count Unguarded Cells in the Grid](https://leetcode.com/problems/count-unguarded-cells-in-the-grid/) | [2257_count_unguarded_cells_in_the_grid.ipynb](DSA/Medium/2257_count_unguarded_cells_in_the_grid.ipynb) |
+| 2260 | [Minimum Consecutive Cards to Pick Up](https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/) | [2260_minimum_consecutive_cards_to_pick_up.ipynb](DSA/Medium/2260_minimum_consecutive_cards_to_pick_up.ipynb) |
+| 2261 | [K Divisible Elements Subarrays](https://leetcode.com/problems/k-divisible-elements-subarrays/) | [2261_k_divisible_elements_subarrays.ipynb](DSA/Medium/2261_k_divisible_elements_subarrays.ipynb) |
+| 2265 | [Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) | [2265_count_nodes_equal_to_average_of_subtree.ipynb](DSA/Medium/2265_count_nodes_equal_to_average_of_subtree.ipynb) |
+| 2266 | [Count Number of Texts](https://leetcode.com/problems/count-number-of-texts/) | [2266_count_number_of_texts.ipynb](DSA/Medium/2266_count_number_of_texts.ipynb) |
+| 2268 | [Minimum Number of Keypresses](https://leetcode.com/problems/minimum-number-of-keypresses/) | [2268_minimum_number_of_keypresses.ipynb](DSA/Medium/2268_minimum_number_of_keypresses.ipynb) |
+| 2270 | [Number of Ways to Split Array](https://leetcode.com/problems/number-of-ways-to-split-array/) | [2270_number_of_ways_to_split_array.ipynb](DSA/Medium/2270_number_of_ways_to_split_array.ipynb) |
+| 2271 | [Maximum White Tiles Covered by a Carpet](https://leetcode.com/problems/maximum-white-tiles-covered-by-a-carpet/) | [2271_maximum_white_tiles_covered_by_a_carpet.ipynb](DSA/Medium/2271_maximum_white_tiles_covered_by_a_carpet.ipynb) |
+| 2274 | [Maximum Consecutive Floors Without Special Floors](https://leetcode.com/problems/maximum-consecutive-floors-without-special-floors/) | [2274_maximum_consecutive_floors_without_special_floors.ipynb](DSA/Medium/2274_maximum_consecutive_floors_without_special_floors.ipynb) |
+| 2275 | [Largest Combination With Bitwise AND Greater Than Zero](https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero/) | [2275_largest_combination_with_bitwise_and_greater_than_zero.ipynb](DSA/Medium/2275_largest_combination_with_bitwise_and_greater_than_zero.ipynb) |
+| 2279 | [Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/) | [2279_maximum_bags_with_full_capacity_of_rocks.ipynb](DSA/Medium/2279_maximum_bags_with_full_capacity_of_rocks.ipynb) |
+| 2280 | [Minimum Lines to Represent a Line Chart](https://leetcode.com/problems/minimum-lines-to-represent-a-line-chart/) | [2280_minimum_lines_to_represent_a_line_chart.ipynb](DSA/Medium/2280_minimum_lines_to_represent_a_line_chart.ipynb) |
+| 2282 | [Number of People That Can Be Seen in a Grid](https://leetcode.com/problems/number-of-people-that-can-be-seen-in-a-grid/) | [2282_number_of_people_that_can_be_seen_in_a_grid.ipynb](DSA/Medium/2282_number_of_people_that_can_be_seen_in_a_grid.ipynb) |
+| 2284 | [Sender With Largest Word Count](https://leetcode.com/problems/sender-with-largest-word-count/) | [2284_sender_with_largest_word_count.ipynb](DSA/Medium/2284_sender_with_largest_word_count.ipynb) |
+| 2285 | [Maximum Total Importance of Roads](https://leetcode.com/problems/maximum-total-importance-of-roads/) | [2285_maximum_total_importance_of_roads.ipynb](DSA/Medium/2285_maximum_total_importance_of_roads.ipynb) |
 | 4044 | [Count Good Cyclic Rotations](https://leetcode.com/problems/count-good-cyclic-rotations/) | [4044_count_good_cyclic_rotations.ipynb](DSA/Medium/4044_count_good_cyclic_rotations.ipynb) |
 | 4045 | [Count Robot Groups](https://leetcode.com/problems/count-robot-groups/) | [4045_count_robot_groups.ipynb](DSA/Medium/4045_count_robot_groups.ipynb) |
 | 4049 | [Count Values With Equally Spaced Occurrences II](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-ii/) | [4049_count_values_with_equally_spaced_occurrences_ii.ipynb](DSA/Medium/4049_count_values_with_equally_spaced_occurrences_ii.ipynb) |
