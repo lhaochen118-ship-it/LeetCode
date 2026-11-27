@@ -15,7 +15,7 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 2341 notebook** — DSA/Easy: 833 · DSA/Medium: 1044 · DSA/Hard: 449 · SQL: 13 · Shell: 2
+**Tổng: 2361 notebook** — DSA/Easy: 833 · DSA/Medium: 1064 · DSA/Hard: 449 · SQL: 13 · Shell: 2
 
 ## DSA — Easy — 833 bài
 
@@ -855,7 +855,7 @@ Shell/                            bài Shell (Bash)
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [4097_minimum_value_of_merged_integers.ipynb](DSA/Easy/4097_minimum_value_of_merged_integers.ipynb) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [4111_count_consistent_subarrays_i.ipynb](DSA/Easy/4111_count_consistent_subarrays_i.ipynb) |
 
-## DSA — Medium — 1044 bài
+## DSA — Medium — 1064 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -1864,6 +1864,26 @@ Shell/                            bài Shell (Bash)
 | 2033 | [Minimum Operations to Make a Uni-Value Grid](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/) | [2033_minimum_operations_to_make_a_uni_value_grid.ipynb](DSA/Medium/2033_minimum_operations_to_make_a_uni_value_grid.ipynb) |
 | 2034 | [Stock Price Fluctuation](https://leetcode.com/problems/stock-price-fluctuation/) | [2034_stock_price_fluctuation.ipynb](DSA/Medium/2034_stock_price_fluctuation.ipynb) |
 | 2036 | [Maximum Alternating Subarray Sum](https://leetcode.com/problems/maximum-alternating-subarray-sum/) | [2036_maximum_alternating_subarray_sum.ipynb](DSA/Medium/2036_maximum_alternating_subarray_sum.ipynb) |
+| 2077 | [Paths in Maze That Lead to Same Room](https://leetcode.com/problems/paths-in-maze-that-lead-to-same-room/) | [2077_paths_in_maze_that_lead_to_same_room.ipynb](DSA/Medium/2077_paths_in_maze_that_lead_to_same_room.ipynb) |
+| 2079 | [Watering Plants](https://leetcode.com/problems/watering-plants/) | [2079_watering_plants.ipynb](DSA/Medium/2079_watering_plants.ipynb) |
+| 2080 | [Range Frequency Queries](https://leetcode.com/problems/range-frequency-queries/) | [2080_range_frequency_queries.ipynb](DSA/Medium/2080_range_frequency_queries.ipynb) |
+| 2083 | [Substrings That Begin and End With the Same Letter](https://leetcode.com/problems/substrings-that-begin-and-end-with-the-same-letter/) | [2083_substrings_that_begin_and_end_with_the_same_letter.ipynb](DSA/Medium/2083_substrings_that_begin_and_end_with_the_same_letter.ipynb) |
+| 2086 | [Minimum Number of Food Buckets to Feed the Hamsters](https://leetcode.com/problems/minimum-number-of-food-buckets-to-feed-the-hamsters/) | [2086_minimum_number_of_food_buckets_to_feed_the_hamsters.ipynb](DSA/Medium/2086_minimum_number_of_food_buckets_to_feed_the_hamsters.ipynb) |
+| 2087 | [Minimum Cost Homecoming of a Robot in a Grid](https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid/) | [2087_minimum_cost_homecoming_of_a_robot_in_a_grid.ipynb](DSA/Medium/2087_minimum_cost_homecoming_of_a_robot_in_a_grid.ipynb) |
+| 2090 | [K Radius Subarray Averages](https://leetcode.com/problems/k-radius-subarray-averages/) | [2090_k_radius_subarray_averages.ipynb](DSA/Medium/2090_k_radius_subarray_averages.ipynb) |
+| 2091 | [Removing Minimum and Maximum From Array](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/) | [2091_removing_minimum_and_maximum_from_array.ipynb](DSA/Medium/2091_removing_minimum_and_maximum_from_array.ipynb) |
+| 2093 | [Minimum Cost to Reach City With Discounts](https://leetcode.com/problems/minimum-cost-to-reach-city-with-discounts/) | [2093_minimum_cost_to_reach_city_with_discounts.ipynb](DSA/Medium/2093_minimum_cost_to_reach_city_with_discounts.ipynb) |
+| 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | [2095_delete_the_middle_node_of_a_linked_list.ipynb](DSA/Medium/2095_delete_the_middle_node_of_a_linked_list.ipynb) |
+| 2096 | [Step-By-Step Directions From a Binary Tree Node to Another](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/) | [2096_step_by_step_directions_from_a_binary_tree_node_to_another.ipynb](DSA/Medium/2096_step_by_step_directions_from_a_binary_tree_node_to_another.ipynb) |
+| 2098 | [Subsequence of Size K With the Largest Even Sum](https://leetcode.com/problems/subsequence-of-size-k-with-the-largest-even-sum/) | [2098_subsequence_of_size_k_with_the_largest_even_sum.ipynb](DSA/Medium/2098_subsequence_of_size_k_with_the_largest_even_sum.ipynb) |
+| 2100 | [Find Good Days to Rob the Bank](https://leetcode.com/problems/find-good-days-to-rob-the-bank/) | [2100_find_good_days_to_rob_the_bank.ipynb](DSA/Medium/2100_find_good_days_to_rob_the_bank.ipynb) |
+| 2101 | [Detonate the Maximum Bombs](https://leetcode.com/problems/detonate-the-maximum-bombs/) | [2101_detonate_the_maximum_bombs.ipynb](DSA/Medium/2101_detonate_the_maximum_bombs.ipynb) |
+| 2104 | [Sum of Subarray Ranges](https://leetcode.com/problems/sum-of-subarray-ranges/) | [2104_sum_of_subarray_ranges.ipynb](DSA/Medium/2104_sum_of_subarray_ranges.ipynb) |
+| 2105 | [Watering Plants II](https://leetcode.com/problems/watering-plants-ii/) | [2105_watering_plants_ii.ipynb](DSA/Medium/2105_watering_plants_ii.ipynb) |
+| 2107 | [Number of Unique Flavors After Sharing K Candies](https://leetcode.com/problems/number-of-unique-flavors-after-sharing-k-candies/) | [2107_number_of_unique_flavors_after_sharing_k_candies.ipynb](DSA/Medium/2107_number_of_unique_flavors_after_sharing_k_candies.ipynb) |
+| 2109 | [Adding Spaces to a String](https://leetcode.com/problems/adding-spaces-to-a-string/) | [2109_adding_spaces_to_a_string.ipynb](DSA/Medium/2109_adding_spaces_to_a_string.ipynb) |
+| 2110 | [Number of Smooth Descent Periods of a Stock](https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/) | [2110_number_of_smooth_descent_periods_of_a_stock.ipynb](DSA/Medium/2110_number_of_smooth_descent_periods_of_a_stock.ipynb) |
+| 2113 | [Elements in Array After Removing and Replacing Elements](https://leetcode.com/problems/elements-in-array-after-removing-and-replacing-elements/) | [2113_elements_in_array_after_removing_and_replacing_elements.ipynb](DSA/Medium/2113_elements_in_array_after_removing_and_replacing_elements.ipynb) |
 | 2198 | [Number of Single Divisor Triplets](https://leetcode.com/problems/number-of-single-divisor-triplets/) | [2198_number_of_single_divisor_triplets.ipynb](DSA/Medium/2198_number_of_single_divisor_triplets.ipynb) |
 | 2201 | [Count Artifacts That Can Be Extracted](https://leetcode.com/problems/count-artifacts-that-can-be-extracted/) | [2201_count_artifacts_that_can_be_extracted.ipynb](DSA/Medium/2201_count_artifacts_that_can_be_extracted.ipynb) |
 | 2202 | [Maximize the Topmost Element After K Moves](https://leetcode.com/problems/maximize-the-topmost-element-after-k-moves/) | [2202_maximize_the_topmost_element_after_k_moves.ipynb](DSA/Medium/2202_maximize_the_topmost_element_after_k_moves.ipynb) |
