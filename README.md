@@ -15,7 +15,7 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 2321 notebook** — DSA/Easy: 833 · DSA/Medium: 1024 · DSA/Hard: 449 · SQL: 13 · Shell: 2
+**Tổng: 2341 notebook** — DSA/Easy: 833 · DSA/Medium: 1044 · DSA/Hard: 449 · SQL: 13 · Shell: 2
 
 ## DSA — Easy — 833 bài
 
@@ -855,7 +855,7 @@ Shell/                            bài Shell (Bash)
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [4097_minimum_value_of_merged_integers.ipynb](DSA/Easy/4097_minimum_value_of_merged_integers.ipynb) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [4111_count_consistent_subarrays_i.ipynb](DSA/Easy/4111_count_consistent_subarrays_i.ipynb) |
 
-## DSA — Medium — 1024 bài
+## DSA — Medium — 1044 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -1864,6 +1864,26 @@ Shell/                            bài Shell (Bash)
 | 2033 | [Minimum Operations to Make a Uni-Value Grid](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/) | [2033_minimum_operations_to_make_a_uni_value_grid.ipynb](DSA/Medium/2033_minimum_operations_to_make_a_uni_value_grid.ipynb) |
 | 2034 | [Stock Price Fluctuation](https://leetcode.com/problems/stock-price-fluctuation/) | [2034_stock_price_fluctuation.ipynb](DSA/Medium/2034_stock_price_fluctuation.ipynb) |
 | 2036 | [Maximum Alternating Subarray Sum](https://leetcode.com/problems/maximum-alternating-subarray-sum/) | [2036_maximum_alternating_subarray_sum.ipynb](DSA/Medium/2036_maximum_alternating_subarray_sum.ipynb) |
+| 2198 | [Number of Single Divisor Triplets](https://leetcode.com/problems/number-of-single-divisor-triplets/) | [2198_number_of_single_divisor_triplets.ipynb](DSA/Medium/2198_number_of_single_divisor_triplets.ipynb) |
+| 2201 | [Count Artifacts That Can Be Extracted](https://leetcode.com/problems/count-artifacts-that-can-be-extracted/) | [2201_count_artifacts_that_can_be_extracted.ipynb](DSA/Medium/2201_count_artifacts_that_can_be_extracted.ipynb) |
+| 2202 | [Maximize the Topmost Element After K Moves](https://leetcode.com/problems/maximize-the-topmost-element-after-k-moves/) | [2202_maximize_the_topmost_element_after_k_moves.ipynb](DSA/Medium/2202_maximize_the_topmost_element_after_k_moves.ipynb) |
+| 2207 | [Maximize Number of Subsequences in a String](https://leetcode.com/problems/maximize-number-of-subsequences-in-a-string/) | [2207_maximize_number_of_subsequences_in_a_string.ipynb](DSA/Medium/2207_maximize_number_of_subsequences_in_a_string.ipynb) |
+| 2208 | [Minimum Operations to Halve Array Sum](https://leetcode.com/problems/minimum-operations-to-halve-array-sum/) | [2208_minimum_operations_to_halve_array_sum.ipynb](DSA/Medium/2208_minimum_operations_to_halve_array_sum.ipynb) |
+| 2211 | [Count Collisions on a Road](https://leetcode.com/problems/count-collisions-on-a-road/) | [2211_count_collisions_on_a_road.ipynb](DSA/Medium/2211_count_collisions_on_a_road.ipynb) |
+| 2212 | [Maximum Points in an Archery Competition](https://leetcode.com/problems/maximum-points-in-an-archery-competition/) | [2212_maximum_points_in_an_archery_competition.ipynb](DSA/Medium/2212_maximum_points_in_an_archery_competition.ipynb) |
+| 2214 | [Minimum Health to Beat Game](https://leetcode.com/problems/minimum-health-to-beat-game/) | [2214_minimum_health_to_beat_game.ipynb](DSA/Medium/2214_minimum_health_to_beat_game.ipynb) |
+| 2216 | [Minimum Deletions to Make Array Beautiful](https://leetcode.com/problems/minimum-deletions-to-make-array-beautiful/) | [2216_minimum_deletions_to_make_array_beautiful.ipynb](DSA/Medium/2216_minimum_deletions_to_make_array_beautiful.ipynb) |
+| 2217 | [Find Palindrome With Fixed Length](https://leetcode.com/problems/find-palindrome-with-fixed-length/) | [2217_find_palindrome_with_fixed_length.ipynb](DSA/Medium/2217_find_palindrome_with_fixed_length.ipynb) |
+| 2219 | [Maximum Sum Score of Array](https://leetcode.com/problems/maximum-sum-score-of-array/) | [2219_maximum_sum_score_of_array.ipynb](DSA/Medium/2219_maximum_sum_score_of_array.ipynb) |
+| 2221 | [Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/) | [2221_find_triangular_sum_of_an_array.ipynb](DSA/Medium/2221_find_triangular_sum_of_an_array.ipynb) |
+| 2222 | [Number of Ways to Select Buildings](https://leetcode.com/problems/number-of-ways-to-select-buildings/) | [2222_number_of_ways_to_select_buildings.ipynb](DSA/Medium/2222_number_of_ways_to_select_buildings.ipynb) |
+| 2225 | [Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/) | [2225_find_players_with_zero_or_one_losses.ipynb](DSA/Medium/2225_find_players_with_zero_or_one_losses.ipynb) |
+| 2226 | [Maximum Candies Allocated to K Children](https://leetcode.com/problems/maximum-candies-allocated-to-k-children/) | [2226_maximum_candies_allocated_to_k_children.ipynb](DSA/Medium/2226_maximum_candies_allocated_to_k_children.ipynb) |
+| 2232 | [Minimize Result by Adding Parentheses to Expression](https://leetcode.com/problems/minimize-result-by-adding-parentheses-to-expression/) | [2232_minimize_result_by_adding_parentheses_to_expression.ipynb](DSA/Medium/2232_minimize_result_by_adding_parentheses_to_expression.ipynb) |
+| 2233 | [Maximum Product After K Increments](https://leetcode.com/problems/maximum-product-after-k-increments/) | [2233_maximum_product_after_k_increments.ipynb](DSA/Medium/2233_maximum_product_after_k_increments.ipynb) |
+| 2237 | [Count Positions on Street With Required Brightness](https://leetcode.com/problems/count-positions-on-street-with-required-brightness/) | [2237_count_positions_on_street_with_required_brightness.ipynb](DSA/Medium/2237_count_positions_on_street_with_required_brightness.ipynb) |
+| 2240 | [Number of Ways to Buy Pens and Pencils](https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils/) | [2240_number_of_ways_to_buy_pens_and_pencils.ipynb](DSA/Medium/2240_number_of_ways_to_buy_pens_and_pencils.ipynb) |
+| 2241 | [Design an ATM Machine](https://leetcode.com/problems/design-an-atm-machine/) | [2241_design_an_atm_machine.ipynb](DSA/Medium/2241_design_an_atm_machine.ipynb) |
 | 4044 | [Count Good Cyclic Rotations](https://leetcode.com/problems/count-good-cyclic-rotations/) | [4044_count_good_cyclic_rotations.ipynb](DSA/Medium/4044_count_good_cyclic_rotations.ipynb) |
 | 4045 | [Count Robot Groups](https://leetcode.com/problems/count-robot-groups/) | [4045_count_robot_groups.ipynb](DSA/Medium/4045_count_robot_groups.ipynb) |
 | 4049 | [Count Values With Equally Spaced Occurrences II](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-ii/) | [4049_count_values_with_equally_spaced_occurrences_ii.ipynb](DSA/Medium/4049_count_values_with_equally_spaced_occurrences_ii.ipynb) |
