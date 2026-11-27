@@ -15,7 +15,7 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 2181 notebook** — DSA/Easy: 833 · DSA/Medium: 884 · DSA/Hard: 449 · SQL: 13 · Shell: 2
+**Tổng: 2201 notebook** — DSA/Easy: 833 · DSA/Medium: 904 · DSA/Hard: 449 · SQL: 13 · Shell: 2
 
 ## DSA — Easy — 833 bài
 
@@ -855,7 +855,7 @@ Shell/                            bài Shell (Bash)
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [4097_minimum_value_of_merged_integers.ipynb](DSA/Easy/4097_minimum_value_of_merged_integers.ipynb) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [4111_count_consistent_subarrays_i.ipynb](DSA/Easy/4111_count_consistent_subarrays_i.ipynb) |
 
-## DSA — Medium — 884 bài
+## DSA — Medium — 904 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -1724,6 +1724,26 @@ Shell/                            bài Shell (Bash)
 | 1737 | [Change Minimum Characters to Satisfy One of Three Conditions](https://leetcode.com/problems/change-minimum-characters-to-satisfy-one-of-three-conditions/) | [1737_change_minimum_characters_to_satisfy_one_of_three_conditions.ipynb](DSA/Medium/1737_change_minimum_characters_to_satisfy_one_of_three_conditions.ipynb) |
 | 1738 | [Find Kth Largest XOR Coordinate Value](https://leetcode.com/problems/find-kth-largest-xor-coordinate-value/) | [1738_find_kth_largest_xor_coordinate_value.ipynb](DSA/Medium/1738_find_kth_largest_xor_coordinate_value.ipynb) |
 | 1740 | [Find Distance in a Binary Tree](https://leetcode.com/problems/find-distance-in-a-binary-tree/) | [1740_find_distance_in_a_binary_tree.ipynb](DSA/Medium/1740_find_distance_in_a_binary_tree.ipynb) |
+| 1743 | [Restore the Array From Adjacent Pairs](https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/) | [1743_restore_the_array_from_adjacent_pairs.ipynb](DSA/Medium/1743_restore_the_array_from_adjacent_pairs.ipynb) |
+| 1744 | [Can You Eat Your Favorite Candy on Your Favorite Day](https://leetcode.com/problems/can-you-eat-your-favorite-candy-on-your-favorite-day/) | [1744_can_you_eat_your_favorite_candy_on_your_favorite_day.ipynb](DSA/Medium/1744_can_you_eat_your_favorite_candy_on_your_favorite_day.ipynb) |
+| 1746 | [Maximum Subarray Sum After One Operation](https://leetcode.com/problems/maximum-subarray-sum-after-one-operation/) | [1746_maximum_subarray_sum_after_one_operation.ipynb](DSA/Medium/1746_maximum_subarray_sum_after_one_operation.ipynb) |
+| 1749 | [Maximum Absolute Sum of Any Subarray](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/) | [1749_maximum_absolute_sum_of_any_subarray.ipynb](DSA/Medium/1749_maximum_absolute_sum_of_any_subarray.ipynb) |
+| 1750 | [Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/) | [1750_minimum_length_of_string_after_deleting_similar_ends.ipynb](DSA/Medium/1750_minimum_length_of_string_after_deleting_similar_ends.ipynb) |
+| 1753 | [Maximum Score From Removing Stones](https://leetcode.com/problems/maximum-score-from-removing-stones/) | [1753_maximum_score_from_removing_stones.ipynb](DSA/Medium/1753_maximum_score_from_removing_stones.ipynb) |
+| 1754 | [Largest Merge Of Two Strings](https://leetcode.com/problems/largest-merge-of-two-strings/) | [1754_largest_merge_of_two_strings.ipynb](DSA/Medium/1754_largest_merge_of_two_strings.ipynb) |
+| 1756 | [Design Most Recently Used Queue](https://leetcode.com/problems/design-most-recently-used-queue/) | [1756_design_most_recently_used_queue.ipynb](DSA/Medium/1756_design_most_recently_used_queue.ipynb) |
+| 1759 | [Count Number of Homogenous Substrings](https://leetcode.com/problems/count-number-of-homogenous-substrings/) | [1759_count_number_of_homogenous_substrings.ipynb](DSA/Medium/1759_count_number_of_homogenous_substrings.ipynb) |
+| 1760 | [Minimum Limit of Balls in a Bag](https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/) | [1760_minimum_limit_of_balls_in_a_bag.ipynb](DSA/Medium/1760_minimum_limit_of_balls_in_a_bag.ipynb) |
+| 1762 | [Buildings With an Ocean View](https://leetcode.com/problems/buildings-with-an-ocean-view/) | [1762_buildings_with_an_ocean_view.ipynb](DSA/Medium/1762_buildings_with_an_ocean_view.ipynb) |
+| 1764 | [Form Array by Concatenating Subarrays of Another Array](https://leetcode.com/problems/form-array-by-concatenating-subarrays-of-another-array/) | [1764_form_array_by_concatenating_subarrays_of_another_array.ipynb](DSA/Medium/1764_form_array_by_concatenating_subarrays_of_another_array.ipynb) |
+| 1765 | [Map of Highest Peak](https://leetcode.com/problems/map-of-highest-peak/) | [1765_map_of_highest_peak.ipynb](DSA/Medium/1765_map_of_highest_peak.ipynb) |
+| 1769 | [Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/) | [1769_minimum_number_of_operations_to_move_all_balls_to_each_box.ipynb](DSA/Medium/1769_minimum_number_of_operations_to_move_all_balls_to_each_box.ipynb) |
+| 1772 | [Sort Features by Popularity](https://leetcode.com/problems/sort-features-by-popularity/) | [1772_sort_features_by_popularity.ipynb](DSA/Medium/1772_sort_features_by_popularity.ipynb) |
+| 1774 | [Closest Dessert Cost](https://leetcode.com/problems/closest-dessert-cost/) | [1774_closest_dessert_cost.ipynb](DSA/Medium/1774_closest_dessert_cost.ipynb) |
+| 1775 | [Equal Sum Arrays With Minimum Number of Operations](https://leetcode.com/problems/equal-sum-arrays-with-minimum-number-of-operations/) | [1775_equal_sum_arrays_with_minimum_number_of_operations.ipynb](DSA/Medium/1775_equal_sum_arrays_with_minimum_number_of_operations.ipynb) |
+| 1778 | [Shortest Path in a Hidden Grid](https://leetcode.com/problems/shortest-path-in-a-hidden-grid/) | [1778_shortest_path_in_a_hidden_grid.ipynb](DSA/Medium/1778_shortest_path_in_a_hidden_grid.ipynb) |
+| 1780 | [Check if Number is a Sum of Powers of Three](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/) | [1780_check_if_number_is_a_sum_of_powers_of_three.ipynb](DSA/Medium/1780_check_if_number_is_a_sum_of_powers_of_three.ipynb) |
+| 1781 | [Sum of Beauty of All Substrings](https://leetcode.com/problems/sum-of-beauty-of-all-substrings/) | [1781_sum_of_beauty_of_all_substrings.ipynb](DSA/Medium/1781_sum_of_beauty_of_all_substrings.ipynb) |
 | 4044 | [Count Good Cyclic Rotations](https://leetcode.com/problems/count-good-cyclic-rotations/) | [4044_count_good_cyclic_rotations.ipynb](DSA/Medium/4044_count_good_cyclic_rotations.ipynb) |
 | 4045 | [Count Robot Groups](https://leetcode.com/problems/count-robot-groups/) | [4045_count_robot_groups.ipynb](DSA/Medium/4045_count_robot_groups.ipynb) |
 | 4049 | [Count Values With Equally Spaced Occurrences II](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-ii/) | [4049_count_values_with_equally_spaced_occurrences_ii.ipynb](DSA/Medium/4049_count_values_with_equally_spaced_occurrences_ii.ipynb) |
