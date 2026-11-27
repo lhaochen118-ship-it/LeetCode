@@ -15,7 +15,7 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 2281 notebook** — DSA/Easy: 833 · DSA/Medium: 984 · DSA/Hard: 449 · SQL: 13 · Shell: 2
+**Tổng: 2301 notebook** — DSA/Easy: 833 · DSA/Medium: 1004 · DSA/Hard: 449 · SQL: 13 · Shell: 2
 
 ## DSA — Easy — 833 bài
 
@@ -855,7 +855,7 @@ Shell/                            bài Shell (Bash)
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [4097_minimum_value_of_merged_integers.ipynb](DSA/Easy/4097_minimum_value_of_merged_integers.ipynb) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [4111_count_consistent_subarrays_i.ipynb](DSA/Easy/4111_count_consistent_subarrays_i.ipynb) |
 
-## DSA — Medium — 984 bài
+## DSA — Medium — 1004 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -1804,6 +1804,26 @@ Shell/                            bài Shell (Bash)
 | 1904 | [The Number of Full Rounds You Have Played](https://leetcode.com/problems/the-number-of-full-rounds-you-have-played/) | [1904_the_number_of_full_rounds_you_have_played.ipynb](DSA/Medium/1904_the_number_of_full_rounds_you_have_played.ipynb) |
 | 1905 | [Count Sub Islands](https://leetcode.com/problems/count-sub-islands/) | [1905_count_sub_islands.ipynb](DSA/Medium/1905_count_sub_islands.ipynb) |
 | 1906 | [Minimum Absolute Difference Queries](https://leetcode.com/problems/minimum-absolute-difference-queries/) | [1906_minimum_absolute_difference_queries.ipynb](DSA/Medium/1906_minimum_absolute_difference_queries.ipynb) |
+| 1954 | [Minimum Garden Perimeter to Collect Enough Apples](https://leetcode.com/problems/minimum-garden-perimeter-to-collect-enough-apples/) | [1954_minimum_garden_perimeter_to_collect_enough_apples.ipynb](DSA/Medium/1954_minimum_garden_perimeter_to_collect_enough_apples.ipynb) |
+| 1958 | [Check if Move is Legal](https://leetcode.com/problems/check-if-move-is-legal/) | [1958_check_if_move_is_legal.ipynb](DSA/Medium/1958_check_if_move_is_legal.ipynb) |
+| 1959 | [Minimum Total Space Wasted With K Resizing Operations](https://leetcode.com/problems/minimum-total-space-wasted-with-k-resizing-operations/) | [1959_minimum_total_space_wasted_with_k_resizing_operations.ipynb](DSA/Medium/1959_minimum_total_space_wasted_with_k_resizing_operations.ipynb) |
+| 1962 | [Remove Stones to Minimize the Total](https://leetcode.com/problems/remove-stones-to-minimize-the-total/) | [1962_remove_stones_to_minimize_the_total.ipynb](DSA/Medium/1962_remove_stones_to_minimize_the_total.ipynb) |
+| 1963 | [Minimum Number of Swaps to Make the String Balanced](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/) | [1963_minimum_number_of_swaps_to_make_the_string_balanced.ipynb](DSA/Medium/1963_minimum_number_of_swaps_to_make_the_string_balanced.ipynb) |
+| 1966 | [Binary Searchable Numbers in an Unsorted Array](https://leetcode.com/problems/binary-searchable-numbers-in-an-unsorted-array/) | [1966_binary_searchable_numbers_in_an_unsorted_array.ipynb](DSA/Medium/1966_binary_searchable_numbers_in_an_unsorted_array.ipynb) |
+| 1968 | [Array With Elements Not Equal to Average of Neighbors](https://leetcode.com/problems/array-with-elements-not-equal-to-average-of-neighbors/) | [1968_array_with_elements_not_equal_to_average_of_neighbors.ipynb](DSA/Medium/1968_array_with_elements_not_equal_to_average_of_neighbors.ipynb) |
+| 1969 | [Minimum Non-Zero Product of the Array Elements](https://leetcode.com/problems/minimum-non-zero-product-of-the-array-elements/) | [1969_minimum_non_zero_product_of_the_array_elements.ipynb](DSA/Medium/1969_minimum_non_zero_product_of_the_array_elements.ipynb) |
+| 1973 | [Count Nodes Equal to Sum of Descendants](https://leetcode.com/problems/count-nodes-equal-to-sum-of-descendants/) | [1973_count_nodes_equal_to_sum_of_descendants.ipynb](DSA/Medium/1973_count_nodes_equal_to_sum_of_descendants.ipynb) |
+| 1975 | [Maximum Matrix Sum](https://leetcode.com/problems/maximum-matrix-sum/) | [1975_maximum_matrix_sum.ipynb](DSA/Medium/1975_maximum_matrix_sum.ipynb) |
+| 1976 | [Number of Ways to Arrive at Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/) | [1976_number_of_ways_to_arrive_at_destination.ipynb](DSA/Medium/1976_number_of_ways_to_arrive_at_destination.ipynb) |
+| 1980 | [Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/) | [1980_find_unique_binary_string.ipynb](DSA/Medium/1980_find_unique_binary_string.ipynb) |
+| 1981 | [Minimize the Difference Between Target and Chosen Elements](https://leetcode.com/problems/minimize-the-difference-between-target-and-chosen-elements/) | [1981_minimize_the_difference_between_target_and_chosen_elements.ipynb](DSA/Medium/1981_minimize_the_difference_between_target_and_chosen_elements.ipynb) |
+| 1983 | [Widest Pair of Indices With Equal Range Sum](https://leetcode.com/problems/widest-pair-of-indices-with-equal-range-sum/) | [1983_widest_pair_of_indices_with_equal_range_sum.ipynb](DSA/Medium/1983_widest_pair_of_indices_with_equal_range_sum.ipynb) |
+| 1985 | [Find the Kth Largest Integer in the Array](https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/) | [1985_find_the_kth_largest_integer_in_the_array.ipynb](DSA/Medium/1985_find_the_kth_largest_integer_in_the_array.ipynb) |
+| 1986 | [Minimum Number of Work Sessions to Finish the Tasks](https://leetcode.com/problems/minimum-number-of-work-sessions-to-finish-the-tasks/) | [1986_minimum_number_of_work_sessions_to_finish_the_tasks.ipynb](DSA/Medium/1986_minimum_number_of_work_sessions_to_finish_the_tasks.ipynb) |
+| 1989 | [Maximum Number of People That Can Be Caught in Tag](https://leetcode.com/problems/maximum-number-of-people-that-can-be-caught-in-tag/) | [1989_maximum_number_of_people_that_can_be_caught_in_tag.ipynb](DSA/Medium/1989_maximum_number_of_people_that_can_be_caught_in_tag.ipynb) |
+| 1992 | [Find All Groups of Farmland](https://leetcode.com/problems/find-all-groups-of-farmland/) | [1992_find_all_groups_of_farmland.ipynb](DSA/Medium/1992_find_all_groups_of_farmland.ipynb) |
+| 1993 | [Operations on Tree](https://leetcode.com/problems/operations-on-tree/) | [1993_operations_on_tree.ipynb](DSA/Medium/1993_operations_on_tree.ipynb) |
+| 1996 | [The Number of Weak Characters in the Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/) | [1996_the_number_of_weak_characters_in_the_game.ipynb](DSA/Medium/1996_the_number_of_weak_characters_in_the_game.ipynb) |
 | 1997 | [First Day Where You Have Been in All the Rooms](https://leetcode.com/problems/first-day-where-you-have-been-in-all-the-rooms/) | [1997_first_day_where_you_have_been_in_all_the_rooms.ipynb](DSA/Medium/1997_first_day_where_you_have_been_in_all_the_rooms.ipynb) |
 | 1999 | [Smallest Greater Multiple Made of Two Digits](https://leetcode.com/problems/smallest-greater-multiple-made-of-two-digits/) | [1999_smallest_greater_multiple_made_of_two_digits.ipynb](DSA/Medium/1999_smallest_greater_multiple_made_of_two_digits.ipynb) |
 | 2001 | [Number of Pairs of Interchangeable Rectangles](https://leetcode.com/problems/number-of-pairs-of-interchangeable-rectangles/) | [2001_number_of_pairs_of_interchangeable_rectangles.ipynb](DSA/Medium/2001_number_of_pairs_of_interchangeable_rectangles.ipynb) |
