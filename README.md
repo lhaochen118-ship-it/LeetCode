@@ -15,7 +15,7 @@ Shell/                            bài Shell (Bash)
 - Tiến độ theo dõi trong `LeetCode_DSA_Python_3711_Theo_Doi_Tao_Bai_Giang.xlsx`: sheet `Danh muc DSA` (3.711 bài DSA) và sheet `Ngoai DSA` (SQL/Shell).
 - Bài Premium: đề bài viết theo hiểu biết về bản LeetCode, nên đối chiếu lại nếu có tài khoản Premium.
 
-**Tổng: 2441 notebook** — DSA/Easy: 833 · DSA/Medium: 1144 · DSA/Hard: 449 · SQL: 13 · Shell: 2
+**Tổng: 2461 notebook** — DSA/Easy: 833 · DSA/Medium: 1164 · DSA/Hard: 449 · SQL: 13 · Shell: 2
 
 ## DSA — Easy — 833 bài
 
@@ -855,7 +855,7 @@ Shell/                            bài Shell (Bash)
 | 4097 | [Minimum Value of Merged Integers](https://leetcode.com/problems/minimum-value-of-merged-integers/) | [4097_minimum_value_of_merged_integers.ipynb](DSA/Easy/4097_minimum_value_of_merged_integers.ipynb) |
 | 4111 | [Count Consistent Subarrays I](https://leetcode.com/problems/count-consistent-subarrays-i/) | [4111_count_consistent_subarrays_i.ipynb](DSA/Easy/4111_count_consistent_subarrays_i.ipynb) |
 
-## DSA — Medium — 1144 bài
+## DSA — Medium — 1164 bài
 
 | ID | Bài | Notebook |
 |---:|-----|----------|
@@ -1984,6 +1984,26 @@ Shell/                            bài Shell (Bash)
 | 2282 | [Number of People That Can Be Seen in a Grid](https://leetcode.com/problems/number-of-people-that-can-be-seen-in-a-grid/) | [2282_number_of_people_that_can_be_seen_in_a_grid.ipynb](DSA/Medium/2282_number_of_people_that_can_be_seen_in_a_grid.ipynb) |
 | 2284 | [Sender With Largest Word Count](https://leetcode.com/problems/sender-with-largest-word-count/) | [2284_sender_with_largest_word_count.ipynb](DSA/Medium/2284_sender_with_largest_word_count.ipynb) |
 | 2285 | [Maximum Total Importance of Roads](https://leetcode.com/problems/maximum-total-importance-of-roads/) | [2285_maximum_total_importance_of_roads.ipynb](DSA/Medium/2285_maximum_total_importance_of_roads.ipynb) |
+| 2288 | [Apply Discount to Prices](https://leetcode.com/problems/apply-discount-to-prices/) | [2288_apply_discount_to_prices.ipynb](DSA/Medium/2288_apply_discount_to_prices.ipynb) |
+| 2289 | [Steps to Make Array Non-decreasing](https://leetcode.com/problems/steps-to-make-array-non-decreasing/) | [2289_steps_to_make_array_non_decreasing.ipynb](DSA/Medium/2289_steps_to_make_array_non_decreasing.ipynb) |
+| 2291 | [Maximum Profit From Trading Stocks](https://leetcode.com/problems/maximum-profit-from-trading-stocks/) | [2291_maximum_profit_from_trading_stocks.ipynb](DSA/Medium/2291_maximum_profit_from_trading_stocks.ipynb) |
+| 2294 | [Partition Array Such That Maximum Difference Is K](https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/) | [2294_partition_array_such_that_maximum_difference_is_k.ipynb](DSA/Medium/2294_partition_array_such_that_maximum_difference_is_k.ipynb) |
+| 2295 | [Replace Elements in an Array](https://leetcode.com/problems/replace-elements-in-an-array/) | [2295_replace_elements_in_an_array.ipynb](DSA/Medium/2295_replace_elements_in_an_array.ipynb) |
+| 2297 | [Jump Game VIII](https://leetcode.com/problems/jump-game-viii/) | [2297_jump_game_viii.ipynb](DSA/Medium/2297_jump_game_viii.ipynb) |
+| 2300 | [Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/) | [2300_successful_pairs_of_spells_and_potions.ipynb](DSA/Medium/2300_successful_pairs_of_spells_and_potions.ipynb) |
+| 2304 | [Minimum Path Cost in a Grid](https://leetcode.com/problems/minimum-path-cost-in-a-grid/) | [2304_minimum_path_cost_in_a_grid.ipynb](DSA/Medium/2304_minimum_path_cost_in_a_grid.ipynb) |
+| 2305 | [Fair Distribution of Cookies](https://leetcode.com/problems/fair-distribution-of-cookies/) | [2305_fair_distribution_of_cookies.ipynb](DSA/Medium/2305_fair_distribution_of_cookies.ipynb) |
+| 2310 | [Sum of Numbers With Units Digit K](https://leetcode.com/problems/sum-of-numbers-with-units-digit-k/) | [2310_sum_of_numbers_with_units_digit_k.ipynb](DSA/Medium/2310_sum_of_numbers_with_units_digit_k.ipynb) |
+| 2311 | [Longest Binary Subsequence Less Than or Equal to K](https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/) | [2311_longest_binary_subsequence_less_than_or_equal_to_k.ipynb](DSA/Medium/2311_longest_binary_subsequence_less_than_or_equal_to_k.ipynb) |
+| 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | [2316_count_unreachable_pairs_of_nodes_in_an_undirected_graph.ipynb](DSA/Medium/2316_count_unreachable_pairs_of_nodes_in_an_undirected_graph.ipynb) |
+| 2317 | [Maximum XOR After Operations](https://leetcode.com/problems/maximum-xor-after-operations/) | [2317_maximum_xor_after_operations.ipynb](DSA/Medium/2317_maximum_xor_after_operations.ipynb) |
+| 2320 | [Count Number of Ways to Place Houses](https://leetcode.com/problems/count-number-of-ways-to-place-houses/) | [2320_count_number_of_ways_to_place_houses.ipynb](DSA/Medium/2320_count_number_of_ways_to_place_houses.ipynb) |
+| 2323 | [Find Minimum Time to Finish All Jobs II](https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs-ii/) | [2323_find_minimum_time_to_finish_all_jobs_ii.ipynb](DSA/Medium/2323_find_minimum_time_to_finish_all_jobs_ii.ipynb) |
+| 2326 | [Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv/) | [2326_spiral_matrix_iv.ipynb](DSA/Medium/2326_spiral_matrix_iv.ipynb) |
+| 2327 | [Number of People Aware of a Secret](https://leetcode.com/problems/number-of-people-aware-of-a-secret/) | [2327_number_of_people_aware_of_a_secret.ipynb](DSA/Medium/2327_number_of_people_aware_of_a_secret.ipynb) |
+| 2330 | [Valid Palindrome IV](https://leetcode.com/problems/valid-palindrome-iv/) | [2330_valid_palindrome_iv.ipynb](DSA/Medium/2330_valid_palindrome_iv.ipynb) |
+| 2332 | [The Latest Time to Catch a Bus](https://leetcode.com/problems/the-latest-time-to-catch-a-bus/) | [2332_the_latest_time_to_catch_a_bus.ipynb](DSA/Medium/2332_the_latest_time_to_catch_a_bus.ipynb) |
+| 2333 | [Minimum Sum of Squared Difference](https://leetcode.com/problems/minimum-sum-of-squared-difference/) | [2333_minimum_sum_of_squared_difference.ipynb](DSA/Medium/2333_minimum_sum_of_squared_difference.ipynb) |
 | 4044 | [Count Good Cyclic Rotations](https://leetcode.com/problems/count-good-cyclic-rotations/) | [4044_count_good_cyclic_rotations.ipynb](DSA/Medium/4044_count_good_cyclic_rotations.ipynb) |
 | 4045 | [Count Robot Groups](https://leetcode.com/problems/count-robot-groups/) | [4045_count_robot_groups.ipynb](DSA/Medium/4045_count_robot_groups.ipynb) |
 | 4049 | [Count Values With Equally Spaced Occurrences II](https://leetcode.com/problems/count-values-with-equally-spaced-occurrences-ii/) | [4049_count_values_with_equally_spaced_occurrences_ii.ipynb](DSA/Medium/4049_count_values_with_equally_spaced_occurrences_ii.ipynb) |
