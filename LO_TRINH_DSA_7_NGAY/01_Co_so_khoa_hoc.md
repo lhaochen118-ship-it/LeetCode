@@ -2,7 +2,7 @@
 
 > Bước 2 của dự án "Lộ trình DSA 7 ngày dựa trên khoa học thần kinh". Nguồn bài tập: kho notebook trong repo này
 > (danh mục 3.711 bài DSA). Tài liệu này chỉ làm phần nghiên cứu: cơ chế học, đánh giá phương pháp, các lộ trình
-> tham khảo, rồi ghép thành một hệ thống học dùng cho Bước 3–6 (bản đồ kiến thức, chọn bài, lịch 7 ngày, kiểm tra).
+> tham khảo, rồi ghép thành một hệ thống học dùng cho Phần 2–5 (bản đồ kiến thức, danh sách bài, lịch 7 ngày, ôn tập và kiểm tra).
 >
 > Quy ước đọc hiệu ứng: **d / g** là chênh lệch giữa nhóm áp dụng phương pháp và nhóm đối chứng, đo bằng độ lệch chuẩn.
 > 0,2 là nhỏ, 0,5 là trung bình, 0,8 là lớn. Ví dụ g = 0,5 nghĩa là người học trung bình nhảy từ phân vị 50 lên khoảng phân vị 69.
@@ -24,7 +24,7 @@
    chuyên môn).
 5. **Một bài đại diện là chưa đủ để hình thành schema.** Nghiên cứu về chuyển giao loại suy (Gick & Holyoak 1983; Alfieri và
    cộng sự 2013) cho thấy **so sánh hai bài cùng bản chất nhưng khác bề ngoài** tạo ra schema tốt hơn hẳn so với học kỹ một bài.
-   Vì vậy đơn vị chọn bài ở Bước 3 sẽ là **bộ ba: bài Neo + bài Đồng cấu + bài Đối chứng** (bài trông giống nhưng phải giải khác).
+   Vì vậy đơn vị chọn bài ở Phần 3 sẽ là **bộ ba: bài Neo + bài Đồng cấu + bài Đối chứng** (bài trông giống nhưng phải giải khác).
 6. **Giấc ngủ là một phần của quá trình học, không phải thời gian bị mất.** Thức trắng làm giảm khả năng ghi nhớ cái mới. Giấc
    ngủ sau buổi học củng cố kỹ năng và có thể giúp "ngộ" ra quy luật.
 7. **Mục tiêu thật sự của 7 ngày**: xây khoảng 25–30 schema (khuôn mẫu tư duy) cho các dạng bài, kèm một "chỉ mục nhận diện"
@@ -283,7 +283,7 @@ cho kết quả tốt hơn. **Hệ quả:** lộ trình phải có tiêu chí đ
   - **Đối chứng:** *bề ngoài giống*, bản chất khác. Ví dụ *209. Minimum Size Subarray Sum* (số dương → cửa sổ trượt được) ↔
     *560. Subarray Sum Equals K* (có số âm → cửa sổ trượt sai, phải dùng prefix sum + hash map). Bài đối chứng dạy **ranh giới
     áp dụng**, đúng thứ mà kỹ năng nhận diện cần.
-  - Bước 3 sẽ chọn bài theo cấu trúc này. Các bài tương tự khác chỉ được thêm khi chúng dạy một *biến thể* hoặc *ghép* mới.
+  - Phần 3 sẽ chọn bài theo cấu trúc này. Các bài tương tự khác chỉ được thêm khi chúng dạy một *biến thể* hoặc *ghép* mới.
 
 ### 3.9. Thử trước khi học, tạo sinh, thất bại có ích — Hạng B
 
@@ -385,7 +385,7 @@ cho kết quả tốt hơn. **Hệ quả:** lộ trình phải có tiêu chí đ
 |---|---|---|---|
 | **Ultralearning** (Scott Young 2019; thử thách tự học chương trình khoa học máy tính MIT trong khoảng 1 năm) | Metalearning, tập trung, *trực tiếp* (luyện đúng kỹ năng đích), *drill* điểm yếu, truy xuất, phản hồi, ghi nhớ, trực giác, thử nghiệm | Trực tiếp ≈ xử lý phù hợp với hình thức kiểm tra; drill ≈ luyện từng phần trong 4C/ID; truy xuất ≈ testing effect | Chu trình "giải bài thật → tìm điểm yếu → drill → quay lại bài thật" |
 | **The First 20 Hours** (Josh Kaufman 2013) | Phân rã kỹ năng, học vừa đủ để tự sửa sai, loại bỏ rào cản, luyện ≥ 20 giờ | Phân rã ≈ phân tích nhiệm vụ; tự sửa sai ≈ phản hồi | Chuẩn bị môi trường trước ngày 1 (editor, tài khoản LeetCode, mẫu thẻ ghi nhớ) |
-| **DiSSS** (Tim Ferriss 2012) | Phân rã, chọn lọc 80/20, sắp thứ tự, đặt cược | Chọn lọc ≈ ưu tiên tri thức có tần suất cao | Lọc kiến thức theo tần suất xuất hiện trong 3.711 bài (Bước 3) |
+| **DiSSS** (Tim Ferriss 2012) | Phân rã, chọn lọc 80/20, sắp thứ tự, đặt cược | Chọn lọc ≈ ưu tiên tri thức có tần suất cao | Lọc kiến thức theo tần suất xuất hiện trong 3.711 bài (Phần 2–3) |
 | **A Mind for Numbers** (Barbara Oakley 2014) | Chế độ "tập trung" và "lan tỏa", chunking, tự kiểm tra | "Lan tỏa" ≈ ấp ủ (d ≈ 0,29); chunking ≈ Chase & Simon | Luân phiên tập trung sâu và nghỉ nhẹ khi bế tắc |
 
 ### 5.2. Mô hình thiết kế giảng dạy cho kỹ năng phức tạp
@@ -408,7 +408,7 @@ cho kết quả tốt hơn. **Hệ quả:** lộ trình phải có tiêu chí đ
 | Lĩnh vực | Cách chuyên gia được đào tạo | Ánh xạ sang DSA |
 |---|---|---|
 | **Cờ vua** | Học các motif chiến thuật (đòn chĩa, ghim…) qua rất nhiều bài tập ngắn, phân tích ván của kiện tướng. Chunking (Chase & Simon 1973; Gobet 2001) | Motif ↔ dạng bài; bài tập chiến thuật ↔ "plan-only" (nhận dạng nhanh) |
-| **Toán** | Pólya (1945): hiểu đề → lập kế hoạch → thực hiện → nhìn lại. Schoenfeld (1985): người giỏi dành thời gian *phân tích và giám sát*, người mới lao vào tính ngay. Xen kẽ bài (Rohrer) | Quy trình 4 bước cố định cho mọi bài (Phần 5), đặc biệt bước "nhìn lại": liên hệ với schema nào |
+| **Toán** | Pólya (1945): hiểu đề → lập kế hoạch → thực hiện → nhìn lại. Schoenfeld (1985): người giỏi dành thời gian *phân tích và giám sát*, người mới lao vào tính ngay. Xen kẽ bài (Rohrer) | Quy trình 4 bước cố định cho mọi bài (dùng trong Phần 4–5), đặc biệt bước "nhìn lại": liên hệ với schema nào |
 | **Vật lý** | Phân loại theo nguyên lý (Chi 1981) | Bài tập *phân loại đề* (không giải) theo dạng, có xen kẽ |
 | **Lập trình** | Programming plans (Soloway & Ehrlich 1984); lần vết rồi mới viết (Lister, Lopez); nhãn mục tiêu con (Margulieux); bài Parsons (Ericson) | Khung code có nhãn mục tiêu con; lần vết bằng tay; Parsons để khởi động |
 
@@ -524,7 +524,7 @@ sau khi giải xong hoặc khi đã lên bậc gợi ý 3".
   cho cùng một schema trong khoảng 1,5–2 giờ.
 - **Ước lượng phân bổ:** khoảng 26–30 schema × trung bình 1,5 giờ ≈ 40–44 giờ; bài Ghép (Hard mở đầu) ≈ 6–8 giờ; thi thử và kiểm
   tra tổng ≈ 5–6 giờ. Tổng ≈ 52–58 giờ, **vừa khít ngân sách**.
-- **Ràng buộc chuyển cho Bước 3:** khoảng **25–30 schema**, khoảng **70–100 bài** tổng cộng (khoảng 30 Neo, Đồng cấu/Đối chứng
+- **Ràng buộc chuyển cho Phần 2–3:** khoảng **25–30 schema**, khoảng **70–100 bài** tổng cộng (khoảng 30 Neo, Đồng cấu/Đối chứng
   dùng chung khi có thể, 8–12 bài Ghép). Một phần đáng kể bài trong bộ trộn làm ở mức plan-only. Schema nhỏ (hash map, prefix sum)
   khoảng 45–60 phút; schema lớn (DP, đồ thị) 3–4 giờ, chia cho nhiều ngày.
 
@@ -563,7 +563,7 @@ Repo có các notebook tiếng Việt giảng giải từng bài: hiện có 2.4
 4. **Đóng notebook rồi viết lại từ trang trắng.** Không chép.
 5. **Không bao giờ "ôn" bằng cách đọc lại notebook.** Ôn bằng truy xuất.
 
-*Ghi chú cho Bước 3:* một số bài Medium và Hard được chọn có thể chưa có notebook. Bước 3 sẽ đánh dấu những bài này.
+*Ghi chú cho Phần 3:* một số bài Medium và Hard được chọn có thể chưa có notebook. Phần 3 sẽ đánh dấu những bài này.
 
 ---
 
@@ -578,11 +578,11 @@ Repo có các notebook tiếng Việt giảng giải từng bài: hiện có 2.4
 | Lời giải mẫu + giảm dần hỗ trợ | Notebook repo → bài Đồng cấu độc lập; đảo thứ tự từ ngày 4 | Bước 2 của chu trình; tỉ lệ ở mục 6.4 |
 | Tự giải thích | 5 câu hỏi cố định; giải thích lại bằng lời | Bước 2 và Khối 6 |
 | Nhãn mục tiêu con | Khung code chia bước có tên | Thẻ Schema; bước 3 của chu trình |
-| So sánh loại suy / đối chứng | Bộ ba Neo – Đồng cấu – Đối chứng; viết "điểm chung / khác biệt" | Bước 4–5 của chu trình; tiêu chí chọn bài ở Bước 3 |
+| So sánh loại suy / đối chứng | Bộ ba Neo – Đồng cấu – Đối chứng; viết "điểm chung / khác biệt" | Bước 4–5 của chu trình; tiêu chí chọn bài ở Phần 3 |
 | Thử trước | Brute force 10–15'; đọc đề Neo tối hôm trước | Bước 1 của chu trình; cuối Khối 6 |
 | Lần vết → giải thích → viết | Vẽ trạng thái trên input nhỏ trước khi code; bài Parsons | Bước 2; Khối R |
 | Luyện có chủ đích | Sổ lỗi 5 loại → drill | Khối 4 |
-| Học đến thành thạo + gợi ý theo bước | Cổng chuyển tiếp; thang gợi ý 0–4 | Mọi bài; thứ tự phụ thuộc ở Bước 4 |
+| Học đến thành thạo + gợi ý theo bước | Cổng chuyển tiếp; thang gợi ý 0–4 | Mọi bài; thứ tự phụ thuộc ở Phần 2 |
 | Mã hóa kép | Một hình chuẩn cho mỗi schema | Thẻ Schema |
 | Ngủ, vận động, nghỉ, ấp ủ | 7,5–9 giờ ngủ; vận động sáng; nghỉ sau khối; quy tắc kẹt 25–30' | Khung ngày (mục 6.4) |
 
@@ -590,11 +590,11 @@ Repo có các notebook tiếng Việt giảng giải từng bài: hiện có 2.4
 
 ## 8. Hệ quả cho các bước tiếp theo
 
-- **Bước 3 – Bản đồ kiến thức:** sắp xếp khoảng 25–30 schema theo đồ thị phụ thuộc. Gom các "cặp dễ nhầm" để lên kế hoạch xen kẽ.
-- **Bước 4 – Chọn bài:** chọn theo **bộ ba Neo / Đồng cấu / Đối chứng + bài Ghép**. Tiêu chí phụ: tính kinh điển, ghép được
+- **Phần 2 – Bản đồ kiến thức:** sắp xếp khoảng 25–30 schema theo đồ thị phụ thuộc. Gom các "cặp dễ nhầm" để lên kế hoạch xen kẽ.
+- **Phần 3 – Danh sách bài trọng điểm:** chọn theo **bộ ba Neo / Đồng cấu / Đối chứng + bài Ghép**. Tiêu chí phụ: tính kinh điển, ghép được
   nhiều kỹ thuật, có notebook trong repo, độ khó vừa sức theo ngày. Phân tích 3.711 bài để kiểm tra độ bao phủ.
-- **Bước 5 – Lịch 7 ngày:** đặt schema vào các khối theo mục 6.4. Tuân thủ lịch giãn cách 6.5 và ngân sách 6.6.
-- **Bước 6 – Kiểm tra:** cụ thể hóa các cổng (6.7), bài kiểm tra có độ trễ, đề thi thử xen kẽ ngày 7, lịch duy trì ngày 14 và 30.
+- **Phần 4 – Lộ trình chi tiết 7 ngày:** đặt schema vào các khối theo mục 6.4. Tuân thủ lịch giãn cách 6.5 và ngân sách 6.6.
+- **Phần 5 – Ôn tập và kiểm tra:** cụ thể hóa các cổng (6.7), bài kiểm tra có độ trễ, đề thi thử xen kẽ ngày 7, lịch duy trì ngày 14 và 30.
 
 ---
 
